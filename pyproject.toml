@@ -1,0 +1,18 @@
+[project]
+name = "sportsbook-ml"
+version = "0.1.0"
+description = "ML pipeline for sports betting (educational)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "xgboost",
+  "statsmodels",
+  "matplotlib",
+  "mlflow",
+]
+
+[tool.black]
+line-length = 100
