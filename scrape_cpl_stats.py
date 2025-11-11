@@ -35,7 +35,7 @@ for team_entry in data["teams"]:
     rows.append(team_dict)
 
 df = pd.DataFrame(rows)
-df.to_csv("2025_canpl_team_stats.csv", index=False)
+df.to_csv("data/2025_canpl_team_stats.csv", index=False)
 
 print(f"Saved {len(df)} teams to canpl_team_stats.csv")
 print(df.head())
