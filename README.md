@@ -1,6 +1,6 @@
 # SPORTS ARBITRAGE MACHINE LEARNING PROGRAM
 
-# Target Market: Candian Premier Leeague (Additional smaller makrkets after successfull implementation)
+# Target Market: Candian Premier League (Additional smaller makrkets after successfull implementation)
     - Moneyline
     - Over / Under
     - First half / Second half

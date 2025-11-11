@@ -10,7 +10,7 @@
 
     Unkown Errors:
 
-# data/interim/ 
+# data/external/ 
     Purpose: lightly cleaned tables (one row per match, one per odds snapshot, etc.) for now.
 
     Complete files:
@@ -28,27 +28,9 @@
 
     Unkown Errors:
 
+# src/
 
-# src/sportsbook_ml/ 
     Purpose: reusable code (feature builders, Elo, eval).
-
-    Complete files:
-
-    Incomplete Files:
-
-    Unkown Errors:
-
-# scripts/ 
-    Purpose: command-line entrypoints you run (ingest, train, backtest).
-
-    Complete files:
-
-    Incomplete Files:
-
-    Unkown Errors:
-
-# artifacts/ 
-    Purpose: outputs (OOF preds, bankroll curves).
 
     Complete files:
 
@@ -65,3 +47,11 @@
     Incomplete Files:
 
     Unkown Errors:
+
+# models/
+
+
+# reports/
+
+
+# README.md
