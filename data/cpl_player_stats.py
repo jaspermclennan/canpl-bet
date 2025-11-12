@@ -68,17 +68,18 @@ def flatten_player(p):
             row[abbr] = stat["statsValue"]
     return row
 
+all_rows = []
+
 for season_id in season_ids:
+    season_year = season_id.split("::")[-1][:4]  # crude year extraction
     for role in roles:
-        try:
-            players = fetch_all_players(season_id, role)
-        except requests.exceptions.HTTPError as e:
-            print(f"Error fetching {role} for season {season_id}: {e}")
-            continue
-        flat = [flatten_player(p) for p in players]
-        df = pd.DataFrame(flat)
-        # Extract a year from the season ID if you need it
-        season_year = season_id.split("::")[-1][:4]
-        outfile = f"players_{season_year}_{role}.csv"
-        df.to_csv(outfile, index=False)
-        print(f"Saved {len(df)} rows to {outfile}")
+        players = fetch_all_players(season_id, role)
+        for p in players:
+            row = flatten_player(p)
+            row["season"] = season_year   # or use season_id
+            row["role"] = role            # e.g. goalkeeper/defender
+            all_rows.append(row)
+
+df = pd.DataFrame(all_rows)
+df.to_csv("cpl_players_combined.csv", index=False)
+print(f"Saved {len(df)} rows to cpl_players_combined.csv")
