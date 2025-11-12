@@ -1,0 +1,13 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::23c92ceb8bee415a886f16e93c507c65,M. Carducci,Cavalry,Goalkeeper,25,2250,0,0,0,0,0,0,0,1,6,0,1,0,66,0.68,0
+cpl::Football_Player::73977448c290436b91cca653ba3a2c13,J. Williams,Wanderers,Goalkeeper,12,1028,0,0,0,0,0,0,0,1,2,0,1,1,68,1.66,0
+cpl::Football_Player::d7a3107cbc0c426399a5c65c18e39d14,N. Giantsopoulos,Vancouver FC,Goalkeeper,5,450,0,0,0,0,0,0,0,0,4,0,0,0,74,0.8,0
+cpl::Football_Player::7c054612559b45f2a7ef690616b61862,T. Henry,Forge,Goalkeeper,22,1980,0,0,0,0,0,0,0,1,8,0,3,0,71,0.77,0
+cpl::Football_Player::16b384ec036b4bccb9be3e98bf2b8088,M. Village,Pacific,Goalkeeper,16,1440,0,0,0,0,0,0,1,1,4,0,1,0,67,1.38,0
+cpl::Football_Player::7517829ba9bc4c5f89f19a60bcaa4cc8,D. Powley,Edmonton,Goalkeeper,6,540,0,0,0,0,0,0,0,0,1,0,0,0,62,1.5,0
+cpl::Football_Player::c838c44902a6469485723a328e0d5531,M. Silva,York,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,79,1.0,0
+cpl::Football_Player::7767100bdddf4f7caae2877d0d835da6,C. Vance,York,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,73,2.0,0
+cpl::Football_Player::1eb98b2bea804d4d8d782dc585fc4124,T. Farago,Valour,Goalkeeper,16,1440,0,0,0,0,0,0,0,0,3,0,0,0,57,1.88,0
+cpl::Football_Player::0665c6ea0ce84bd49b9ebba2cf80c8e2,N. Wirth,Pacific,Goalkeeper,12,1080,0,0,0,0,0,0,0,0,0,0,0,0,65,2.0,0
+cpl::Football_Player::0431bad1fa9344b085a6c56889ed82d1,Q. Roberts,Forge,Goalkeeper,8,720,0,0,0,0,0,0,1,0,2,0,0,0,72,1.12,0
+cpl::Football_Player::364352c812a14e868234e4883c9bd4e0,N. Ingham,Atlético,Goalkeeper,26,2340,0,0,0,0,0,0,0,0,13,0,0,0,72,1.31,0

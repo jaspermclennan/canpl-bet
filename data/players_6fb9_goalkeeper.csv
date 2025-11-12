@@ -1,0 +1,20 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::23c92ceb8bee415a886f16e93c507c65,M. Carducci,Cavalry,Goalkeeper,29,2610,0,1,0,1,0,1,1,1,4,0,1,0,75.0,0.93,100.0
+cpl::Football_Player::d3eccdc138364416ab9dd2b141d41e76,J. Holliday,Cavalry,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0
+cpl::Football_Player::3c3ac97f7b7447d6927f896cea388d2e,Y. Fillion,Wanderers,Goalkeeper,24,2160,0,0,0,0,0,0,0,1,3,0,9,0,73.0,1.5,100.0
+cpl::Football_Player::a86a1a3737bc4895b1340dc348ae5b09,S. Melvin,Pacific,Goalkeeper,7,609,0,0,0,0,0,0,0,0,0,0,0,0,73.0,1.48,100.0
+cpl::Football_Player::d7a3107cbc0c426399a5c65c18e39d14,N. Giantsopoulos,Vancouver FC,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,0.0
+cpl::Football_Player::ed004eacaca144bda4943965af890853,E. Gazdov,Montréal,Goalkeeper,21,1729,0,0,0,0,0,0,0,1,3,0,3,1,64.0,0.94,88.89
+cpl::Football_Player::ed6b655ed6bb4c7baedb0fe8fc42495d,C. Irving,Vancouver FC,Goalkeeper,28,2520,0,0,0,0,0,0,0,0,2,0,1,0,63.0,1.54,87.5
+cpl::Football_Player::3023352676954b56b16a0f7ca64bd877,D. Zadravec,Pacific,Goalkeeper,3,270,0,0,0,0,0,0,0,0,0,0,0,0,80.0,2.0,100.0
+cpl::Football_Player::d65b644d608b40dbb79ba6a0fb08d7f1,A. Rushenas,Wanderers,Goalkeeper,4,360,0,0,0,0,0,0,0,0,1,0,0,0,79.0,1.75,0.0
+cpl::Football_Player::bf9d7c043957457e9e346f393e66152f,T. Vincensini,York,Goalkeeper,30,2730,0,0,1,0,0,0,2,1,3,0,4,0,76.0,1.25,100.0
+cpl::Football_Player::0a71cc5786ac4cb6a42caa6d849c2129,C. Kalongo,Forge,Goalkeeper,14,1260,0,0,0,0,0,0,0,0,5,0,1,0,77.0,1.29,83.33
+cpl::Football_Player::655a241e039a4965b7f38990c3f8d981,E. Himaras,Valour,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0
+cpl::Football_Player::364352c812a14e868234e4883c9bd4e0,N. Ingham,Atlético,Goalkeeper,22,2010,0,0,1,0,1,0,0,0,1,0,2,0,75.0,1.07,100.0
+cpl::Football_Player::72e65d5165df41d198c80f48acb6e327,D. Murasiranwa,Valour,Goalkeeper,3,234,0,0,0,0,0,0,0,0,1,0,1,0,60.0,1.54,100.0
+cpl::Football_Player::95c5a896975b488cb559f52bde46d3d4,R. Yesli,Wanderers,Goalkeeper,8,720,0,0,0,0,0,0,0,0,0,0,2,0,76.0,1.25,100.0
+cpl::Football_Player::d4b7a9bbb2bb49f89ab93024813fb926,J. Viscosi,Valour,Goalkeeper,26,2286,0,0,0,0,0,0,0,5,2,0,4,0,57.0,1.5,87.5
+cpl::Football_Player::0b10dc469e84486cbf18d636e3bc635e,J. Koleilat,Forge,Goalkeeper,17,1530,0,0,0,0,0,0,0,0,3,0,1,0,81.0,0.94,87.5
+cpl::Football_Player::3fe556ac24fd4748b30189a2bc007f20,D. Bontis,Forge,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0
+cpl::Football_Player::9c2fb41ece0d4ac7902f5799c23556f4,M. Williams,York,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,0.0

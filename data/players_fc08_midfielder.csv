@@ -1,0 +1,56 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::83cede75122b41d0aad420f4fb5daf2e,J. Daley,Cavalry,Midfielder,27,2019,0,5,15,0,2,5,44,45,32,0,12,0,82,0.94,0
+cpl::Football_Player::423863e33e8f4745b70e6092f11a184d,B. Fisk,Vancouver FC,Midfielder,17,486,1,2,7,0,3,2,3,5,7,2,1,0,85,1.67,0
+cpl::Football_Player::d3d6fda71a9e4981abbb1d3785bc0dee,C. Trafford,Cavalry,Midfielder,28,2031,0,1,19,0,6,1,33,41,56,0,9,0,88,1.11,0
+cpl::Football_Player::64ff8ebb61c74060b52ab17341495a05,M. Ferrin,York,Midfielder,26,2276,8,3,46,0,24,3,16,27,61,7,2,0,84,1.07,0
+cpl::Football_Player::0f32aad5bf304f70bb295ab41b41b4d9,M. Henry,Cavalry,Midfielder,18,682,2,0,11,0,4,0,11,18,22,1,1,0,80,0.4,0
+cpl::Football_Player::6aa0420a7a3448a49b34c863c5b11ce4,N. Myroniuk,Cavalry,Midfielder,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0
+cpl::Football_Player::aa04c836bb59425c85469387082f8d56,N. Gyimah,Vancouver FC,Midfielder,11,251,0,0,5,0,2,0,9,10,8,1,4,0,58,1.08,0
+cpl::Football_Player::6f78048ef6fe4d51aa66aa87e5fbf0c5,A. Daniels,Pacific,Midfielder,29,1885,3,5,21,0,9,5,21,19,31,0,2,0,88,1.05,0
+cpl::Football_Player::faefaad76b26402c9854af3aab596d16,M. Omar,Wanderers,Midfielder,26,1558,0,0,5,0,2,0,31,24,44,0,4,0,92,1.33,0
+cpl::Football_Player::4706f743c2cf40c992e6d3dcba4d4eff,N. Moazeni Zadeh,Vancouver FC,Midfielder,13,836,0,0,4,0,1,0,14,16,5,0,4,0,79,1.4,0
+cpl::Football_Player::5e944a82a82b42b483bed288bb7633a8,M. Aparicio,Atlético,Midfielder,27,2316,4,5,45,0,18,5,36,40,32,2,5,0,82,1.09,0
+cpl::Football_Player::47690253116d4e34ac0d075eb36df3b3,T. Giraldo,Wanderers,Midfielder,19,814,2,0,12,0,5,0,15,22,9,1,2,0,70,1.0,0
+cpl::Football_Player::3aa93b6a47f24dd59a4d50f71ae926d5,M. Cantave,Vancouver FC,Midfielder,26,1643,6,2,26,0,15,2,18,31,28,2,3,0,82,1.75,0
+cpl::Football_Player::6a778700603244eeabcce04c59c6ccc0,A. Hojabrpour,Forge,Midfielder,24,1610,1,0,12,0,1,0,28,17,14,0,4,0,90,1.06,0
+cpl::Football_Player::9a6571b3737143b79989244b08fbd50d,S. Camargo,Cavalry,Midfielder,28,1651,6,2,24,0,11,2,10,17,28,1,6,0,81,0.98,0
+cpl::Football_Player::fd8128d359f64c5180b7115c46766e93,T. Esprit,York,Midfielder,11,373,0,0,0,0,0,0,8,8,10,0,1,0,83,2.17,0
+cpl::Football_Player::f52a8b692a56475c9c08c17236a42e86,S. Shome,Cavalry,Midfielder,20,1395,0,1,4,0,0,1,20,19,18,1,1,0,82,0.97,0
+cpl::Football_Player::25edf8435cd445dfbfb5185b259ca0cf,V. Fry,Vancouver FC,Midfielder,10,868,1,1,5,0,2,1,11,35,13,1,6,0,80,1.76,0
+cpl::Football_Player::d4dbf5aa0a9e4f1fb721f6cfcc1db14f,I. Mejía,TSS Rovers,Midfielder,1,11,0,0,0,0,0,0,0,0,0,0,0,0,63,0.0,0
+cpl::Football_Player::03b82a7bcff7496e991befe586fcc2c9,S. Young,Pacific,Midfielder,29,2175,4,3,24,0,13,3,39,25,24,1,6,1,80,1.16,0
+cpl::Football_Player::8eb11a313b2348b888a9b1799feba47c,S. Yeates,York,Midfielder,29,1693,1,2,20,0,9,2,14,24,17,0,3,0,88,1.22,0
+cpl::Football_Player::ad84db4f538d40f0b2ef200c7a5ed403,Renan Garcia,Vancouver FC,Midfielder,14,1257,1,1,14,0,7,1,26,20,16,0,2,0,82,1.93,0
+cpl::Football_Player::6bda12878690489697b20b110e311ad1,E. Simmons,Vancouver FC,Midfielder,25,1832,0,1,2,0,1,1,29,14,4,0,3,0,84,1.72,0
+cpl::Football_Player::33b0cf3a477d454f96fe4f14c3b6125c,A. Achinioti-Jönsson,Forge,Midfielder,29,2399,0,0,12,0,6,0,22,21,41,1,2,0,87,1.09,0
+cpl::Football_Player::8478206db8304d6487d404b1b5dd322c,Gabriel Antinoro,Atlético,Midfielder,23,720,2,0,9,0,5,0,16,16,9,0,3,0,73,2.38,0
+cpl::Football_Player::b78b9cf10b374d23824749c6e410990c,E. Adekugbe,York,Midfielder,15,562,0,0,2,0,0,0,7,11,10,0,3,0,87,2.24,0
+cpl::Football_Player::edcf64e77c8c4771af573d1d441cc470,C. Toussaint,Pacific,Midfielder,26,1744,0,1,16,0,4,1,33,46,39,0,10,0,85,1.19,0
+cpl::Football_Player::edcfdeb0583a4f25b44f57a7e66b2d6d,L. Callegari,Wanderers,Midfielder,27,2415,0,6,15,0,5,6,44,52,32,1,8,0,88,1.08,0
+cpl::Football_Player::d97bc9c5cbf949d2be064c01af740715,C. Watson,Wanderers,Midfielder,25,1147,3,1,19,0,10,1,9,16,19,5,3,1,85,1.18,0
+cpl::Football_Player::0e2b6aa5fbdf49f399441b22b356d14c,K. Bekker,Forge,Midfielder,28,2331,4,8,40,0,17,8,9,17,23,0,2,0,86,1.16,0
+cpl::Football_Player::bcd2bd431fea40f2ad5e2cd7d95bef32,A. Sissoko,Atlético,Midfielder,27,1349,2,1,22,0,10,1,14,23,39,2,6,0,82,1.33,0
+cpl::Football_Player::ea993e84d28d42ad8bdef8cff90110c3,J. Gagnon-Laparé,Wanderers,Midfielder,22,1411,0,5,4,0,1,5,30,25,23,0,7,0,89,1.79,0
+cpl::Football_Player::06a2eff249fd4320a2c4753d25ea5f0f,M. Polisi,Valour,Midfielder,22,1912,1,0,8,0,2,0,40,33,32,0,4,0,86,1.41,0
+cpl::Football_Player::88ac022bf06149f1be2ce2ab7f3c087c,Z. Verhoven,Vancouver FC,Midfielder,22,768,3,2,14,0,7,2,17,24,11,3,4,0,78,1.29,0
+cpl::Football_Player::3c3cd8920062442f93c9e257f9d44111,N. Jensen,Forge,Midfielder,23,1082,1,1,19,0,5,1,7,12,18,1,2,0,85,1.0,0
+cpl::Football_Player::d80c8273244649a0841591e849fc3590,D. Gutiérrez,Cavalry,Midfielder,25,2113,4,1,21,0,8,1,30,30,20,0,7,0,87,1.36,0
+cpl::Football_Player::a4d26a57d62040df8359a9bc96b1db67,D. Campbell,Valour,Midfielder,25,2165,1,1,8,0,3,1,42,40,50,0,9,0,82,1.25,0
+cpl::Football_Player::e512d7955b56480a81777677f3985c3b,K. Martin-Pereux,York,Midfielder,6,317,0,2,1,0,0,2,3,5,2,0,1,0,81,1.7,0
+cpl::Football_Player::1bd0dbfb79774479a33b21e4bc153680,C. Haworth,Ottawa Fury,Midfielder,17,647,3,4,9,0,7,4,5,9,15,3,2,0,75,1.67,0
+cpl::Football_Player::e062e50eb3404d07b682bf9855e3a980,Alberto Zapater,Atlético,Midfielder,16,1395,0,0,1,0,0,0,31,12,13,0,3,0,85,1.03,0
+cpl::Football_Player::921e4a14fc0748d5b1160d54caf93c23,A. Sacko,Atlético,Midfielder,9,438,0,0,6,0,4,0,9,9,4,1,2,0,79,1.64,0
+cpl::Football_Player::6fcfea80844a4cf19b5492d7fc111116,K. Williams,Valour,Midfielder,23,1937,4,5,38,0,17,5,11,28,26,21,3,0,77,1.35,0
+cpl::Football_Player::4351cc0a7b0b41b0932bec33949a8b6a,J. Sanchez,Valour,Midfielder,21,1256,0,0,8,0,4,0,18,11,5,2,1,0,86,1.0,0
+cpl::Football_Player::5f6abde4c0ad4d25a0b828c3ff4f800c,N. St. Louis,Vancouver FC,Midfielder,4,71,0,0,1,0,0,0,2,1,1,0,0,0,64,2.54,0
+cpl::Football_Player::82ff8e880ba54f74a34fe1f8165f3b46,Matthew Baldisimo,York,Midfielder,16,889,1,0,6,0,3,0,20,16,10,0,4,1,88,1.01,0
+cpl::Football_Player::304cff4b86fa4b259f62961085210ca2,A. Wilson,Wanderers,Midfielder,11,336,1,0,2,0,1,0,4,5,9,0,3,0,81,1.07,0
+cpl::Football_Player::c0ae1ca6360b41c6ad94f45a8b50a872,T. Crawford,Vancouver FC,Midfielder,23,1318,0,0,3,0,1,0,22,4,9,0,0,0,75,1.91,0
+cpl::Football_Player::9a040c91c1d2424ca095e663faf5075a,K. Kane,Forge,Midfielder,16,518,0,0,7,0,1,0,10,12,7,1,2,0,86,1.74,0
+cpl::Football_Player::55a8a1aea5f543dbaac3bf7112ad867b,Z. Bahous,Pacific,Midfielder,18,783,1,0,10,0,5,0,26,12,10,2,1,0,81,1.49,0
+cpl::Football_Player::c82c8c9fc952454c80e3c45a6f9c883d,K. Rendón,Valour,Midfielder,8,136,0,0,1,0,1,0,2,2,2,0,1,0,66,1.32,0
+cpl::Football_Player::a2d59a105ffa40e592a486e9b62e55b0,M. Voytsekhovskyi,York,Midfielder,7,167,1,0,3,0,2,0,1,0,5,1,0,0,74,2.16,0
+cpl::Football_Player::3cdc55010c114c4ab03d858ecfa80713,B. Soumaoro,York,Midfielder,25,2010,2,1,9,0,3,1,46,42,27,2,6,0,88,1.34,0
+cpl::Football_Player::4aaee5db17ba48859051daf2523b6845,I. Iliadis,Atlético,Midfielder,12,886,1,0,12,0,8,0,19,22,8,1,4,0,78,0.91,0
+cpl::Football_Player::eae44bc0cb2c42dd86f566cebebbf690,O. Bassett,Atlético,Midfielder,27,2329,11,3,40,0,20,3,18,22,16,6,3,0,81,1.2,0
+cpl::Football_Player::0193e9b2803b43938a676ad9232cede8,N. Verhoeven,Atlético,Midfielder,25,1323,1,2,7,0,2,2,22,25,23,1,2,0,84,1.36,0

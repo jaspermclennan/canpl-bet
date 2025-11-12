@@ -1,0 +1,50 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::5689e826363240e892378a5cd52e5101,N. Wähling,Cavalry,Forward,14,874,0,0,11,0,4,0,4,15,7,5,0,0,79.0,1.03,31.03
+cpl::Football_Player::6b48ced0357d4fd4a50e8ba77b6784d8,T. Warschewski,Cavalry,Forward,26,2060,14,3,69,17,35,3,20,18,57,5,3,0,75.0,0.87,52.89
+cpl::Football_Player::0b3c2dfa6c324a4f9203996ab6e6181b,J. Herdman,Cavalry,Forward,8,401,1,1,6,2,4,1,5,13,10,1,2,0,81.0,0.9,33.33
+cpl::Football_Player::2d8cec65b1bb4b20872a91ac73584d29,A. Musse,Cavalry,Forward,18,1377,4,4,37,8,14,4,13,15,27,3,2,0,79.0,0.92,34.62
+cpl::Football_Player::cd1e9f98817545a8904ffd9556963f44,A. Díaz,Vancouver FC,Forward,28,2176,10,2,34,12,21,2,5,22,8,14,1,0,73.0,1.45,40.82
+cpl::Football_Player::1b99b171024743c4a0fb01eeea19478e,D. Zanatta,Pacific,Forward,25,1566,5,2,31,7,18,2,13,29,11,11,2,0,76.0,0.86,32.2
+cpl::Football_Player::5cfbd430bf3149adb654cadb7f68b7c2,L. Wright,TSS Rovers,Forward,12,386,1,0,8,1,6,0,3,8,8,1,0,0,75.0,0.47,26.32
+cpl::Football_Player::1ece129a4fee46d18322a9312200459f,A. Ricci,Vancouver FC,Forward,19,1020,4,2,28,6,16,2,6,24,11,3,6,1,70.0,1.68,30.0
+cpl::Football_Player::0fd02f7d64ca484bbfcbbf30c395f33b,R. Moore,Pacific,Forward,20,1072,3,2,20,5,11,2,6,23,11,8,2,1,76.0,1.43,38.67
+cpl::Football_Player::a63da4a535904f639ece3007ff800854,Gabriel Bitar,York,Forward,26,1794,4,2,32,6,12,2,20,36,26,1,2,0,79.0,1.4,18.18
+cpl::Football_Player::06a7cbbdbcac4641ac0ddc55b4c05117,M. Dyer,Vancouver FC,Forward,24,1964,8,1,47,9,20,1,10,32,50,10,8,0,71.0,1.56,44.64
+cpl::Football_Player::3a8819a7f06c45a38e951d42d8743025,M. Shaw,Cavalry,Forward,23,1043,1,1,21,2,7,1,9,24,20,5,1,0,74.0,1.21,34.04
+cpl::Football_Player::df0de20d12274b3d9549323a3547572b,J. Heard,Pacific,Forward,18,1138,1,0,13,1,5,0,8,19,30,11,5,0,78.0,1.19,29.41
+cpl::Football_Player::db08922169dd4965b34c10fd27536050,C. Vasconcelos,Wanderers,Forward,12,116,0,0,2,0,1,0,2,5,2,0,0,0,75.0,1.55,40.0
+cpl::Football_Player::e59631b9384648c1a9d3a057aabe9412,V. Klonaridis,Forge,Forward,3,78,0,1,0,1,0,1,0,0,1,0,0,0,86.0,2.31,0.0
+cpl::Football_Player::e9cd44c2190e4d57b7fec90bf7892145,T. Ciccarelli,Wanderers,Forward,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0,0.0
+cpl::Football_Player::dace44682e2f47b8bc651c8032e6e97d,T. Coimbra,Wanderers,Forward,20,796,4,1,21,5,9,1,4,10,4,12,3,1,59.0,1.58,61.54
+cpl::Football_Player::f35e8387775841209e2b83c588cc5c52,J. Hamilton,Forge,Forward,23,664,1,1,10,2,5,1,2,10,4,6,0,0,82.0,0.68,38.1
+cpl::Football_Player::1445e6a3753f48798c8bcc200069bdb6,A. Reid,York,Forward,19,674,0,2,10,2,6,2,9,21,15,3,3,0,74.0,1.2,26.67
+cpl::Football_Player::31115f5131a74426969fd8573af2d8b9,B. Wright,Forge,Forward,24,2058,9,6,33,15,16,6,7,15,25,12,1,0,66.0,1.18,46.53
+cpl::Football_Player::fe97daed88864e66a3ecc7ab9935be5d,C. Bayiha,Wanderers,Forward,22,1201,0,4,6,4,4,4,27,10,24,1,1,0,86.0,1.42,23.81
+cpl::Football_Player::25c007080f3c4ebda4720b2425467546,J. Guzmán,York,Forward,11,944,0,5,13,5,5,5,4,6,20,1,1,1,80.0,1.14,41.67
+cpl::Football_Player::02aa7947a974467ca35b62d0357226b4,S. Dzikowski,Vancouver FC,Forward,6,109,0,0,3,0,0,0,2,3,1,1,1,0,60.0,2.48,30.77
+cpl::Football_Player::aceae7c77e384a08a0b2e7147138d478,J. Navarro,Vancouver FC,Forward,7,208,0,0,1,0,0,0,1,3,2,1,1,0,57.0,1.73,40.0
+cpl::Football_Player::a96eb3025e23467ca33277ae9c86f369,S. Salter,Atlético,Forward,30,942,5,2,23,7,16,2,15,30,19,2,1,0,73.0,1.34,54.1
+cpl::Football_Player::3a40cda943824387943792e6a62fee0f,R. Telfer,Wanderers,Forward,23,1659,4,2,28,6,11,2,11,15,43,6,3,0,74.0,1.19,45.76
+cpl::Football_Player::a02919161811464a8411d7a898a68fff,L. Kwemi,Valour,Forward,14,409,0,1,6,1,4,1,11,9,7,0,2,0,73.0,1.1,22.22
+cpl::Football_Player::901d6c67f4fb4410a6035a929953e009,A. Koné,Forge,Forward,18,494,0,2,4,2,3,2,2,11,12,2,0,0,76.0,0.73,55.56
+cpl::Football_Player::ae23ee82dcf94e9a9bd025598913c845,A. Binate,Valour,Forward,27,1186,4,1,18,5,13,1,17,33,15,2,3,0,76.0,1.37,37.65
+cpl::Football_Player::41d0f411d33949359fd8e13884639ba0,B. Tabla,Atlético,Forward,30,1844,2,4,39,6,16,4,19,22,23,12,5,0,84.0,1.02,42.86
+cpl::Football_Player::0f153dc7081442a3bc20cd568ca71e39,W. Timóteo,Wanderers,Forward,21,1540,0,1,7,1,1,1,35,10,7,4,3,0,83.0,1.64,44.0
+cpl::Football_Player::7c7c78f8a9b24353a2c2418452327dab,Kévin Santos,Atlético,Forward,10,125,0,0,2,0,1,0,1,3,6,0,0,0,65.0,0.72,25.0
+cpl::Football_Player::a2bda4ee744a46f5ba2c6d64d47b4f9e,A. Sellouf,Cavalry,Forward,20,1202,4,0,15,4,11,0,8,6,24,1,0,0,82.0,1.27,37.5
+cpl::Football_Player::fe284e4b5b5e4e43a39bdaf803f2c79d,J. Swibel,Valour,Forward,28,2015,7,0,37,7,23,0,6,42,26,7,6,0,73.0,1.43,19.44
+cpl::Football_Player::99a91175ff8e476ca86125ecab87f00b,Mo Babouli,Forge,Forward,23,1938,7,2,34,9,18,2,17,22,35,7,3,0,79.0,1.02,31.58
+cpl::Football_Player::f5aec735953a459ba324940a2fc1411f,S. Jimoh,York,Forward,16,598,4,1,8,5,7,1,11,14,12,1,0,0,80.0,1.51,50.0
+cpl::Football_Player::4677d430ee38453e9a424d4e8c1cc96b,T. Borges,Forge,Forward,25,1821,8,6,40,14,21,6,28,19,26,8,8,0,84.0,1.09,15.38
+cpl::Football_Player::04cd976c461148d79ab8cafc0bf69c62,D. Choinière,Forge,Forward,30,2320,5,5,29,10,17,5,25,33,22,3,3,0,85.0,1.12,25.0
+cpl::Football_Player::c39cf7fa836f436d961ce8dbbf72dc90,N. Ampomah,Forge,Forward,17,938,2,2,28,4,15,2,5,32,9,8,6,0,74.0,0.67,12.5
+cpl::Football_Player::c5b37ec1e74c4854b88811fb9e271617,D. Salanović,York,Forward,11,538,2,0,5,2,2,0,4,7,2,1,3,0,79.0,1.34,33.33
+cpl::Football_Player::7605490b6ccd4ec881fe76b8f5e1999f,R. del Campo,Atlético,Forward,30,2265,12,2,61,14,27,2,6,30,34,16,5,0,74.0,1.15,35.94
+cpl::Football_Player::6fcf09933f254171a16a70196c61c7e0,O. Botello,York,Forward,26,1904,0,0,10,0,2,0,27,38,27,0,14,0,82.0,1.18,33.33
+cpl::Football_Player::0d635e29400f481397a6663825364631,S. Castello,Forge,Forward,2,41,0,0,0,0,0,0,1,2,2,1,0,0,75.0,0.0,0.0
+cpl::Football_Player::085026728fc94c60b6d02a13a0a4ee6f,J. Hanson,Valour,Forward,10,139,0,0,0,0,0,0,0,6,4,1,2,0,55.0,3.88,35.71
+cpl::Football_Player::37fbeb2979074ca7984fcf381abe8c12,D. O'Hea,Pacific,Forward,7,347,0,0,5,0,2,0,0,4,4,4,0,0,72.0,1.3,44.44
+cpl::Football_Player::982a96a792e04404805090a131cb95df,T. Campbell,Vancouver FC,Forward,8,309,0,0,4,0,3,0,2,0,3,2,0,0,71.0,0.87,22.22
+cpl::Football_Player::9577790c0cf54495843d303127992c4d,S. Hundal,Valour,Forward,27,1887,7,3,27,10,17,3,10,30,17,11,3,0,74.0,1.48,32.58
+cpl::Football_Player::2989b90b079449a0916022698aecc47b,B. Badibanga,Forge,Forward,25,1873,4,3,47,7,24,3,11,25,45,1,9,0,80.0,1.25,21.05
+cpl::Football_Player::1e2de1b3d9654cbe87321fe6e1f3837b,C. Chanda,Cavalry,Forward,7,47,0,0,0,0,0,0,1,2,2,1,1,0,77.0,0.0,60.0

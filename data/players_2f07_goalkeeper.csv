@@ -1,0 +1,20 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::23c92ceb8bee415a886f16e93c507c65,M. Carducci,Cavalry,Goalkeeper,25,2280,0,0,0,0,0,0,0,1,3,0,1,0,66.0,1.22,0
+cpl::Football_Player::1eb98b2bea804d4d8d782dc585fc4124,T. Farago,Valour,Goalkeeper,4,360,0,0,0,0,0,0,0,0,1,0,0,0,62.0,0.25,0
+cpl::Football_Player::f7b3dd095e88450ca085f9cf8a12f3b0,K. Baskett,Wanderers,Goalkeeper,10,900,0,0,0,0,0,0,0,0,3,0,2,0,64.0,1.1,0
+cpl::Football_Player::d3eccdc138364416ab9dd2b141d41e76,J. Holliday,Cavalry,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::72e65d5165df41d198c80f48acb6e327,D. Murasiranwa,Valour,Goalkeeper,5,431,0,0,0,0,0,0,0,1,0,0,0,0,47.0,1.04,0
+cpl::Football_Player::7c054612559b45f2a7ef690616b61862,T. Henry,Forge,Goalkeeper,24,2160,0,0,0,0,0,0,0,1,11,0,5,0,80.0,0.92,0
+cpl::Football_Player::c838c44902a6469485723a328e0d5531,M. Silva,York,Goalkeeper,4,360,0,0,0,0,0,0,0,0,2,0,0,0,66.0,1.25,0
+cpl::Football_Player::364352c812a14e868234e4883c9bd4e0,N. Ingham,Atlético,Goalkeeper,22,1900,0,0,0,0,0,0,1,0,3,0,0,0,66.0,1.28,0
+cpl::Football_Player::ed6b655ed6bb4c7baedb0fe8fc42495d,C. Irving,Vancouver FC,Goalkeeper,27,2446,0,0,0,0,0,0,2,1,3,0,0,1,71.0,1.07,0
+cpl::Football_Player::f93dee067b364c69b3a231cfb723817f,B. Maan,Valour,Goalkeeper,6,540,0,0,0,0,0,0,0,1,1,0,1,0,82.0,0.67,0
+cpl::Football_Player::655a241e039a4965b7f38990c3f8d981,E. Himaras,Valour,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::2780a63e2bc74d368e239e9e42851d4c,J. Sirois,Montréal,Goalkeeper,24,2160,0,0,0,0,0,0,0,0,7,0,1,0,75.0,1.29,0
+cpl::Football_Player::0a71cc5786ac4cb6a42caa6d849c2129,C. Kalongo,Forge,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::16b384ec036b4bccb9be3e98bf2b8088,M. Village,Pacific,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::7517829ba9bc4c5f89f19a60bcaa4cc8,D. Powley,Edmonton,Goalkeeper,26,2340,0,0,0,0,0,0,0,1,2,0,1,0,63.0,1.65,0
+cpl::Football_Player::d7a3107cbc0c426399a5c65c18e39d14,N. Giantsopoulos,Vancouver FC,Goalkeeper,9,710,0,0,0,0,0,0,0,0,1,0,3,0,75.0,1.9,0
+cpl::Football_Player::0665c6ea0ce84bd49b9ebba2cf80c8e2,N. Wirth,Pacific,Goalkeeper,3,193,0,0,0,0,0,0,0,0,0,0,0,0,80.0,1.87,0
+cpl::Football_Player::f2d1b3fafee545dc870861f57e84af06,I. Boehmer,Whitecaps,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,87.0,2.0,0
+cpl::Football_Player::fbb6f03bfc41445c8f91b34b2f4658e7,T.Obadal,Atlético,Goalkeeper,2,180,0,0,0,0,0,0,0,0,2,0,0,0,68.0,2.0,0

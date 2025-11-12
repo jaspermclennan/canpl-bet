@@ -1,0 +1,59 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::41f23e52e26541bca62d8378fafc1953,F. Aird,Cavalry,Defender,28,2178,3,4,12,7,9,4,23,28,7,2,4,0,83.0,0.99,41.67
+cpl::Football_Player::2765417c9ab14808ae40c91c05077259,M. Harms,Cavalry,Defender,5,271,0,0,1,0,1,0,3,1,2,0,0,0,85.0,0.33,66.67
+cpl::Football_Player::2dd1997d40764eb08c0b5287219a3269,B. Kamdem,Cavalry,Defender,21,1739,1,3,10,4,1,3,22,18,22,1,6,0,81.0,1.14,56.41
+cpl::Football_Player::aaacbf86bfeb43ef894d906fd5aa7bdb,J. Alphonse,Wanderers,Defender,17,796,0,0,3,0,0,0,13,9,7,0,4,0,90.0,1.7,58.33
+cpl::Football_Player::9e824d03d70a46fe9d571a6ea8b26a28,N. Mekidèche,Wanderers,Defender,7,630,2,0,8,2,5,0,7,7,7,2,2,0,87.0,1.14,57.14
+cpl::Football_Player::24a77d6eb2fd4d2d875f2d3fbab2679b,R. Ferrazzo,York,Defender,20,817,2,1,11,3,6,1,19,18,20,3,1,0,77.0,1.54,50.0
+cpl::Football_Player::6aa006d1cfcb4e3c92a2de560fa893f6,C. Montgomery,Cavalry,Defender,23,1306,1,0,8,1,3,0,10,10,7,1,1,0,84.0,1.1,78.79
+cpl::Football_Player::a22a6c20e107412398d843c4ab034577,R. Romeo,Valour,Defender,23,2025,2,0,9,2,4,0,11,19,5,2,5,0,85.0,1.6,58.02
+cpl::Football_Player::04974dd93657419b8440025eca4e2ef0,T. Field,Cavalry,Defender,21,1613,0,0,4,0,1,0,41,18,3,0,3,0,87.0,0.78,42.86
+cpl::Football_Player::c314ef65be194ced895c50a72967def8,D. Klomp,Cavalry,Defender,29,2610,6,1,31,7,11,1,21,30,11,0,7,0,87.0,0.97,66.67
+cpl::Football_Player::c985b08f36864c8a982efe437d5a2fe6,D. Mavakala,Wanderers,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0
+cpl::Football_Player::4da84a61c12443e48f9c5d0dd8f2f3ae,K. Dada-Luke,Vancouver FC,Defender,27,2201,0,1,1,1,1,1,49,16,48,1,2,0,80.0,1.39,47.37
+cpl::Football_Player::360a1cff07aa439cb939b0d0d222b08c,J. Dunn,Wanderers,Defender,10,835,0,0,4,0,1,0,8,5,0,0,1,0,87.0,1.62,74.07
+cpl::Football_Player::d46e06f14e0d47e58d6f5f00e1eabfa9,T. Meilleur-Giguère,Wanderers,Defender,28,2432,3,0,10,3,4,0,13,12,10,1,3,0,85.0,1.26,71.96
+cpl::Football_Player::d1f55ff48211437dbc695c82aa0f9d15,C. Loughrey,Wanderers,Defender,17,1247,1,0,8,1,3,0,12,11,7,0,1,1,86.0,1.52,59.46
+cpl::Football_Player::fb189b88380942cc9861e75621409177,J. Cameron,Vancouver FC,Defender,17,1146,0,0,4,0,0,0,32,29,18,1,4,1,78.0,1.18,47.37
+cpl::Football_Player::dbd8bd41aa5a42158cc6c3a4c952bfdf,Z. Fernandez,Valour,Defender,25,1941,2,1,13,3,7,1,39,29,56,3,7,1,85.0,1.58,51.22
+cpl::Football_Player::3ebb1a23b8bf4400bf5519f616825cad,K. Sow,Wanderers,Defender,1,28,0,0,0,0,0,0,0,0,0,0,0,0,95.0,0.0,0.0
+cpl::Football_Player::91a17f348e28482898c8dbc5480ad503,P. Amedume,Pacific,Defender,11,587,0,0,0,0,0,0,7,3,6,1,0,0,89.0,1.07,53.33
+cpl::Football_Player::62be7b2bf33146d18671152252f95575,K. Ceceri,Pacific,Defender,11,800,0,0,2,0,0,0,7,7,3,2,1,1,75.0,1.58,71.88
+cpl::Football_Player::2bffc15ee6604487b728ad495bae8317,J. Royer,Wanderers,Defender,1,14,0,0,0,0,0,0,1,1,1,0,0,0,63.0,6.43,0.0
+cpl::Football_Player::c3b03cc1de7848cdaaca16450017b36d,D. Nimick,Forge,Defender,24,2003,8,3,24,11,13,3,21,32,23,0,5,2,84.0,1.53,72.46
+cpl::Football_Player::8acd7b030e09457dacf4d02078701836,Allan Enyou,Vancouver FC,Defender,23,1916,0,0,4,0,1,0,27,14,7,0,4,0,83.0,1.41,63.04
+cpl::Football_Player::f3ffebc2701c4e608f9f5055198c5ec9,D. Norman,Vancouver FC,Defender,17,1102,1,0,3,1,3,0,12,12,7,1,3,0,87.0,1.55,60.0
+cpl::Football_Player::3f2d3c2444df4c23b5e35783047ed538,A. White,Vancouver FC,Defender,1,90,0,0,0,0,0,0,1,0,0,0,0,0,92.0,1.0,28.57
+cpl::Football_Player::23b3c07e1e8244ce8862a16e72956393,D. Parra,Forge,Defender,25,2124,2,2,19,4,6,2,28,40,35,0,7,1,87.0,1.19,63.27
+cpl::Football_Player::9dfa32fd254946aa9189e26a8888a192,E. Bah,Vancouver FC,Defender,14,698,2,0,7,2,4,0,13,16,19,2,2,1,76.0,1.68,35.29
+cpl::Football_Player::8c250cb48a3648f2bfe78681f613b119,G. Facchineri,Valour,Defender,26,1865,1,0,6,1,2,0,24,44,16,0,7,0,82.0,1.35,53.97
+cpl::Football_Player::b48a3c5692c34ed3915577a233b54697,N. Abatneh,Atlético,Defender,22,1671,1,0,5,1,1,0,14,16,19,0,4,0,91.0,1.29,46.0
+cpl::Football_Player::7205a0ef2aab4cf98da19157fb879f8a,E. Lajeunesse,Pacific,Defender,14,1198,0,0,2,0,0,0,20,13,17,0,2,0,79.0,1.13,62.86
+cpl::Football_Player::6981001867ad42d9b6d9bfc216cfab71,D. Samuel,Forge,Defender,21,742,0,0,1,0,0,0,17,10,19,0,2,0,85.0,1.21,45.45
+cpl::Football_Player::443ef0f7c9294dd4a32e868c6e332abe,Jesús del Amo,Atlético,Defender,7,587,0,0,0,0,0,0,2,5,2,0,2,0,90.0,0.77,55.56
+cpl::Football_Player::b6597676a5e34edf998b3ef92a3c14d0,M. Campagna,Vancouver FC,Defender,11,382,0,1,3,1,0,1,5,10,3,0,2,0,83.0,2.83,58.82
+cpl::Football_Player::edf6ef9ee973485dbbf8b5123cf83a94,K. Chung,Pacific,Defender,19,1370,0,2,5,2,2,2,21,10,15,1,2,0,82.0,1.31,44.74
+cpl::Football_Player::ce073937285b4114bca2f2a3b658f3da,L. Singh,York,Defender,19,1482,0,0,5,0,2,0,8,9,4,0,5,0,89.0,1.21,53.57
+cpl::Football_Player::20d3548360484da9961196997ffa91d6,T. Mourdoukoutas,Valour,Defender,25,2070,0,0,3,0,1,0,25,20,8,1,3,0,84.0,1.26,57.97
+cpl::Football_Player::88981199ee1c47cbb911a6b22266e324,M. Tissot,Atlético,Defender,12,296,0,1,2,1,1,1,7,3,5,0,0,0,79.0,0.61,57.14
+cpl::Football_Player::a90bb203b7f24093abfdfd43e8c6ff40,M. Duncan,Forge,Defender,30,1960,0,0,1,0,0,0,30,19,23,1,2,0,86.0,1.24,65.85
+cpl::Football_Player::e879ca3a6c7e4bb9ba29edd41f2b202e,Z. Roy,Atlético,Defender,8,158,0,0,2,0,1,0,1,1,5,0,1,0,86.0,0.57,0.0
+cpl::Football_Player::58c03096b6c940afacb752b030a52ad2,M. Owolabi-Belewu,Forge,Defender,25,1685,2,0,3,2,2,0,48,29,27,1,11,0,85.0,1.12,53.85
+cpl::Football_Player::46e85b6f18f042fe837554290482828b,A. Đidić,Atlético,Defender,29,2640,4,0,25,4,15,0,18,13,8,1,5,0,86.0,1.09,74.24
+cpl::Football_Player::7b0f6d51a0774b0691b240a3a96bc0ee,M. de Brienne,Atlético,Defender,28,2385,0,1,20,1,5,1,38,33,22,2,10,0,76.0,1.09,72.73
+cpl::Football_Player::3369d66b5c1c44c38f4b479aed83a7e7,Roberto Alarcón,Valour,Defender,23,1810,0,1,5,1,1,1,29,29,29,1,6,1,88.0,1.49,45.16
+cpl::Football_Player::31591c7a0e35481b998578ee63a10adc,L. Torres,Atlético,Defender,16,475,1,0,2,1,1,0,14,10,5,0,1,1,92.0,1.14,85.71
+cpl::Football_Player::fc76edbb94da42899c7c12d79da56e2e,O. León,York,Defender,20,1526,2,0,8,2,2,0,18,20,23,0,6,1,81.0,0.94,53.45
+cpl::Football_Player::9fa7232743934bf2a022c4fe6a62c1b6,J. Haynes,Valour,Defender,9,70,0,0,2,0,1,0,3,4,1,0,1,0,74.0,2.57,50.0
+cpl::Football_Player::daa25be58b5a4bf1a1a9adfd1aa8bd18,F. Sturing,York,Defender,19,1593,0,0,3,0,1,0,22,28,11,1,2,0,89.0,1.19,62.5
+cpl::Football_Player::bc0960bcc0aa44d6a2f7dc8d20680752,Dani Morer,Atlético,Defender,27,1316,0,6,2,6,1,6,19,34,9,2,5,0,86.0,1.09,62.5
+cpl::Football_Player::a742bcbb546f417d9003cfe9bf5e3676,N. Higgins,York,Defender,18,1085,1,1,1,2,1,1,14,13,2,1,4,0,88.0,1.24,47.5
+cpl::Football_Player::1189f25d808e414eb258930a8b41dcc9,C. Chantzopoulos,Valour,Defender,16,1019,0,0,3,0,0,0,13,11,5,1,0,0,85.0,2.12,70.37
+cpl::Football_Player::373e4451a3104cb29bd3a4c2e716692a,J. Córdova,York,Defender,22,1856,3,3,19,6,6,3,25,22,33,1,8,0,84.0,1.12,45.45
+cpl::Football_Player::bf1559f63d3642679c430ff1f41355a7,G. Mukumbilwa,Pacific,Defender,11,657,0,1,0,1,0,1,12,3,10,0,2,0,80.0,0.68,31.25
+cpl::Football_Player::c182423a01294fc4a488163b7c07b7f4,G. Metusala,Forge,Defender,23,1862,0,0,0,0,0,0,19,14,6,0,4,0,91.0,1.11,67.44
+cpl::Football_Player::242992e119ea4cf3b76878a2029dddac,P. Gee,Vancouver FC,Defender,24,1927,1,4,5,5,1,4,17,28,19,1,4,0,77.0,1.68,57.69
+cpl::Football_Player::f5f9dbfb4ae043d7bf4f7094d31693c3,J. Quintana,Pacific,Defender,17,1199,0,0,4,0,0,0,32,25,21,4,6,1,78.0,0.98,65.22
+cpl::Football_Player::2643a053f0b04373b2b6da28c55fe66e,T. Antonoglou,Valour,Defender,27,2419,1,7,10,8,7,7,51,25,30,1,5,0,83.0,1.49,45.45
+cpl::Football_Player::cad9192d6a9541128a76febb4a58387f,E. Kobza,Cavalry,Defender,20,1043,0,0,5,0,2,0,9,11,11,0,1,0,87.0,0.78,51.52
+cpl::Football_Player::130bf1bad34e405d8bf525d7dab36e0f,T. Walker,Atlético,Defender,18,1352,0,0,3,0,2,0,21,20,16,0,1,0,85.0,1.07,57.89

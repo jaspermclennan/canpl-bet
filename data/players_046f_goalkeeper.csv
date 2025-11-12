@@ -1,0 +1,22 @@
+playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%
+cpl::Football_Player::23c92ceb8bee415a886f16e93c507c65,M. Carducci,Cavalry,Goalkeeper,26,2340,0,0,0,0,0,0,0,0,4,0,1,0,74.0,1.08,0
+cpl::Football_Player::7e18ad4df0bc44ce92ddcffed48d7b88,J. Roloff,Cavalry,Goalkeeper,4,360,0,0,0,0,0,0,0,0,1,0,0,0,73.0,2.0,0
+cpl::Football_Player::c413f9ab15ee494581fcc06bba6806ff,A. De Rosario,Toronto,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,58.0,1.0,0
+cpl::Football_Player::f7b3dd095e88450ca085f9cf8a12f3b0,K. Baskett,Wanderers,Goalkeeper,9,810,0,0,0,0,0,0,0,0,1,0,2,0,64.0,1.33,0
+cpl::Football_Player::d3eccdc138364416ab9dd2b141d41e76,J. Holliday,Cavalry,Goalkeeper,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0,0
+cpl::Football_Player::114243c66bf84de08c89d82c84024efa,A. Vaikla,Scrosoppi,Goalkeeper,21,1844,0,0,0,0,0,0,1,1,3,0,1,0,55.0,1.95,0
+cpl::Football_Player::d65b644d608b40dbb79ba6a0fb08d7f1,A. Rushenas,Wanderers,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::16b384ec036b4bccb9be3e98bf2b8088,M. Village,Pacific,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::ed6b655ed6bb4c7baedb0fe8fc42495d,C. Irving,Vancouver FC,Goalkeeper,28,2520,0,0,0,0,0,0,0,0,9,0,0,0,73.0,1.21,0
+cpl::Football_Player::7c054612559b45f2a7ef690616b61862,T. Henry,Forge,Goalkeeper,30,2700,0,0,0,0,0,0,0,1,10,0,3,0,89.0,0.83,0
+cpl::Football_Player::95c5a896975b488cb559f52bde46d3d4,R. Yesli,Wanderers,Goalkeeper,9,810,0,0,0,0,0,0,0,0,1,0,0,0,52.0,0.89,0
+cpl::Football_Player::a86a1a3737bc4895b1340dc348ae5b09,S. Melvin,Pacific,Goalkeeper,4,273,0,0,0,0,0,0,0,0,0,0,0,0,64.0,1.32,0
+cpl::Football_Player::655a241e039a4965b7f38990c3f8d981,E. Himaras,Valour,Goalkeeper,10,879,0,0,0,0,0,0,0,1,0,0,0,0,73.0,1.33,0
+cpl::Football_Player::72e65d5165df41d198c80f48acb6e327,D. Murasiranwa,Valour,Goalkeeper,8,675,0,0,0,0,0,0,0,1,2,0,0,0,59.0,1.47,0
+cpl::Football_Player::0a71cc5786ac4cb6a42caa6d849c2129,C. Kalongo,Forge,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,92.0,2.0,0
+cpl::Football_Player::2780a63e2bc74d368e239e9e42851d4c,J. Sirois,Montréal,Goalkeeper,19,1710,0,0,0,0,0,0,0,0,5,0,1,0,68.0,1.37,0
+cpl::Football_Player::d7a3107cbc0c426399a5c65c18e39d14,N. Giantsopoulos,Vancouver FC,Goalkeeper,18,1551,0,0,1,0,0,0,0,0,4,0,3,0,68.0,1.22,0
+cpl::Football_Player::ed004eacaca144bda4943965af890853,E. Gazdov,Montréal,Goalkeeper,2,180,0,0,0,0,0,0,1,0,1,0,0,0,45.0,1.0,0
+cpl::Football_Player::dc9acb517ceb4bb6a191399acd30efa6,G. Catalano,Vaughan,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,91.0,3.0,0
+cpl::Football_Player::9c2fb41ece0d4ac7902f5799c23556f4,M. Williams,York,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0
+cpl::Football_Player::364352c812a14e868234e4883c9bd4e0,N. Ingham,Atlético,Goalkeeper,28,2517,0,0,0,0,0,0,1,1,5,0,1,0,64.0,1.0,0

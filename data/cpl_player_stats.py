@@ -1,19 +1,20 @@
 import requests
 import pandas as pd
 
-# Base URL for CPL Player Stats API
 BASE_URL = "https://api-sdp.canpl.ca/v1/cpl/football/seasons/{season_id}/stats/players"
 
-HEADERS = { 
+HEADERS = {
     "Accept": "*/*",
     "Accept-Encoding": "gzip, deflate, br, zstd",
     "Accept-Language": "en-US,en;q=0.9",
     "Connection": "keep-alive",
     "Content-Type": "application/json; charset=UTF-8",
-    "Host": "adi-sdp.canpl.ca",
-    "Origin": "https://canpl.ca",
-    "Referer": "https://canpl.ca/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "Host": "api-sdp.canpl.ca",
+    "Origin": "https://www.canpl.ca",
+    "Referer": "https://www.canpl.ca/",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/142.0.0.0 Safari/537.36",
 }
 
 # Season IDs
@@ -27,44 +28,40 @@ season_ids = {
     "cpl::Football_Season::c8c9bdc288f34aa89073a8bd89d2da3e", #2019
 }
 
-roles = ["all", "goalkeeper", "defender", "midfielder", "forward"]
+roles = ["goalkeeper", "defender", "midfielder", "forward"]
 
-def fetch_player(season_id, role, page=1):
-    """Fetch a single page of stats for a season/role"""
+def fetch_players_page(season_id, role, page=1):
     params = {
         "locale": "en-US",
         "category": "general",
         "role": role,
         "direction": "desc",
         "page": page,
-        "pageNumElements": 250,
+        "pageNumElement": 250,
     }
     url = BASE_URL.format(season_id=season_id)
-    r = requests.get(url, params=params, headers=HEADERS)
-    r.raise_for_status()
-    return r.json()
+    res = requests.get(url, params=params, headers=HEADERS)
+    res.raise_for_status()
+    return res.json()
 
 def fetch_all_players(season_id, role):
-    """Loop through all pages until no players are returned"""
-    players =[]
+    players = []
     page = 1
     while True:
-        data = fetch_player(season_id, role, page)
+        data = fetch_players_page(season_id, role, page)
         if not data["players"]:
             break
         players.extend(data["players"])
         page += 1
     return players
 
-def flatten_player():
-    """Flatten a player dict into a flat row of stats"""
+def flatten_player(p):
     row = {
         "playerId": p["playerId"],
-        "playerName": p.get("displayName") or p[("shortName")],
+        "playerName": p.get("displayName") or p.get("shortName"),
         "team": p["team"]["shortName"],
         "position": p["roleLabel"],
     }
-    # Convert stats into columns keyed by abbreviation
     for stat in p["stats"]:
         abbr = stat["statsLabelAbbreviation"]
         if abbr:
@@ -73,11 +70,15 @@ def flatten_player():
 
 for season_id in season_ids:
     for role in roles:
-        players = fetch_all_players(season_id, role)
+        try:
+            players = fetch_all_players(season_id, role)
+        except requests.exceptions.HTTPError as e:
+            print(f"Error fetching {role} for season {season_id}: {e}")
+            continue
         flat = [flatten_player(p) for p in players]
         df = pd.DataFrame(flat)
-
-        season_year = season_id.split("::")[-1][:4] # Extract year from season_id
+        # Extract a year from the season ID if you need it
+        season_year = season_id.split("::")[-1][:4]
         outfile = f"players_{season_year}_{role}.csv"
         df.to_csv(outfile, index=False)
         print(f"Saved {len(df)} rows to {outfile}")
