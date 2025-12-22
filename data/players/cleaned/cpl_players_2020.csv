@@ -1,159 +1,159 @@
-playerId,playerName,team,position,GP,Mins,G,A,S,GI,SOT,KP,Tackles,FC,FS,OFF,YC,RC,Pass%,GAA,%,season,role,G_per_game,A_per_game,S_per_game,SOT_per_game,KP_per_game,Minutes_per_game
-cpl::Football_Player::33b0cf3a477d454f96fe4f14c3b6125c,A. Achinioti-Jönsson,Forge,Midfielder,11,792,3,0,6,0,4,0,10,12,13,0,1,0,82.0,1.02,0.0,2020,midfielder,0.2727272727272727,0.0,0.5454545454545454,0.36363636363636365,0.0,72.0
-cpl::Football_Player::270eb17b99df4a3ea3a65d918a9c385e,A. Bouka,Valour,Defender,2,70,0,0,0,0,0,0,1,1,2,0,0,0,53.0,3.86,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,35.0
-cpl::Football_Player::8b3bce6c12a8410c97766fbccc51d981,A. Coupland,Whitecaps,Midfielder,3,97,0,0,0,0,0,0,2,4,2,0,1,0,75.0,6.49,0.0,2020,midfielder,0.0,0.0,0.0,0.0,0.0,32.333333333333336
-cpl::Football_Player::cfb4634bc5a0472c9999c3364d73937c,A. De Carolis,Wanderers,Defender,6,371,1,0,2,0,1,0,5,6,4,1,1,0,73.0,1.94,0.0,2020,defender,0.16666666666666666,0.0,0.3333333333333333,0.16666666666666666,0.0,61.833333333333336
-cpl::Football_Player::cd1e9f98817545a8904ffd9556963f44,A. Díaz,Vancouver FC,Forward,10,609,3,2,13,0,8,2,1,4,5,3,0,0,70.0,1.63,0.0,2020,forward,0.3,0.2,1.3,0.8,0.2,60.9
-cpl::Football_Player::4a3790eed104423781b21001cbce69e9,A. García,Wanderers,Forward,10,758,6,0,19,0,11,0,0,17,24,13,0,0,81.0,1.19,0.0,2020,forward,0.6,0.0,1.9,1.1,0.0,75.8
-cpl::Football_Player::6a778700603244eeabcce04c59c6ccc0,A. Hojabrpour,Forge,Midfielder,10,385,0,0,3,0,0,0,11,5,2,0,0,0,80.0,1.64,0.0,2020,midfielder,0.0,0.0,0.3,0.0,0.0,38.5
-cpl::Football_Player::d29736b5baf24409acfa96d3a52436e1,A. Jean-Baptiste,Valour,Defender,6,462,1,0,2,0,1,0,5,8,5,0,0,0,81.0,0.97,0.0,2020,defender,0.16666666666666666,0.0,0.3333333333333333,0.16666666666666666,0.0,77.0
-cpl::Football_Player::b34859d026f14f39b1d8a7e139f53ed1,A. Khabra,Edmonton,Midfielder,6,308,0,0,0,0,0,0,3,12,3,1,1,0,87.0,2.63,0.0,2020,midfielder,0.0,0.0,0.0,0.0,0.0,51.333333333333336
-cpl::Football_Player::3b722a31cec745c3be4c298eeeee5dbc,A. Marshsall,Wanderers,Forward,11,583,0,2,7,0,2,2,6,14,17,1,1,0,75.0,1.08,0.0,2020,forward,0.0,0.18181818181818182,0.6363636363636364,0.18181818181818182,0.18181818181818182,53.0
-cpl::Football_Player::337fb1e9243f40eeacf44fe5123d4089,A. Novak,Forge,Forward,9,381,2,0,8,0,6,0,3,4,9,1,0,0,81.0,0.94,0.0,2020,forward,0.2222222222222222,0.0,0.8888888888888888,0.6666666666666666,0.0,42.333333333333336
-cpl::Football_Player::1b5317cdeb7f40dd8a7eccc207d46158,A. Pepple,Cavalry,Forward,6,67,0,0,2,0,1,0,1,2,0,1,0,0,77.0,0.0,0.0,2020,forward,0.0,0.0,0.3333333333333333,0.16666666666666666,0.0,11.166666666666666
-cpl::Football_Player::1ece129a4fee46d18322a9312200459f,A. Ricci,Vancouver FC,Forward,6,365,0,0,8,0,5,0,5,9,9,1,3,0,59.0,0.99,0.0,2020,forward,0.0,0.0,1.3333333333333333,0.8333333333333334,0.0,60.833333333333336
-cpl::Football_Player::c8dce536cf5f4f02be8d2f7ba48e6929,A. Riggi,Wanderers,Forward,8,471,1,1,6,0,5,1,7,7,7,2,0,0,74.0,0.38,0.0,2020,forward,0.125,0.125,0.75,0.625,0.125,58.875
-cpl::Football_Player::fd9ddb9946a84feeb1b5e9a8dd531160,A. Samaké,Valour,Defender,3,89,0,0,0,0,0,0,1,2,0,0,0,0,81.0,2.02,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,29.666666666666668
-cpl::Football_Player::bcd2bd431fea40f2ad5e2cd7d95bef32,A. Sissoko,Atlético,Midfielder,10,707,0,0,4,0,1,0,16,10,11,0,0,0,83.0,1.02,0.0,2020,midfielder,0.0,0.0,0.4,0.1,0.0,70.7
-cpl::Football_Player::46e85b6f18f042fe837554290482828b,A. Đidić,Atlético,Defender,3,241,0,0,1,0,0,0,3,1,0,0,0,0,84.0,1.49,0.0,2020,defender,0.0,0.0,0.3333333333333333,0.0,0.0,80.33333333333333
-cpl::Football_Player::423863e33e8f4745b70e6092f11a184d,B. Fisk,Vancouver FC,Midfielder,7,601,1,0,8,0,5,0,7,4,5,0,1,0,79.0,1.05,0.0,2020,midfielder,0.14285714285714285,0.0,1.1428571428571428,0.7142857142857143,0.0,85.85714285714286
-cpl::Football_Player::d1433885dbb94149b5acefd04d818f56,B. John,Atlético,Defender,7,618,0,0,0,0,0,0,5,11,14,0,2,0,80.0,1.75,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,88.28571428571429
-cpl::Football_Player::8a6c8e7f553849f9a237ca5dd408e66d,B. Levis,Atlético,Defender,5,383,0,2,2,0,2,2,8,9,9,0,1,0,84.0,1.17,0.0,2020,defender,0.0,0.4,0.4,0.4,0.4,76.6
-cpl::Football_Player::f93dee067b364c69b3a231cfb723817f,B. Maan,Valour,Goalkeeper,1,90,0,0,0,0,0,0,0,0,2,0,0,0,74.0,2.0,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::4b6c1da63a144cfeb39e765ea2e3039c,B. McKendry,Atlético,Midfielder,7,408,0,0,1,0,1,0,16,9,2,0,2,0,79.0,1.54,0.0,2020,midfielder,0.0,0.0,0.14285714285714285,0.14285714285714285,0.0,58.285714285714285
-cpl::Football_Player::3b2542a004d146b1bf7e3ef7f0ec811f,B. Zebie,Edmonton,Midfielder,10,480,0,0,5,0,1,0,9,10,11,0,0,0,82.0,1.12,0.0,2020,midfielder,0.0,0.0,0.5,0.1,0.0,48.0
-cpl::Football_Player::6a7b9320483e458792ebd1f94a00baf0,C. Bent,Wanderers,Forward,10,500,1,0,3,0,1,0,3,9,14,5,0,0,63.0,1.08,0.0,2020,forward,0.1,0.0,0.3,0.1,0.0,50.0
-cpl::Football_Player::d673ea35954f4370867e9810a89a6902,C. Hocine,Wanderers,Defender,1,66,0,0,1,0,0,0,1,3,1,0,0,0,79.0,2.73,0.0,2020,defender,0.0,0.0,1.0,0.0,0.0,66.0
-cpl::Football_Player::ed6b655ed6bb4c7baedb0fe8fc42495d,C. Irving,Vancouver FC,Goalkeeper,6,540,0,0,0,0,0,0,0,0,2,0,1,0,72.0,1.33,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::33a38df225e24270b44c1fdfde2eb7a9,C. Mannella,Ottawa Fury,Midfielder,2,100,0,0,0,0,0,0,4,3,3,0,1,0,76.0,0.9,0.0,2020,midfielder,0.0,0.0,0.0,0.0,0.0,50.0
-cpl::Football_Player::1ada73d8bf034890ab66cfbd681d0f7c,C. N'Sa,Wanderers,Defender,9,738,0,0,2,0,0,0,16,10,17,1,0,0,73.0,1.1,0.0,2020,defender,0.0,0.0,0.2222222222222222,0.0,0.0,82.0
-cpl::Football_Player::55dd391822fa4ee9a317707f26e1ddc9,C. Nanco,Forge,Forward,5,224,2,0,3,0,3,0,3,7,2,0,0,0,70.0,1.21,0.0,2020,forward,0.4,0.0,0.6,0.6,0.0,44.8
-cpl::Football_Player::1669b606345b4345b00d59de89c1c7eb,D. Abzi,Blainville,Defender,5,438,0,0,7,0,2,0,6,5,6,0,0,0,70.0,0.82,0.0,2020,defender,0.0,0.0,1.4,0.4,0.0,87.6
-cpl::Football_Player::a4d26a57d62040df8359a9bc96b1db67,D. Campbell,Valour,Midfielder,5,227,0,0,0,0,0,0,5,4,4,0,1,0,73.0,1.98,0.0,2020,midfielder,0.0,0.0,0.0,0.0,0.0,45.4
-cpl::Football_Player::392be6a9c97c4804a198cd3b34e93705,D. Carreiro,Vaughan,Midfielder,7,333,1,0,6,0,4,0,2,0,13,0,1,0,79.0,1.89,0.0,2020,midfielder,0.14285714285714285,0.0,0.8571428571428571,0.5714285714285714,0.0,47.57142857142857
-cpl::Football_Player::04cd976c461148d79ab8cafc0bf69c62,D. Choinière,Forge,Forward,11,598,1,1,4,0,3,1,5,6,14,4,0,0,81.0,0.9,0.0,2020,forward,0.09090909090909091,0.09090909090909091,0.36363636363636365,0.2727272727272727,0.09090909090909091,54.36363636363637
-cpl::Football_Player::4d80c00c2a1f41918fca2b04e26b6034,D. Edgar,Ottawa Fury,Defender,10,900,0,0,3,0,2,0,5,12,3,0,4,0,82.0,0.8,0.0,2020,defender,0.0,0.0,0.3,0.2,0.0,90.0
-cpl::Football_Player::48e58b3fa72f4f24ab03510e47ad2e6b,D. Fordyce,Valour,Forward,5,164,1,0,4,0,3,0,0,5,3,1,0,0,63.0,2.74,0.0,2020,forward,0.2,0.0,0.8,0.6,0.0,32.8
-cpl::Football_Player::d80c8273244649a0841591e849fc3590,D. Gutiérrez,Cavalry,Midfielder,7,489,0,0,1,0,0,0,7,10,6,0,1,0,84.0,0.74,0.0,2020,midfielder,0.0,0.0,0.14285714285714285,0.0,0.0,69.85714285714286
-cpl::Football_Player::915deb7a225b43bf96bef5524d31ce6e,D. Kinumbe,Ottawa Fury,Defender,4,208,0,0,1,0,0,0,2,1,4,2,0,0,69.0,3.03,0.0,2020,defender,0.0,0.0,0.25,0.0,0.0,52.0
-cpl::Football_Player::8d7834c08c834b28a4daef064d1e6041,D. Krutzen,Forge,Defender,11,961,2,0,10,0,3,0,10,14,18,0,2,0,78.0,0.94,0.0,2020,defender,0.18181818181818182,0.0,0.9090909090909091,0.2727272727272727,0.0,87.36363636363636
-cpl::Football_Player::94c3ab35a187436683aa1e7c720bf37a,D. Lee,Wanderers,Defender,2,123,0,0,0,0,0,0,3,1,1,0,1,0,83.0,2.2,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,61.5
-cpl::Football_Player::14db7405a9c04988b3f8c7e7462ccab0,D. Northover,Cavalry,Defender,7,355,0,0,0,0,0,0,4,8,13,0,0,0,64.0,1.27,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,50.714285714285715
-cpl::Football_Player::7517829ba9bc4c5f89f19a60bcaa4cc8,D. Powley,Edmonton,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,78.0,1.0,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::6981001867ad42d9b6d9bfc216cfab71,D. Samuel,Forge,Defender,10,721,0,0,2,0,0,0,7,12,17,0,2,0,76.0,1.0,0.0,2020,defender,0.0,0.0,0.2,0.0,0.0,72.1
-cpl::Football_Player::907ea07d836b4d78a6fd1c95e7081ee6,D. Zator,Cavalry,Defender,10,900,1,0,8,0,4,0,12,9,11,0,0,0,79.0,1.1,0.0,2020,defender,0.1,0.0,0.8,0.4,0.0,90.0
-cpl::Football_Player::b78b9cf10b374d23824749c6e410990c,E. Adekugbe,York,Midfielder,9,638,1,1,5,0,4,1,9,7,20,1,2,0,86.0,1.41,0.0,2020,midfielder,0.1111111111111111,0.1111111111111111,0.5555555555555556,0.4444444444444444,0.1111111111111111,70.88888888888889
-cpl::Football_Player::e19c5e780a7347dcbb948ca726281b33,E. Carrasco,York,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,87.0,1.0,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::9530e64bf7744102b3eeecd7fcf46c34,E. Cissé,Forge,Midfielder,8,539,0,0,5,0,3,0,12,10,12,1,0,0,80.0,1.17,0.0,2020,midfielder,0.0,0.0,0.625,0.375,0.0,67.375
-cpl::Football_Player::a0c39d4aadea4642ba22743b4c68b23a,E. Ongaro,Edmonton,Forward,7,480,3,0,8,0,3,0,1,4,5,2,0,0,77.0,1.69,0.0,2020,forward,0.42857142857142855,0.0,1.1428571428571428,0.42857142857142855,0.0,68.57142857142857
-cpl::Football_Player::6bda12878690489697b20b110e311ad1,E. Simmons,Vancouver FC,Midfielder,10,627,0,0,1,0,0,0,6,9,1,0,1,0,82.0,1.0,0.0,2020,midfielder,0.0,0.0,0.1,0.0,0.0,62.7
-cpl::Football_Player::669592045b2e47929154e4fd2bbb5bdc,E. Zetterberg,Edmonton,Midfielder,7,465,0,0,4,0,1,0,4,6,7,0,2,0,80.0,2.52,0.0,2020,midfielder,0.0,0.0,0.5714285714285714,0.14285714285714285,0.0,66.42857142857143
-cpl::Football_Player::0f2270114a7f4e83a73a34f161dc9e16,F. Acuña,Atlético,Midfielder,7,531,2,2,3,0,3,2,8,4,8,3,2,0,84.0,0.68,0.0,2020,midfielder,0.2857142857142857,0.2857142857142857,0.42857142857142855,0.42857142857142855,0.2857142857142857,75.85714285714286
-cpl::Football_Player::41f23e52e26541bca62d8378fafc1953,F. Aird,Cavalry,Defender,6,453,1,0,9,0,7,0,2,10,5,0,3,0,76.0,1.39,0.0,2020,defender,0.16666666666666666,0.0,1.5,1.1666666666666667,0.0,75.5
-cpl::Football_Player::6256907c7f33461b865ece1a719ff279,F. Segawa,York,Defender,5,353,0,0,0,0,0,0,7,6,9,0,1,0,86.0,1.02,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,70.6
-cpl::Football_Player::8c250cb48a3648f2bfe78681f613b119,G. Facchineri,Valour,Defender,5,206,0,0,1,0,0,0,8,5,2,0,0,0,82.0,3.06,0.0,2020,defender,0.0,0.0,0.2,0.0,0.0,41.2
-cpl::Football_Player::44fb3fb969744342bac4a9ebfa751e21,G. Wiethaeuper-Balbinotti,Ottawa Fury,Forward,6,203,0,0,5,0,1,0,2,8,3,3,1,0,62.0,1.33,0.0,2020,forward,0.0,0.0,0.8333333333333334,0.16666666666666666,0.0,33.833333333333336
-cpl::Football_Player::54bd7a3f34314464b660277f9eadf394,Gabriel Vasconcelos,York,Forward,2,87,0,0,1,0,0,0,0,1,0,1,0,0,79.0,3.1,0.0,2020,forward,0.0,0.0,0.5,0.0,0.0,43.5
-cpl::Football_Player::de9e3e4ab3ca41d7ac62dcd9bc72970a,H. Boakai,Edmonton,Forward,6,309,0,0,3,0,2,0,3,5,5,0,0,0,89.0,1.46,0.0,2020,forward,0.0,0.0,0.5,0.3333333333333333,0.0,51.5
-cpl::Football_Player::beca7bab90be4d31a7ff77853f824bea,H. Sobze Zemo,Atlético,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::5113470034d346478fcfd237037f2971,I. Halley,York,Forward,4,157,0,0,2,0,2,0,1,5,7,2,0,0,75.0,1.15,0.0,2020,forward,0.0,0.0,0.5,0.5,0.0,39.25
-cpl::Football_Player::c9180268639c4deab949baa197a52103,I. Sanoh,Wanderers,Forward,5,124,1,0,3,0,1,0,0,1,2,1,0,0,56.0,3.63,0.0,2020,forward,0.2,0.0,0.6,0.2,0.0,24.8
-cpl::Football_Player::96d163c606db462b80071516a2d4772b,J. Altobelli,York,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,forward,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::47dc6e2b3ef94651abd804e8ba91936c,J. Beaulieu,Wanderers,Goalkeeper,4,360,0,0,0,0,0,0,0,2,3,0,1,0,68.0,2.5,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::2a0dc42d1dba4748a99b39aa920f7497,J. Brown,Cavalry,Forward,10,657,3,0,13,0,7,0,2,13,5,2,0,0,82.0,1.1,0.0,2020,forward,0.3,0.0,1.3,0.7,0.0,65.7
-cpl::Football_Player::597b3ee52baf4b08a34e62c2a682fa7f,J. Córdova,Cavalry,Forward,4,71,1,0,2,0,1,0,0,0,1,1,0,0,63.0,0.0,0.0,2020,forward,0.25,0.0,0.5,0.25,0.0,17.75
-cpl::Football_Player::316e45756fc44527ada7b1ea025918b0,J. Di Chiara,York,Midfielder,6,540,3,0,8,0,6,0,9,15,20,1,5,0,87.0,1.17,0.0,2020,midfielder,0.5,0.0,1.3333333333333333,1.0,0.0,90.0
-cpl::Football_Player::aafb864d45ab43e8849d3cff096d5c07,J. Dixon,Ottawa Fury,Defender,9,616,1,0,4,0,2,0,9,17,5,0,3,0,79.0,1.46,0.0,2020,defender,0.1111111111111111,0.0,0.4444444444444444,0.2222222222222222,0.0,68.44444444444444
-cpl::Football_Player::360a1cff07aa439cb939b0d0d222b08c,J. Dunn,Wanderers,Defender,7,630,0,0,0,0,0,0,8,8,3,0,0,0,82.0,1.29,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::5f53ec18a0924d87ad1584a54346e758,J. Dunstan,Forge,Defender,6,254,0,0,0,0,0,0,3,7,2,0,0,0,77.0,0.71,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,42.333333333333336
-cpl::Football_Player::a766cd1734d84307a9ace241b64d8ed2,J. Esua,Edmonton,Defender,7,617,0,0,4,0,1,0,3,6,17,2,1,0,82.0,2.04,0.0,2020,defender,0.0,0.0,0.5714285714285714,0.14285714285714285,0.0,88.14285714285714
-cpl::Football_Player::340468323f3841eb8a68a4adfc0f1a9f,J. Geffrard,Wanderers,Defender,11,945,0,0,3,0,2,0,4,8,5,0,1,0,82.0,1.43,0.0,2020,defender,0.0,0.0,0.2727272727272727,0.18181818181818182,0.0,85.9090909090909
-cpl::Football_Player::3aaf25a2f090423584d5e9d492e5ca42,J. Grant,Atlético,Defender,4,274,0,0,2,0,0,0,1,15,3,2,2,0,62.0,0.33,0.0,2020,defender,0.0,0.0,0.5,0.0,0.0,68.5
-cpl::Football_Player::9fa7232743934bf2a022c4fe6a62c1b6,J. Haynes,Valour,Defender,8,465,0,0,0,0,0,0,7,4,5,0,2,0,71.0,1.55,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,58.125
-cpl::Football_Player::df0de20d12274b3d9549323a3547572b,J. Heard,Pacific,Forward,5,218,1,1,5,0,1,1,1,8,9,0,1,0,72.0,1.65,0.0,2020,forward,0.2,0.2,1.0,0.2,0.2,43.6
-cpl::Football_Player::32ac22e018504c2f98dc4d3c64e42803,J. Hernández,Scottish,Forward,3,102,0,0,1,0,0,0,3,5,2,2,1,0,82.0,2.65,0.0,2020,forward,0.0,0.0,0.3333333333333333,0.0,0.0,34.0
-cpl::Football_Player::c45fe355ff194e53bcb0907c5b08814c,J. Kotsopoulos,Forge,Forward,1,28,0,0,0,0,0,0,2,0,0,0,0,0,58.0,0.0,0.0,2020,forward,0.0,0.0,0.0,0.0,0.0,28.0
-cpl::Football_Player::0043bfae03d74a4da54333508b314ace,J. Pantemis,Montréal,Goalkeeper,7,630,0,0,0,0,0,0,0,0,1,0,0,0,74.0,1.29,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::6e1b99de8a2449b280f5b03505b74f6e,J. Phillips,Vaughan,Defender,5,290,0,0,0,0,0,0,7,2,4,0,0,0,65.0,1.24,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,58.0
-cpl::Football_Player::29e56c09baf549469b4a5934262e3dbf,J. Ruby,Wanderers,Defender,8,312,0,0,2,0,2,0,6,5,9,1,1,0,72.0,2.6,0.0,2020,defender,0.0,0.0,0.25,0.25,0.0,39.0
-cpl::Football_Player::65d2bf4929274b6f94dbbb949093b783,J. Wheeldon,Cavalry,Defender,6,459,0,0,1,0,0,0,2,10,2,0,1,1,83.0,1.18,0.0,2020,defender,0.0,0.0,0.16666666666666666,0.0,0.0,76.5
-cpl::Football_Player::73977448c290436b91cca653ba3a2c13,J. Williams,Wanderers,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::3f6a675727214bcc96972b28a2e3dbf8,José Galán,Valour,Midfielder,5,310,1,1,4,0,1,1,10,9,4,0,2,0,86.0,1.74,0.0,2020,midfielder,0.2,0.2,0.8,0.2,0.2,62.0
-cpl::Football_Player::751e68a27d374a64b9646c08102f6daf,João Morelli,Wanderers,Forward,9,561,4,1,11,0,7,1,2,13,12,1,0,1,70.0,1.76,0.0,2020,forward,0.4444444444444444,0.1111111111111111,1.2222222222222223,0.7777777777777778,0.1111111111111111,62.333333333333336
-cpl::Football_Player::5ce4b7ace82243faa7b342751ac3a642,K. Alemán,Scrosoppi,Midfielder,7,537,1,0,7,0,1,0,8,6,18,1,1,0,82.0,1.84,0.0,2020,midfielder,0.14285714285714285,0.0,1.0,0.14285714285714285,0.0,76.71428571428571
-cpl::Football_Player::dbae960e1a0c4c7ba2104c9a904d6ab5,K. Awuah,Forge,Defender,11,842,1,0,2,0,2,0,16,11,11,1,1,0,72.0,0.75,0.0,2020,defender,0.09090909090909091,0.0,0.18181818181818182,0.18181818181818182,0.0,76.54545454545455
-cpl::Football_Player::0e2b6aa5fbdf49f399441b22b356d14c,K. Bekker,Forge,Midfielder,11,879,3,1,9,0,5,1,6,14,15,0,1,0,77.0,0.92,0.0,2020,midfielder,0.2727272727272727,0.09090909090909091,0.8181818181818182,0.45454545454545453,0.09090909090909091,79.9090909090909
-cpl::Football_Player::edf6ef9ee973485dbbf8b5123cf83a94,K. Chung,Pacific,Defender,9,765,0,1,0,0,0,1,16,4,7,0,1,0,83.0,1.29,0.0,2020,defender,0.0,0.1111111111111111,0.0,0.0,0.1111111111111111,85.0
-cpl::Football_Player::b81cbecf6fd24278954a45cb13e12632,K. Moses,Edmonton,Defender,4,140,0,0,3,0,0,0,1,3,1,0,0,0,81.0,3.21,0.0,2020,defender,0.0,0.0,0.75,0.0,0.0,35.0
-cpl::Football_Player::a3da6283599541849144b5b108dbc67b,K. Porter,Ottawa Fury,Forward,6,372,1,1,3,0,2,1,2,4,4,1,0,0,86.0,0.97,0.0,2020,forward,0.16666666666666666,0.16666666666666666,0.5,0.3333333333333333,0.16666666666666666,62.0
-cpl::Football_Player::4feb899db58341fb9d242a518bac60ad,K. Thomas,Forge,Forward,9,283,0,1,3,0,1,1,11,11,7,3,1,0,74.0,0.64,0.0,2020,forward,0.0,0.1111111111111111,0.3333333333333333,0.1111111111111111,0.1111111111111111,31.444444444444443
-cpl::Football_Player::347018d8099042888a6076bd0cea0744,K. Çela,Forge,Defender,2,2,0,0,0,0,0,0,0,1,0,0,1,0,0.0,0.0,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,1.0
-cpl::Football_Player::eab0ad0262a74f8b93974c91a77742b0,L. Béland-Goyette,Montréal,Midfielder,10,648,0,0,2,0,0,0,9,23,3,0,3,0,79.0,1.81,0.0,2020,midfielder,0.0,0.0,0.2,0.0,0.0,64.8
-cpl::Football_Player::4a6631a1e64048b684e1097684c7e88b,L. Gasparotto,York,Defender,7,630,0,0,6,0,2,0,5,5,2,0,2,0,84.0,1.0,0.0,2020,defender,0.0,0.0,0.8571428571428571,0.2857142857142857,0.0,90.0
-cpl::Football_Player::5dd63e2f035e4b68a7987b7a747ecd51,L. MacNaughton,,Defender,8,720,1,0,7,0,1,0,9,15,10,0,0,0,82.0,1.12,0.0,2020,defender,0.125,0.0,0.875,0.125,0.0,90.0
-cpl::Football_Player::5cfbd430bf3149adb654cadb7f68b7c2,L. Wright,TSS Rovers,Forward,4,128,1,0,3,0,1,0,2,2,0,0,0,0,58.0,0.0,0.0,2020,forward,0.25,0.0,0.75,0.25,0.0,32.0
-cpl::Football_Player::5e944a82a82b42b483bed288bb7633a8,M. Aparicio,Atlético,Midfielder,6,530,2,0,9,0,3,0,9,14,10,2,2,0,79.0,0.68,0.0,2020,midfielder,0.3333333333333333,0.0,1.5,0.5,0.0,88.33333333333333
-cpl::Football_Player::dbd655d062324c56adb1ab7d3e8ef373,M. Arnone,Atlético,Defender,2,62,0,0,0,0,0,0,1,1,1,0,0,0,80.0,4.35,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,31.0
-cpl::Football_Player::91a915f684dc4b769c0cf45719f2a87e,M. Bustos,Pacific,Forward,10,849,5,3,19,0,11,3,3,12,35,2,3,0,85.0,1.17,0.0,2020,forward,0.5,0.3,1.9,1.1,0.3,84.9
-cpl::Football_Player::23c92ceb8bee415a886f16e93c507c65,M. Carducci,Cavalry,Goalkeeper,9,810,0,0,0,0,0,0,0,1,1,0,1,0,69.0,1.11,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::5f585afd80bf4da49e777b319b807047,M. Djaozandry,Atlético,Defender,1,6,0,0,0,0,0,0,1,0,0,0,0,0,100.0,15.0,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,6.0
-cpl::Football_Player::3d491de2b55343c2990181e2b04da353,M. Doner,York,Defender,7,630,0,0,0,0,0,0,4,4,6,0,0,0,83.0,1.0,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::06a7cbbdbcac4641ac0ddc55b4c05117,M. Dyer,Vancouver FC,Forward,6,272,1,0,8,0,2,0,3,10,12,2,0,0,81.0,0.66,0.0,2020,forward,0.16666666666666666,0.0,1.3333333333333333,0.3333333333333333,0.0,45.333333333333336
-cpl::Football_Player::7efa8b85b3504cb88554fb705dcc5e4a,M. Farsi,Columbus,Defender,10,611,1,1,3,0,2,1,8,7,20,0,2,0,75.0,1.03,0.0,2020,defender,0.1,0.1,0.3,0.2,0.1,61.1
-cpl::Football_Player::0a9e81414bcf48d388274099578d7521,M. Haber,Pacific,Forward,9,507,2,0,14,0,8,0,0,16,9,2,1,0,62.0,0.89,0.0,2020,forward,0.2222222222222222,0.0,1.5555555555555556,0.8888888888888888,0.0,56.333333333333336
-cpl::Football_Player::e7267f506fe9420b8f1529ab912d5a08,M. Hamilton,Cavalry,Defender,7,630,0,1,0,0,0,1,7,10,3,0,0,0,82.0,1.71,0.0,2020,defender,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,90.0
-cpl::Football_Player::ce3fbd6fe22a4e729054951b2effe079,M. Kacher,Valour,Midfielder,6,360,1,0,4,0,1,0,1,2,6,1,1,0,75.0,0.75,0.0,2020,midfielder,0.16666666666666666,0.0,0.6666666666666666,0.16666666666666666,0.0,60.0
-cpl::Football_Player::a75ac9bdd7fe4c87bd657f07db89d6e2,M. Kapor,Atlético,Defender,6,495,0,0,0,0,0,0,1,8,4,0,1,1,87.0,1.09,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,82.5
-cpl::Football_Player::0e88e595803f478f818bcdc64bd36b6d,M. Kourouma,Wanderers,Forward,7,617,1,0,11,0,6,0,7,12,12,0,1,0,78.0,1.6,0.0,2020,forward,0.14285714285714285,0.0,1.5714285714285714,0.8571428571428571,0.0,88.14285714285714
-cpl::Football_Player::0437038bc2254a4a93d8d74d4278c768,M. Mohsen,Forge,Defender,3,208,0,0,0,0,0,0,4,0,10,1,0,0,84.0,1.73,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,69.33333333333333
-cpl::Football_Player::fba3134832e445b5824410919421b981,M. Petrasso,Montréal,Forward,3,130,0,0,5,0,1,0,0,1,3,0,0,0,85.0,0.69,0.0,2020,forward,0.0,0.0,1.6666666666666667,0.3333333333333333,0.0,43.333333333333336
-cpl::Football_Player::6085b5eefe2b42e6810a6fd5a6b07c43,M. Restrepo,Wanderers,Defender,10,626,0,0,0,0,0,0,21,14,5,0,1,0,70.0,1.15,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,62.6
-cpl::Football_Player::3a8819a7f06c45a38e951d42d8743025,M. Shaw,Cavalry,Forward,7,595,2,1,12,0,6,1,3,17,19,5,0,0,81.0,1.51,0.0,2020,forward,0.2857142857142857,0.14285714285714285,1.7142857142857142,0.8571428571428571,0.14285714285714285,85.0
-cpl::Football_Player::c838c44902a6469485723a328e0d5531,M. Silva,York,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::d1f7a45d1b0d48fa84ac505abc9a8a91,M. Temguia,Edmonton,Defender,5,450,0,0,3,0,1,0,10,13,7,0,0,0,85.0,2.2,0.0,2020,defender,0.0,0.0,0.6,0.2,0.0,90.0
-cpl::Football_Player::88981199ee1c47cbb911a6b22266e324,M. Tissot,Atlético,Defender,11,394,1,2,5,0,3,2,5,4,4,1,1,0,75.0,0.91,0.0,2020,defender,0.09090909090909091,0.18181818181818182,0.45454545454545453,0.2727272727272727,0.18181818181818182,35.81818181818182
-cpl::Football_Player::00cb81880a254ba7957fdb6ee6eec8a8,M. Trafford,Cavalry,Defender,8,720,0,0,2,0,1,0,8,8,5,0,0,0,86.0,1.0,0.0,2020,defender,0.0,0.0,0.25,0.125,0.0,90.0
-cpl::Football_Player::16b384ec036b4bccb9be3e98bf2b8088,M. Village,Pacific,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::2a2dcc3d5b52458b87405d47509cd686,M. Zajac,Forge,Forward,4,237,0,0,3,0,1,0,4,6,5,2,2,0,80.0,1.52,0.0,2020,forward,0.0,0.0,0.75,0.25,0.0,59.25
-cpl::Football_Player::7b0f6d51a0774b0691b240a3a96bc0ee,M. de Brienne,Atlético,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,defender,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::79d4e376b2c74a5fbcb22b655feaae51,M. de Jong,Whitecaps,Defender,7,442,0,0,6,0,2,0,9,3,4,0,0,0,73.0,1.22,0.0,2020,defender,0.0,0.0,0.8571428571428571,0.2857142857142857,0.0,63.142857142857146
-cpl::Football_Player::82ff8e880ba54f74a34fe1f8165f3b46,Matthew Baldisimo,York,Midfielder,10,875,0,1,6,0,2,1,18,16,11,0,1,0,81.0,1.23,0.0,2020,midfielder,0.0,0.1,0.6,0.2,0.1,87.5
-cpl::Football_Player::99a91175ff8e476ca86125ecab87f00b,Mo Babouli,Forge,Forward,10,455,1,2,5,0,4,2,3,9,8,4,0,0,69.0,0.59,0.0,2020,forward,0.1,0.2,0.5,0.4,0.2,45.5
-cpl::Football_Player::d7a3107cbc0c426399a5c65c18e39d14,N. Giantsopoulos,Vancouver FC,Goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,58.0,1.0,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::364352c812a14e868234e4883c9bd4e0,N. Ingham,Atlético,Goalkeeper,6,540,0,0,0,0,0,0,0,0,1,0,0,0,76.0,1.0,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::3f9fd29f429f4cf7838256806a93e993,N. Ledgerwood,Cavalry,Midfielder,7,411,1,1,4,0,2,1,7,13,10,0,1,0,72.0,1.09,0.0,2020,midfielder,0.14285714285714285,0.14285714285714285,0.5714285714285714,0.2857142857142857,0.14285714285714285,58.714285714285715
-cpl::Football_Player::528b48f0adc7452ea0b4d13358823c87,N. Mavila,Cavalry,Defender,9,709,3,1,10,0,6,1,6,21,11,0,1,0,73.0,1.14,0.0,2020,defender,0.3333333333333333,0.1111111111111111,1.1111111111111112,0.6666666666666666,0.1111111111111111,78.77777777777777
-cpl::Football_Player::56a1c426e347456e875c52b4e799f2ea,N. Pasquotti,Cavalry,Forward,8,537,0,0,6,0,2,0,7,6,11,2,0,0,77.0,0.84,0.0,2020,forward,0.0,0.0,0.75,0.25,0.0,67.125
-cpl::Football_Player::0193e9b2803b43938a676ad9232cede8,N. Verhoeven,Atlético,Midfielder,3,173,0,0,2,0,2,0,3,2,1,2,0,0,74.0,1.56,0.0,2020,midfielder,0.0,0.0,0.6666666666666666,0.6666666666666666,0.0,57.666666666666664
-cpl::Football_Player::0665c6ea0ce84bd49b9ebba2cf80c8e2,N. Wirth,Pacific,Goalkeeper,4,360,0,0,0,0,0,0,0,1,3,0,0,0,73.0,1.25,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::7c327d61caf549ff8299ec42bacce566,Nacho Zabal,Atlético,Goalkeeper,7,630,0,0,0,0,0,0,0,0,1,0,0,0,63.0,1.71,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::bab7421be1524ee7869d7eb277c88bb8,O. Kreim,Blainville,Midfielder,10,372,1,0,1,0,1,0,7,3,11,0,0,0,77.0,2.42,0.0,2020,midfielder,0.1,0.0,0.1,0.1,0.0,37.2
-cpl::Football_Player::ce28065c8a3b4288ba09d3e26cc5e4fd,O.Fakunle,Cavalry,Forward,1,7,0,0,1,0,0,0,0,0,0,0,0,0,67.0,0.0,0.0,2020,forward,0.0,0.0,1.0,0.0,0.0,7.0
-cpl::Football_Player::01e4dc8e491d40f5aa24f147fe23b6e1,Oliver Minatel,Cavalry,Forward,7,454,0,1,6,0,2,1,2,10,8,0,0,0,81.0,1.19,0.0,2020,forward,0.0,0.14285714285714285,0.8571428571428571,0.2857142857142857,0.14285714285714285,64.85714285714286
-cpl::Football_Player::b65c33938a67445fa2637462ffcf71e2,P. Sabak,Forge,Forward,11,752,2,2,11,0,3,2,4,14,21,1,1,0,78.0,0.72,0.0,2020,forward,0.18181818181818182,0.18181818181818182,1.0,0.2727272727272727,0.18181818181818182,68.36363636363636
-cpl::Football_Player::9872d0a42804454098f50f548fd3f290,P. Schaale,Wanderers,Defender,10,900,0,0,3,0,0,0,11,9,4,0,3,0,70.0,1.1,0.0,2020,defender,0.0,0.0,0.3,0.0,0.0,90.0
-cpl::Football_Player::859df54960ef45ef98a04d967baa8d96,R. Boskovic,Ottawa Fury,Defender,6,479,0,0,3,0,0,0,4,7,4,1,2,0,81.0,0.94,0.0,2020,defender,0.0,0.0,0.5,0.0,0.0,79.83333333333333
-cpl::Football_Player::692d080cedb84a6cb1424836cc8e6daf,R. Garcia,Valour,Defender,1,26,0,0,1,0,1,0,0,0,0,0,0,0,100.0,3.46,0.0,2020,defender,0.0,0.0,1.0,1.0,0.0,26.0
-cpl::Football_Player::6157ad2ed4f14fa1a4a7327dbeed8aba,R. Gomes,Atlético,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0
-cpl::Football_Player::3a40cda943824387943792e6a62fee0f,R. Telfer,Wanderers,Forward,7,620,0,0,14,0,7,0,7,10,15,2,3,0,73.0,0.87,0.0,2020,forward,0.0,0.0,2.0,1.0,0.0,88.57142857142857
-cpl::Football_Player::ebfeb9e972964148846658f57142a247,R. Thompson,York,Defender,7,630,0,0,2,0,0,0,4,5,2,0,0,0,77.0,1.0,0.0,2020,defender,0.0,0.0,0.2857142857142857,0.0,0.0,90.0
-cpl::Football_Player::636928fc1d194bd798a9ac73f086a9ba,S. Antwi,Valour,Forward,4,80,0,0,1,0,0,0,3,3,1,0,0,0,75.0,0.0,0.0,2020,forward,0.0,0.0,0.25,0.0,0.0,20.0
-cpl::Football_Player::9a6571b3737143b79989244b08fbd50d,S. Camargo,Cavalry,Midfielder,2,130,1,0,3,0,1,0,0,1,1,1,1,0,80.0,1.38,0.0,2020,midfielder,0.5,0.0,1.5,0.5,0.0,65.0
-cpl::Football_Player::9743204ff22741e9958a22019e709346,S. Cebara,Valour,Defender,6,458,0,0,2,0,1,0,6,6,5,0,1,0,79.0,1.38,0.0,2020,defender,0.0,0.0,0.3333333333333333,0.16666666666666666,0.0,76.33333333333333
-cpl::Football_Player::f77e3806065040479a624ed8a41a3971,S. Firth,Wanderers,Midfielder,2,98,0,0,0,0,0,0,1,0,3,0,0,0,87.0,5.51,0.0,2020,midfielder,0.0,0.0,0.0,0.0,0.0,49.0
-cpl::Football_Player::9577790c0cf54495843d303127992c4d,S. Hundal,Valour,Forward,6,232,0,2,4,0,4,2,0,7,0,3,1,0,77.0,1.55,0.0,2020,forward,0.0,0.3333333333333333,0.6666666666666666,0.6666666666666666,0.3333333333333333,38.666666666666664
-cpl::Football_Player::03b82a7bcff7496e991befe586fcc2c9,S. Young,Pacific,Midfielder,9,462,0,0,2,0,1,0,7,12,5,1,1,0,83.0,0.97,0.0,2020,midfielder,0.0,0.0,0.2222222222222222,0.1111111111111111,0.0,51.333333333333336
-cpl::Football_Player::dd4f4492d8c24742a0221478a33737d8,Son Yong-Chan,Edmonton,Midfielder,4,303,0,0,0,0,0,0,2,8,3,0,0,0,83.0,1.78,0.0,2020,midfielder,0.0,0.0,0.0,0.0,0.0,75.75
-cpl::Football_Player::c3a357530ca345ee801114eea7ffc636,Soria,Edmonton,Midfielder,7,630,0,0,1,0,0,0,5,7,4,2,1,0,82.0,2.0,0.0,2020,midfielder,0.0,0.0,0.14285714285714285,0.0,0.0,90.0
-cpl::Football_Player::49bd7ec1be034a33a576d28b705b3611,T. Ameobi,Edmonton,Forward,7,287,0,0,3,0,2,0,1,8,5,2,2,0,75.0,2.51,0.0,2020,forward,0.0,0.0,0.42857142857142855,0.2857142857142857,0.0,41.0
-cpl::Football_Player::982a96a792e04404805090a131cb95df,T. Campbell,Vancouver FC,Forward,10,480,1,1,10,0,3,1,4,13,3,3,0,0,67.0,1.12,0.0,2020,forward,0.1,0.1,1.0,0.3,0.1,48.0
-cpl::Football_Player::7c054612559b45f2a7ef690616b61862,T. Henry,Forge,Goalkeeper,10,900,0,0,0,0,0,0,0,0,6,0,0,0,85.0,0.8,0.0,2020,goalkeeper,0.0,0.0,0.0,0.0,0.0,90.0
-cpl::Football_Player::d46e06f14e0d47e58d6f5f00e1eabfa9,T. Meilleur-Giguère,Wanderers,Defender,10,900,0,0,2,0,2,0,3,5,1,1,1,0,87.0,1.3,0.0,2020,defender,0.0,0.0,0.2,0.2,0.0,90.0
-cpl::Football_Player::fc30920bb1964b1abda3a2fa7dbe8fd6,T. Mohammed,York,Defender,5,303,0,1,1,0,0,1,10,9,8,0,1,1,77.0,2.08,0.0,2020,defender,0.0,0.2,0.2,0.0,0.2,60.6
-cpl::Football_Player::5a3736a2d77f4ba6b4815db18ecee270,V. Neufville,Atlético,Defender,5,241,0,1,0,0,0,1,1,9,6,1,0,1,63.0,1.12,0.0,2020,defender,0.0,0.2,0.0,0.0,0.2,48.2
-cpl::Football_Player::b38a140a30ab499ba3bc6aa4ad4d07a1,Viti Martínez,Atlético,Midfielder,6,540,1,0,7,0,4,0,7,12,5,0,2,0,79.0,1.67,0.0,2020,midfielder,0.16666666666666666,0.0,1.1666666666666667,0.6666666666666666,0.0,90.0
-cpl::Football_Player::52ee822ec2ea43bc844f27d96e16334b,Víctor Blasco,Pacific,Forward,10,644,2,2,11,0,3,2,11,12,14,3,2,0,75.0,0.98,0.0,2020,forward,0.2,0.2,1.1,0.3,0.2,64.4
-cpl::Football_Player::0e6d9987204441a9a9d05ed9f620ce78,W. Murofushi,York,Midfielder,7,329,0,0,2,0,0,0,4,8,10,0,0,0,89.0,0.27,0.0,2020,midfielder,0.0,0.0,0.2857142857142857,0.0,0.0,47.0
-cpl::Football_Player::fd03514f423c4cf7b7ff6fc6b9d2536d,Y. Le Bourhis,Valour,Defender,1,90,1,0,2,0,2,0,0,2,0,0,0,0,75.0,2.0,0.0,2020,defender,1.0,0.0,2.0,2.0,0.0,90.0
-cpl::Football_Player::88ac022bf06149f1be2ce2ab7f3c087c,Z. Verhoven,Vancouver FC,Midfielder,9,308,1,1,4,0,2,1,5,16,4,1,1,0,78.0,1.46,0.0,2020,midfielder,0.1111111111111111,0.1111111111111111,0.4444444444444444,0.2222222222222222,0.1111111111111111,34.22222222222222
-cpl::Football_Player::ba843603344f42e9b03b3fd297b2da9d,Álvaro Rivero,York,Forward,7,359,1,0,5,0,2,0,0,5,10,0,0,0,88.0,1.5,0.0,2020,forward,0.14285714285714285,0.0,0.7142857142857143,0.2857142857142857,0.0,51.285714285714285
+playerName,season,team,position,role,GamesPlayed,Minutes,Goals,Assists,Shots,GoalInvolvements,ShotsOnTarget,KeyPasses,Tackles,FoulsCommitted,FoulsSuffered,Offsides,YellowCards,RedCards,PassPct,GAA,SavePct,G_per_game,A_per_game,S_per_game,SOT_per_game,KP_per_game,Minutes_per_game,playerId
+A. Achinioti-Jönsson,2020,Forge,Midfielder,midfielder,11,792,3,0,6,0,4,0,10,12,13,0,1,0,82.0,1.02,0.0,0.2727272727272727,0.0,0.5454545454545454,0.36363636363636365,0.0,72.0,cpl::Football_Player::33b0cf3a477d454f96fe4f14c3b6125c
+A. Bouka,2020,Valour,Defender,defender,2,70,0,0,0,0,0,0,1,1,2,0,0,0,53.0,3.86,0.0,0.0,0.0,0.0,0.0,0.0,35.0,cpl::Football_Player::270eb17b99df4a3ea3a65d918a9c385e
+A. Coupland,2020,Whitecaps,Midfielder,midfielder,3,97,0,0,0,0,0,0,2,4,2,0,1,0,75.0,6.49,0.0,0.0,0.0,0.0,0.0,0.0,32.333333333333336,cpl::Football_Player::8b3bce6c12a8410c97766fbccc51d981
+A. De Carolis,2020,Wanderers,Defender,defender,6,371,1,0,2,0,1,0,5,6,4,1,1,0,73.0,1.94,0.0,0.16666666666666666,0.0,0.3333333333333333,0.16666666666666666,0.0,61.833333333333336,cpl::Football_Player::cfb4634bc5a0472c9999c3364d73937c
+A. Díaz,2020,Vancouver FC,Forward,forward,10,609,3,2,13,0,8,2,1,4,5,3,0,0,70.0,1.63,0.0,0.3,0.2,1.3,0.8,0.2,60.9,cpl::Football_Player::cd1e9f98817545a8904ffd9556963f44
+A. García,2020,Wanderers,Forward,forward,10,758,6,0,19,0,11,0,0,17,24,13,0,0,81.0,1.19,0.0,0.6,0.0,1.9,1.1,0.0,75.8,cpl::Football_Player::4a3790eed104423781b21001cbce69e9
+A. Hojabrpour,2020,Forge,Midfielder,midfielder,10,385,0,0,3,0,0,0,11,5,2,0,0,0,80.0,1.64,0.0,0.0,0.0,0.3,0.0,0.0,38.5,cpl::Football_Player::6a778700603244eeabcce04c59c6ccc0
+A. Jean-Baptiste,2020,Valour,Defender,defender,6,462,1,0,2,0,1,0,5,8,5,0,0,0,81.0,0.97,0.0,0.16666666666666666,0.0,0.3333333333333333,0.16666666666666666,0.0,77.0,cpl::Football_Player::d29736b5baf24409acfa96d3a52436e1
+A. Khabra,2020,Edmonton,Midfielder,midfielder,6,308,0,0,0,0,0,0,3,12,3,1,1,0,87.0,2.63,0.0,0.0,0.0,0.0,0.0,0.0,51.333333333333336,cpl::Football_Player::b34859d026f14f39b1d8a7e139f53ed1
+A. Marshsall,2020,Wanderers,Forward,forward,11,583,0,2,7,0,2,2,6,14,17,1,1,0,75.0,1.08,0.0,0.0,0.18181818181818182,0.6363636363636364,0.18181818181818182,0.18181818181818182,53.0,cpl::Football_Player::3b722a31cec745c3be4c298eeeee5dbc
+A. Novak,2020,Forge,Forward,forward,9,381,2,0,8,0,6,0,3,4,9,1,0,0,81.0,0.94,0.0,0.2222222222222222,0.0,0.8888888888888888,0.6666666666666666,0.0,42.333333333333336,cpl::Football_Player::337fb1e9243f40eeacf44fe5123d4089
+A. Pepple,2020,Cavalry,Forward,forward,6,67,0,0,2,0,1,0,1,2,0,1,0,0,77.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.16666666666666666,0.0,11.166666666666666,cpl::Football_Player::1b5317cdeb7f40dd8a7eccc207d46158
+A. Ricci,2020,Vancouver FC,Forward,forward,6,365,0,0,8,0,5,0,5,9,9,1,3,0,59.0,0.99,0.0,0.0,0.0,1.3333333333333333,0.8333333333333334,0.0,60.833333333333336,cpl::Football_Player::1ece129a4fee46d18322a9312200459f
+A. Riggi,2020,Wanderers,Forward,forward,8,471,1,1,6,0,5,1,7,7,7,2,0,0,74.0,0.38,0.0,0.125,0.125,0.75,0.625,0.125,58.875,cpl::Football_Player::c8dce536cf5f4f02be8d2f7ba48e6929
+A. Samaké,2020,Valour,Defender,defender,3,89,0,0,0,0,0,0,1,2,0,0,0,0,81.0,2.02,0.0,0.0,0.0,0.0,0.0,0.0,29.666666666666668,cpl::Football_Player::fd9ddb9946a84feeb1b5e9a8dd531160
+A. Sissoko,2020,Atlético,Midfielder,midfielder,10,707,0,0,4,0,1,0,16,10,11,0,0,0,83.0,1.02,0.0,0.0,0.0,0.4,0.1,0.0,70.7,cpl::Football_Player::bcd2bd431fea40f2ad5e2cd7d95bef32
+A. Đidić,2020,Atlético,Defender,defender,3,241,0,0,1,0,0,0,3,1,0,0,0,0,84.0,1.49,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,80.33333333333333,cpl::Football_Player::46e85b6f18f042fe837554290482828b
+B. Fisk,2020,Vancouver FC,Midfielder,midfielder,7,601,1,0,8,0,5,0,7,4,5,0,1,0,79.0,1.05,0.0,0.14285714285714285,0.0,1.1428571428571428,0.7142857142857143,0.0,85.85714285714286,cpl::Football_Player::423863e33e8f4745b70e6092f11a184d
+B. John,2020,Atlético,Defender,defender,7,618,0,0,0,0,0,0,5,11,14,0,2,0,80.0,1.75,0.0,0.0,0.0,0.0,0.0,0.0,88.28571428571429,cpl::Football_Player::d1433885dbb94149b5acefd04d818f56
+B. Levis,2020,Atlético,Defender,defender,5,383,0,2,2,0,2,2,8,9,9,0,1,0,84.0,1.17,0.0,0.0,0.4,0.4,0.4,0.4,76.6,cpl::Football_Player::8a6c8e7f553849f9a237ca5dd408e66d
+B. Maan,2020,Valour,Goalkeeper,goalkeeper,1,90,0,0,0,0,0,0,0,0,2,0,0,0,74.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::f93dee067b364c69b3a231cfb723817f
+B. McKendry,2020,Atlético,Midfielder,midfielder,7,408,0,0,1,0,1,0,16,9,2,0,2,0,79.0,1.54,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285,0.0,58.285714285714285,cpl::Football_Player::4b6c1da63a144cfeb39e765ea2e3039c
+B. Zebie,2020,Edmonton,Midfielder,midfielder,10,480,0,0,5,0,1,0,9,10,11,0,0,0,82.0,1.12,0.0,0.0,0.0,0.5,0.1,0.0,48.0,cpl::Football_Player::3b2542a004d146b1bf7e3ef7f0ec811f
+C. Bent,2020,Wanderers,Forward,forward,10,500,1,0,3,0,1,0,3,9,14,5,0,0,63.0,1.08,0.0,0.1,0.0,0.3,0.1,0.0,50.0,cpl::Football_Player::6a7b9320483e458792ebd1f94a00baf0
+C. Hocine,2020,Wanderers,Defender,defender,1,66,0,0,1,0,0,0,1,3,1,0,0,0,79.0,2.73,0.0,0.0,0.0,1.0,0.0,0.0,66.0,cpl::Football_Player::d673ea35954f4370867e9810a89a6902
+C. Irving,2020,Vancouver FC,Goalkeeper,goalkeeper,6,540,0,0,0,0,0,0,0,0,2,0,1,0,72.0,1.33,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::ed6b655ed6bb4c7baedb0fe8fc42495d
+C. Mannella,2020,Ottawa Fury,Midfielder,midfielder,2,100,0,0,0,0,0,0,4,3,3,0,1,0,76.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,50.0,cpl::Football_Player::33a38df225e24270b44c1fdfde2eb7a9
+C. N'Sa,2020,Wanderers,Defender,defender,9,738,0,0,2,0,0,0,16,10,17,1,0,0,73.0,1.1,0.0,0.0,0.0,0.2222222222222222,0.0,0.0,82.0,cpl::Football_Player::1ada73d8bf034890ab66cfbd681d0f7c
+C. Nanco,2020,Forge,Forward,forward,5,224,2,0,3,0,3,0,3,7,2,0,0,0,70.0,1.21,0.0,0.4,0.0,0.6,0.6,0.0,44.8,cpl::Football_Player::55dd391822fa4ee9a317707f26e1ddc9
+D. Abzi,2020,Blainville,Defender,defender,5,438,0,0,7,0,2,0,6,5,6,0,0,0,70.0,0.82,0.0,0.0,0.0,1.4,0.4,0.0,87.6,cpl::Football_Player::1669b606345b4345b00d59de89c1c7eb
+D. Campbell,2020,Valour,Midfielder,midfielder,5,227,0,0,0,0,0,0,5,4,4,0,1,0,73.0,1.98,0.0,0.0,0.0,0.0,0.0,0.0,45.4,cpl::Football_Player::a4d26a57d62040df8359a9bc96b1db67
+D. Carreiro,2020,Vaughan,Midfielder,midfielder,7,333,1,0,6,0,4,0,2,0,13,0,1,0,79.0,1.89,0.0,0.14285714285714285,0.0,0.8571428571428571,0.5714285714285714,0.0,47.57142857142857,cpl::Football_Player::392be6a9c97c4804a198cd3b34e93705
+D. Choinière,2020,Forge,Forward,forward,11,598,1,1,4,0,3,1,5,6,14,4,0,0,81.0,0.9,0.0,0.09090909090909091,0.09090909090909091,0.36363636363636365,0.2727272727272727,0.09090909090909091,54.36363636363637,cpl::Football_Player::04cd976c461148d79ab8cafc0bf69c62
+D. Edgar,2020,Ottawa Fury,Defender,defender,10,900,0,0,3,0,2,0,5,12,3,0,4,0,82.0,0.8,0.0,0.0,0.0,0.3,0.2,0.0,90.0,cpl::Football_Player::4d80c00c2a1f41918fca2b04e26b6034
+D. Fordyce,2020,Valour,Forward,forward,5,164,1,0,4,0,3,0,0,5,3,1,0,0,63.0,2.74,0.0,0.2,0.0,0.8,0.6,0.0,32.8,cpl::Football_Player::48e58b3fa72f4f24ab03510e47ad2e6b
+D. Gutiérrez,2020,Cavalry,Midfielder,midfielder,7,489,0,0,1,0,0,0,7,10,6,0,1,0,84.0,0.74,0.0,0.0,0.0,0.14285714285714285,0.0,0.0,69.85714285714286,cpl::Football_Player::d80c8273244649a0841591e849fc3590
+D. Kinumbe,2020,Ottawa Fury,Defender,defender,4,208,0,0,1,0,0,0,2,1,4,2,0,0,69.0,3.03,0.0,0.0,0.0,0.25,0.0,0.0,52.0,cpl::Football_Player::915deb7a225b43bf96bef5524d31ce6e
+D. Krutzen,2020,Forge,Defender,defender,11,961,2,0,10,0,3,0,10,14,18,0,2,0,78.0,0.94,0.0,0.18181818181818182,0.0,0.9090909090909091,0.2727272727272727,0.0,87.36363636363636,cpl::Football_Player::8d7834c08c834b28a4daef064d1e6041
+D. Lee,2020,Wanderers,Defender,defender,2,123,0,0,0,0,0,0,3,1,1,0,1,0,83.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,61.5,cpl::Football_Player::94c3ab35a187436683aa1e7c720bf37a
+D. Northover,2020,Cavalry,Defender,defender,7,355,0,0,0,0,0,0,4,8,13,0,0,0,64.0,1.27,0.0,0.0,0.0,0.0,0.0,0.0,50.714285714285715,cpl::Football_Player::14db7405a9c04988b3f8c7e7462ccab0
+D. Powley,2020,Edmonton,Goalkeeper,goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,78.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::7517829ba9bc4c5f89f19a60bcaa4cc8
+D. Samuel,2020,Forge,Defender,defender,10,721,0,0,2,0,0,0,7,12,17,0,2,0,76.0,1.0,0.0,0.0,0.0,0.2,0.0,0.0,72.1,cpl::Football_Player::6981001867ad42d9b6d9bfc216cfab71
+D. Zator,2020,Cavalry,Defender,defender,10,900,1,0,8,0,4,0,12,9,11,0,0,0,79.0,1.1,0.0,0.1,0.0,0.8,0.4,0.0,90.0,cpl::Football_Player::907ea07d836b4d78a6fd1c95e7081ee6
+E. Adekugbe,2020,York,Midfielder,midfielder,9,638,1,1,5,0,4,1,9,7,20,1,2,0,86.0,1.41,0.0,0.1111111111111111,0.1111111111111111,0.5555555555555556,0.4444444444444444,0.1111111111111111,70.88888888888889,cpl::Football_Player::b78b9cf10b374d23824749c6e410990c
+E. Carrasco,2020,York,Goalkeeper,goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,87.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::e19c5e780a7347dcbb948ca726281b33
+E. Cissé,2020,Forge,Midfielder,midfielder,8,539,0,0,5,0,3,0,12,10,12,1,0,0,80.0,1.17,0.0,0.0,0.0,0.625,0.375,0.0,67.375,cpl::Football_Player::9530e64bf7744102b3eeecd7fcf46c34
+E. Ongaro,2020,Edmonton,Forward,forward,7,480,3,0,8,0,3,0,1,4,5,2,0,0,77.0,1.69,0.0,0.42857142857142855,0.0,1.1428571428571428,0.42857142857142855,0.0,68.57142857142857,cpl::Football_Player::a0c39d4aadea4642ba22743b4c68b23a
+E. Simmons,2020,Vancouver FC,Midfielder,midfielder,10,627,0,0,1,0,0,0,6,9,1,0,1,0,82.0,1.0,0.0,0.0,0.0,0.1,0.0,0.0,62.7,cpl::Football_Player::6bda12878690489697b20b110e311ad1
+E. Zetterberg,2020,Edmonton,Midfielder,midfielder,7,465,0,0,4,0,1,0,4,6,7,0,2,0,80.0,2.52,0.0,0.0,0.0,0.5714285714285714,0.14285714285714285,0.0,66.42857142857143,cpl::Football_Player::669592045b2e47929154e4fd2bbb5bdc
+F. Acuña,2020,Atlético,Midfielder,midfielder,7,531,2,2,3,0,3,2,8,4,8,3,2,0,84.0,0.68,0.0,0.2857142857142857,0.2857142857142857,0.42857142857142855,0.42857142857142855,0.2857142857142857,75.85714285714286,cpl::Football_Player::0f2270114a7f4e83a73a34f161dc9e16
+F. Aird,2020,Cavalry,Defender,defender,6,453,1,0,9,0,7,0,2,10,5,0,3,0,76.0,1.39,0.0,0.16666666666666666,0.0,1.5,1.1666666666666667,0.0,75.5,cpl::Football_Player::41f23e52e26541bca62d8378fafc1953
+F. Segawa,2020,York,Defender,defender,5,353,0,0,0,0,0,0,7,6,9,0,1,0,86.0,1.02,0.0,0.0,0.0,0.0,0.0,0.0,70.6,cpl::Football_Player::6256907c7f33461b865ece1a719ff279
+G. Facchineri,2020,Valour,Defender,defender,5,206,0,0,1,0,0,0,8,5,2,0,0,0,82.0,3.06,0.0,0.0,0.0,0.2,0.0,0.0,41.2,cpl::Football_Player::8c250cb48a3648f2bfe78681f613b119
+G. Wiethaeuper-Balbinotti,2020,Ottawa Fury,Forward,forward,6,203,0,0,5,0,1,0,2,8,3,3,1,0,62.0,1.33,0.0,0.0,0.0,0.8333333333333334,0.16666666666666666,0.0,33.833333333333336,cpl::Football_Player::44fb3fb969744342bac4a9ebfa751e21
+Gabriel Vasconcelos,2020,York,Forward,forward,2,87,0,0,1,0,0,0,0,1,0,1,0,0,79.0,3.1,0.0,0.0,0.0,0.5,0.0,0.0,43.5,cpl::Football_Player::54bd7a3f34314464b660277f9eadf394
+H. Boakai,2020,Edmonton,Forward,forward,6,309,0,0,3,0,2,0,3,5,5,0,0,0,89.0,1.46,0.0,0.0,0.0,0.5,0.3333333333333333,0.0,51.5,cpl::Football_Player::de9e3e4ab3ca41d7ac62dcd9bc72970a
+H. Sobze Zemo,2020,Atlético,Goalkeeper,goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::beca7bab90be4d31a7ff77853f824bea
+I. Halley,2020,York,Forward,forward,4,157,0,0,2,0,2,0,1,5,7,2,0,0,75.0,1.15,0.0,0.0,0.0,0.5,0.5,0.0,39.25,cpl::Football_Player::5113470034d346478fcfd237037f2971
+I. Sanoh,2020,Wanderers,Forward,forward,5,124,1,0,3,0,1,0,0,1,2,1,0,0,56.0,3.63,0.0,0.2,0.0,0.6,0.2,0.0,24.8,cpl::Football_Player::c9180268639c4deab949baa197a52103
+J. Altobelli,2020,York,Forward,forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::96d163c606db462b80071516a2d4772b
+J. Beaulieu,2020,Wanderers,Goalkeeper,goalkeeper,4,360,0,0,0,0,0,0,0,2,3,0,1,0,68.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::47dc6e2b3ef94651abd804e8ba91936c
+J. Brown,2020,Cavalry,Forward,forward,10,657,3,0,13,0,7,0,2,13,5,2,0,0,82.0,1.1,0.0,0.3,0.0,1.3,0.7,0.0,65.7,cpl::Football_Player::2a0dc42d1dba4748a99b39aa920f7497
+J. Córdova,2020,Cavalry,Forward,forward,4,71,1,0,2,0,1,0,0,0,1,1,0,0,63.0,0.0,0.0,0.25,0.0,0.5,0.25,0.0,17.75,cpl::Football_Player::597b3ee52baf4b08a34e62c2a682fa7f
+J. Di Chiara,2020,York,Midfielder,midfielder,6,540,3,0,8,0,6,0,9,15,20,1,5,0,87.0,1.17,0.0,0.5,0.0,1.3333333333333333,1.0,0.0,90.0,cpl::Football_Player::316e45756fc44527ada7b1ea025918b0
+J. Dixon,2020,Ottawa Fury,Defender,defender,9,616,1,0,4,0,2,0,9,17,5,0,3,0,79.0,1.46,0.0,0.1111111111111111,0.0,0.4444444444444444,0.2222222222222222,0.0,68.44444444444444,cpl::Football_Player::aafb864d45ab43e8849d3cff096d5c07
+J. Dunn,2020,Wanderers,Defender,defender,7,630,0,0,0,0,0,0,8,8,3,0,0,0,82.0,1.29,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::360a1cff07aa439cb939b0d0d222b08c
+J. Dunstan,2020,Forge,Defender,defender,6,254,0,0,0,0,0,0,3,7,2,0,0,0,77.0,0.71,0.0,0.0,0.0,0.0,0.0,0.0,42.333333333333336,cpl::Football_Player::5f53ec18a0924d87ad1584a54346e758
+J. Esua,2020,Edmonton,Defender,defender,7,617,0,0,4,0,1,0,3,6,17,2,1,0,82.0,2.04,0.0,0.0,0.0,0.5714285714285714,0.14285714285714285,0.0,88.14285714285714,cpl::Football_Player::a766cd1734d84307a9ace241b64d8ed2
+J. Geffrard,2020,Wanderers,Defender,defender,11,945,0,0,3,0,2,0,4,8,5,0,1,0,82.0,1.43,0.0,0.0,0.0,0.2727272727272727,0.18181818181818182,0.0,85.9090909090909,cpl::Football_Player::340468323f3841eb8a68a4adfc0f1a9f
+J. Grant,2020,Atlético,Defender,defender,4,274,0,0,2,0,0,0,1,15,3,2,2,0,62.0,0.33,0.0,0.0,0.0,0.5,0.0,0.0,68.5,cpl::Football_Player::3aaf25a2f090423584d5e9d492e5ca42
+J. Haynes,2020,Valour,Defender,defender,8,465,0,0,0,0,0,0,7,4,5,0,2,0,71.0,1.55,0.0,0.0,0.0,0.0,0.0,0.0,58.125,cpl::Football_Player::9fa7232743934bf2a022c4fe6a62c1b6
+J. Heard,2020,Pacific,Forward,forward,5,218,1,1,5,0,1,1,1,8,9,0,1,0,72.0,1.65,0.0,0.2,0.2,1.0,0.2,0.2,43.6,cpl::Football_Player::df0de20d12274b3d9549323a3547572b
+J. Hernández,2020,Scottish,Forward,forward,3,102,0,0,1,0,0,0,3,5,2,2,1,0,82.0,2.65,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,34.0,cpl::Football_Player::32ac22e018504c2f98dc4d3c64e42803
+J. Kotsopoulos,2020,Forge,Forward,forward,1,28,0,0,0,0,0,0,2,0,0,0,0,0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,cpl::Football_Player::c45fe355ff194e53bcb0907c5b08814c
+J. Pantemis,2020,Montréal,Goalkeeper,goalkeeper,7,630,0,0,0,0,0,0,0,0,1,0,0,0,74.0,1.29,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::0043bfae03d74a4da54333508b314ace
+J. Phillips,2020,Vaughan,Defender,defender,5,290,0,0,0,0,0,0,7,2,4,0,0,0,65.0,1.24,0.0,0.0,0.0,0.0,0.0,0.0,58.0,cpl::Football_Player::6e1b99de8a2449b280f5b03505b74f6e
+J. Ruby,2020,Wanderers,Defender,defender,8,312,0,0,2,0,2,0,6,5,9,1,1,0,72.0,2.6,0.0,0.0,0.0,0.25,0.25,0.0,39.0,cpl::Football_Player::29e56c09baf549469b4a5934262e3dbf
+J. Wheeldon,2020,Cavalry,Defender,defender,6,459,0,0,1,0,0,0,2,10,2,0,1,1,83.0,1.18,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,76.5,cpl::Football_Player::65d2bf4929274b6f94dbbb949093b783
+J. Williams,2020,Wanderers,Goalkeeper,goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::73977448c290436b91cca653ba3a2c13
+José Galán,2020,Valour,Midfielder,midfielder,5,310,1,1,4,0,1,1,10,9,4,0,2,0,86.0,1.74,0.0,0.2,0.2,0.8,0.2,0.2,62.0,cpl::Football_Player::3f6a675727214bcc96972b28a2e3dbf8
+João Morelli,2020,Wanderers,Forward,forward,9,561,4,1,11,0,7,1,2,13,12,1,0,1,70.0,1.76,0.0,0.4444444444444444,0.1111111111111111,1.2222222222222223,0.7777777777777778,0.1111111111111111,62.333333333333336,cpl::Football_Player::751e68a27d374a64b9646c08102f6daf
+K. Alemán,2020,Scrosoppi,Midfielder,midfielder,7,537,1,0,7,0,1,0,8,6,18,1,1,0,82.0,1.84,0.0,0.14285714285714285,0.0,1.0,0.14285714285714285,0.0,76.71428571428571,cpl::Football_Player::5ce4b7ace82243faa7b342751ac3a642
+K. Awuah,2020,Forge,Defender,defender,11,842,1,0,2,0,2,0,16,11,11,1,1,0,72.0,0.75,0.0,0.09090909090909091,0.0,0.18181818181818182,0.18181818181818182,0.0,76.54545454545455,cpl::Football_Player::dbae960e1a0c4c7ba2104c9a904d6ab5
+K. Bekker,2020,Forge,Midfielder,midfielder,11,879,3,1,9,0,5,1,6,14,15,0,1,0,77.0,0.92,0.0,0.2727272727272727,0.09090909090909091,0.8181818181818182,0.45454545454545453,0.09090909090909091,79.9090909090909,cpl::Football_Player::0e2b6aa5fbdf49f399441b22b356d14c
+K. Chung,2020,Pacific,Defender,defender,9,765,0,1,0,0,0,1,16,4,7,0,1,0,83.0,1.29,0.0,0.0,0.1111111111111111,0.0,0.0,0.1111111111111111,85.0,cpl::Football_Player::edf6ef9ee973485dbbf8b5123cf83a94
+K. Moses,2020,Edmonton,Defender,defender,4,140,0,0,3,0,0,0,1,3,1,0,0,0,81.0,3.21,0.0,0.0,0.0,0.75,0.0,0.0,35.0,cpl::Football_Player::b81cbecf6fd24278954a45cb13e12632
+K. Porter,2020,Ottawa Fury,Forward,forward,6,372,1,1,3,0,2,1,2,4,4,1,0,0,86.0,0.97,0.0,0.16666666666666666,0.16666666666666666,0.5,0.3333333333333333,0.16666666666666666,62.0,cpl::Football_Player::a3da6283599541849144b5b108dbc67b
+K. Thomas,2020,Forge,Forward,forward,9,283,0,1,3,0,1,1,11,11,7,3,1,0,74.0,0.64,0.0,0.0,0.1111111111111111,0.3333333333333333,0.1111111111111111,0.1111111111111111,31.444444444444443,cpl::Football_Player::4feb899db58341fb9d242a518bac60ad
+K. Çela,2020,Forge,Defender,defender,2,2,0,0,0,0,0,0,0,1,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,cpl::Football_Player::347018d8099042888a6076bd0cea0744
+L. Béland-Goyette,2020,Montréal,Midfielder,midfielder,10,648,0,0,2,0,0,0,9,23,3,0,3,0,79.0,1.81,0.0,0.0,0.0,0.2,0.0,0.0,64.8,cpl::Football_Player::eab0ad0262a74f8b93974c91a77742b0
+L. Gasparotto,2020,York,Defender,defender,7,630,0,0,6,0,2,0,5,5,2,0,2,0,84.0,1.0,0.0,0.0,0.0,0.8571428571428571,0.2857142857142857,0.0,90.0,cpl::Football_Player::4a6631a1e64048b684e1097684c7e88b
+L. MacNaughton,2020,,Defender,defender,8,720,1,0,7,0,1,0,9,15,10,0,0,0,82.0,1.12,0.0,0.125,0.0,0.875,0.125,0.0,90.0,cpl::Football_Player::5dd63e2f035e4b68a7987b7a747ecd51
+L. Wright,2020,TSS Rovers,Forward,forward,4,128,1,0,3,0,1,0,2,2,0,0,0,0,58.0,0.0,0.0,0.25,0.0,0.75,0.25,0.0,32.0,cpl::Football_Player::5cfbd430bf3149adb654cadb7f68b7c2
+M. Aparicio,2020,Atlético,Midfielder,midfielder,6,530,2,0,9,0,3,0,9,14,10,2,2,0,79.0,0.68,0.0,0.3333333333333333,0.0,1.5,0.5,0.0,88.33333333333333,cpl::Football_Player::5e944a82a82b42b483bed288bb7633a8
+M. Arnone,2020,Atlético,Defender,defender,2,62,0,0,0,0,0,0,1,1,1,0,0,0,80.0,4.35,0.0,0.0,0.0,0.0,0.0,0.0,31.0,cpl::Football_Player::dbd655d062324c56adb1ab7d3e8ef373
+M. Bustos,2020,Pacific,Forward,forward,10,849,5,3,19,0,11,3,3,12,35,2,3,0,85.0,1.17,0.0,0.5,0.3,1.9,1.1,0.3,84.9,cpl::Football_Player::91a915f684dc4b769c0cf45719f2a87e
+M. Carducci,2020,Cavalry,Goalkeeper,goalkeeper,9,810,0,0,0,0,0,0,0,1,1,0,1,0,69.0,1.11,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::23c92ceb8bee415a886f16e93c507c65
+M. Djaozandry,2020,Atlético,Defender,defender,1,6,0,0,0,0,0,0,1,0,0,0,0,0,100.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,cpl::Football_Player::5f585afd80bf4da49e777b319b807047
+M. Doner,2020,York,Defender,defender,7,630,0,0,0,0,0,0,4,4,6,0,0,0,83.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::3d491de2b55343c2990181e2b04da353
+M. Dyer,2020,Vancouver FC,Forward,forward,6,272,1,0,8,0,2,0,3,10,12,2,0,0,81.0,0.66,0.0,0.16666666666666666,0.0,1.3333333333333333,0.3333333333333333,0.0,45.333333333333336,cpl::Football_Player::06a7cbbdbcac4641ac0ddc55b4c05117
+M. Farsi,2020,Columbus,Defender,defender,10,611,1,1,3,0,2,1,8,7,20,0,2,0,75.0,1.03,0.0,0.1,0.1,0.3,0.2,0.1,61.1,cpl::Football_Player::7efa8b85b3504cb88554fb705dcc5e4a
+M. Haber,2020,Pacific,Forward,forward,9,507,2,0,14,0,8,0,0,16,9,2,1,0,62.0,0.89,0.0,0.2222222222222222,0.0,1.5555555555555556,0.8888888888888888,0.0,56.333333333333336,cpl::Football_Player::0a9e81414bcf48d388274099578d7521
+M. Hamilton,2020,Cavalry,Defender,defender,7,630,0,1,0,0,0,1,7,10,3,0,0,0,82.0,1.71,0.0,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,90.0,cpl::Football_Player::e7267f506fe9420b8f1529ab912d5a08
+M. Kacher,2020,Valour,Midfielder,midfielder,6,360,1,0,4,0,1,0,1,2,6,1,1,0,75.0,0.75,0.0,0.16666666666666666,0.0,0.6666666666666666,0.16666666666666666,0.0,60.0,cpl::Football_Player::ce3fbd6fe22a4e729054951b2effe079
+M. Kapor,2020,Atlético,Defender,defender,6,495,0,0,0,0,0,0,1,8,4,0,1,1,87.0,1.09,0.0,0.0,0.0,0.0,0.0,0.0,82.5,cpl::Football_Player::a75ac9bdd7fe4c87bd657f07db89d6e2
+M. Kourouma,2020,Wanderers,Forward,forward,7,617,1,0,11,0,6,0,7,12,12,0,1,0,78.0,1.6,0.0,0.14285714285714285,0.0,1.5714285714285714,0.8571428571428571,0.0,88.14285714285714,cpl::Football_Player::0e88e595803f478f818bcdc64bd36b6d
+M. Mohsen,2020,Forge,Defender,defender,3,208,0,0,0,0,0,0,4,0,10,1,0,0,84.0,1.73,0.0,0.0,0.0,0.0,0.0,0.0,69.33333333333333,cpl::Football_Player::0437038bc2254a4a93d8d74d4278c768
+M. Petrasso,2020,Montréal,Forward,forward,3,130,0,0,5,0,1,0,0,1,3,0,0,0,85.0,0.69,0.0,0.0,0.0,1.6666666666666667,0.3333333333333333,0.0,43.333333333333336,cpl::Football_Player::fba3134832e445b5824410919421b981
+M. Restrepo,2020,Wanderers,Defender,defender,10,626,0,0,0,0,0,0,21,14,5,0,1,0,70.0,1.15,0.0,0.0,0.0,0.0,0.0,0.0,62.6,cpl::Football_Player::6085b5eefe2b42e6810a6fd5a6b07c43
+M. Shaw,2020,Cavalry,Forward,forward,7,595,2,1,12,0,6,1,3,17,19,5,0,0,81.0,1.51,0.0,0.2857142857142857,0.14285714285714285,1.7142857142857142,0.8571428571428571,0.14285714285714285,85.0,cpl::Football_Player::3a8819a7f06c45a38e951d42d8743025
+M. Silva,2020,York,Goalkeeper,goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::c838c44902a6469485723a328e0d5531
+M. Temguia,2020,Edmonton,Defender,defender,5,450,0,0,3,0,1,0,10,13,7,0,0,0,85.0,2.2,0.0,0.0,0.0,0.6,0.2,0.0,90.0,cpl::Football_Player::d1f7a45d1b0d48fa84ac505abc9a8a91
+M. Tissot,2020,Atlético,Defender,defender,11,394,1,2,5,0,3,2,5,4,4,1,1,0,75.0,0.91,0.0,0.09090909090909091,0.18181818181818182,0.45454545454545453,0.2727272727272727,0.18181818181818182,35.81818181818182,cpl::Football_Player::88981199ee1c47cbb911a6b22266e324
+M. Trafford,2020,Cavalry,Defender,defender,8,720,0,0,2,0,1,0,8,8,5,0,0,0,86.0,1.0,0.0,0.0,0.0,0.25,0.125,0.0,90.0,cpl::Football_Player::00cb81880a254ba7957fdb6ee6eec8a8
+M. Village,2020,Pacific,Goalkeeper,goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::16b384ec036b4bccb9be3e98bf2b8088
+M. Zajac,2020,Forge,Forward,forward,4,237,0,0,3,0,1,0,4,6,5,2,2,0,80.0,1.52,0.0,0.0,0.0,0.75,0.25,0.0,59.25,cpl::Football_Player::2a2dcc3d5b52458b87405d47509cd686
+M. de Brienne,2020,Atlético,Defender,defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::7b0f6d51a0774b0691b240a3a96bc0ee
+M. de Jong,2020,Whitecaps,Defender,defender,7,442,0,0,6,0,2,0,9,3,4,0,0,0,73.0,1.22,0.0,0.0,0.0,0.8571428571428571,0.2857142857142857,0.0,63.142857142857146,cpl::Football_Player::79d4e376b2c74a5fbcb22b655feaae51
+Matthew Baldisimo,2020,York,Midfielder,midfielder,10,875,0,1,6,0,2,1,18,16,11,0,1,0,81.0,1.23,0.0,0.0,0.1,0.6,0.2,0.1,87.5,cpl::Football_Player::82ff8e880ba54f74a34fe1f8165f3b46
+Mo Babouli,2020,Forge,Forward,forward,10,455,1,2,5,0,4,2,3,9,8,4,0,0,69.0,0.59,0.0,0.1,0.2,0.5,0.4,0.2,45.5,cpl::Football_Player::99a91175ff8e476ca86125ecab87f00b
+N. Giantsopoulos,2020,Vancouver FC,Goalkeeper,goalkeeper,1,90,0,0,0,0,0,0,0,0,0,0,0,0,58.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::d7a3107cbc0c426399a5c65c18e39d14
+N. Ingham,2020,Atlético,Goalkeeper,goalkeeper,6,540,0,0,0,0,0,0,0,0,1,0,0,0,76.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::364352c812a14e868234e4883c9bd4e0
+N. Ledgerwood,2020,Cavalry,Midfielder,midfielder,7,411,1,1,4,0,2,1,7,13,10,0,1,0,72.0,1.09,0.0,0.14285714285714285,0.14285714285714285,0.5714285714285714,0.2857142857142857,0.14285714285714285,58.714285714285715,cpl::Football_Player::3f9fd29f429f4cf7838256806a93e993
+N. Mavila,2020,Cavalry,Defender,defender,9,709,3,1,10,0,6,1,6,21,11,0,1,0,73.0,1.14,0.0,0.3333333333333333,0.1111111111111111,1.1111111111111112,0.6666666666666666,0.1111111111111111,78.77777777777777,cpl::Football_Player::528b48f0adc7452ea0b4d13358823c87
+N. Pasquotti,2020,Cavalry,Forward,forward,8,537,0,0,6,0,2,0,7,6,11,2,0,0,77.0,0.84,0.0,0.0,0.0,0.75,0.25,0.0,67.125,cpl::Football_Player::56a1c426e347456e875c52b4e799f2ea
+N. Verhoeven,2020,Atlético,Midfielder,midfielder,3,173,0,0,2,0,2,0,3,2,1,2,0,0,74.0,1.56,0.0,0.0,0.0,0.6666666666666666,0.6666666666666666,0.0,57.666666666666664,cpl::Football_Player::0193e9b2803b43938a676ad9232cede8
+N. Wirth,2020,Pacific,Goalkeeper,goalkeeper,4,360,0,0,0,0,0,0,0,1,3,0,0,0,73.0,1.25,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::0665c6ea0ce84bd49b9ebba2cf80c8e2
+Nacho Zabal,2020,Atlético,Goalkeeper,goalkeeper,7,630,0,0,0,0,0,0,0,0,1,0,0,0,63.0,1.71,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::7c327d61caf549ff8299ec42bacce566
+O. Kreim,2020,Blainville,Midfielder,midfielder,10,372,1,0,1,0,1,0,7,3,11,0,0,0,77.0,2.42,0.0,0.1,0.0,0.1,0.1,0.0,37.2,cpl::Football_Player::bab7421be1524ee7869d7eb277c88bb8
+O.Fakunle,2020,Cavalry,Forward,forward,1,7,0,0,1,0,0,0,0,0,0,0,0,0,67.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,cpl::Football_Player::ce28065c8a3b4288ba09d3e26cc5e4fd
+Oliver Minatel,2020,Cavalry,Forward,forward,7,454,0,1,6,0,2,1,2,10,8,0,0,0,81.0,1.19,0.0,0.0,0.14285714285714285,0.8571428571428571,0.2857142857142857,0.14285714285714285,64.85714285714286,cpl::Football_Player::01e4dc8e491d40f5aa24f147fe23b6e1
+P. Sabak,2020,Forge,Forward,forward,11,752,2,2,11,0,3,2,4,14,21,1,1,0,78.0,0.72,0.0,0.18181818181818182,0.18181818181818182,1.0,0.2727272727272727,0.18181818181818182,68.36363636363636,cpl::Football_Player::b65c33938a67445fa2637462ffcf71e2
+P. Schaale,2020,Wanderers,Defender,defender,10,900,0,0,3,0,0,0,11,9,4,0,3,0,70.0,1.1,0.0,0.0,0.0,0.3,0.0,0.0,90.0,cpl::Football_Player::9872d0a42804454098f50f548fd3f290
+R. Boskovic,2020,Ottawa Fury,Defender,defender,6,479,0,0,3,0,0,0,4,7,4,1,2,0,81.0,0.94,0.0,0.0,0.0,0.5,0.0,0.0,79.83333333333333,cpl::Football_Player::859df54960ef45ef98a04d967baa8d96
+R. Garcia,2020,Valour,Defender,defender,1,26,0,0,1,0,1,0,0,0,0,0,0,0,100.0,3.46,0.0,0.0,0.0,1.0,1.0,0.0,26.0,cpl::Football_Player::692d080cedb84a6cb1424836cc8e6daf
+R. Gomes,2020,Atlético,Goalkeeper,goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cpl::Football_Player::6157ad2ed4f14fa1a4a7327dbeed8aba
+R. Telfer,2020,Wanderers,Forward,forward,7,620,0,0,14,0,7,0,7,10,15,2,3,0,73.0,0.87,0.0,0.0,0.0,2.0,1.0,0.0,88.57142857142857,cpl::Football_Player::3a40cda943824387943792e6a62fee0f
+R. Thompson,2020,York,Defender,defender,7,630,0,0,2,0,0,0,4,5,2,0,0,0,77.0,1.0,0.0,0.0,0.0,0.2857142857142857,0.0,0.0,90.0,cpl::Football_Player::ebfeb9e972964148846658f57142a247
+S. Antwi,2020,Valour,Forward,forward,4,80,0,0,1,0,0,0,3,3,1,0,0,0,75.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,20.0,cpl::Football_Player::636928fc1d194bd798a9ac73f086a9ba
+S. Camargo,2020,Cavalry,Midfielder,midfielder,2,130,1,0,3,0,1,0,0,1,1,1,1,0,80.0,1.38,0.0,0.5,0.0,1.5,0.5,0.0,65.0,cpl::Football_Player::9a6571b3737143b79989244b08fbd50d
+S. Cebara,2020,Valour,Defender,defender,6,458,0,0,2,0,1,0,6,6,5,0,1,0,79.0,1.38,0.0,0.0,0.0,0.3333333333333333,0.16666666666666666,0.0,76.33333333333333,cpl::Football_Player::9743204ff22741e9958a22019e709346
+S. Firth,2020,Wanderers,Midfielder,midfielder,2,98,0,0,0,0,0,0,1,0,3,0,0,0,87.0,5.51,0.0,0.0,0.0,0.0,0.0,0.0,49.0,cpl::Football_Player::f77e3806065040479a624ed8a41a3971
+S. Hundal,2020,Valour,Forward,forward,6,232,0,2,4,0,4,2,0,7,0,3,1,0,77.0,1.55,0.0,0.0,0.3333333333333333,0.6666666666666666,0.6666666666666666,0.3333333333333333,38.666666666666664,cpl::Football_Player::9577790c0cf54495843d303127992c4d
+S. Young,2020,Pacific,Midfielder,midfielder,9,462,0,0,2,0,1,0,7,12,5,1,1,0,83.0,0.97,0.0,0.0,0.0,0.2222222222222222,0.1111111111111111,0.0,51.333333333333336,cpl::Football_Player::03b82a7bcff7496e991befe586fcc2c9
+Son Yong-Chan,2020,Edmonton,Midfielder,midfielder,4,303,0,0,0,0,0,0,2,8,3,0,0,0,83.0,1.78,0.0,0.0,0.0,0.0,0.0,0.0,75.75,cpl::Football_Player::dd4f4492d8c24742a0221478a33737d8
+Soria,2020,Edmonton,Midfielder,midfielder,7,630,0,0,1,0,0,0,5,7,4,2,1,0,82.0,2.0,0.0,0.0,0.0,0.14285714285714285,0.0,0.0,90.0,cpl::Football_Player::c3a357530ca345ee801114eea7ffc636
+T. Ameobi,2020,Edmonton,Forward,forward,7,287,0,0,3,0,2,0,1,8,5,2,2,0,75.0,2.51,0.0,0.0,0.0,0.42857142857142855,0.2857142857142857,0.0,41.0,cpl::Football_Player::49bd7ec1be034a33a576d28b705b3611
+T. Campbell,2020,Vancouver FC,Forward,forward,10,480,1,1,10,0,3,1,4,13,3,3,0,0,67.0,1.12,0.0,0.1,0.1,1.0,0.3,0.1,48.0,cpl::Football_Player::982a96a792e04404805090a131cb95df
+T. Henry,2020,Forge,Goalkeeper,goalkeeper,10,900,0,0,0,0,0,0,0,0,6,0,0,0,85.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,90.0,cpl::Football_Player::7c054612559b45f2a7ef690616b61862
+T. Meilleur-Giguère,2020,Wanderers,Defender,defender,10,900,0,0,2,0,2,0,3,5,1,1,1,0,87.0,1.3,0.0,0.0,0.0,0.2,0.2,0.0,90.0,cpl::Football_Player::d46e06f14e0d47e58d6f5f00e1eabfa9
+T. Mohammed,2020,York,Defender,defender,5,303,0,1,1,0,0,1,10,9,8,0,1,1,77.0,2.08,0.0,0.0,0.2,0.2,0.0,0.2,60.6,cpl::Football_Player::fc30920bb1964b1abda3a2fa7dbe8fd6
+V. Neufville,2020,Atlético,Defender,defender,5,241,0,1,0,0,0,1,1,9,6,1,0,1,63.0,1.12,0.0,0.0,0.2,0.0,0.0,0.2,48.2,cpl::Football_Player::5a3736a2d77f4ba6b4815db18ecee270
+Viti Martínez,2020,Atlético,Midfielder,midfielder,6,540,1,0,7,0,4,0,7,12,5,0,2,0,79.0,1.67,0.0,0.16666666666666666,0.0,1.1666666666666667,0.6666666666666666,0.0,90.0,cpl::Football_Player::b38a140a30ab499ba3bc6aa4ad4d07a1
+Víctor Blasco,2020,Pacific,Forward,forward,10,644,2,2,11,0,3,2,11,12,14,3,2,0,75.0,0.98,0.0,0.2,0.2,1.1,0.3,0.2,64.4,cpl::Football_Player::52ee822ec2ea43bc844f27d96e16334b
+W. Murofushi,2020,York,Midfielder,midfielder,7,329,0,0,2,0,0,0,4,8,10,0,0,0,89.0,0.27,0.0,0.0,0.0,0.2857142857142857,0.0,0.0,47.0,cpl::Football_Player::0e6d9987204441a9a9d05ed9f620ce78
+Y. Le Bourhis,2020,Valour,Defender,defender,1,90,1,0,2,0,2,0,0,2,0,0,0,0,75.0,2.0,0.0,1.0,0.0,2.0,2.0,0.0,90.0,cpl::Football_Player::fd03514f423c4cf7b7ff6fc6b9d2536d
+Z. Verhoven,2020,Vancouver FC,Midfielder,midfielder,9,308,1,1,4,0,2,1,5,16,4,1,1,0,78.0,1.46,0.0,0.1111111111111111,0.1111111111111111,0.4444444444444444,0.2222222222222222,0.1111111111111111,34.22222222222222,cpl::Football_Player::88ac022bf06149f1be2ce2ab7f3c087c
+Álvaro Rivero,2020,York,Forward,forward,7,359,1,0,5,0,2,0,0,5,10,0,0,0,88.0,1.5,0.0,0.14285714285714285,0.0,0.7142857142857143,0.2857142857142857,0.0,51.285714285714285,cpl::Football_Player::ba843603344f42e9b03b3fd297b2da9d

@@ -10,40 +10,76 @@ PLAYERS_CLEAN_DIR.mkdir(parents=True, exist_ok=True)
 
 INPUT_CSV = PLAYERS_RAW_DIR / "cpl_players_combined.csv"
 
+
 def main():
     if not INPUT_CSV.exists():
         raise FileNotFoundError(
-            f"{INPUT_CSV} not found. Make sure your scraper writes to data/players/raw/ "
-            f"or update INPUT_CSV."
+            f"{INPUT_CSV} not found. Make sure your scraper writes to data/players/raw/"
         )
 
     df = pd.read_csv(INPUT_CSV)
 
+    rename_map = {
+        "Pass%": "PassPct",
+        "%": "SavePct",         
+        "YC": "YellowCards",
+        "RC": "RedCards",
+        "FC": "FoulsCommitted",
+        "FS": "FoulsSuffered",
+        "OFF": "Offsides",
+        "KP": "KeyPasses",
+        "SOT": "ShotsOnTarget",
+        "GI": "GoalInvolvements",
+        "Mins": "Minutes",
+        "S": "Shots",
+        "G": "Goals",
+        "A": "Assists",
+        "GP": "GamesPlayed",
+    }
+    df = df.rename(columns={k: v for k, v in rename_map.items() if k in df.columns})
+
     numeric_cols = [
-        "GP", "Mins", "G", "A", "S", "GI", "SOT", "KP",
-        "Tackles", "FC", "FS", "OFF", "YC", "RC",
-        "Pass%", "GAA", "%"
+        "GamesPlayed", "Minutes", "Goals", "Assists", "Shots", "GoalInvolvements",
+        "ShotsOnTarget", "KeyPasses", "Tackles",
+        "FoulsCommitted", "FoulsSuffered", "Offsides",
+        "YellowCards", "RedCards",
+        "PassPct", "GAA", "SavePct",
+        "G_per_game", "A_per_game", "S_per_game", "SOT_per_game", "KP_per_game", "Minutes_per_game",
     ]
 
     for col in numeric_cols:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
-        else:
-            df[col] = pd.NA
 
-    gp_nonzero = df["GP"].replace(0, pd.NA)
+    if "GamesPlayed" in df.columns:
+        gp_nonzero = df["GamesPlayed"].replace(0, pd.NA)
+    else:
+        raise KeyError("Expected 'GP'/'GamesPlayed' column not found.")
 
-    df["G_per_game"] = (df["G"] / gp_nonzero).fillna(0)
-    df["A_per_game"] = (df["A"] / gp_nonzero).fillna(0)
-    df["S_per_game"] = (df["S"] / gp_nonzero).fillna(0)
-    df["SOT_per_game"] = (df["SOT"] / gp_nonzero).fillna(0)
-    df["KP_per_game"] = (df["KP"] / gp_nonzero).fillna(0)
-    df["Minutes_per_game"] = (df["Mins"] / gp_nonzero).fillna(0)
+    def per_game(out_col, base_col):
+        if base_col in df.columns:
+            df[out_col] = (df[base_col] / gp_nonzero).fillna(0)
 
-    if "playerName" in df.columns and "season" in df.columns:
-        df = df.sort_values(by=["playerName", "season"], ascending=[True, True])
-    elif "playerName" in df.columns:
-        df = df.sort_values(by="playerName")
+    per_game("G_per_game", "Goals")
+    per_game("A_per_game", "Assists")
+    per_game("S_per_game", "Shots")
+    per_game("SOT_per_game", "ShotsOnTarget")
+    per_game("KP_per_game", "KeyPasses")
+    per_game("Minutes_per_game", "Minutes")
+
+    sort_cols = [c for c in ["playerName", "season", "team", "position"] if c in df.columns]
+    if sort_cols:
+        df = df.sort_values(by=sort_cols, ascending=True)
+
+    id_cols_front = [c for c in ["playerName", "season", "team", "position", "role"] if c in df.columns]
+    player_id_last = ["playerId"] if "playerId" in df.columns else []
+
+    numeric_cols_present = [c for c in numeric_cols if c in df.columns]
+
+    covered = set(id_cols_front + numeric_cols_present + player_id_last)
+    other_cols = [c for c in df.columns if c not in covered]
+
+    df = df[id_cols_front + numeric_cols_present + other_cols + player_id_last]
 
     out_all = PLAYERS_CLEAN_DIR / "cpl_players_all_seasons_cleaned.csv"
     df.to_csv(out_all, index=False)
@@ -56,6 +92,7 @@ def main():
         out_name = PLAYERS_CLEAN_DIR / f"cpl_players_{season}.csv"
         group.to_csv(out_name, index=False)
         print(f"Saved {out_name} with {len(group)} rows")
+
 
 if __name__ == "__main__":
     main()
