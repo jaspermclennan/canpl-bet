@@ -33,8 +33,8 @@ for year, season_id in seasons.items():
     response = requests.get(url, params=params, headers=headers)
     response.raise_for_status()
     data = response.json()
-    print(year, response.status_code, data.keys())
 
+    print(f"Processing {year}...")
 
     rows = []
     for team_entry in data["teams"]:
@@ -50,7 +50,7 @@ for year, season_id in seasons.items():
         rows.append(team_dict)
 
     df = pd.DataFrame(rows)
-    output_path = f"data/tables/{year}_canpl_team_stats.csv"
+    output_path = f"data/table_team_stats/{year}_table_team_stats.csv"
     df.to_csv(output_path, index=False)
 
     print(f"Saved {len(df)} teams for {year} → {output_path}")
