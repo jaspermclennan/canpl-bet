@@ -50,7 +50,7 @@ for year, season_id in seasons.items():
         rows.append(team_dict)
 
     df = pd.DataFrame(rows)
-    output_path = f"data/table_team_stats/{year}_table_team_stats.csv"
+    output_path = f"data/teams/teams_{year}.csv"
     df.to_csv(output_path, index=False)
 
     print(f"Saved {len(df)} teams for {year} → {output_path}")
