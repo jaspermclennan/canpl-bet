@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import csv
 
-
 url = "https://api-sdp.canpl.ca/v1/cpl/football/seasons/cpl::Football_Season::fd43e1d61dfe4396a7356bc432de0007/stats/teams"
 
 params = {
