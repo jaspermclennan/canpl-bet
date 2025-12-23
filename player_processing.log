@@ -1,0 +1,3 @@
+2025-12-22 17:48:26,664 - INFO - Starting player rating processing...
+2025-12-22 17:48:26,673 - INFO - Total players: 1285 | Eligible: 905 | Ineligible: 380
+2025-12-22 17:48:27,007 - INFO - Successfully saved ratings to /Users/jamesrankin/canpl-bet-3/data/players/derived/player_ratings_seasonal.csv
