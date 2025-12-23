@@ -104,46 +104,34 @@ ROLE_WEIGHTS = {
 def main() -> None:
     logger.info("Starting player rating processing...")
     
+    # Validation & Loading
     if not BASE_PLAYERS.exists():
-        logger.error(f"File not found: {BASE_PLAYERS}")
-        return # Graceful exit instead of crash
-
-    df = pd.read_csv(BASE_PLAYERS)
-    
-    # Track Eligibility
-    eligible_count = (df["Minutes"] >= MIN_MINUTES).sum()
-    ineligible_count = len(df) - eligible_count
-    logger.info(f"Total players: {len(df)} | Eligible: {eligible_count} | Ineligible: {ineligible_count}")
-
-    # Inside your loop, you can log specific skips
-    for (season, role), g in df.groupby(["season", "role"], dropna=False):
-        if str(role) not in ROLE_WEIGHTS:
-            logger.warning(f"Unknown role '{role}' found in season {season}. Using default weights.")
-            
-    if not BASE_PLAYERS.exists():
-        raise FileNotFoundError(f"Base player file not found: {BASE_PLAYERS}")
+        logger.error(f"Base player file not found: {BASE_PLAYERS}")
+        return
     
     df = pd.read_csv(BASE_PLAYERS)
     
     required = {"playerName", "season", "role", "Minutes", "GamesPlayed"}
     missing = required - set(df.columns)
     if missing:
-        raise KeyError(f"Missing required columns in base file: {sorted(missing)}")
+        logger.error(f"Missing required columns in base file: {sorted(missing)}")
+        raise KeyError(f"Missing required columns: {sorted(missing)}")
     
-    # Corrected the function name from normalize_role
+    # Pre-processing & Eligibility
     df["role"] = df["role"].apply(normalize_role)
-    
     df["Minutes"] = pd.to_numeric(df["Minutes"], errors="coerce").fillna(0.0)
     df["GamesPlayed"] = pd.to_numeric(df["GamesPlayed"], errors="coerce").fillna(0.0)
+    df["Eligible"] = df["Minutes"] >= MIN_MINUTES
+    
+    logger.info(f"Total rows: {len(df)} | Eligible: {df['Eligible'].sum()}")
+
     gp = df["GamesPlayed"].replace(0, np.nan)
     
+    # Rate Stats Calculation
     per_game_sources = {
-        "Tackles_pg": "Tackles",
-        "FoulsCommitted_pg": "FoulsCommitted",
-        "FoulsSuffered_pg": "FoulsSuffered",
-        "Offsides_pg": "Offsides",
-        "YellowCards_pg": "YellowCards",
-        "RedCards_pg": "RedCards",
+        "Tackles_pg": "Tackles", "FoulsCommitted_pg": "FoulsCommitted",
+        "FoulsSuffered_pg": "FoulsSuffered", "Offsides_pg": "Offsides",
+        "YellowCards_pg": "YellowCards", "RedCards_pg": "RedCards",
     }
     for out_col, base_col in per_game_sources.items():
         if base_col in df.columns:
@@ -151,21 +139,18 @@ def main() -> None:
         else:
             df[out_col] = 0.0
             
-    for col in ["G_per_game", "A_per_game", "S_per_game", "SOT_per_game", "KP_per_game"]:
+    standard_numeric = [
+        "G_per_game", "A_per_game", "S_per_game", "SOT_per_game", "KP_per_game",
+        "Goals", "Assists", "Shots", "ShotsOnTarget", "KeyPasses", 
+        "GoalInvolvements", "PassPct", "SavePct", "GAA"
+    ]
+    for col in standard_numeric:
         if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0.0)
+            df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0.0 if "_per_game" in col else np.nan)
         else:
-            df[col] = 0.0
-            
-    for col in ["Goals", "Assists", "Shots", "ShotsOnTarget", "KeyPasses", "GoalInvolvements", "PassPct", "SavePct", "GAA"]:
-        if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors="coerce")
-        else:
-            df[col] = np.nan
+            df[col] = 0.0 if "_per_game" in col else np.nan
 
-    df["Eligible"] = df["Minutes"] >= MIN_MINUTES
-    
-    # Fixed syntax: include=["number"] and corrected variable name
+    # Main Processing Loop
     numeric_candidates = df.select_dtypes(include=["number"]).columns.tolist()
     z_features = [c for c in numeric_candidates if c not in {"Minutes", "GamesPlayed"}]
     
@@ -173,7 +158,7 @@ def main() -> None:
     for (season, role), g in df.groupby(["season", "role"], dropna=False):
         g = g.copy()
         role_key = str(role)
-        role_cfg = ROLE_WEIGHTS.get(role_key, {}) # Default to empty dict
+        role_cfg = ROLE_WEIGHTS.get(role_key, {}) 
         
         for feat in z_features:
             g[f"z_{feat}"] = safe_zscore(g[feat])
@@ -184,72 +169,72 @@ def main() -> None:
         
         for feat in ATTACK_FEATURES:
             if f"z_{feat}" in g.columns:
-                g["AttackRaw"] += g[f"z_{feat}"].fillna(0) # Use 'g' not 'f'
-                
+                g["AttackRaw"] += g[f"z_{feat}"].fillna(0)
         for feat in DEFENSE_FEATURES:
             if f"z_{feat}" in g.columns:
                 g["DefenseRaw"] += g[f"z_{feat}"].fillna(0)
-
         for feat in NEGATIVE_FEATURES:
             if f"z_{feat}" in g.columns:
                 g["NegRaw"] += g[f"z_{feat}"].fillna(0)
         
         if role_cfg:
-            g["AttackRaw"] *= role_cfg["attack_scale"]
-            g["DefenseRaw"] *= role_cfg["defense_scale"]
-            g["NegRaw"] *= role_cfg["neg_scale"]
+            g["AttackRaw"] *= role_cfg.get("attack_scale", 1.0)
+            g["DefenseRaw"] *= role_cfg.get("defense_scale", 1.0)
+            g["NegRaw"] *= role_cfg.get("neg_scale", 1.0)
         
             overrides = role_cfg.get("feature_overrides", {})
             for feat, wt in overrides.items():
                 zcol = f"z_{feat}"
-                if zcol not in g.columns:
-                    continue
-            
-                if feat in ATTACK_FEATURES:
-                    g["AttackRaw"] += (wt - 1.0) * g[zcol].fillna(0)
-                elif feat in DEFENSE_FEATURES:
-                    g["DefenseRaw"] += (wt - 1.0) * g[zcol].fillna(0)
-                elif feat in NEGATIVE_FEATURES:
-                    g["NegRaw"] += (wt - 1.0) * g[zcol].fillna(0)
-                else:
-                    g["AttackRaw"] += wt * g[zcol].fillna(0)
+                if zcol in g.columns:
+                    if feat in ATTACK_FEATURES:
+                        g["AttackRaw"] += (wt - 1.0) * g[zcol].fillna(0)
+                    elif feat in DEFENSE_FEATURES:
+                        g["DefenseRaw"] += (wt - 1.0) * g[zcol].fillna(0)
+                    elif feat in NEGATIVE_FEATURES:
+                        g["NegRaw"] += (wt - 1.0) * g[zcol].fillna(0)
                 
-        # Total Raw: Subtract NegRaw
         g["TotalRaw"] = g["AttackRaw"] + g["DefenseRaw"] - g["NegRaw"]
-        
-        # Minutes shrinkage
         shrink = g["Minutes"] / (g["Minutes"] + SHRINK_M)
         g["AttackShrunk"] = g["AttackRaw"] * shrink
         g["DefenseShrunk"] = g["DefenseRaw"] * shrink
         g["TotalShrunk"] = g["TotalRaw"] * shrink
         
-        # Filter Eligibility
-        g.loc[~g["Eligible"], ["AttackShrunk", "DefenseShrunk", "TotalShrunk"]] = np.nan
+        # --- Percentile Rank Logic ---
+        # Only rank eligible players so the percentiles aren't skewed by 1-minute cameos
+        eligible_mask = g["Eligible"]
+        if eligible_mask.any():
+            g.loc[eligible_mask, "PercentileRank"] = (
+                g.loc[eligible_mask, "TotalShrunk"].rank(pct=True) * 100
+            ).round(1)
         
+        g.loc[~eligible_mask, ["AttackShrunk", "DefenseShrunk", "TotalShrunk"]] = np.nan
         out_groups.append(g)
     
-    if not out_groups:
-        print("No data processed.")
-        return
-
+    # Consolidation & SOS Calculation
     scored = pd.concat(out_groups, ignore_index=True)
+    
+    logger.info("Calculating Season-over-Season improvements...")
+    scored = scored.sort_values(["playerName", "season"])
+    scored["PrevSeasonScore"] = scored.groupby("playerName")["TotalShrunk"].shift(1)
+    scored["ScoreDelta"] = (scored["TotalShrunk"] - scored["PrevSeasonScore"]).round(3)
 
+    # Final Save
     keep_cols = [
-        "playerName", "playerId", "season", "team", "position", "role",
-        "GamesPlayed", "Minutes", "Eligible",
-        "AttackRaw", "DefenseRaw", "NegRaw", "TotalRaw",
-        "AttackShrunk", "DefenseShrunk", "TotalShrunk",
+        "playerName", "playerId", "season", "team", "role",
+        "TotalShrunk", "PercentileRank", "ScoreDelta", "PrevSeasonScore",
+        "AttackShrunk", "DefenseShrunk", "Minutes", "Eligible",
         "G_per_game", "A_per_game", "SOT_per_game", "KP_per_game",
-        "Tackles_pg", "FoulsCommitted_pg", "YellowCards_pg", "RedCards_pg", "Offsides_pg",
-        "PassPct", "SavePct", "GAA",
+        "Tackles_pg", "PassPct", "SavePct", "GAA"
     ]
     keep_cols = [c for c in keep_cols if c in scored.columns]
     
-    scored = scored[keep_cols].sort_values(["season", "role", "TotalShrunk"], ascending=[True, True, False])
-    scored.to_csv(OUT_SEASONAL, index=False)
+    scored = scored[keep_cols].sort_values(
+        ["season", "PercentileRank"], 
+        ascending=[True, False]
+    )
     
-    logger.info(f"Successfully saved ratings to {OUT_SEASONAL}")
-    print(f"Saved seasonal player ratings: {OUT_SEASONAL} ({len(scored)} rows)")
+    scored.to_csv(OUT_SEASONAL, index=False)
+    logger.info(f"Successfully saved {len(scored)} ratings to {OUT_SEASONAL}")
 
 if __name__ == "__main__":
     main()
