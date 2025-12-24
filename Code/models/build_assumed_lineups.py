@@ -5,7 +5,6 @@ import numpy as np
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 
-# Path Setup
 PLAYER_BASE = REPO_ROOT / "data" / "players" / "cleaned" / "cpl_players_all_seasons_cleaned.csv"
 MATCHES_RAW_DIR = REPO_ROOT / "data" / "matches" / "raw"
 
@@ -13,14 +12,12 @@ OUT_DIR = REPO_ROOT / "data" / "lineups"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = OUT_DIR / "assumed_lineup.csv"
 
-# Logic Constants
 ROSTER_TARGET = 15
 CUM_MIN_FRACTION = 0.75
 TEAM_TOTAL_MINUTES = 990
 CAP_MINUTES = 90.0
 EPS = 1e-9
 
-# Finalized Name Map based on your exact Player Base Audit
 TEAM_NAME_MAP = {
     "HFX Wanderers": "Wanderers",
     "Halifax Wanderers": "Wanderers",
@@ -78,8 +75,7 @@ def select_roster(team_players: pd.DataFrame) -> pd.DataFrame:
     tp = team_players.copy()
     tp["Minutes"] = pd.to_numeric(tp["Minutes"], errors="coerce").fillna(0.0)
     tp = tp.sort_values("Minutes", ascending=False)
-    
-    # If the database only has a few players (like Edmonton 2022), take all of them
+
     if len(tp) <= 11:
         return tp
 
@@ -87,7 +83,7 @@ def select_roster(team_players: pd.DataFrame) -> pd.DataFrame:
     cutoff = CUM_MIN_FRACTION * tp["Minutes"].sum()
     
     roster_mask = cum <= cutoff
-    # Ensure at least 11 players are returned if they exist in the DB
+    # Ensure at least 11 players are returned 
     if roster_mask.sum() < 11:
         roster = tp.head(11).copy()
     else:
@@ -96,8 +92,7 @@ def select_roster(team_players: pd.DataFrame) -> pd.DataFrame:
     return roster.head(ROSTER_TARGET)
 
 def build_expected_minutes(roster: pd.DataFrame) -> pd.Series:
-    # If we have a skeleton roster (like 4 players), fill missing data with 500m baseline 
-    # so the math doesn't divide by zero or very small numbers
+
     mins = pd.to_numeric(roster["Minutes"], errors="coerce").fillna(500.0).astype(float)
     if mins.sum() < EPS:
         mins = pd.Series(1.0, index=roster.index)
@@ -130,7 +125,6 @@ def run_validation(df: pd.DataFrame):
         player_count=("playerName", "count")
     )
 
-    # Use a slightly wider tolerance for float rounding
     mins_fail = stats[abs(stats["total_mins"] - 990) > 0.5]
     roster_fail = stats[stats["player_count"] < 11]
 
@@ -159,7 +153,6 @@ def main() -> None:
     players = pd.read_csv(PLAYER_BASE)
     matches = read_all_matches(MATCHES_RAW_DIR)
 
-    # Hard Normalization
     players["season"] = pd.to_numeric(players["season"], errors="coerce").fillna(0).astype(int)
     players["team"] = players["team"].astype(str).str.strip().replace(TEAM_NAME_MAP)
     players["playerName"] = players["playerName"].astype(str).str.strip()
@@ -178,7 +171,7 @@ def main() -> None:
         
         for team_col in ["Hometeam", "Awayteam"]:
             t_raw = str(m[team_col]).strip()
-            # The mapping is already done globally, but we'll be safe
+            # The mapping is already done globally
             t_mapped = TEAM_NAME_MAP.get(t_raw, t_raw)
             
             tp = players[(players["season"] == s_val) & (players["team"] == t_mapped)].copy()

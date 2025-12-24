@@ -10,7 +10,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler("player_processing.log"), # Saves to a file
-        logging.StreamHandler()                      # Also prints to console
+        logging.StreamHandler()                       # Also prints to console
     ]
 )
 logger = logging.getLogger(__name__)
