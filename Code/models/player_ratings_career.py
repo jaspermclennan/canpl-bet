@@ -10,7 +10,8 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 OUT_CAREER = OUT_DIR / "player_ratings_career.csv"
 
-DECAY = 0.85  # Recency decay (2025 counts for 100%, 2024 for 85%, etc.)
+# Recency decay: 2025 = 1.0, 2024 = 0.85, 2023 = 0.72, etc.
+DECAY = 0.85  
 
 def main() -> None:
     if not IN_SEASONAL.exists():
@@ -18,36 +19,33 @@ def main() -> None:
 
     df = pd.read_csv(IN_SEASONAL)
 
-    # Added PercentileRank to required columns
-    required = {"playerName", "season", "Minutes", "AttackShrunk", "DefenseShrunk", "TotalShrunk", "PercentileRank"}
+    # CRITICAL: Added playerId to required columns
+    required = {"playerId", "playerName", "season", "Minutes", "AttackShrunk", "DefenseShrunk", "TotalShrunk", "PercentileRank"}
     missing = required - set(df.columns)
     if missing:
         raise KeyError(f"Missing columns in seasonal ratings: {sorted(missing)}")
 
-    # Ensure numeric types
+    # Ensure numeric types for math
     df["season"] = pd.to_numeric(df["season"], errors="coerce")
     df["Minutes"] = pd.to_numeric(df["Minutes"], errors="coerce").fillna(0.0)
     df["PercentileRank"] = pd.to_numeric(df["PercentileRank"], errors="coerce")
 
-    # Drop ineligible seasons
+    # Drop rows missing core ratings
     df = df.dropna(subset=["season", "AttackShrunk", "DefenseShrunk", "TotalShrunk"])
 
     if df.empty:
         raise ValueError("No eligible rows to compute career ratings.")
 
-    # Calculate Weights
+    # We weight by Minutes * (Decay ^ Years_Ago)
     max_year = int(df["season"].max())
     df["RecencyWeight"] = (DECAY ** (max_year - df["season"])).astype(float)
     df["W"] = df["Minutes"] * df["RecencyWeight"]
 
-    # Pre-calculate weighted scores
     score_cols = ["AttackShrunk", "DefenseShrunk", "TotalShrunk", "PercentileRank"]
     for col in score_cols:
         df[f"weighted_{col}"] = df[col] * df["W"]
 
-    # Aggregate
-    # Added 'PeakPercentile' and 'PeakTotal' to capture their best season ever
-    career = df.groupby("playerName").agg(
+    career = df.groupby(["playerId", "playerName"]).agg(
         TotalMinutes=("Minutes", "sum"),
         SeasonsPlayed=("season", "nunique"),
         PeakTotal=("TotalShrunk", "max"),
@@ -57,33 +55,36 @@ def main() -> None:
         sum_weighted_defense=("weighted_DefenseShrunk", "sum"),
         sum_weighted_total=("weighted_TotalShrunk", "sum"),
         sum_weighted_pct=("weighted_PercentileRank", "sum")
-    )
+    ).reset_index()
 
-    # Final Divisions (Avoid division by zero)
+    # Avoid division by zero
     career = career[career["sum_w"] > 0].copy()
     
-    career["CareerAttack"] = (career["sum_weighted_attack"] / career["sum_w"]).round(3)
-    career["CareerDefense"] = (career["sum_weighted_defense"] / career["sum_w"]).round(3)
-    career["CareerTotal"] = (career["sum_weighted_total"] / career["sum_w"]).round(3)
-    career["CareerPercentile"] = (career["sum_weighted_pct"] / career["sum_w"]).round(1)
+    # Calculate Final Career Averages
+    career["AttackShrunk"] = (career["sum_weighted_attack"] / career["sum_w"]).round(3)
+    career["DefenseShrunk"] = (career["sum_weighted_defense"] / career["sum_w"]).round(3)
+    career["TotalShrunk"] = (career["sum_weighted_total"] / career["sum_w"]).round(3)
+    career["PercentileRank"] = (career["sum_weighted_pct"] / career["sum_w"]).round(1)
 
-    # Cleanup and Sort
-    out = career.reset_index()
-    
-    # Organize columns logically
+    # Organize columns logically for CSV
     keep_cols = [
-        "playerName", "TotalMinutes", "SeasonsPlayed", 
-        "CareerTotal", "CareerPercentile", 
+        "playerId", "playerName", "TotalMinutes", "SeasonsPlayed", 
+        "TotalShrunk", "PercentileRank", 
         "PeakTotal", "PeakPercentile",
-        "CareerAttack", "CareerDefense"
+        "AttackShrunk", "DefenseShrunk"
     ]
     
-    out = out[keep_cols].sort_values("CareerTotal", ascending=False)
+    out = career[keep_cols].sort_values("TotalShrunk", ascending=False)
 
     out.to_csv(OUT_CAREER, index=False)
-    print(f"--- Career Calculation Complete ---")
+    
+    print(f"\n" + "="*40)
+    print(f"   CAREER CALCULATION COMPLETE")
+    print(f"="*40)
     print(f"Saved: {OUT_CAREER}")
-    print(f"Top Player: {out.iloc[0]['playerName']} with {out.iloc[0]['CareerTotal']} Career Rating")
+    print(f"Top Rated Career: {out.iloc[0]['playerName']} ({out.iloc[0]['TotalShrunk']})")
+    print(f"Total Players Processed: {len(out)}")
+    print("="*40 + "\n")
 
 if __name__ == "__main__":
     main()
