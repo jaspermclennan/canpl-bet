@@ -38,3 +38,5 @@ df_teams_all = df_teams_all.reset_index(drop=True)
 # Save the sorted combined table
 df_teams_all.to_csv('data/teams/combined/teams_combined.csv', index=False)
 
+
+
