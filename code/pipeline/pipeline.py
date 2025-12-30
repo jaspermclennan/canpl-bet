@@ -1,26 +1,33 @@
 import subprocess
 import sys
 
-# List your files in the exact order they need to run
+# --- THE FIX: MANDATORY YEAR INPUT ---
+# Check if the user provided an argument (sys.argv[0] is the script name, sys.argv[1] is the year)
+if len(sys.argv) < 2:
+    print("\n[!] ERROR: You must provide a target year to run the pipeline.")
+    print("Usage: python3 code/pipeline/pipeline.py <YEAR>")
+    sys.exit(1)  # Stop the script entirely
+
+TARGET_YEAR = sys.argv[1]
+
 scripts = [
-    'code/get_data/cpl_team_stats.py',          # 1. Pull TEAM data
-    'code/get_data/cpl_match_stats.py',         # 1. Pull MATCH data
-    'code/get_data/combine_tables.py',          # 2. Combine team stats into one table and match stats into one table
-    'code/pre-analysis/correlations.py',        # 3. Find weights of correlation between table stats and points
-    'code/pre-analysis/zscores_strength.py'     # 4. Calculate strengths of each team based on z scores of stats compared to league and correlation weigt
+    'code/get_data/cpl_team_stats.py',
+    'code/get_data/cpl_match_stats.py',
+    'code/get_data/combine_tables.py',
+    'code/pre-analysis/correlations.py',
+    'code/pre-analysis/zscores_strength.py',
+    'code/pre-analysis/predicted_strengths.py'
 ]
 
-print("--- STARTING CPL PREDICTION PIPELINE ---")
+print(f"--- STARTING CPL PREDICTION PIPELINE FOR {TARGET_YEAR} ---")
 
 for script in scripts:
     print(f"Running: {script}...")
-    # This runs the script and waits for it to finish before moving to the next
-    result = subprocess.run([sys.executable, script])
+    # Passes the mandatory TARGET_YEAR to every script
+    result = subprocess.run([sys.executable, script, TARGET_YEAR])
     
-    if result.returncode == 0:
-        print(f"Successfully finished {script}\n")
-    else:
+    if result.returncode != 0:
         print(f"ERROR: {script} failed. Stopping pipeline.")
-        break
+        sys.exit(1)
 
 print("--- PIPELINE COMPLETE ---")
