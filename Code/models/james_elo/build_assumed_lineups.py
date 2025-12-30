@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
 
 PLAYER_BASE = REPO_ROOT / "data" / "players" / "cleaned" / "cpl_players_all_seasons_cleaned.csv"
 MATCHES_RAW_DIR = REPO_ROOT / "data" / "matches" / "raw"
