@@ -1,9 +1,5 @@
 	Total points
-Total points	1.0
-Total wins	0.9807599376812121
 Goals Openplay	0.894949823979764
-Games played	0.818360490895633
-Games Played	0.8183604908956329
 Clean Sheets	0.8145330633878565
 Goals	0.7992063781998758
 Goals from Inside Box	0.7972736140016765
@@ -28,9 +24,9 @@ GK Successful Distribution	0.5670837807870521
 Other Goals	0.5574024631026888
 Overruns	0.5445470149667622
 Shots Off Target (inc woodwork)	0.538048610137483
-corners	0.5193916627720251
 Corners Taken (incl short corners)	0.5193916627720251
 Corners Won	0.5193916627720251
+corners	0.5193916627720251
 Left Foot Goals	0.5153817163576944
 Ground Duels lost	0.5141814347013813
 Blocked Shots	0.5125451968684241
@@ -65,12 +61,11 @@ Goals from Outside Box	0.25070379807123866
 Unsuccessful Crosses & Corners	0.2463239850720708
 Successful Dribbles	0.23876935027442295
 Penalty kick taken	0.23362623259610274
-Total draws	0.23351486312439854
 Number of Opposition Passes	0.22824759267473135
 Duels lost	0.2247017394229912
 Successful Crosses & Corners	0.22303791310724635
-Total Fouls Conceded	0.2224782280253481
 Fouls committed	0.2224782280253481
+Total Fouls Conceded	0.2224782280253481
 Successful Lay-offs	0.21809533673290998
 Recoveries	0.21703610683411423
 Shooting Accuracy	0.21668818429011186
@@ -85,8 +80,8 @@ PutThrough/Blocked Distribution Won	0.08089887316807498
 Last Player Tackle	0.06921081584066019
 Successful Corners into Box	0.06734988660113478
 Crossing Accuracy	0.06248959259695822
-Yellow cards	0.0623027700035197
 Yellow Cards	0.0623027700035197
+Yellow cards	0.0623027700035197
 Blocks	0.047784563826493806
 Tackles Won	0.042440006288607814
 Last Man Tackle	0.02852231674764493
@@ -99,7 +94,6 @@ Throw Ins to Opposition Player	-0.0026313926253348913
 Unsuccessful Passes Own Half	-0.013787643600310283
 Points Gained from Losing Positions	-0.02608054455139782
 Duels Won Percentage	-0.029019053954371262
-Year	-0.03191751923738232
 Catches	-0.032076441831826556
 Cross Complete Percentage	-0.03781906288100144
 Tackles Won Percentage	-0.04791443429819877
@@ -130,26 +124,3 @@ GK Unsuccessful Distribution	-0.5247218147439784
 Shots On Conceded Inside Box	-0.7008442867396915
 Goals Conceded Inside Box	-0.7978923299563345
 Goals Conceded	-0.8013192896857955
-Goals against	-0.8013192896857955
-Total losses	-0.944397263164571
-Total Distance Covered	
-Average Distance Covered	
-Total Distance Covered Walking	
-Average Distance Covered Walking	
-Total Distance Covered Jogging	
-Average Distance Covered Jogging	
-Total Distance Covered Low Intensity Running	
-Average Distance Covered Low Intensity Running	
-Total Distance Covered High Intensity Running	
-Average Distance Covered High Intensity Running	
-Total Distance Covered Sprinting	
-Average Distance Covered Sprinting	
-Total Successful Final Third Pass	
-Total Sub Goals	
-Total Saves	
-Average Possession	
-Average Possession Time	
-Defender Goals	
-Midfielder Goals	
-Forward Goals	
-Penalties Off Target	

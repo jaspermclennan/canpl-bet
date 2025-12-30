@@ -25,7 +25,7 @@ seasons = {
     "2025": "cpl::Football_Season::fd43e1d61dfe4396a7356bc432de0007"
 }
 
-os.makedirs("data/tables", exist_ok=True)
+os.makedirs("data/teams", exist_ok=True)
 
 
 for year, season_id in seasons.items():
