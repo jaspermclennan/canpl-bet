@@ -9,7 +9,7 @@ MODELS_DIR = REPO_ROOT / "Code" / "models"
 
 # The strictly ordered sequence for 2026 Season Readiness
 PIPELINE = [
-    # 1. Player Ratings (Now correctly located inside Code/models/james_elo)
+    # 1. Player Ratings 
     MODELS_DIR / "james_elo" / "build_player_ratings_rolling.py",
     
     # 2. Match Setup (Shared logic)
@@ -24,19 +24,19 @@ PIPELINE = [
     MODELS_DIR / "build_targets.py",          
     MODELS_DIR / "james_elo" / "build_probability_model.py", 
     
-    # 5. Validation (Final sanity check)
+    # 5. Validation 
     REPO_ROOT / "validate_team_strength.py"    
 ]
 
 def main():
-    print("STARTING CANPL-BET-3 DATA PIPELINE")
+    print("STARTING DATA PIPELINE")
     for script in PIPELINE:
         if script.exists():
             print(f"Running {script.name}...")
             subprocess.run(["python3", str(script)], check=True)
         else:
-            print(f"⚠️ File not found: {script}")
-            print(f"   Expected at: {script}") 
+            print(f"File not found: {script}")
+            print(f"Expected at: {script}") 
     print("PIPELINE COMPLETE")
 
 if __name__ == "__main__":

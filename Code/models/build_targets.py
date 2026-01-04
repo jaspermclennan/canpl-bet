@@ -3,9 +3,9 @@ from pathlib import Path
 import os
 
 cwd = Path(os.getcwd())
-REPO_ROOT = cwd if (cwd / "data").exists() else Path(__file__).resolve().parents[3]
+REPO_ROOT = cwd if (cwd / "data").exists() else Path(__file__).resolve().parents[2]
 
-FEATURES_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_features.csv"
+FEATURES_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_model_with_form.csv"
 BASELINE_FILE = REPO_ROOT / "data" / "matches" / "processed" / "all_matches_with_baseline.csv" 
 OUT_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_model_ready.csv"
 

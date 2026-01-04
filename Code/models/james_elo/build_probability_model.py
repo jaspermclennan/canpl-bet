@@ -2,57 +2,69 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import log_loss, accuracy_score
+import joblib
 from pathlib import Path
-import joblib  # To save the model/scaler for later use
 import os
 
-cwd = Path(os.getcwd())
-REPO_ROOT = cwd if cwd.name == "canpl-bet-3" else Path(__file__).resolve().parent.parent.parent.parent
+# --- FIX PATHS HERE ---
+# Since this file is in Code/models/james_elo/, we need 4 parents to get to repo root
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
 
-DATA_PATH = REPO_ROOT / "data" / "matches" / "derived" / "match_model_ready.csv"
+# This must match the OUT_FILE from build_targets.py
+DATA_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_model_ready.csv"
 MODEL_DIR = REPO_ROOT / "models"
 MODEL_DIR.mkdir(exist_ok=True)
 
 def main():
-    if not DATA_PATH.exists():
-        print(f"Missing {DATA_PATH}")
+    print("--- 🤖 TRAINING PROBABILITY MODEL (SCALED) ---")
+    
+    if not DATA_FILE.exists():
+        print(f"❌ Critical Error: Input file not found at {DATA_FILE}")
         return
 
-    print("--- Training Probability Model (Scaled) ---")
-    df = pd.read_csv(DATA_PATH)
+    df = pd.read_csv(DATA_FILE)
     
-    # We want to predict Home Win (Label=2) vs Not Home Win
-    # (Simplified for the 'k' factor display, though actual model is multinomial)
-    X = df[['diff_total']].values
-    y = df['label'].values
+    # Validation Check
+    if 'label' not in df.columns:
+        print(f"❌ Error: 'label' column missing. Columns found: {list(df.columns)}")
+        print("   Did build_targets.py run successfully?")
+        return
 
-    # 1. Scale the Inputs (Crucial for ELO data)
+    # Filter out future matches (where we don't have a result yet)
+    # If label is missing (NaN), drop it
+    train_df = df.dropna(subset=['label'])
+    
+    # Feature Selection (Must match what we trained on)
+    features = ['diff_total']
+    target = 'label'
+    
+    X = train_df[features]
+    y = train_df[target]
+    
+    # Scaling (Important for some models, good practice)
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X)
-
-    # 2. Train Logistic Regression
+    
+    # Train Logistic Regression (The "Calibrator")
+    # We use this to turn "Diff +100" into "65% Probability"
     clf = LogisticRegression(solver='lbfgs', C=1.0)
     clf.fit(X_scaled, y)
     
-    # Save for later
+    # Evaluate
+    preds = clf.predict_proba(X_scaled)
+    loss = log_loss(y, preds)
+    acc = accuracy_score(y, clf.predict(X_scaled))
+    
+    print(f"   Matches used: {len(train_df)}")
+    print(f"   Log Loss: {loss:.4f}")
+    print(f"   Accuracy: {acc:.1%}")
+    print(f"   Coefficients: {clf.coef_}")
+    
+    # Save Artifacts
     joblib.dump(clf, MODEL_DIR / "logistic_model.pkl")
     joblib.dump(scaler, MODEL_DIR / "scaler.pkl")
-
-    # 3. Interpret Results
-    # We simulate a "Standard" strong team (+1 Std Dev) to see the impact
-    test_gap = [[1000.0]] # E.g., a 1000 point ELO gap
-    test_gap_scaled = scaler.transform(test_gap)
-    probs = clf.predict_proba(test_gap_scaled)[0]
-    
-    print("-" * 30)
-    print(f"Model Trained on {len(df)} matches.")
-    print(f"Classes: {clf.classes_} (0=Away, 1=Draw, 2=Home)")
-    print("-" * 30)
-    print("Example Prediction for +1000 ELO Advantage:")
-    print(f"Home Win: {probs[2]:.1%}")
-    print(f"Draw:     {probs[1]:.1%}")
-    print(f"Away Win: {probs[0]:.1%}")
-    print("-" * 30)
+    print(f"✅ Model saved to {MODEL_DIR}")
 
 if __name__ == "__main__":
     main()
