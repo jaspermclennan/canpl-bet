@@ -5,6 +5,8 @@ import os
 os.makedirs("data/matches", exist_ok=True)
 
 seasons = {
+    
+    "2021": "cpl::Football_Season::2f07c39671b84933ad7bb1e1958a7427",
     "2022": "cpl::Football_Season::046f0ab31ba641c7b7bf27eb0dda4b9d",
     "2023": "cpl::Football_Season::fc0855108c9044218a84fc5d2bee0000",
     "2024": "cpl::Football_Season::6fb9e6fae4f24ce9bf4fa3172616a762",

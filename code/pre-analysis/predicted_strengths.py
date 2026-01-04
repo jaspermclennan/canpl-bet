@@ -9,15 +9,16 @@ if len(sys.argv) > 1:
 else:
     TARGET_YEAR = 2026
 
-DECAY_RATE = 0.3
+DECAY_RATE = 0.15
 
 # 2. ROSTERS (Participating teams per year)
 LEAGUE_HISTORY = {
-    2022: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'York United', 'Pacific', 'Valour', 'Edmonton'],
-    2023: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'York United', 'Pacific', 'Valour', 'Vancouver FC'],
-    2024: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'York United', 'Pacific', 'Valour', 'Vancouver FC'],
-    2025: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'York United', 'Pacific', 'Valour', 'Vancouver FC'],
-    2026: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'York United', 'Pacific', 'Vancouver FC', 'FC Supra du Québec']
+    2021: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'Inter Toronto', 'Pacific', 'Valour', 'Edmonton'],
+    2022: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'Inter Toronto', 'Pacific', 'Valour', 'Edmonton'],
+    2023: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'Inter Toronto', 'Pacific', 'Valour', 'Vancouver FC'],
+    2024: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'Inter Toronto', 'Pacific', 'Valour', 'Vancouver FC'],
+    2025: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'Inter Toronto', 'Pacific', 'Valour', 'Vancouver FC'],
+    2026: ['Forge', 'Cavalry', 'Atlético Ottawa', 'HFX Wanderers', 'Inter Toronto', 'Pacific', 'Vancouver FC', 'FC Supra du Québec']
 }
 
 # 3. LOAD DATA & CLEANING
@@ -65,7 +66,7 @@ if new_teams:
     # Expansion = first appearance was after the league's 'original' data year (2022)
     # AND happened before our target year (to avoid leakage)
     expansion_performances = debut_data[
-        (debut_data['Year'] > 2022) & 
+        (debut_data['Year'] > 2021) & 
         (debut_data['Year'] < TARGET_YEAR)
     ]['Strength_Score']
     
@@ -90,6 +91,6 @@ priors = priors.sort_values(by=prior_col_name, ascending=False)
 output_path = f'data/analysis/predict_{TARGET_YEAR}_from_historic.csv'
 priors.to_csv(output_path, index=False)
 
-print(f"\n--- EXPECTED {TARGET_YEAR} TEAM STRENGTH ---")
+print(f"\n--- EXPECTED {TARGET_YEAR} TEAM STRENGTH BASED ON PREVIOUS SEASONS ONLY---")
 print(priors.to_string(index=False))
 print(f"\nResults saved to: {output_path}")

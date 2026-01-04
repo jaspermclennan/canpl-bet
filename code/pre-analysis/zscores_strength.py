@@ -1,6 +1,13 @@
 import pandas as pd
 import sys
 
+
+
+# 1. Get the year from the pipeline
+if len(sys.argv) > 1:
+    TARGET_YEAR = sys.argv[1]
+else:
+    TARGET_YEAR = "2026" # Fallback
 # ----------------------------
 # 1. Load Data
 # ----------------------------
@@ -8,7 +15,7 @@ df_teams = pd.read_csv('data/teams/combined/teams_combined.csv')
 
 # Use the weights we just generated in correlations.py 
 # (which were calculated using data BEFORE the target year)
-df_corr = pd.read_csv('data/analysis/correlations.csv')
+df_corr = pd.read_csv(f'data/analysis/correlations_{TARGET_YEAR}.csv')
 
 # ----------------------------
 # 2. Selection: Find Significant Stats

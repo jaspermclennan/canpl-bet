@@ -1,116 +1,116 @@
 Season,Date,Hometeam,Awayteam,Homescore,Awayscore,Status,Venue
-2022,2022-04-07T23:30:00Z,York United,HFX Wanderers,0,1,FINISHED,York Lions Stadium
+2022,2022-04-07T23:30:00Z,Inter Toronto,HFX Wanderers,0,1,FINISHED,York Lions Stadium
 2022,2022-04-09T19:00:00Z,Atlético Ottawa,Cavalry,1,0,FINISHED,TD Place Stadium
 2022,2022-04-10T20:00:00Z,Edmonton,Valour,1,1,FINISHED,Clarke Field
 2022,2022-04-10T23:00:00Z,Pacific,Forge,2,1,FINISHED,Starlight Stadium
-2022,2022-04-16T01:00:00Z,Edmonton,York United,1,1,FINISHED,Clarke Field
+2022,2022-04-16T01:00:00Z,Edmonton,Inter Toronto,1,1,FINISHED,Clarke Field
 2022,2022-04-16T17:00:00Z,Atlético Ottawa,HFX Wanderers,1,0,FINISHED,TD Place Stadium
 2022,2022-04-16T20:00:00Z,Forge,Cavalry,2,2,FINISHED,Hamilton Stadium
 2022,2022-04-17T20:00:00Z,Pacific,Valour,3,2,FINISHED,Starlight Stadium
-2022,2022-04-22T23:30:00Z,York United,Cavalry,2,0,FINISHED,York Lions Stadium
+2022,2022-04-22T23:30:00Z,Inter Toronto,Cavalry,2,0,FINISHED,York Lions Stadium
 2022,2022-04-23T20:00:00Z,Forge,Edmonton,3,0,FINISHED,Hamilton Stadium
 2022,2022-04-23T23:00:00Z,Pacific,HFX Wanderers,2,1,FINISHED,Starlight Stadium
 2022,2022-04-24T19:00:00Z,Atlético Ottawa,Valour,1,6,FINISHED,TD Place Stadium
 2022,2022-04-28T01:00:00Z,Edmonton,Pacific,0,0,FINISHED,Clarke Field
-2022,2022-04-29T23:30:00Z,York United,Atlético Ottawa,2,2,FINISHED,York Lions Stadium
+2022,2022-04-29T23:30:00Z,Inter Toronto,Atlético Ottawa,2,2,FINISHED,York Lions Stadium
 2022,2022-04-30T18:00:00Z,HFX Wanderers,Edmonton,3,1,FINISHED,Wanderers Grounds
 2022,2022-05-01T21:30:00Z,Cavalry,Pacific,2,0,FINISHED,ATCO Field
-2022,2022-05-06T23:00:00Z,York United,Forge,1,0,FINISHED,York Lions Stadium
+2022,2022-05-06T23:00:00Z,Inter Toronto,Forge,1,0,FINISHED,York Lions Stadium
 2022,2022-05-07T02:00:00Z,Edmonton,Cavalry,0,3,FINISHED,Clarke Field
 2022,2022-05-07T19:00:00Z,Valour,HFX Wanderers,0,0,FINISHED,Princess Auto Stadium
 2022,2022-05-07T22:00:00Z,Atlético Ottawa,Pacific,0,1,FINISHED,TD Place Stadium
 2022,2022-05-14T20:00:00Z,Forge,Atlético Ottawa,1,1,FINISHED,Hamilton Stadium
 2022,2022-05-14T23:00:00Z,Pacific,Edmonton,2,1,FINISHED,Starlight Stadium
 2022,2022-05-15T18:00:00Z,HFX Wanderers,Cavalry,2,2,FINISHED,Wanderers Grounds
-2022,2022-05-15T21:00:00Z,Valour,York United,1,0,FINISHED,Princess Auto Stadium
+2022,2022-05-15T21:00:00Z,Valour,Inter Toronto,1,0,FINISHED,Princess Auto Stadium
 2022,2022-05-20T22:00:00Z,HFX Wanderers,Forge,0,4,FINISHED,Wanderers Grounds
-2022,2022-05-21T02:00:00Z,Pacific,York United,0,0,FINISHED,Starlight Stadium
+2022,2022-05-21T02:00:00Z,Pacific,Inter Toronto,0,0,FINISHED,Starlight Stadium
 2022,2022-05-21T19:30:00Z,Cavalry,Valour,2,1,FINISHED,ATCO Field
 2022,2022-05-22T20:00:00Z,Edmonton,Atlético Ottawa,1,2,FINISHED,Clarke Field
 2022,2022-05-28T23:00:00Z,Pacific,Valour,2,2,FINISHED,Starlight Stadium
-2022,2022-05-29T18:00:00Z,York United,Cavalry,0,1,FINISHED,York Lions Stadium
+2022,2022-05-29T18:00:00Z,Inter Toronto,Cavalry,0,1,FINISHED,York Lions Stadium
 2022,2022-06-01T01:00:00Z,Edmonton,Forge,3,4,FINISHED,Clarke Field
 2022,2022-06-02T00:00:00Z,Valour,Atlético Ottawa,0,1,FINISHED,Princess Auto Stadium
-2022,2022-06-04T18:00:00Z,HFX Wanderers,York United,1,0,FINISHED,Wanderers Grounds
+2022,2022-06-04T18:00:00Z,HFX Wanderers,Inter Toronto,1,0,FINISHED,Wanderers Grounds
 2022,2022-06-05T17:00:00Z,Atlético Ottawa,Pacific,2,1,FINISHED,TD Place Stadium
 2022,2022-06-05T20:00:00Z,Valour,Edmonton,1,1,FINISHED,Princess Auto Stadium
 2022,2022-06-11T19:30:00Z,Cavalry,HFX Wanderers,1,0,FINISHED,ATCO Field
 2022,2022-06-12T20:00:00Z,Forge,Pacific,3,0,FINISHED,Hamilton Stadium
-2022,2022-06-14T23:00:00Z,Atlético Ottawa,York United,0,0,FINISHED,TD Place Stadium
+2022,2022-06-14T23:00:00Z,Atlético Ottawa,Inter Toronto,0,0,FINISHED,TD Place Stadium
 2022,2022-06-15T02:00:00Z,Edmonton,HFX Wanderers,1,2,FINISHED,Clarke Field
 2022,2022-06-16T00:00:00Z,Valour,Cavalry,2,4,FINISHED,Princess Auto Stadium
-2022,2022-06-18T20:00:00Z,York United,Pacific,0,0,FINISHED,York Lions Stadium
+2022,2022-06-18T20:00:00Z,Inter Toronto,Pacific,0,0,FINISHED,York Lions Stadium
 2022,2022-06-19T18:00:00Z,HFX Wanderers,Forge,0,3,FINISHED,Wanderers Grounds
 2022,2022-06-19T21:00:00Z,Edmonton,Atlético Ottawa,1,0,FINISHED,Clarke Field
 2022,2022-06-25T21:00:00Z,Pacific,HFX Wanderers,0,3,FINISHED,Starlight Stadium
-2022,2022-06-26T16:00:00Z,York United,Valour,1,3,FINISHED,York Lions Stadium
+2022,2022-06-26T16:00:00Z,Inter Toronto,Valour,1,3,FINISHED,York Lions Stadium
 2022,2022-06-26T23:00:00Z,Cavalry,Edmonton,3,1,FINISHED,ATCO Field
 2022,2022-06-29T23:00:00Z,Forge,Valour,0,1,FINISHED,Hamilton Stadium
 2022,2022-06-30T22:30:00Z,HFX Wanderers,Atlético Ottawa,0,2,FINISHED,Wanderers Grounds
 2022,2022-07-01T01:30:00Z,Pacific,Cavalry,3,3,FINISHED,Starlight Stadium
-2022,2022-07-01T22:00:00Z,Edmonton,York United,3,0,FINISHED,Clarke Field
+2022,2022-07-01T22:00:00Z,Edmonton,Inter Toronto,3,0,FINISHED,Clarke Field
 2022,2022-07-03T20:00:00Z,Forge,Atlético Ottawa,0,1,FINISHED,Hamilton Stadium
-2022,2022-07-08T23:30:00Z,York United,Forge,0,2,FINISHED,York Lions Stadium
+2022,2022-07-08T23:30:00Z,Inter Toronto,Forge,0,2,FINISHED,York Lions Stadium
 2022,2022-07-09T20:00:00Z,Edmonton,Pacific,2,3,FINISHED,Clarke Field
 2022,2022-07-09T23:00:00Z,Atlético Ottawa,Cavalry,1,1,FINISHED,TD Place Stadium
 2022,2022-07-10T19:00:00Z,Valour,HFX Wanderers,1,0,FINISHED,Princess Auto Stadium
 2022,2022-07-15T00:30:00Z,Cavalry,HFX Wanderers,3,0,FINISHED,ATCO Field
-2022,2022-07-15T23:30:00Z,York United,Pacific,2,4,FINISHED,York Lions Stadium
+2022,2022-07-15T23:30:00Z,Inter Toronto,Pacific,2,4,FINISHED,York Lions Stadium
 2022,2022-07-19T22:45:00Z,Forge,Edmonton,5,1,FINISHED,Hamilton Stadium
-2022,2022-07-20T01:30:00Z,Cavalry,York United,0,1,FINISHED,ATCO Field
+2022,2022-07-20T01:30:00Z,Cavalry,Inter Toronto,0,1,FINISHED,ATCO Field
 2022,2022-07-20T23:00:00Z,Atlético Ottawa,Valour,1,1,FINISHED,TD Place Stadium
 2022,2022-07-23T02:00:00Z,Pacific,Cavalry,3,0,FINISHED,Starlight Stadium
 2022,2022-07-23T17:30:00Z,HFX Wanderers,Edmonton,1,1,FINISHED,Wanderers Grounds
 2022,2022-07-23T20:30:00Z,Forge,Valour,3,1,FINISHED,Hamilton Stadium
-2022,2022-07-24T18:00:00Z,York United,Atlético Ottawa,0,3,FINISHED,York Lions Stadium
+2022,2022-07-24T18:00:00Z,Inter Toronto,Atlético Ottawa,0,3,FINISHED,York Lions Stadium
 2022,2022-07-28T01:00:00Z,Cavalry,Forge,1,2,FINISHED,ATCO Field
 2022,2022-07-30T19:00:00Z,Valour,Pacific,1,2,FINISHED,Princess Auto Stadium
 2022,2022-07-30T22:00:00Z,Cavalry,Edmonton,2,0,FINISHED,ATCO Field
 2022,2022-07-31T23:00:00Z,Atlético Ottawa,Forge,0,4,FINISHED,TD Place Stadium
-2022,2022-08-01T18:00:00Z,HFX Wanderers,York United,2,4,FINISHED,Wanderers Grounds
+2022,2022-08-01T18:00:00Z,HFX Wanderers,Inter Toronto,2,4,FINISHED,Wanderers Grounds
 2022,2022-08-04T00:00:00Z,Valour,Cavalry,2,0,FINISHED,Princess Auto Stadium
 2022,2022-08-06T20:00:00Z,Forge,HFX Wanderers,1,0,FINISHED,Hamilton Stadium
 2022,2022-08-07T18:37:00Z,Atlético Ottawa,Edmonton,2,1,FINISHED,TD Place Stadium
-2022,2022-08-07T21:00:00Z,Valour,York United,2,0,FINISHED,Princess Auto Stadium
+2022,2022-08-07T21:00:00Z,Valour,Inter Toronto,2,0,FINISHED,Princess Auto Stadium
 2022,2022-08-13T01:00:00Z,Cavalry,Forge,2,1,FINISHED,ATCO Field
 2022,2022-08-13T18:00:00Z,HFX Wanderers,Valour,1,0,FINISHED,Wanderers Grounds
 2022,2022-08-13T21:00:00Z,Pacific,Atlético Ottawa,1,0,FINISHED,Starlight Stadium
-2022,2022-08-14T20:00:00Z,York United,Edmonton,3,2,FINISHED,York Lions Stadium
+2022,2022-08-14T20:00:00Z,Inter Toronto,Edmonton,3,2,FINISHED,York Lions Stadium
 2022,2022-08-17T23:00:00Z,Atlético Ottawa,HFX Wanderers,3,2,FINISHED,TD Place Stadium
 2022,2022-08-20T17:30:00Z,HFX Wanderers,Pacific,1,0,FINISHED,Wanderers Grounds
-2022,2022-08-20T23:00:00Z,Forge,York United,1,3,FINISHED,Hamilton Stadium
+2022,2022-08-20T23:00:00Z,Forge,Inter Toronto,1,3,FINISHED,Hamilton Stadium
 2022,2022-08-21T18:30:00Z,Valour,Edmonton,1,1,FINISHED,Princess Auto Stadium
 2022,2022-08-21T21:30:00Z,Cavalry,Atlético Ottawa,0,3,FINISHED,ATCO Field
-2022,2022-08-27T19:30:00Z,Cavalry,York United,1,0,FINISHED,ATCO Field
+2022,2022-08-27T19:30:00Z,Cavalry,Inter Toronto,1,0,FINISHED,ATCO Field
 2022,2022-08-27T22:30:00Z,Atlético Ottawa,Forge,0,0,FINISHED,TD Place Stadium
 2022,2022-08-28T19:00:00Z,Valour,Pacific,1,0,FINISHED,Princess Auto Stadium
 2022,2022-08-28T22:00:00Z,Edmonton,HFX Wanderers,3,2,FINISHED,Clarke Field
 2022,2022-09-01T00:00:00Z,Valour,Forge,1,0,FINISHED,Princess Auto Stadium
 2022,2022-09-02T23:00:00Z,Atlético Ottawa,Edmonton,0,0,FINISHED,TD Place Stadium
-2022,2022-09-03T21:00:00Z,Pacific,York United,1,3,FINISHED,Starlight Stadium
+2022,2022-09-03T21:00:00Z,Pacific,Inter Toronto,1,3,FINISHED,Starlight Stadium
 2022,2022-09-04T18:00:00Z,Valour,Forge,1,0,FINISHED,Princess Auto Stadium
 2022,2022-09-05T18:00:00Z,HFX Wanderers,Cavalry,0,0,FINISHED,Wanderers Grounds
-2022,2022-09-09T23:30:00Z,York United,Edmonton,3,1,FINISHED,York Lions Stadium
+2022,2022-09-09T23:30:00Z,Inter Toronto,Edmonton,3,1,FINISHED,York Lions Stadium
 2022,2022-09-10T18:00:00Z,HFX Wanderers,Valour,1,0,FINISHED,Wanderers Grounds
 2022,2022-09-10T21:00:00Z,Forge,Cavalry,2,1,FINISHED,Hamilton Stadium
 2022,2022-09-11T20:00:00Z,Pacific,Atlético Ottawa,1,1,FINISHED,Starlight Stadium
-2022,2022-09-16T23:30:00Z,York United,HFX Wanderers,0,0,FINISHED,York Lions Stadium
+2022,2022-09-16T23:30:00Z,Inter Toronto,HFX Wanderers,0,0,FINISHED,York Lions Stadium
 2022,2022-09-17T20:00:00Z,Edmonton,Cavalry,0,1,FINISHED,Clarke Field
 2022,2022-09-18T20:00:00Z,Valour,Atlético Ottawa,1,1,FINISHED,Princess Auto Stadium
 2022,2022-09-19T00:00:00Z,Pacific,Forge,1,1,FINISHED,Starlight Stadium
-2022,2022-09-23T23:30:00Z,York United,Valour,3,1,FINISHED,York Lions Stadium
+2022,2022-09-23T23:30:00Z,Inter Toronto,Valour,3,1,FINISHED,York Lions Stadium
 2022,2022-09-24T21:30:00Z,Cavalry,Atlético Ottawa,1,3,FINISHED,ATCO Field
 2022,2022-09-25T21:00:00Z,Edmonton,Forge,1,1,FINISHED,Clarke Field
 2022,2022-09-27T22:00:00Z,HFX Wanderers,Pacific,0,2,FINISHED,Wanderers Grounds
 2022,2022-10-01T02:00:00Z,Pacific,Edmonton,1,0,FINISHED,Starlight Stadium
 2022,2022-10-01T18:00:00Z,HFX Wanderers,Atlético Ottawa,1,2,FINISHED,Wanderers Grounds
-2022,2022-10-01T21:00:00Z,Forge,York United,2,0,FINISHED,Hamilton Stadium
+2022,2022-10-01T21:00:00Z,Forge,Inter Toronto,2,0,FINISHED,Hamilton Stadium
 2022,2022-10-02T19:30:00Z,Cavalry,Valour,2,1,FINISHED,ATCO Field
 2022,2022-10-05T23:00:00Z,Forge,Pacific,0,1,FINISHED,Hamilton Stadium
 2022,2022-10-08T19:00:00Z,Edmonton,Valour,3,1,FINISHED,Clarke Field
 2022,2022-10-08T22:00:00Z,Cavalry,Pacific,1,0,FINISHED,ATCO Field
 2022,2022-10-09T17:00:00Z,Forge,HFX Wanderers,1,0,FINISHED,Hamilton Stadium
-2022,2022-10-09T22:00:00Z,Atlético Ottawa,York United,2,2,FINISHED,TD Place Stadium
+2022,2022-10-09T22:00:00Z,Atlético Ottawa,Inter Toronto,2,2,FINISHED,TD Place Stadium
 2022,2022-10-15T20:00:00Z,Cavalry,Forge,1,1,FINISHED,ATCO Field
 2022,2022-10-15T23:00:00Z,Pacific,Atlético Ottawa,0,2,FINISHED,Starlight Stadium
 2022,2022-10-23T18:00:00Z,Atlético Ottawa,Pacific,1,1,FINISHED,TD Place Stadium
@@ -119,93 +119,93 @@ Season,Date,Hometeam,Awayteam,Homescore,Awayscore,Status,Venue
 2023,2023-04-15T17:00:00Z,Atlético Ottawa,HFX Wanderers,1,1,FINISHED,TD Place Stadium
 2023,2023-04-15T20:00:00Z,Forge,Cavalry,2,2,FINISHED,Hamilton Stadium
 2023,2023-04-15T23:00:00Z,Pacific,Vancouver FC,1,0,FINISHED,Starlight Stadium
-2023,2023-04-16T18:00:00Z,York United,Valour,0,2,FINISHED,York Lions Stadium
-2023,2023-04-22T17:00:00Z,York United,Vancouver FC,1,2,FINISHED,York Lions Stadium
+2023,2023-04-16T18:00:00Z,Inter Toronto,Valour,0,2,FINISHED,York Lions Stadium
+2023,2023-04-22T17:00:00Z,Inter Toronto,Vancouver FC,1,2,FINISHED,York Lions Stadium
 2023,2023-04-22T20:00:00Z,Forge,HFX Wanderers,1,1,FINISHED,Hamilton Stadium
 2023,2023-04-22T23:00:00Z,Valour,Atlético Ottawa,1,1,FINISHED,Princess Auto Stadium
 2023,2023-04-23T20:00:00Z,Pacific,Cavalry,1,1,FINISHED,Starlight Stadium
 2023,2023-04-29T18:00:00Z,HFX Wanderers,Vancouver FC,1,1,FINISHED,Wanderers Grounds
-2023,2023-04-29T21:00:00Z,Atlético Ottawa,York United,0,1,FINISHED,TD Place Stadium
+2023,2023-04-29T21:00:00Z,Atlético Ottawa,Inter Toronto,0,1,FINISHED,TD Place Stadium
 2023,2023-04-30T21:00:00Z,Cavalry,Valour,1,1,FINISHED,ATCO Field
 2023,2023-05-01T00:00:00Z,Pacific,Forge,0,1,FINISHED,Starlight Stadium
-2023,2023-05-05T23:30:00Z,York United,Forge,0,1,FINISHED,York Lions Stadium
+2023,2023-05-05T23:30:00Z,Inter Toronto,Forge,0,1,FINISHED,York Lions Stadium
 2023,2023-05-06T20:00:00Z,Valour,HFX Wanderers,0,0,FINISHED,Princess Auto Stadium
 2023,2023-05-06T23:00:00Z,Atlético Ottawa,Pacific,1,4,FINISHED,TD Place Stadium
 2023,2023-05-07T23:00:00Z,Vancouver FC,Cavalry,1,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-05-13T20:00:00Z,Forge,Valour,3,2,FINISHED,Hamilton Stadium
 2023,2023-05-13T23:00:00Z,Cavalry,HFX Wanderers,2,2,FINISHED,ATCO Field
 2023,2023-05-14T01:30:00Z,Vancouver FC,Atlético Ottawa,0,5,FINISHED,Willoughby Community Park at the Langley Events Centre
-2023,2023-05-14T22:00:00Z,Pacific,York United,4,1,FINISHED,Starlight Stadium
+2023,2023-05-14T22:00:00Z,Pacific,Inter Toronto,4,1,FINISHED,Starlight Stadium
 2023,2023-05-19T23:00:00Z,Forge,Vancouver FC,0,0,FINISHED,Hamilton Stadium
-2023,2023-05-20T18:00:00Z,HFX Wanderers,York United,0,3,FINISHED,Wanderers Grounds
+2023,2023-05-20T18:00:00Z,HFX Wanderers,Inter Toronto,0,3,FINISHED,Wanderers Grounds
 2023,2023-05-20T21:00:00Z,Valour,Pacific,1,1,FINISHED,Princess Auto Stadium
 2023,2023-05-21T23:00:00Z,Cavalry,Atlético Ottawa,2,0,FINISHED,ATCO Field
 2023,2023-05-27T18:00:00Z,Atlético Ottawa,Forge,0,1,FINISHED,TD Place Stadium
 2023,2023-05-28T02:00:00Z,Pacific,HFX Wanderers,1,1,FINISHED,Starlight Stadium
-2023,2023-05-28T21:00:00Z,York United,Cavalry,1,0,FINISHED,York Lions Stadium
+2023,2023-05-28T21:00:00Z,Inter Toronto,Cavalry,1,0,FINISHED,York Lions Stadium
 2023,2023-05-29T00:00:00Z,Vancouver FC,Valour,0,0,FINISHED,Willoughby Community Park at the Langley Events Centre
-2023,2023-05-31T23:00:00Z,Forge,York United,1,2,FINISHED,Hamilton Stadium
+2023,2023-05-31T23:00:00Z,Forge,Inter Toronto,1,2,FINISHED,Hamilton Stadium
 2023,2023-06-03T02:00:00Z,Vancouver FC,Pacific,3,6,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-06-03T20:00:00Z,Cavalry,Forge,1,1,FINISHED,ATCO Field
 2023,2023-06-03T23:00:00Z,Atlético Ottawa,HFX Wanderers,2,0,FINISHED,TD Place Stadium
-2023,2023-06-04T19:00:00Z,Valour,York United,1,1,FINISHED,Princess Auto Stadium
-2023,2023-06-09T23:30:00Z,York United,Atlético Ottawa,2,1,FINISHED,York Lions Stadium
+2023,2023-06-04T19:00:00Z,Valour,Inter Toronto,1,1,FINISHED,Princess Auto Stadium
+2023,2023-06-09T23:30:00Z,Inter Toronto,Atlético Ottawa,2,1,FINISHED,York Lions Stadium
 2023,2023-06-10T17:00:00Z,HFX Wanderers,Valour,2,0,FINISHED,Wanderers Grounds
 2023,2023-06-10T23:00:00Z,Forge,Pacific,0,1,FINISHED,Hamilton Stadium
 2023,2023-06-11T21:00:00Z,Cavalry,Vancouver FC,3,1,FINISHED,ATCO Field
 2023,2023-06-17T00:00:00Z,Valour,Forge,2,0,FINISHED,Princess Auto Stadium
 2023,2023-06-17T18:00:00Z,Atlético Ottawa,Vancouver FC,1,0,FINISHED,TD Place Stadium
 2023,2023-06-17T18:00:00Z,HFX Wanderers,Cavalry,3,1,FINISHED,Wanderers Grounds
-2023,2023-06-18T20:00:00Z,Pacific,York United,1,0,FINISHED,Starlight Stadium
+2023,2023-06-18T20:00:00Z,Pacific,Inter Toronto,1,0,FINISHED,Starlight Stadium
 2023,2023-06-21T02:00:00Z,Vancouver FC,Forge,2,0,FINISHED,Willoughby Community Park at the Langley Events Centre
-2023,2023-06-21T23:00:00Z,York United,HFX Wanderers,2,2,FINISHED,York Lions Stadium
+2023,2023-06-21T23:00:00Z,Inter Toronto,HFX Wanderers,2,2,FINISHED,York Lions Stadium
 2023,2023-06-22T02:00:00Z,Pacific,Valour,1,0,FINISHED,Starlight Stadium
-2023,2023-06-24T21:00:00Z,Cavalry,York United,2,1,FINISHED,ATCO Field
+2023,2023-06-24T21:00:00Z,Cavalry,Inter Toronto,2,1,FINISHED,ATCO Field
 2023,2023-06-25T19:00:00Z,Valour,Vancouver FC,1,0,FINISHED,Princess Auto Stadium
 2023,2023-06-25T22:00:00Z,Forge,Atlético Ottawa,4,3,FINISHED,Hamilton Stadium
 2023,2023-06-30T22:00:00Z,HFX Wanderers,Forge,2,1,FINISHED,Wanderers Grounds
 2023,2023-07-01T01:30:00Z,Pacific,Atlético Ottawa,2,2,FINISHED,Starlight Stadium
 2023,2023-07-01T19:00:00Z,Valour,Cavalry,0,2,FINISHED,Princess Auto Stadium
-2023,2023-07-02T20:30:00Z,Vancouver FC,York United,1,2,FINISHED,Willoughby Community Park at the Langley Events Centre
+2023,2023-07-02T20:30:00Z,Vancouver FC,Inter Toronto,1,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-07-08T02:00:00Z,Vancouver FC,HFX Wanderers,2,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-07-09T01:00:00Z,Pacific,Cavalry,1,2,FINISHED,Starlight Stadium
 2023,2023-07-09T19:00:00Z,Atlético Ottawa,Valour,2,0,FINISHED,TD Place Stadium
-2023,2023-07-09T23:30:00Z,York United,Forge,0,4,FINISHED,York Lions Stadium
+2023,2023-07-09T23:30:00Z,Inter Toronto,Forge,0,4,FINISHED,York Lions Stadium
 2023,2023-07-11T23:00:00Z,HFX Wanderers,Pacific,2,1,FINISHED,Wanderers Grounds
 2023,2023-07-13T00:30:00Z,Cavalry,Atlético Ottawa,0,2,FINISHED,ATCO Field
-2023,2023-07-14T23:30:00Z,York United,Pacific,0,0,FINISHED,York Lions Stadium
+2023,2023-07-14T23:30:00Z,Inter Toronto,Pacific,0,0,FINISHED,York Lions Stadium
 2023,2023-07-15T20:00:00Z,Cavalry,HFX Wanderers,1,0,FINISHED,ATCO Field
 2023,2023-07-15T23:00:00Z,Forge,Valour,1,1,FINISHED,Hamilton Stadium
 2023,2023-07-16T18:00:00Z,Atlético Ottawa,Vancouver FC,3,1,FINISHED,TD Place Stadium
 2023,2023-07-22T02:00:00Z,Pacific,Forge,0,2,FINISHED,Starlight Stadium
 2023,2023-07-22T23:00:00Z,Vancouver FC,Cavalry,1,5,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-07-23T20:00:00Z,HFX Wanderers,Atlético Ottawa,1,0,FINISHED,Wanderers Grounds
-2023,2023-07-23T23:00:00Z,Valour,York United,1,2,FINISHED,Princess Auto Stadium
+2023,2023-07-23T23:00:00Z,Valour,Inter Toronto,1,2,FINISHED,Princess Auto Stadium
 2023,2023-07-28T23:00:00Z,Forge,Vancouver FC,2,0,FINISHED,Hamilton Stadium
 2023,2023-07-29T20:00:00Z,Valour,Pacific,0,3,FINISHED,Princess Auto Stadium
 2023,2023-07-29T23:00:00Z,Atlético Ottawa,Cavalry,1,0,FINISHED,TD Place Stadium
-2023,2023-07-30T18:00:00Z,York United,HFX Wanderers,0,2,FINISHED,York Lions Stadium
+2023,2023-07-30T18:00:00Z,Inter Toronto,HFX Wanderers,0,2,FINISHED,York Lions Stadium
 2023,2023-08-05T01:00:00Z,Cavalry,Forge,3,0,FINISHED,ATCO Field
-2023,2023-08-05T23:00:00Z,Atlético Ottawa,York United,3,3,FINISHED,TD Place Stadium
+2023,2023-08-05T23:00:00Z,Atlético Ottawa,Inter Toronto,3,3,FINISHED,TD Place Stadium
 2023,2023-08-06T21:00:00Z,Vancouver FC,Valour,0,0,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-08-07T18:00:00Z,HFX Wanderers,Pacific,1,2,FINISHED,Wanderers Grounds
 2023,2023-08-12T00:00:00Z,Valour,Cavalry,3,2,FINISHED,Princess Auto Stadium
 2023,2023-08-12T19:00:00Z,HFX Wanderers,Vancouver FC,3,0,FINISHED,Wanderers Grounds
-2023,2023-08-12T23:00:00Z,Forge,York United,3,3,FINISHED,Hamilton Stadium
+2023,2023-08-12T23:00:00Z,Forge,Inter Toronto,3,3,FINISHED,Hamilton Stadium
 2023,2023-08-13T20:30:00Z,Pacific,Atlético Ottawa,0,1,FINISHED,Starlight Stadium
 2023,2023-08-19T00:00:00Z,Valour,Atlético Ottawa,1,3,FINISHED,Princess Auto Stadium
 2023,2023-08-19T20:00:00Z,Vancouver FC,Pacific,3,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-08-19T23:00:00Z,Forge,HFX Wanderers,1,1,FINISHED,Hamilton Stadium
-2023,2023-08-20T21:00:00Z,Cavalry,York United,2,1,FINISHED,ATCO Field
-2023,2023-08-25T23:30:00Z,York United,Vancouver FC,2,1,FINISHED,York Lions Stadium
+2023,2023-08-20T21:00:00Z,Cavalry,Inter Toronto,2,1,FINISHED,ATCO Field
+2023,2023-08-25T23:30:00Z,Inter Toronto,Vancouver FC,2,1,FINISHED,York Lions Stadium
 2023,2023-08-26T19:00:00Z,HFX Wanderers,Valour,3,0,FINISHED,Wanderers Grounds
 2023,2023-08-26T23:00:00Z,Atlético Ottawa,Forge,0,0,FINISHED,TD Place Stadium
 2023,2023-08-27T21:00:00Z,Cavalry,Pacific,1,0,FINISHED,ATCO Field
 2023,2023-09-02T20:00:00Z,Pacific,Valour,2,1,FINISHED,Starlight Stadium
 2023,2023-09-02T23:00:00Z,Atlético Ottawa,Cavalry,1,2,FINISHED,TD Place Stadium
 2023,2023-09-03T21:00:00Z,Vancouver FC,Forge,0,3,FINISHED,Willoughby Community Park at the Langley Events Centre
-2023,2023-09-04T18:00:00Z,HFX Wanderers,York United,1,2,FINISHED,Wanderers Grounds
-2023,2023-09-08T23:00:00Z,York United,Valour,1,3,FINISHED,York Lions Stadium
+2023,2023-09-04T18:00:00Z,HFX Wanderers,Inter Toronto,1,2,FINISHED,Wanderers Grounds
+2023,2023-09-08T23:00:00Z,Inter Toronto,Valour,1,3,FINISHED,York Lions Stadium
 2023,2023-09-09T02:00:00Z,Pacific,HFX Wanderers,1,1,FINISHED,Starlight Stadium
 2023,2023-09-09T23:00:00Z,Forge,Cavalry,0,0,FINISHED,Hamilton Stadium
 2023,2023-09-10T02:00:00Z,Vancouver FC,Atlético Ottawa,2,1,FINISHED,Willoughby Community Park at the Langley Events Centre
@@ -213,257 +213,372 @@ Season,Date,Hometeam,Awayteam,Homescore,Awayscore,Status,Venue
 2023,2023-09-13T21:30:00Z,Atlético Ottawa,Pacific,1,1,FINISHED,TD Place Stadium
 2023,2023-09-16T21:00:00Z,Cavalry,Vancouver FC,2,1,FINISHED,ATCO Field
 2023,2023-09-17T18:00:00Z,Valour,Forge,2,3,FINISHED,Princess Auto Stadium
-2023,2023-09-17T21:00:00Z,York United,Pacific,1,4,FINISHED,York Lions Stadium
+2023,2023-09-17T21:00:00Z,Inter Toronto,Pacific,1,4,FINISHED,York Lions Stadium
 2023,2023-09-18T22:00:00Z,HFX Wanderers,Atlético Ottawa,3,2,FINISHED,Wanderers Grounds
 2023,2023-09-21T00:00:00Z,Valour,Vancouver FC,0,1,FINISHED,Princess Auto Stadium
-2023,2023-09-23T17:00:00Z,York United,Cavalry,0,1,FINISHED,York Lions Stadium
+2023,2023-09-23T17:00:00Z,Inter Toronto,Cavalry,0,1,FINISHED,York Lions Stadium
 2023,2023-09-23T20:00:00Z,Vancouver FC,HFX Wanderers,2,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-09-23T23:00:00Z,Forge,Pacific,3,1,FINISHED,Hamilton Stadium
 2023,2023-09-24T18:00:00Z,Atlético Ottawa,Valour,0,1,FINISHED,TD Place Stadium
 2023,2023-09-30T01:00:00Z,Cavalry,Valour,2,1,FINISHED,ATCO Field
 2023,2023-09-30T18:00:00Z,HFX Wanderers,Forge,2,1,FINISHED,Wanderers Grounds
 2023,2023-09-30T21:00:00Z,Pacific,Vancouver FC,1,2,FINISHED,Starlight Stadium
-2023,2023-10-01T17:00:00Z,York United,Atlético Ottawa,1,0,FINISHED,York Lions Stadium
+2023,2023-10-01T17:00:00Z,Inter Toronto,Atlético Ottawa,1,0,FINISHED,York Lions Stadium
 2023,2023-10-06T23:30:00Z,Valour,HFX Wanderers,0,1,FINISHED,Princess Auto Stadium
-2023,2023-10-07T02:30:00Z,Vancouver FC,York United,1,2,FINISHED,Willoughby Community Park at the Langley Events Centre
+2023,2023-10-07T02:30:00Z,Vancouver FC,Inter Toronto,1,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2023,2023-10-07T21:00:00Z,Cavalry,Pacific,3,0,FINISHED,ATCO Field
 2023,2023-10-07T21:00:00Z,Forge,Atlético Ottawa,0,1,FINISHED,Hamilton Stadium
-2023,2023-10-12T02:00:00Z,Pacific,York United,1,0,FINISHED,Starlight Stadium
+2023,2023-10-12T02:00:00Z,Pacific,Inter Toronto,1,0,FINISHED,Starlight Stadium
 2023,2023-10-14T18:00:00Z,HFX Wanderers,Pacific,0,1,FINISHED,Wanderers Grounds
 2023,2023-10-14T21:00:00Z,Cavalry,Forge,1,2,FINISHED,ATCO Field
 2023,2023-10-21T20:00:00Z,Cavalry,Pacific,2,1,FINISHED,ATCO Field
 2023,2023-10-28T22:00:00Z,Forge,Cavalry,2,1,FINISHED,Hamilton Stadium
-2024,2024-04-13T17:00:00Z,Atlético Ottawa,York United,2,1,FINISHED,TD Place Stadium
+2021,2021-06-26T18:00:00Z,Edmonton,Atlético Ottawa,0,1,FINISHED,Princess Auto Stadium
+2021,2021-06-26T21:00:00Z,Pacific,HFX Wanderers,2,0,FINISHED,Princess Auto Stadium
+2021,2021-06-27T18:00:00Z,Forge,Valour,0,2,FINISHED,Princess Auto Stadium
+2021,2021-06-27T21:00:00Z,Cavalry,Inter Toronto,2,1,FINISHED,Princess Auto Stadium
+2021,2021-06-30T23:00:00Z,Valour,HFX Wanderers,2,0,FINISHED,Princess Auto Stadium
+2021,2021-07-01T02:00:00Z,Atlético Ottawa,Cavalry,1,4,FINISHED,Princess Auto Stadium
+2021,2021-07-01T21:00:00Z,Inter Toronto,Pacific,2,2,FINISHED,Princess Auto Stadium
+2021,2021-07-02T00:00:00Z,Edmonton,Forge,2,0,FINISHED,Princess Auto Stadium
+2021,2021-07-03T23:00:00Z,Cavalry,HFX Wanderers,0,0,FINISHED,Princess Auto Stadium
+2021,2021-07-04T02:00:00Z,Valour,Atlético Ottawa,2,0,FINISHED,Princess Auto Stadium
+2021,2021-07-04T23:00:00Z,Forge,Pacific,3,0,FINISHED,Princess Auto Stadium
+2021,2021-07-05T02:00:00Z,Edmonton,Inter Toronto,1,1,FINISHED,Princess Auto Stadium
+2021,2021-07-07T23:00:00Z,Atlético Ottawa,Pacific,0,1,FINISHED,Princess Auto Stadium
+2021,2021-07-08T02:00:00Z,Inter Toronto,Valour,2,1,FINISHED,Princess Auto Stadium
+2021,2021-07-09T00:00:00Z,Cavalry,Forge,0,2,FINISHED,Princess Auto Stadium
+2021,2021-07-10T18:00:00Z,HFX Wanderers,Edmonton,2,1,FINISHED,Princess Auto Stadium
+2021,2021-07-10T21:00:00Z,Pacific,Inter Toronto,3,0,FINISHED,Princess Auto Stadium
+2021,2021-07-11T17:30:00Z,Valour,Forge,1,0,FINISHED,Princess Auto Stadium
+2021,2021-07-12T01:00:00Z,Cavalry,Atlético Ottawa,0,2,FINISHED,Princess Auto Stadium
+2021,2021-07-14T00:00:00Z,HFX Wanderers,Pacific,0,0,FINISHED,Princess Auto Stadium
+2021,2021-07-14T23:00:00Z,Inter Toronto,Cavalry,0,0,FINISHED,Princess Auto Stadium
+2021,2021-07-15T02:00:00Z,Forge,Edmonton,1,0,FINISHED,Princess Auto Stadium
+2021,2021-07-15T21:00:00Z,Atlético Ottawa,Valour,0,1,FINISHED,Princess Auto Stadium
+2021,2021-07-17T23:00:00Z,HFX Wanderers,Cavalry,1,2,FINISHED,Princess Auto Stadium
+2021,2021-07-18T02:00:00Z,Pacific,Forge,1,2,FINISHED,Princess Auto Stadium
+2021,2021-07-18T23:30:00Z,Valour,Inter Toronto,3,0,FINISHED,Princess Auto Stadium
+2021,2021-07-19T02:30:00Z,Atlético Ottawa,Edmonton,1,1,FINISHED,Princess Auto Stadium
+2021,2021-07-21T23:00:00Z,Edmonton,HFX Wanderers,1,0,FINISHED,Princess Auto Stadium
+2021,2021-07-22T02:00:00Z,Pacific,Atlético Ottawa,4,2,FINISHED,Princess Auto Stadium
+2021,2021-07-23T00:00:00Z,Forge,Cavalry,1,2,FINISHED,Princess Auto Stadium
+2021,2021-07-24T18:00:00Z,HFX Wanderers,Valour,1,0,FINISHED,Princess Auto Stadium
+2021,2021-07-24T21:00:00Z,Inter Toronto,Edmonton,1,0,FINISHED,Princess Auto Stadium
+2021,2021-07-30T23:00:00Z,Inter Toronto,Forge,0,1,FINISHED,York Lions Stadium
+2021,2021-07-31T01:30:00Z,Pacific,Cavalry,2,0,FINISHED,Starlight Stadium
+2021,2021-08-01T01:00:00Z,Edmonton,Valour,3,1,FINISHED,Clarke Field
+2021,2021-08-02T18:00:00Z,HFX Wanderers,Atlético Ottawa,2,1,FINISHED,Wanderers Grounds
+2021,2021-08-04T01:00:00Z,Cavalry,Edmonton,2,1,FINISHED,ATCO Field
+2021,2021-08-04T23:00:00Z,Forge,Inter Toronto,0,1,FINISHED,Hamilton Stadium
+2021,2021-08-05T01:30:00Z,Pacific,Valour,2,1,FINISHED,Starlight Stadium
+2021,2021-08-07T18:00:00Z,HFX Wanderers,Inter Toronto,2,3,FINISHED,Wanderers Grounds
+2021,2021-08-07T22:30:00Z,Pacific,Edmonton,2,2,FINISHED,Starlight Stadium
+2021,2021-08-08T17:00:00Z,Forge,Atlético Ottawa,2,0,FINISHED,Hamilton Stadium
+2021,2021-08-08T20:00:00Z,Cavalry,Valour,1,0,FINISHED,ATCO Field
+2021,2021-08-12T01:00:00Z,Cavalry,Pacific,0,0,FINISHED,ATCO Field
+2021,2021-08-13T01:00:00Z,Edmonton,Valour,0,0,FINISHED,Clarke Field
+2021,2021-08-14T19:00:00Z,Atlético Ottawa,HFX Wanderers,2,1,FINISHED,TD Place Stadium
+2021,2021-08-17T00:00:00Z,Valour,Pacific,0,2,FINISHED,Princess Auto Stadium
+2021,2021-08-18T23:00:00Z,Atlético Ottawa,Inter Toronto,1,1,FINISHED,TD Place Stadium
+2021,2021-08-21T01:30:00Z,Pacific,Cavalry,1,2,FINISHED,Starlight Stadium
+2021,2021-08-22T20:00:00Z,Forge,HFX Wanderers,1,1,FINISHED,Hamilton Stadium
+2021,2021-08-25T00:00:00Z,Valour,Edmonton,3,0,FINISHED,Princess Auto Stadium
+2021,2021-08-25T22:00:00Z,Inter Toronto,HFX Wanderers,1,1,FINISHED,York Lions Stadium
+2021,2021-08-26T00:00:00Z,Forge,Atlético Ottawa,4,0,FINISHED,Hamilton Stadium
+2021,2021-08-28T20:00:00Z,Forge,Inter Toronto,3,1,FINISHED,Hamilton Stadium
+2021,2021-08-29T17:30:00Z,Atlético Ottawa,HFX Wanderers,2,2,FINISHED,TD Place Stadium
+2021,2021-08-29T20:00:00Z,Cavalry,Edmonton,2,2,FINISHED,ATCO Field
+2021,2021-08-29T22:30:00Z,Pacific,Valour,3,2,FINISHED,Starlight Stadium
+2021,2021-09-01T23:00:00Z,Atlético Ottawa,Inter Toronto,2,2,FINISHED,TD Place Stadium
+2021,2021-09-02T01:00:00Z,Edmonton,Cavalry,0,1,FINISHED,Clarke Field
+2021,2021-09-03T21:00:00Z,HFX Wanderers,Forge,2,0,FINISHED,Wanderers Grounds
+2021,2021-09-04T22:30:00Z,Valour,Cavalry,0,1,FINISHED,Princess Auto Stadium
+2021,2021-09-05T01:00:00Z,Edmonton,Pacific,1,2,FINISHED,Clarke Field
+2021,2021-09-06T18:00:00Z,HFX Wanderers,Inter Toronto,3,3,FINISHED,Wanderers Grounds
+2021,2021-09-08T00:00:00Z,Valour,Edmonton,0,3,FINISHED,Princess Auto Stadium
+2021,2021-09-08T23:00:00Z,Atlético Ottawa,Forge,0,1,FINISHED,TD Place Stadium
+2021,2021-09-10T02:00:00Z,Pacific,Cavalry,3,1,FINISHED,Starlight Stadium
+2021,2021-09-11T17:30:00Z,Atlético Ottawa,HFX Wanderers,1,2,FINISHED,TD Place Stadium
+2021,2021-09-11T20:00:00Z,Forge,Inter Toronto,0,2,FINISHED,Hamilton Stadium
+2021,2021-09-14T23:00:00Z,Inter Toronto,Atlético Ottawa,2,0,FINISHED,York Lions Stadium
+2021,2021-09-15T01:30:00Z,Edmonton,Pacific,1,1,FINISHED,Clarke Field
+2021,2021-09-18T18:00:00Z,Inter Toronto,HFX Wanderers,0,0,FINISHED,York Lions Stadium
+2021,2021-09-18T20:00:00Z,Valour,Cavalry,1,1,FINISHED,Princess Auto Stadium
+2021,2021-09-19T21:00:00Z,Pacific,Atlético Ottawa,1,1,FINISHED,Starlight Stadium
+2021,2021-09-25T18:00:00Z,HFX Wanderers,Edmonton,1,0,FINISHED,Wanderers Grounds
+2021,2021-09-25T20:30:00Z,Atlético Ottawa,Cavalry,3,1,FINISHED,TD Place Stadium
+2021,2021-09-25T23:00:00Z,Forge,Pacific,2,1,FINISHED,Hamilton Stadium
+2021,2021-09-26T18:00:00Z,Inter Toronto,Valour,2,1,FINISHED,York Lions Stadium
+2021,2021-09-29T21:30:00Z,HFX Wanderers,Atlético Ottawa,2,1,FINISHED,Wanderers Grounds
+2021,2021-09-29T23:45:00Z,Valour,Pacific,1,3,FINISHED,Princess Auto Stadium
+2021,2021-09-30T02:00:00Z,Edmonton,Cavalry,2,3,FINISHED,Clarke Field
+2021,2021-10-02T19:00:00Z,Valour,Edmonton,1,1,FINISHED,Princess Auto Stadium
+2021,2021-10-03T17:00:00Z,Inter Toronto,HFX Wanderers,2,2,FINISHED,York Lions Stadium
+2021,2021-10-03T19:30:00Z,Atlético Ottawa,Forge,0,3,FINISHED,TD Place Stadium
+2021,2021-10-06T00:00:00Z,Valour,Cavalry,0,0,FINISHED,Princess Auto Stadium
+2021,2021-10-06T22:00:00Z,HFX Wanderers,Forge,0,1,FINISHED,Wanderers Grounds
+2021,2021-10-07T01:00:00Z,Edmonton,Pacific,2,1,FINISHED,Clarke Field
+2021,2021-10-08T23:30:00Z,Inter Toronto,Atlético Ottawa,1,1,FINISHED,York Lions Stadium
+2021,2021-10-09T20:00:00Z,Cavalry,Edmonton,1,1,FINISHED,ATCO Field
+2021,2021-10-11T17:00:00Z,HFX Wanderers,Pacific,1,0,FINISHED,Wanderers Grounds
+2021,2021-10-11T19:00:00Z,Valour,Forge,3,1,FINISHED,Princess Auto Stadium
+2021,2021-10-13T01:00:00Z,Edmonton,Atlético Ottawa,3,4,FINISHED,Clarke Field
+2021,2021-10-15T01:00:00Z,Cavalry,Inter Toronto,2,1,FINISHED,ATCO Field
+2021,2021-10-16T19:30:00Z,Forge,Atlético Ottawa,2,0,FINISHED,Hamilton Stadium
+2021,2021-10-16T22:00:00Z,Pacific,Valour,3,2,FINISHED,Starlight Stadium
+2021,2021-10-17T18:00:00Z,Inter Toronto,Edmonton,1,1,FINISHED,York Lions Stadium
+2021,2021-10-17T20:00:00Z,Cavalry,HFX Wanderers,0,0,FINISHED,ATCO Field
+2021,2021-10-20T23:00:00Z,Atlético Ottawa,Valour,2,0,FINISHED,TD Place Stadium
+2021,2021-10-22T01:00:00Z,Cavalry,Pacific,2,1,FINISHED,ATCO Field
+2021,2021-10-23T18:00:00Z,HFX Wanderers,Forge,0,0,FINISHED,Wanderers Grounds
+2021,2021-10-24T18:00:00Z,Atlético Ottawa,Inter Toronto,1,1,FINISHED,TD Place Stadium
+2021,2021-10-27T00:30:00Z,Valour,HFX Wanderers,3,0,FINISHED,Princess Auto Stadium
+2021,2021-10-27T02:30:00Z,Pacific,Edmonton,5,1,FINISHED,Starlight Stadium
+2021,2021-10-30T17:00:00Z,Forge,HFX Wanderers,4,1,FINISHED,Hamilton Stadium
+2021,2021-10-30T19:30:00Z,Cavalry,Valour,2,4,FINISHED,ATCO Field
+2021,2021-10-30T22:00:00Z,Pacific,Inter Toronto,1,2,FINISHED,Starlight Stadium
+2021,2021-11-06T17:00:00Z,Inter Toronto,Forge,1,2,FINISHED,York Lions Stadium
+2021,2021-11-06T19:30:00Z,Edmonton,Valour,3,3,FINISHED,Clarke Field
+2021,2021-11-07T18:00:00Z,HFX Wanderers,Atlético Ottawa,1,1,FINISHED,Wanderers Grounds
+2021,2021-11-07T20:30:00Z,Cavalry,Pacific,1,0,FINISHED,ATCO Field
+2021,2021-11-10T00:00:00Z,Inter Toronto,Forge,1,3,FINISHED,York Lions Stadium
+2021,2021-11-13T19:00:00Z,Edmonton,Forge,1,0,FINISHED,Clarke Field
+2021,2021-11-16T23:00:00Z,Forge,Cavalry,0,1,FINISHED,Hamilton Stadium
+2021,2021-11-20T20:00:00Z,Cavalry,Pacific,1,2,FINISHED,ATCO Field
+2021,2021-11-21T20:00:00Z,Forge,Inter Toronto,3,1,FINISHED,Hamilton Stadium
+2021,2021-12-05T21:30:00Z,Forge,Pacific,0,1,FINISHED,Hamilton Stadium
+2024,2024-04-13T17:00:00Z,Atlético Ottawa,Inter Toronto,2,1,FINISHED,TD Place Stadium
 2024,2024-04-13T20:00:00Z,Forge,Cavalry,2,1,FINISHED,Hamilton Stadium
 2024,2024-04-13T23:00:00Z,Pacific,HFX Wanderers,1,0,FINISHED,Starlight Stadium
 2024,2024-04-14T23:00:00Z,Vancouver FC,Valour,4,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-04-19T02:00:00Z,Vancouver FC,HFX Wanderers,2,0,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-04-20T02:00:00Z,Pacific,Valour,2,0,FINISHED,Starlight Stadium
 2024,2024-04-20T18:00:00Z,Atlético Ottawa,Cavalry,1,1,FINISHED,TD Place Stadium
-2024,2024-04-21T20:00:00Z,York United,Forge,0,3,FINISHED,York Lions Stadium
-2024,2024-04-26T23:00:00Z,York United,Vancouver FC,3,0,FINISHED,York Lions Stadium
+2024,2024-04-21T20:00:00Z,Inter Toronto,Forge,0,3,FINISHED,York Lions Stadium
+2024,2024-04-26T23:00:00Z,Inter Toronto,Vancouver FC,3,0,FINISHED,York Lions Stadium
 2024,2024-04-27T17:00:00Z,HFX Wanderers,Atlético Ottawa,1,3,FINISHED,Wanderers Grounds
 2024,2024-04-27T20:00:00Z,Forge,Valour,2,1,FINISHED,Hamilton Stadium
 2024,2024-04-28T21:00:00Z,Cavalry,Pacific,0,0,FINISHED,ATCO Field
 2024,2024-05-04T01:00:00Z,Cavalry,Vancouver FC,3,1,FINISHED,ATCO Field
-2024,2024-05-04T23:00:00Z,Pacific,York United,2,0,FINISHED,Starlight Stadium
+2024,2024-05-04T23:00:00Z,Pacific,Inter Toronto,2,0,FINISHED,Starlight Stadium
 2024,2024-05-05T18:00:00Z,Atlético Ottawa,Valour,2,0,FINISHED,TD Place Stadium
-2024,2024-05-10T23:00:00Z,York United,Valour,3,1,FINISHED,York Lions Stadium
+2024,2024-05-10T23:00:00Z,Inter Toronto,Valour,3,1,FINISHED,York Lions Stadium
 2024,2024-05-11T18:00:00Z,HFX Wanderers,Cavalry,1,1,FINISHED,Wanderers Grounds
 2024,2024-05-11T21:00:00Z,Pacific,Forge,0,0,FINISHED,Starlight Stadium
 2024,2024-05-12T23:00:00Z,Vancouver FC,Atlético Ottawa,1,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-05-18T02:00:00Z,Pacific,Atlético Ottawa,0,1,FINISHED,Starlight Stadium
 2024,2024-05-18T20:00:00Z,Forge,Vancouver FC,1,2,FINISHED,Hamilton Stadium
-2024,2024-05-18T23:00:00Z,Cavalry,York United,2,2,FINISHED,ATCO Field
+2024,2024-05-18T23:00:00Z,Cavalry,Inter Toronto,2,2,FINISHED,ATCO Field
 2024,2024-05-20T19:00:00Z,HFX Wanderers,Valour,1,2,FINISHED,Wanderers Grounds
-2024,2024-05-24T23:00:00Z,York United,HFX Wanderers,2,1,FINISHED,York Lions Stadium
+2024,2024-05-24T23:00:00Z,Inter Toronto,HFX Wanderers,2,1,FINISHED,York Lions Stadium
 2024,2024-05-25T19:00:00Z,Atlético Ottawa,Forge,3,0,FINISHED,TD Place Stadium
 2024,2024-05-25T22:00:00Z,Vancouver FC,Pacific,2,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-05-26T21:00:00Z,Cavalry,Valour,1,1,FINISHED,ATCO Field
-2024,2024-06-01T20:00:00Z,Forge,York United,3,0,FINISHED,Hamilton Stadium
+2024,2024-06-01T20:00:00Z,Forge,Inter Toronto,3,0,FINISHED,Hamilton Stadium
 2024,2024-06-01T23:00:00Z,Pacific,Cavalry,1,1,FINISHED,Starlight Stadium
 2024,2024-06-02T18:00:00Z,Atlético Ottawa,HFX Wanderers,2,2,FINISHED,TD Place Stadium
 2024,2024-06-02T22:55:00Z,Valour,Vancouver FC,2,0,FINISHED,Princess Auto Stadium
 2024,2024-06-08T18:00:00Z,HFX Wanderers,Pacific,0,0,FINISHED,Wanderers Grounds
 2024,2024-06-08T21:00:00Z,Cavalry,Forge,1,0,FINISHED,ATCO Field
 2024,2024-06-09T17:30:00Z,Valour,Atlético Ottawa,0,2,FINISHED,Princess Auto Stadium
-2024,2024-06-09T22:00:00Z,York United,Vancouver FC,2,2,FINISHED,York Lions Stadium
+2024,2024-06-09T22:00:00Z,Inter Toronto,Vancouver FC,2,2,FINISHED,York Lions Stadium
 2024,2024-06-15T00:00:00Z,Valour,Pacific,2,3,FINISHED,Princess Auto Stadium
-2024,2024-06-15T17:00:00Z,Atlético Ottawa,York United,1,2,FINISHED,TD Place Stadium
+2024,2024-06-15T17:00:00Z,Atlético Ottawa,Inter Toronto,1,2,FINISHED,TD Place Stadium
 2024,2024-06-15T20:00:00Z,HFX Wanderers,Forge,2,2,FINISHED,Wanderers Grounds
 2024,2024-06-16T21:00:00Z,Vancouver FC,Cavalry,0,0,FINISHED,Apple Bowl
-2024,2024-06-19T23:00:00Z,York United,Pacific,2,0,FINISHED,York Lions Stadium
+2024,2024-06-19T23:00:00Z,Inter Toronto,Pacific,2,0,FINISHED,York Lions Stadium
 2024,2024-06-22T01:00:00Z,Cavalry,Atlético Ottawa,1,1,FINISHED,ATCO Field
 2024,2024-06-23T20:00:00Z,Forge,Valour,2,1,FINISHED,Hamilton Stadium
 2024,2024-06-23T23:00:00Z,Vancouver FC,HFX Wanderers,0,4,FINISHED,Willoughby Community Park at the Langley Events Centre
-2024,2024-06-27T23:30:00Z,Valour,York United,1,0,FINISHED,Princess Auto Stadium
+2024,2024-06-27T23:30:00Z,Valour,Inter Toronto,1,0,FINISHED,Princess Auto Stadium
 2024,2024-06-28T02:30:00Z,Pacific,Vancouver FC,1,2,FINISHED,Starlight Stadium
 2024,2024-06-28T23:00:00Z,Atlético Ottawa,Forge,4,3,FINISHED,TD Place Stadium
 2024,2024-07-01T20:00:00Z,HFX Wanderers,Cavalry,1,0,FINISHED,Wanderers Grounds
 2024,2024-07-05T23:00:00Z,Forge,Vancouver FC,3,3,FINISHED,Hamilton Stadium
-2024,2024-07-06T20:00:00Z,York United,HFX Wanderers,2,1,FINISHED,York Lions Stadium
+2024,2024-07-06T20:00:00Z,Inter Toronto,HFX Wanderers,2,1,FINISHED,York Lions Stadium
 2024,2024-07-07T17:00:00Z,Atlético Ottawa,Pacific,0,1,FINISHED,TD Place Stadium
 2024,2024-07-07T21:00:00Z,Valour,Cavalry,0,1,FINISHED,Princess Auto Stadium
 2024,2024-07-13T02:00:00Z,Vancouver FC,Atlético Ottawa,0,3,FINISHED,Willoughby Community Park at the Langley Events Centre
-2024,2024-07-13T20:00:00Z,Cavalry,York United,1,2,FINISHED,ATCO Field
+2024,2024-07-13T20:00:00Z,Cavalry,Inter Toronto,1,2,FINISHED,ATCO Field
 2024,2024-07-14T23:00:00Z,Forge,Pacific,2,1,FINISHED,Hamilton Stadium
 2024,2024-07-18T22:00:00Z,HFX Wanderers,Valour,3,1,FINISHED,Wanderers Grounds
-2024,2024-07-20T22:00:00Z,Vancouver FC,York United,1,1,FINISHED,Willoughby Community Park at the Langley Events Centre
+2024,2024-07-20T22:00:00Z,Vancouver FC,Inter Toronto,1,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-07-21T18:00:00Z,Atlético Ottawa,Valour,2,2,FINISHED,TD Place Stadium
 2024,2024-07-21T21:00:00Z,Cavalry,Forge,1,1,FINISHED,ATCO Field
-2024,2024-07-26T23:00:00Z,York United,Atlético Ottawa,4,1,FINISHED,York Lions Stadium
+2024,2024-07-26T23:00:00Z,Inter Toronto,Atlético Ottawa,4,1,FINISHED,York Lions Stadium
 2024,2024-07-27T02:00:00Z,Vancouver FC,Cavalry,0,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-07-27T23:00:00Z,Forge,HFX Wanderers,3,0,FINISHED,Hamilton Stadium
 2024,2024-07-28T21:00:00Z,Pacific,Valour,0,3,FINISHED,Starlight Stadium
-2024,2024-08-03T02:00:00Z,Pacific,York United,1,1,FINISHED,Starlight Stadium
+2024,2024-08-03T02:00:00Z,Pacific,Inter Toronto,1,1,FINISHED,Starlight Stadium
 2024,2024-08-03T23:00:00Z,Atlético Ottawa,Cavalry,1,2,FINISHED,TD Place Stadium
 2024,2024-08-04T19:00:00Z,Valour,Forge,2,1,FINISHED,Princess Auto Stadium
 2024,2024-08-05T19:00:00Z,HFX Wanderers,Vancouver FC,3,2,FINISHED,Wanderers Grounds
 2024,2024-08-10T20:00:00Z,Cavalry,HFX Wanderers,3,2,FINISHED,ATCO Field
 2024,2024-08-10T23:00:00Z,Forge,Atlético Ottawa,3,0,FINISHED,Hamilton Stadium
 2024,2024-08-11T21:15:00Z,Vancouver FC,Pacific,1,0,FINISHED,Willoughby Community Park at the Langley Events Centre
-2024,2024-08-12T00:00:00Z,Valour,York United,0,1,FINISHED,Princess Auto Stadium
+2024,2024-08-12T00:00:00Z,Valour,Inter Toronto,0,1,FINISHED,Princess Auto Stadium
 2024,2024-08-14T23:00:00Z,Forge,HFX Wanderers,2,0,FINISHED,Hamilton Stadium
-2024,2024-08-17T00:00:00Z,York United,Cavalry,1,2,FINISHED,York Lions Stadium
+2024,2024-08-17T00:00:00Z,Inter Toronto,Cavalry,1,2,FINISHED,York Lions Stadium
 2024,2024-08-17T22:00:00Z,Pacific,Atlético Ottawa,0,3,FINISHED,Starlight Stadium
 2024,2024-08-18T00:30:00Z,Valour,HFX Wanderers,2,1,FINISHED,Princess Auto Stadium
 2024,2024-08-18T23:00:00Z,Vancouver FC,Forge,1,2,FINISHED,Willoughby Community Park at the Langley Events Centre
-2024,2024-08-24T00:00:00Z,York United,Forge,0,0,FINISHED,York Lions Stadium
+2024,2024-08-24T00:00:00Z,Inter Toronto,Forge,0,0,FINISHED,York Lions Stadium
 2024,2024-08-24T18:00:00Z,HFX Wanderers,Atlético Ottawa,1,1,FINISHED,Wanderers Grounds
 2024,2024-08-24T21:00:00Z,Cavalry,Pacific,1,0,FINISHED,ATCO Field
 2024,2024-08-25T19:00:00Z,Valour,Vancouver FC,1,2,FINISHED,Princess Auto Stadium
 2024,2024-08-30T23:00:00Z,Forge,Pacific,2,0,FINISHED,Hamilton Stadium
 2024,2024-08-31T01:30:00Z,Cavalry,Valour,2,2,FINISHED,ATCO Field
 2024,2024-08-31T23:00:00Z,Atlético Ottawa,Vancouver FC,1,0,FINISHED,TD Place Stadium
-2024,2024-09-02T19:00:00Z,HFX Wanderers,York United,2,1,FINISHED,Wanderers Grounds
-2024,2024-09-07T02:00:00Z,Vancouver FC,York United,0,1,FINISHED,Willoughby Community Park at the Langley Events Centre
+2024,2024-09-02T19:00:00Z,HFX Wanderers,Inter Toronto,2,1,FINISHED,Wanderers Grounds
+2024,2024-09-07T02:00:00Z,Vancouver FC,Inter Toronto,0,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-09-07T23:00:00Z,Forge,Cavalry,2,1,FINISHED,Hamilton Stadium
 2024,2024-09-08T02:00:00Z,Pacific,HFX Wanderers,3,0,FINISHED,Starlight Stadium
 2024,2024-09-10T00:00:00Z,Valour,Atlético Ottawa,1,1,FINISHED,Princess Auto Stadium
-2024,2024-09-14T00:00:00Z,York United,Valour,1,1,FINISHED,York Lions Stadium
+2024,2024-09-14T00:00:00Z,Inter Toronto,Valour,1,1,FINISHED,York Lions Stadium
 2024,2024-09-14T18:00:00Z,HFX Wanderers,Forge,3,0,FINISHED,Wanderers Grounds
 2024,2024-09-14T21:00:00Z,Pacific,Vancouver FC,3,0,FINISHED,Starlight Stadium
 2024,2024-09-15T21:00:00Z,Cavalry,Atlético Ottawa,2,2,FINISHED,ATCO Field
 2024,2024-09-18T22:00:00Z,HFX Wanderers,Pacific,2,2,FINISHED,Wanderers Grounds
-2024,2024-09-21T00:00:00Z,York United,Cavalry,0,2,FINISHED,York Lions Stadium
+2024,2024-09-21T00:00:00Z,Inter Toronto,Cavalry,0,2,FINISHED,York Lions Stadium
 2024,2024-09-21T19:00:00Z,Valour,HFX Wanderers,1,1,FINISHED,Princess Auto Stadium
 2024,2024-09-21T22:00:00Z,Vancouver FC,Forge,1,3,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-09-22T18:00:00Z,Atlético Ottawa,Pacific,1,1,FINISHED,TD Place Stadium
-2024,2024-09-28T20:00:00Z,Forge,York United,2,0,FINISHED,Hamilton Stadium
+2024,2024-09-28T20:00:00Z,Forge,Inter Toronto,2,0,FINISHED,Hamilton Stadium
 2024,2024-09-28T23:00:00Z,Cavalry,Vancouver FC,0,0,FINISHED,ATCO Field
 2024,2024-09-29T18:00:00Z,Atlético Ottawa,HFX Wanderers,1,1,FINISHED,TD Place Stadium
 2024,2024-10-01T00:00:00Z,Valour,Pacific,1,0,FINISHED,Princess Auto Stadium
 2024,2024-10-05T18:00:00Z,HFX Wanderers,Vancouver FC,1,1,FINISHED,Wanderers Grounds
 2024,2024-10-05T21:00:00Z,Pacific,Cavalry,1,4,FINISHED,Starlight Stadium
 2024,2024-10-06T18:00:00Z,Valour,Forge,0,1,FINISHED,Princess Auto Stadium
-2024,2024-10-06T21:00:00Z,York United,Atlético Ottawa,1,0,FINISHED,York Lions Stadium
-2024,2024-10-11T00:00:00Z,York United,Pacific,1,2,FINISHED,York Lions Stadium
+2024,2024-10-06T21:00:00Z,Inter Toronto,Atlético Ottawa,1,0,FINISHED,York Lions Stadium
+2024,2024-10-11T00:00:00Z,Inter Toronto,Pacific,1,2,FINISHED,York Lions Stadium
 2024,2024-10-12T20:00:00Z,Forge,Atlético Ottawa,0,2,FINISHED,Hamilton Stadium
 2024,2024-10-12T23:00:00Z,Cavalry,HFX Wanderers,2,1,FINISHED,ATCO Field
 2024,2024-10-13T21:00:00Z,Vancouver FC,Valour,1,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2024,2024-10-19T20:00:00Z,Pacific,Forge,1,0,FINISHED,Starlight Stadium
 2024,2024-10-19T20:00:00Z,Valour,Cavalry,1,2,FINISHED,Princess Auto Stadium
 2024,2024-10-19T20:00:00Z,Atlético Ottawa,Vancouver FC,0,0,FINISHED,TD Place Stadium
-2024,2024-10-19T20:00:00Z,HFX Wanderers,York United,2,1,FINISHED,Wanderers Grounds
-2024,2024-10-23T23:30:00Z,York United,Pacific,2,0,FINISHED,York Lions Stadium
-2024,2024-10-27T17:00:00Z,Atlético Ottawa,York United,2,2,FINISHED,TD Place Stadium
+2024,2024-10-19T20:00:00Z,HFX Wanderers,Inter Toronto,2,1,FINISHED,Wanderers Grounds
+2024,2024-10-23T23:30:00Z,Inter Toronto,Pacific,2,0,FINISHED,York Lions Stadium
+2024,2024-10-27T17:00:00Z,Atlético Ottawa,Inter Toronto,2,2,FINISHED,TD Place Stadium
 2024,2024-10-27T20:15:00Z,Forge,Cavalry,0,1,FINISHED,Hamilton Stadium
 2024,2024-11-02T20:00:00Z,Forge,Atlético Ottawa,1,0,FINISHED,Hamilton Stadium
 2024,2024-11-09T20:00:00Z,Cavalry,Forge,2,1,FINISHED,ATCO Field
 2025,2025-04-05T18:00:00Z,Atlético Ottawa,HFX Wanderers,2,2,FINISHED,TD Place Stadium
 2025,2025-04-05T21:30:00Z,Forge,Cavalry,1,0,FINISHED,Hamilton Stadium
 2025,2025-04-06T00:00:00Z,Pacific,Valour,2,0,FINISHED,Starlight Stadium
-2025,2025-04-06T23:00:00Z,Vancouver FC,York United,0,2,FINISHED,Willoughby Community Park at the Langley Events Centre
+2025,2025-04-06T23:00:00Z,Vancouver FC,Inter Toronto,0,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-04-12T21:00:00Z,Pacific,Forge,0,2,FINISHED,Starlight Stadium
-2025,2025-04-13T19:00:00Z,York United,HFX Wanderers,1,2,FINISHED,York Lions Stadium
+2025,2025-04-13T19:00:00Z,Inter Toronto,HFX Wanderers,1,2,FINISHED,York Lions Stadium
 2025,2025-04-13T22:00:00Z,Vancouver FC,Atlético Ottawa,1,4,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-04-18T23:00:00Z,Cavalry,Vancouver FC,1,1,FINISHED,ATCO Field
-2025,2025-04-19T17:00:00Z,Atlético Ottawa,York United,3,2,FINISHED,TD Place Stadium
+2025,2025-04-19T17:00:00Z,Atlético Ottawa,Inter Toronto,3,2,FINISHED,TD Place Stadium
 2025,2025-04-19T19:30:00Z,HFX Wanderers,Pacific,3,1,FINISHED,Wanderers Grounds
 2025,2025-04-19T22:00:00Z,Forge,Valour,1,1,FINISHED,Hamilton Stadium
 2025,2025-04-26T00:00:00Z,Valour,HFX Wanderers,0,1,FINISHED,Princess Auto Stadium
 2025,2025-04-26T21:00:00Z,Cavalry,Atlético Ottawa,1,3,FINISHED,ATCO Field
 2025,2025-04-27T00:00:00Z,Vancouver FC,Pacific,1,1,FINISHED,Willoughby Community Park at the Langley Events Centre
-2025,2025-04-27T18:00:00Z,York United,Forge,2,2,FINISHED,York Lions Stadium
-2025,2025-05-03T00:00:00Z,York United,Cavalry,1,2,FINISHED,York Lions Stadium
+2025,2025-04-27T18:00:00Z,Inter Toronto,Forge,2,2,FINISHED,York Lions Stadium
+2025,2025-05-03T00:00:00Z,Inter Toronto,Cavalry,1,2,FINISHED,York Lions Stadium
 2025,2025-05-03T17:00:00Z,Atlético Ottawa,Pacific,3,1,FINISHED,TD Place Stadium
 2025,2025-05-03T20:00:00Z,HFX Wanderers,Forge,0,0,FINISHED,Wanderers Grounds
 2025,2025-05-03T23:00:00Z,Valour,Vancouver FC,1,3,FINISHED,Princess Auto Stadium
 2025,2025-05-10T18:00:00Z,Atlético Ottawa,Valour,5,2,FINISHED,TD Place Stadium
 2025,2025-05-10T21:30:00Z,HFX Wanderers,Cavalry,0,3,FINISHED,Wanderers Grounds
-2025,2025-05-11T00:00:00Z,Pacific,York United,2,1,FINISHED,Starlight Stadium
+2025,2025-05-11T00:00:00Z,Pacific,Inter Toronto,2,1,FINISHED,Starlight Stadium
 2025,2025-05-13T15:00:00Z,Forge,Atlético Ottawa,2,2,FINISHED,Hamilton Stadium
-2025,2025-05-17T00:00:00Z,Valour,York United,2,1,FINISHED,Princess Auto Stadium
+2025,2025-05-17T00:00:00Z,Valour,Inter Toronto,2,1,FINISHED,Princess Auto Stadium
 2025,2025-05-17T21:30:00Z,Cavalry,Pacific,4,0,FINISHED,ATCO Field
 2025,2025-05-18T00:00:00Z,Vancouver FC,HFX Wanderers,0,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-05-24T18:00:00Z,HFX Wanderers,Atlético Ottawa,2,0,FINISHED,Wanderers Grounds
 2025,2025-05-24T21:00:00Z,Pacific,Forge,0,1,FINISHED,Starlight Stadium
-2025,2025-05-25T18:00:00Z,York United,Vancouver FC,1,0,FINISHED,York Lions Stadium
+2025,2025-05-25T18:00:00Z,Inter Toronto,Vancouver FC,1,0,FINISHED,York Lions Stadium
 2025,2025-05-25T21:00:00Z,Cavalry,Valour,4,0,FINISHED,ATCO Field
 2025,2025-05-31T02:00:00Z,Vancouver FC,Atlético Ottawa,2,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-05-31T21:00:00Z,Forge,Cavalry,1,1,FINISHED,Hamilton Stadium
-2025,2025-05-31T23:00:00Z,York United,HFX Wanderers,2,0,FINISHED,Telus Stadium at Laval University
+2025,2025-05-31T23:00:00Z,Inter Toronto,HFX Wanderers,2,0,FINISHED,Telus Stadium at Laval University
 2025,2025-06-01T22:00:00Z,Valour,Pacific,0,0,FINISHED,Princess Auto Stadium
 2025,2025-06-04T16:25:00Z,Valour,Vancouver FC,3,1,FINISHED,Princess Auto Stadium
 2025,2025-06-07T22:00:00Z,Pacific,Atlético Ottawa,0,1,FINISHED,Starlight Stadium
 2025,2025-06-08T19:30:00Z,Forge,HFX Wanderers,2,1,FINISHED,Hamilton Stadium
-2025,2025-06-08T22:00:00Z,Cavalry,York United,2,1,FINISHED,ATCO Field
+2025,2025-06-08T22:00:00Z,Cavalry,Inter Toronto,2,1,FINISHED,ATCO Field
 2025,2025-06-14T19:00:00Z,HFX Wanderers,Cavalry,1,1,FINISHED,Wanderers Grounds
-2025,2025-06-14T22:00:00Z,Pacific,York United,1,3,FINISHED,Starlight Stadium
+2025,2025-06-14T22:00:00Z,Pacific,Inter Toronto,1,3,FINISHED,Starlight Stadium
 2025,2025-06-15T20:00:00Z,Vancouver FC,Forge,0,2,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-06-15T23:00:00Z,Atlético Ottawa,Valour,3,0,FINISHED,TD Place Stadium
 2025,2025-06-21T18:00:00Z,HFX Wanderers,Vancouver FC,1,0,FINISHED,Wanderers Grounds
-2025,2025-06-22T17:00:00Z,York United,Atlético Ottawa,0,0,FINISHED,York Lions Stadium
+2025,2025-06-22T17:00:00Z,Inter Toronto,Atlético Ottawa,0,0,FINISHED,York Lions Stadium
 2025,2025-06-22T21:13:00Z,Valour,Forge,0,5,FINISHED,Princess Auto Stadium
 2025,2025-06-22T23:00:00Z,Cavalry,Pacific,1,0,FINISHED,ATCO Field
 2025,2025-06-28T02:00:00Z,Pacific,Vancouver FC,4,4,FINISHED,Starlight Stadium
 2025,2025-06-28T22:00:00Z,Cavalry,Atlético Ottawa,0,2,FINISHED,ATCO Field
-2025,2025-06-29T20:00:00Z,Forge,York United,2,2,FINISHED,Hamilton Stadium
+2025,2025-06-29T20:00:00Z,Forge,Inter Toronto,2,2,FINISHED,Hamilton Stadium
 2025,2025-07-01T19:00:00Z,HFX Wanderers,Valour,3,1,FINISHED,Wanderers Grounds
 2025,2025-07-05T21:00:00Z,Forge,Vancouver FC,2,1,FINISHED,Hamilton Stadium
 2025,2025-07-12T19:00:00Z,Atlético Ottawa,Forge,1,1,FINISHED,TD Place Stadium
 2025,2025-07-12T22:00:00Z,Pacific,HFX Wanderers,3,2,FINISHED,Starlight Stadium
-2025,2025-07-13T22:00:00Z,York United,Valour,3,2,FINISHED,York Lions Stadium
+2025,2025-07-13T22:00:00Z,Inter Toronto,Valour,3,2,FINISHED,York Lions Stadium
 2025,2025-07-14T01:00:00Z,Vancouver FC,Cavalry,0,0,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-07-18T23:00:00Z,Forge,Pacific,2,0,FINISHED,Hamilton Stadium
 2025,2025-07-18T23:00:00Z,Atlético Ottawa,HFX Wanderers,2,0,FINISHED,TD Place Stadium
-2025,2025-07-19T20:00:00Z,York United,Vancouver FC,4,0,FINISHED,York Lions Stadium
+2025,2025-07-19T20:00:00Z,Inter Toronto,Vancouver FC,4,0,FINISHED,York Lions Stadium
 2025,2025-07-20T19:00:00Z,Valour,Cavalry,1,2,FINISHED,Princess Auto Stadium
 2025,2025-07-25T22:00:00Z,HFX Wanderers,Forge,1,2,FINISHED,Wanderers Grounds
 2025,2025-07-26T02:00:00Z,Vancouver FC,Valour,1,3,FINISHED,Willoughby Community Park at the Langley Events Centre
-2025,2025-07-26T21:00:00Z,Cavalry,York United,0,1,FINISHED,ATCO Field
+2025,2025-07-26T21:00:00Z,Cavalry,Inter Toronto,0,1,FINISHED,ATCO Field
 2025,2025-07-27T00:00:00Z,Pacific,Atlético Ottawa,0,2,FINISHED,Starlight Stadium
 2025,2025-07-30T00:00:00Z,Valour,Cavalry,2,1,FINISHED,Princess Auto Stadium
 2025,2025-08-02T23:00:00Z,Forge,Valour,5,0,FINISHED,Hamilton Stadium
-2025,2025-08-03T20:00:00Z,Atlético Ottawa,York United,0,0,FINISHED,TD Place Stadium
+2025,2025-08-03T20:00:00Z,Atlético Ottawa,Inter Toronto,0,0,FINISHED,TD Place Stadium
 2025,2025-08-04T19:00:00Z,HFX Wanderers,Vancouver FC,1,2,FINISHED,Wanderers Grounds
 2025,2025-08-04T22:00:00Z,Pacific,Cavalry,1,0,FINISHED,Starlight Stadium
-2025,2025-08-09T17:00:00Z,York United,Forge,1,2,FINISHED,York Lions Stadium
+2025,2025-08-09T17:00:00Z,Inter Toronto,Forge,1,2,FINISHED,York Lions Stadium
 2025,2025-08-09T21:00:00Z,Cavalry,HFX Wanderers,0,0,FINISHED,ATCO Field
 2025,2025-08-10T19:00:00Z,Valour,Atlético Ottawa,1,2,FINISHED,Princess Auto Stadium
 2025,2025-08-10T22:00:00Z,Vancouver FC,Pacific,2,3,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-08-16T22:00:00Z,Pacific,HFX Wanderers,2,2,FINISHED,Starlight Stadium
-2025,2025-08-17T17:30:00Z,Valour,York United,0,0,FINISHED,Princess Auto Stadium
+2025,2025-08-17T17:30:00Z,Valour,Inter Toronto,0,0,FINISHED,Princess Auto Stadium
 2025,2025-08-17T20:00:00Z,Forge,Atlético Ottawa,2,0,FINISHED,Hamilton Stadium
 2025,2025-08-17T23:00:00Z,Cavalry,Vancouver FC,5,4,FINISHED,ATCO Field
 2025,2025-08-22T22:00:00Z,HFX Wanderers,Valour,4,1,FINISHED,Wanderers Grounds
 2025,2025-08-23T02:00:00Z,Vancouver FC,Forge,0,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-08-23T23:00:00Z,Atlético Ottawa,Cavalry,2,2,FINISHED,TD Place Stadium
-2025,2025-08-24T20:00:00Z,York United,Pacific,5,1,FINISHED,York Lions Stadium
+2025,2025-08-24T20:00:00Z,Inter Toronto,Pacific,5,1,FINISHED,York Lions Stadium
 2025,2025-08-30T20:00:00Z,Cavalry,Forge,4,1,FINISHED,ATCO Field
 2025,2025-08-30T23:00:00Z,Atlético Ottawa,Vancouver FC,3,1,FINISHED,TD Place Stadium
 2025,2025-08-31T19:00:00Z,Valour,Pacific,1,1,FINISHED,Princess Auto Stadium
-2025,2025-09-01T19:00:00Z,HFX Wanderers,York United,4,0,FINISHED,Wanderers Grounds
-2025,2025-09-05T23:30:00Z,York United,Cavalry,3,1,FINISHED,York Lions Stadium
+2025,2025-09-01T19:00:00Z,HFX Wanderers,Inter Toronto,4,0,FINISHED,Wanderers Grounds
+2025,2025-09-05T23:30:00Z,Inter Toronto,Cavalry,3,1,FINISHED,York Lions Stadium
 2025,2025-09-06T02:30:00Z,Vancouver FC,Valour,2,5,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-09-06T20:00:00Z,Forge,HFX Wanderers,1,0,FINISHED,Hamilton Stadium
 2025,2025-09-06T23:00:00Z,Atlético Ottawa,Pacific,2,0,FINISHED,TD Place Stadium
 2025,2025-09-12T00:00:00Z,Valour,Forge,2,1,FINISHED,Princess Auto Stadium
 2025,2025-09-13T20:00:00Z,Cavalry,HFX Wanderers,3,1,FINISHED,ATCO Field
 2025,2025-09-13T23:00:00Z,Pacific,Vancouver FC,1,1,FINISHED,Royal Athletic Park
-2025,2025-09-14T18:00:00Z,York United,Atlético Ottawa,2,2,FINISHED,York Lions Stadium
+2025,2025-09-14T18:00:00Z,Inter Toronto,Atlético Ottawa,2,2,FINISHED,York Lions Stadium
 2025,2025-09-20T19:00:00Z,HFX Wanderers,Pacific,3,0,FINISHED,Wanderers Grounds
 2025,2025-09-20T22:00:00Z,Cavalry,Valour,3,0,FINISHED,ATCO Field
 2025,2025-09-21T19:00:00Z,Atlético Ottawa,Forge,1,1,FINISHED,TD Place Stadium
-2025,2025-09-21T22:00:00Z,Vancouver FC,York United,2,1,FINISHED,Willoughby Community Park at the Langley Events Centre
+2025,2025-09-21T22:00:00Z,Vancouver FC,Inter Toronto,2,1,FINISHED,Willoughby Community Park at the Langley Events Centre
 2025,2025-09-27T17:00:00Z,Atlético Ottawa,Cavalry,3,0,FINISHED,TD Place Stadium
 2025,2025-09-27T20:00:00Z,Forge,Pacific,4,0,FINISHED,Hamilton Stadium
-2025,2025-09-28T19:00:00Z,York United,Valour,1,0,FINISHED,York Lions Stadium
+2025,2025-09-28T19:00:00Z,Inter Toronto,Valour,1,0,FINISHED,York Lions Stadium
 2025,2025-09-28T22:00:00Z,Vancouver FC,HFX Wanderers,3,1,FINISHED,Willoughby Community Park at the Langley Events Centre
-2025,2025-10-04T18:00:00Z,HFX Wanderers,York United,1,1,FINISHED,Wanderers Grounds
+2025,2025-10-04T18:00:00Z,HFX Wanderers,Inter Toronto,1,1,FINISHED,Wanderers Grounds
 2025,2025-10-04T20:30:00Z,Forge,Vancouver FC,1,1,FINISHED,Hamilton Stadium
 2025,2025-10-05T19:00:00Z,Valour,Atlético Ottawa,3,3,FINISHED,Princess Auto Stadium
 2025,2025-10-05T22:00:00Z,Pacific,Cavalry,3,3,FINISHED,Starlight Stadium
-2025,2025-10-09T23:30:00Z,York United,Pacific,2,2,FINISHED,York Lions Stadium
+2025,2025-10-09T23:30:00Z,Inter Toronto,Pacific,2,2,FINISHED,York Lions Stadium
 2025,2025-10-11T01:30:00Z,Cavalry,Forge,1,1,FINISHED,ATCO Field
 2025,2025-10-11T19:00:00Z,Valour,HFX Wanderers,0,3,FINISHED,Princess Auto Stadium
 2025,2025-10-12T19:00:00Z,Atlético Ottawa,Vancouver FC,0,0,FINISHED,TD Place Stadium
 2025,2025-10-18T20:00:00Z,Pacific,Valour,1,4,FINISHED,Starlight Stadium
 2025,2025-10-18T20:00:00Z,Vancouver FC,Cavalry,2,2,FINISHED,Willoughby Community Park at the Langley Events Centre
-2025,2025-10-18T20:00:00Z,Forge,York United,3,0,FINISHED,Hamilton Stadium
+2025,2025-10-18T20:00:00Z,Forge,Inter Toronto,3,0,FINISHED,Hamilton Stadium
 2025,2025-10-18T20:00:00Z,HFX Wanderers,Atlético Ottawa,0,1,FINISHED,Wanderers Grounds
-2025,2025-10-22T22:30:00Z,HFX Wanderers,York United,2,2,FINISHED,Wanderers Grounds
+2025,2025-10-22T22:30:00Z,HFX Wanderers,Inter Toronto,2,2,FINISHED,Wanderers Grounds
 2025,2025-10-26T18:00:00Z,Forge,Atlético Ottawa,1,2,FINISHED,Hamilton Stadium
-2025,2025-10-26T22:00:00Z,Cavalry,York United,4,1,FINISHED,ATCO Field
+2025,2025-10-26T22:00:00Z,Cavalry,Inter Toronto,4,1,FINISHED,ATCO Field
 2025,2025-11-02T21:00:00Z,Forge,Cavalry,0,1,FINISHED,Hamilton Stadium
 2025,2025-11-09T22:20:00Z,Atlético Ottawa,Cavalry,2,1,FINISHED,TD Place Stadium
