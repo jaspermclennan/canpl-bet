@@ -11,9 +11,9 @@ The Math Brain (Poisson): It looks at how many goals teams usually score and cal
 The Machine Brain (Logistic Regression): It has studied over 500 historical CPL matches to learn how a "Strength Gap" between two teams actually translates into a Win, Loss, or Draw.
 
 🛠️ Key Features
-Backtesting: I built a "time machine" script that tests my models against the entire 2025 season to see which one was actually more accurate.
+Backtesting: We built a "time machine" script that tests my models against the entire 2025 season to see which one was actually more accurate.
 
-Neutral Odds: The models are trained to be "neutral," so I can manually add a Home Field Advantage (HFA) bonus depending on where the game is being played.
+Neutral Odds: The models are trained to be "neutral," so we can manually add a Home Field Advantage (HFA) bonus depending on where the game is being played.
 
 Automated Pipeline: The code automatically cleans up messy CSV data and standardizes team names and years.
 
