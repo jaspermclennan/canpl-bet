@@ -29,8 +29,8 @@ python3 code/analysis/master_odds.py 2026 1 2
 🚧 What’s Next (In Progress)
 The engine is currently getting a few upgrades to move from "Team-level" to "Game-level" accuracy:
 
-**Player Values: **Integrating individual player stats and market values to account for roster changes and key injuries.
+Player Values: Integrating individual player stats and market values to account for roster changes and key injuries.
 
-**Travel & Fatigue: **Tracking travel distance (CPL is a huge country!) and "days since last match" to see how they impact performance.
+Travel & Fatigue: Tracking travel distance (CPL is a huge country!) and "days since last match" to see how they impact performance.
 
-**External Factors: **Pulling in weather data to adjust expected goal counts for rainy or high-wind matchdays.
+External Factors: Pulling in weather data to adjust expected goal counts for rainy or high-wind matchdays.
