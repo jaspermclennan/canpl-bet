@@ -1,0 +1,24 @@
+{
+  "features": [
+    "diff_total",
+    "diff_form_pts",
+    "diff_form_gd"
+  ],
+  "classes": [
+    0,
+    1,
+    2
+  ],
+  "date_col": "date",
+  "label_col": "label",
+  "cutoff_date": "2025-05-17 00:00:00+00:00",
+  "metrics": {
+    "train_log_loss": 1.0635483678955353,
+    "test_log_loss": 1.0430985815901803,
+    "train_accuracy": 0.44385026737967914,
+    "test_accuracy": 0.5425531914893617,
+    "n_total": 468,
+    "n_train": 374,
+    "n_test": 94
+  }
+}

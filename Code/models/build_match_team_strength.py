@@ -6,7 +6,7 @@ import os
 
 # Detects REPO_ROOT 
 cwd = Path(os.getcwd())
-REPO_ROOT = cwd if cwd.name == "canpl-bet-3" else Path(__file__).resolve().parent.parent.parent
+REPO_ROOT = cwd if cwd.name == "canpl-bet" else Path(__file__).resolve().parent.parent.parent
 
 LINEUP_FILE = REPO_ROOT / "data" / "lineups" / "assumed_lineup.csv"
 # NEW: Point to the rolling ratings

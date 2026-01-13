@@ -9,7 +9,7 @@ import os
 # --- PATH SETUP ---
 cwd = Path(os.getcwd())
 # Ensure we are at the repo root
-REPO_ROOT = cwd if cwd.name == "canpl-bet-3" else Path(__file__).resolve().parent.parent.parent.parent
+REPO_ROOT = cwd if cwd.name == "canpl-bet" else Path(__file__).resolve().parent.parent.parent.parent
 
 DATA_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_model_ready.csv"
 MODEL_DIR = REPO_ROOT / "models"

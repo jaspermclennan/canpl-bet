@@ -1,19 +1,13 @@
 import pandas as pd
 import numpy as np
 from pathlib import Path
-import os
+
 
 # --- PATH SETUP ---
-# We are deep in Code/models/james_elo/, so 4 parents needed
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
 
-# INPUT 1: The file with ELO gaps (from build_match_features.py)
 FEATURES_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_features.csv"
-
-# INPUT 2: The Master file (to get Scores back if missing)
 BASELINE_FILE = REPO_ROOT / "data" / "matches" / "processed" / "all_matches_with_baseline.csv"
-
-# OUTPUT: The file with Form added
 OUT_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_model_with_form.csv"
 
 TEAM_NAME_MAP = {
@@ -33,129 +27,172 @@ TEAM_NAME_MAP = {
     "Cavalry": "Cavalry",
     "Cavalry FC": "Cavalry",
     "Edmonton": "Edmonton",
-    "FC Edmonton": "Edmonton"
+    "FC Edmonton": "Edmonton",
 }
 
-def clean_team(name):
+WINDOW = 5
+USE_EMA = False
+EMA_ALPHA = 0.35  # used only if USE_EMA=True
+
+def clean_team(name: str) -> str:
     return TEAM_NAME_MAP.get(str(name).strip(), str(name).strip())
 
+def _normalize_match_key(date_val, home, away):
+    """YYYY-MM-DD_Home_vs_Away (consistent with your external_factors builder fallback)."""
+    d = pd.to_datetime(date_val, errors="coerce")
+    if pd.isna(d):
+        return None
+    return f"{d.strftime('%Y-%m-%d')}_{clean_team(home)}_vs_{clean_team(away)}"
+
+def _merge_scores(df_features: pd.DataFrame) -> pd.DataFrame:
+    """Ensures HomeScore/AwayScore exist by merging from baseline."""
+    if "HomeScore" in df_features.columns and "AwayScore" in df_features.columns:
+        return df_features
+
+    if not BASELINE_FILE.exists():
+        raise FileNotFoundError(f"Cannot find baseline file at {BASELINE_FILE}")
+
+    df_base = pd.read_csv(BASELINE_FILE)
+
+    # Normalize baseline columns
+    date_col = "Date" if "Date" in df_base.columns else ("date" if "date" in df_base.columns else None)
+    if not date_col:
+        raise ValueError("Baseline file missing a date column (expected Date or date).")
+
+    # Prefer match_id if both sides have it
+    if "match_id" in df_features.columns and "match_id" in df_base.columns:
+        merged = df_features.merge(
+            df_base[["match_id", "HomeScore", "AwayScore"]],
+            on="match_id",
+            how="left",
+            suffixes=("", "_base"),
+        )
+        # If base merge worked, use it
+        if merged["HomeScore"].notna().any() or merged["AwayScore"].notna().any():
+            merged["HomeScore"] = merged["HomeScore"].fillna(merged.get("HomeScore_base"))
+            merged["AwayScore"] = merged["AwayScore"].fillna(merged.get("AwayScore_base"))
+            for c in ["HomeScore_base", "AwayScore_base"]:
+                if c in merged.columns:
+                    merged = merged.drop(columns=[c])
+            return merged
+
+    # Fallback: join on date + home + away
+    df_features = df_features.copy()
+    df_base = df_base.copy()
+
+    df_features["_join_key"] = df_features.apply(
+        lambda r: _normalize_match_key(r.get("date"), r.get("home_team"), r.get("away_team")),
+        axis=1,
+    )
+    df_base["_join_key"] = df_base.apply(
+        lambda r: _normalize_match_key(r.get(date_col), r.get("HomeTeam"), r.get("AwayTeam")),
+        axis=1,
+    )
+
+    merged = df_features.merge(
+        df_base[["_join_key", "HomeScore", "AwayScore"]],
+        on="_join_key",
+        how="left",
+        suffixes=("", "_base"),
+    )
+    merged = merged.drop(columns=["_join_key"])
+    return merged
+
 def main():
-    print("--- 🔄 CALCULATING ROLLING FORM ---")
-    
+    print("--- CALCULATING ROLLING FORM (IMPROVED) ---")
+
     if not FEATURES_FILE.exists():
-        print(f"❌ Missing {FEATURES_FILE}")
+        print(f"Missing {FEATURES_FILE}")
         return
 
-    # 1. Load Features (ELO gaps)
     df_features = pd.read_csv(FEATURES_FILE)
-    
-    # 2. Load Master (Scores) and Merge if necessary
-    # The error happened because 'HomeScore' was missing. We fix that here.
-    if 'HomeScore' not in df_features.columns:
-        print("   ⚠️ Scores missing in input. Merging from master file...")
-        if not BASELINE_FILE.exists():
-            print(f"❌ Critical: Cannot find master file at {BASELINE_FILE}")
-            return
-            
-        df_base = pd.read_csv(BASELINE_FILE)
-        
-        # Normalize keys for join (Date + HomeTeam)
-        df_features['join_date'] = pd.to_datetime(df_features['date']).dt.strftime('%Y-%m-%d')
-        df_features['join_h'] = df_features['home_team'].apply(clean_team)
-        
-        # Check column names in base file
-        date_col = 'Date' if 'Date' in df_base.columns else 'date'
-        df_base['join_date'] = pd.to_datetime(df_base[date_col]).dt.strftime('%Y-%m-%d')
-        df_base['join_h'] = df_base['HomeTeam'].apply(clean_team)
-        
-        # Merge only the scores
-        df_merged = pd.merge(
-            df_features,
-            df_base[['join_date', 'join_h', 'HomeScore', 'AwayScore']],
-            on=['join_date', 'join_h'],
-            how='left'
-        )
-        
-        # Cleanup join columns
-        df_merged = df_merged.drop(columns=['join_date', 'join_h'])
-    else:
-        df_merged = df_features.copy()
 
-    # 3. Calculate Form
-    # We must sort by date to calculate "Past 5 Games" correctly
-    df_merged['date'] = pd.to_datetime(df_merged['date'])
-    df_merged = df_merged.sort_values('date')
-    
-    # Dictionary to track team history
-    team_stats = {} # {team_name: [{'pts': 3, 'gd': 2}, ...]}
+    # Ensure date exists
+    if "date" not in df_features.columns:
+        raise ValueError("match_features.csv must contain a 'date' column.")
 
-    # Lists to store the new features
-    home_form_pts = []
-    away_form_pts = []
-    home_form_gd = []
-    away_form_gd = []
-    
-    print(f"   Processing {len(df_merged)} matches...")
+    df = _merge_scores(df_features)
 
-    # Iterate row by row
-    for idx, row in df_merged.iterrows():
-        h_team = clean_team(row['home_team'])
-        a_team = clean_team(row['away_team'])
-        
-        # A. RETRIEVE Past Form (Average of Last 5 games)
-        def get_recent_stats(team):
-            history = team_stats.get(team, [])
-            if len(history) == 0:
-                return 0.0, 0.0 # No history = 0 form
-            
-            recent = history[-5:] # Last 5
-            pts = sum(x['pts'] for x in recent) / len(recent) # Avg Points
-            gd = sum(x['gd'] for x in recent) / len(recent)   # Avg Goal Diff
-            return pts, gd
+    # Normalize teams
+    df["home_team"] = df["home_team"].apply(clean_team)
+    df["away_team"] = df["away_team"].apply(clean_team)
 
-        h_pts, h_gd = get_recent_stats(h_team)
-        a_pts, a_gd = get_recent_stats(a_team)
-        
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df = df.dropna(subset=["date"]).sort_values("date").reset_index(drop=True)
+
+    # team_stats: list of dicts per team
+    team_hist = {}  # {team: [{"pts":..., "gd":...}, ...]}
+
+    home_form_pts, away_form_pts, home_form_gd, away_form_gd = [], [], [], []
+
+    def _recent_stats(team: str):
+        hist = team_hist.get(team, [])
+        if not hist:
+            return 0.0, 0.0
+        recent = hist[-WINDOW:]
+        pts = sum(x["pts"] for x in recent) / len(recent)
+        gd = sum(x["gd"] for x in recent) / len(recent)
+        return pts, gd
+
+    def _ema_stats(team: str):
+        hist = team_hist.get(team, [])
+        if not hist:
+            return 0.0, 0.0
+        pts_ema = 0.0
+        gd_ema = 0.0
+        # Iterate from oldest to newest
+        for x in hist[-max(WINDOW * 3, WINDOW):]:
+            pts_ema = EMA_ALPHA * x["pts"] + (1 - EMA_ALPHA) * pts_ema
+            gd_ema = EMA_ALPHA * x["gd"] + (1 - EMA_ALPHA) * gd_ema
+        return pts_ema, gd_ema
+
+    print(f"   Processing {len(df)} matches...")
+
+    for _, row in df.iterrows():
+        h = clean_team(row["home_team"])
+        a = clean_team(row["away_team"])
+
+        if USE_EMA:
+            h_pts, h_gd = _ema_stats(h)
+            a_pts, a_gd = _ema_stats(a)
+        else:
+            h_pts, h_gd = _recent_stats(h)
+            a_pts, a_gd = _recent_stats(a)
+
         home_form_pts.append(h_pts)
         home_form_gd.append(h_gd)
         away_form_pts.append(a_pts)
         away_form_gd.append(a_gd)
-        
-        # B. UPDATE History (for the NEXT time this team plays)
-        # We only update if the game has actually been played (has a score)
-        if pd.notna(row['HomeScore']):
-            h_s = row['HomeScore']
-            a_s = row['AwayScore']
-            
-            # Points (3 for Win, 1 for Draw, 0 for Loss)
-            if h_s > a_s: hp, ap = 3, 0
-            elif h_s == a_s: hp, ap = 1, 1
-            else: hp, ap = 0, 3
-            
-            # Goal Difference
-            h_gdiff = h_s - a_s
-            a_gdiff = a_s - h_s
-            
-            if h_team not in team_stats: team_stats[h_team] = []
-            if a_team not in team_stats: team_stats[a_team] = []
-            
-            team_stats[h_team].append({'pts': hp, 'gd': h_gdiff})
-            team_stats[a_team].append({'pts': ap, 'gd': a_gdiff})
-            
-    # 4. Add Columns to DataFrame
-    df_merged['home_form_pts'] = home_form_pts
-    df_merged['away_form_pts'] = away_form_pts
-    df_merged['home_form_gd'] = home_form_gd
-    df_merged['away_form_gd'] = away_form_gd
-    
-    # Calculate Diffs (Home - Away)
-    df_merged['diff_form_pts'] = df_merged['home_form_pts'] - df_merged['away_form_pts']
-    df_merged['diff_form_gd'] = df_merged['home_form_gd'] - df_merged['away_form_gd']
-    
-    # 5. Save
-    df_merged.to_csv(OUT_FILE, index=False)
-    print(f"✅ Saved rolling features to: {OUT_FILE}")
-    print(f"   (Added 'diff_form_pts' and 'diff_form_gd')")
+
+        # Update only if played (score exists)
+        if pd.notna(row.get("HomeScore")) and pd.notna(row.get("AwayScore")):
+            hs = float(row["HomeScore"])
+            as_ = float(row["AwayScore"])
+
+            if hs > as_:
+                hp, ap = 3, 0
+            elif hs == as_:
+                hp, ap = 1, 1
+            else:
+                hp, ap = 0, 3
+
+            h_gdiff = hs - as_
+            a_gdiff = as_ - hs
+
+            team_hist.setdefault(h, []).append({"pts": hp, "gd": h_gdiff})
+            team_hist.setdefault(a, []).append({"pts": ap, "gd": a_gdiff})
+
+    df["home_form_pts"] = home_form_pts
+    df["away_form_pts"] = away_form_pts
+    df["home_form_gd"] = home_form_gd
+    df["away_form_gd"] = away_form_gd
+
+    df["diff_form_pts"] = df["home_form_pts"] - df["away_form_pts"]
+    df["diff_form_gd"] = df["home_form_gd"] - df["away_form_gd"]
+
+    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(OUT_FILE, index=False)
+    print(f"Saved rolling features to: {OUT_FILE}")
 
 if __name__ == "__main__":
     main()

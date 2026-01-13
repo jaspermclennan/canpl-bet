@@ -4,7 +4,7 @@ import pandas as pd
 import os 
 
 cwd = Path(os.getcwd())
-REPO_ROOT = cwd if cwd.name == "canpl-bet-3" else Path(__file__).resolve().parent.parent.parent
+REPO_ROOT = cwd if cwd.name == "canpl-bet" else Path(__file__).resolve().parent.parent.parent
 
 STRENGTH_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_team_strength.csv"
 OUT_DIR = REPO_ROOT / "data" / "matches" / "derived"
