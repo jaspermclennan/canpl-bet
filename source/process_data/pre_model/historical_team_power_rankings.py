@@ -1,3 +1,5 @@
+# @AUTHOUR: Jasper McLennan
+
 import pandas as pd
 import sys
 
@@ -11,11 +13,11 @@ else:
 # ----------------------------
 # 1. Load Data
 # ----------------------------
-df_teams = pd.read_csv('data/teams/combined/teams_combined.csv')
+df_teams = pd.read_csv('data/raw/team/teams_combined.csv')
 
 # Use the weights we just generated in correlations.py 
 # (which were calculated using data BEFORE the target year)
-df_corr = pd.read_csv(f'data/analysis/correlations_{TARGET_YEAR}.csv')
+df_corr = pd.read_csv(f'data/analysis/correlations/correlations_{TARGET_YEAR}.csv')
 
 # ----------------------------
 # 2. Selection: Find Significant Stats
@@ -72,7 +74,7 @@ df_strength = pd.concat(zscore_frames, ignore_index=True)
 df_strength = df_strength.sort_values(by=['Year', 'Strength_Score'], ascending=[False, False])
 
 # Save to the original master path so your next script finds it
-output_path = 'data/analysis/team_strengths.csv'
+output_path = 'data/analysis/strength/team_power_rankings.csv'
 df_strength.to_csv(output_path, index=False)
 
 print("\n--- FINAL TEAM STRENGTH RANKINGS (ALL YEARS) ---")
