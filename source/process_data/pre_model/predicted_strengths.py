@@ -72,8 +72,8 @@ if new_teams:
     
     if not expansion_performances.empty:
         expansion_mean = expansion_performances.mean()
-        # C. The "Blended Prior": 70% Expansion History + 30% League Average
-        # This pulls the score from -54 up toward 0, landing it in a more realistic "struggling" zone.
+        # C.70% Expansion History + 30% League Average
+        # This pulls the score from -54 up toward 0, landing it in a more realistic  zone.
         expansion_prior = (expansion_mean * 0.7) + (league_average_all_time * 0.3)
         
 

@@ -12,12 +12,14 @@ df_matches = pd.read_csv(MATCHES_PATH)
 df_matches.columns = df_matches.columns.str.strip().str.title()
 df_teams = pd.read_csv(STRENGTHS_PATH)
 
-# Filter for 2025 season
+# Evaluate on 2025
 df_2025 = df_matches[df_matches['Season'] == TARGET_YEAR].copy()
 
-# 2. CALC LEAGUE AVG (Required for Poisson Lambda)
-total_goals = df_matches['Homescore'].sum() + df_matches['Awayscore'].sum()
-actual_avg_goals = total_goals / (len(df_matches) * 2)
+# League average from past only
+past_matches = df_matches[df_matches['Season'] < TARGET_YEAR]
+total_goals = past_matches['Homescore'].sum() + past_matches['Awayscore'].sum()
+actual_avg_goals = total_goals / (len(past_matches) * 2)
+
 
 # Pre-calculate team strengths dictionary for speed
 strength_col = f"Historical Prior for {TARGET_YEAR} Season"
