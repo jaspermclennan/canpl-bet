@@ -1,3 +1,9 @@
+#file to calculate most correlated table stats to wins, using combined team data from entire prior history 
+# of CPL for a "assumed" correlation for the next (or specified) season.
+#essentlaiy, what stats do we think will be important for the target season, based on previous years 
+#stats and how they relate to teams having mor epoints (thus playing better)
+
+# @AUTHOUR: Jasper McLennan
 import pandas as pd
 import sys
 
@@ -10,8 +16,8 @@ target_year = int(sys.argv[1]) if len(sys.argv) > 1 else 2026
 # ----------------------------
 # Paths
 # ----------------------------
-input_csv = 'data/teams/combined/teams_combined.csv'
-output_csv = f'data/analysis/correlations_{target_year}.csv'
+input_csv = 'data/raw/team/teams_combined.csv'
+output_csv = f'data/analysis/correlations/correlations_{target_year}.csv'
 # ----------------------------
 # Load Data
 # ----------------------------
