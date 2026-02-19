@@ -1,3 +1,10 @@
+# @AUTHOUR: Jasper McLennan
+
+# this is basically just a way to validate if the way we have organized and used 
+# our data makes sense and is ccurate, based on using previous 
+# season and the oens before it without data leakage
+
+
 import pandas as pd
 import numpy as np
 from scipy.stats import poisson

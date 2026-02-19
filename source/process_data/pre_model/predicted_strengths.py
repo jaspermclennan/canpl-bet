@@ -1,3 +1,9 @@
+# @AUTHOUR: Jasper McLennan
+
+# It calculates a weighted average of a team's past 
+# performance—valuing recent years much more than old ones—to 
+# set the baseline expectations for the new season.
+
 import pandas as pd
 import sys
 

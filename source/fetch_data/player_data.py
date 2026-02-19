@@ -5,10 +5,7 @@ import pandas as pd
 from pathlib import Path
 import time  # for optional sleep if needed
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = BASE_DIR / "data"
-PLAYERS_RAW_DIR = DATA_DIR / "raw" / "player"
-PLAYERS_RAW_DIR.mkdir(parents=True, exist_ok=True)
+
 
 BASE_URL = "https://api-sdp.canpl.ca/v1/cpl/football/seasons/{season_id}/stats/players"
 
@@ -109,15 +106,15 @@ for year, season_id in seasons.items():
     
     if season_rows:
         df_season = pd.DataFrame(season_rows)
-        out_path = PLAYERS_RAW_DIR / f"cpl_players_{year}.csv"
-        df_season.to_csv(out_path, index=False)
-        print(f"Saved {len(df_season)} players for {year} → {out_path}")
+        output_path = f"data/raw/player/players_{year}.csv"
+        df_season.to_csv(output_path, index=False)
+        print(f"Saved {len(df_season)} players for {year} → {output_path}")
     else:
         print(f"No players found for {year}")
 
 # Optional: one combined file
 if all_rows:
     df_all = pd.DataFrame(all_rows)
-    combined_path = PLAYERS_RAW_DIR / "cpl_players_combined.csv"
-    df_all.to_csv(combined_path, index=False)
-    print(f"\nSaved combined file with {len(df_all)} rows → {combined_path}")
+    combined_output_path = f"data/raw/player/cpl_players_combined.csv"
+    df_all.to_csv(combined_output_path, index=False)
+    print(f"\nSaved combined file with {len(df_all)} rows → {combined_output_path}")
