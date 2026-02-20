@@ -12,7 +12,7 @@ from sklearn.metrics import log_loss, accuracy_score, confusion_matrix
 
 # 1. SETUP & DATA LOADING
 TARGET_YEAR = 2025
-MATCHES_PATH = 'data/matches/combined/matches_combined.csv'
+MATCHES_PATH = 'data/raw/match/combined/matches_combined.csv'
 STRENGTHS_PATH = f'data/analysis/predict_{TARGET_YEAR}_from_historic.csv'
 
 df_matches = pd.read_csv(MATCHES_PATH)
