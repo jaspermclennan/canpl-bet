@@ -11,22 +11,24 @@ The script `power_rankings_pipeline.py` automates the intake and processing of d
 5. **Rank (source/process_data/pre_model):** Generates and saves to csv a final strength score for every team to serve as the "Historical Prior" for the upcoming season we wish to predict.
 
 ## Match Prediction Logic
-Predictions are generated using a **Poisson Distribution** via `predict_via_power_rankings.py`. 
+Once the above pipeline has been completed, predictions can be generated using a **Poisson Distribution** via `predict_via_power_rankings.py`. Specifications on how to use the prediction script can be seen in the "Usage" section below.
 
 ### Scaling and Calibration
 * **Scaling Factor (S=50):** We use a divisor of 50 to translate the statistical strength gap into an expected goal difference (lambda).
   * *Example:* A 25-point gap / 50 = 0.5 goal advantage.
-* **Empirical Grounding:** This factor was chosen based on **2025 Backtesting**, where it achieved a **48.72% outcome accuracy** and a Log Loss of **1.0210**.
 * **Neutral Bias:** Currently, the model is **Home Blind**, meaning it calculates pure team strength without accounting for stadium advantage (HFA).
 
-## Next Steps: Ensemble Integration
-The project is moving toward an **Ensemble Model (X/Y/Z Split)**:
+### Testing and Validation
+* **Empirical Grounding:** This factor was chosen based on **2025 Backtesting**, where it achieved a **48.72% outcome accuracy** and a Log Loss of **1.0210**.
+
+## Next Steps: Ensemble Integration and Machine Learning
+The first segment of this project is moving toward an **Ensemble Model (X/Y/Z Split)**:
 * **X% Weight:** Historical Power Rankings (this model).
 * **Y% Weight:** Supplemental model based on players involved in a given match (Teammate integration).
 * **Z% Weight:** External factors such as team fatigue, weather, home advantage, injuries, importance of game.
 
 ## Usage
-To predict a 2026 matchup using team IDs:
+To predict a 2026 opening round matchup using team IDs:
 
 1) Run power_rankings_pipeline.py with a specified target year to fetch and manipulate all relevant data. 
 
