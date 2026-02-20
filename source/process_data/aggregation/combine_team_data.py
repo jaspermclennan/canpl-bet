@@ -4,8 +4,7 @@ import pandas as pd
 import glob
 import os
 
-# Ensure the combined folders exist
-os.makedirs('data/teams/combined', exist_ok=True)
+
 
 
 ###################### FOR TEAM STATS ##########################
@@ -41,6 +40,6 @@ if team_files:
     df_teams_all = df_teams_all.reset_index(drop=True)
 
     # Save the master table
-    df_teams_all.to_csv('data/raw/team/teams_combined.csv', index=False)
+    df_teams_all.to_csv('data/raw/team/combined/teams_combined.csv', index=False)
     print(f"Successfully cleaned {len(team_files)} files. York/Inter Toronto merged.")
     print(f"Final Columns Check: {list(df_teams_all.columns[:5])}...")

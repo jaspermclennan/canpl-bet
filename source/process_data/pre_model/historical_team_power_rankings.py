@@ -13,7 +13,7 @@ else:
 # ----------------------------
 # 1. Load Data
 # ----------------------------
-df_teams = pd.read_csv('data/raw/team/teams_combined.csv')
+df_teams = pd.read_csv('data/raw/team/combined/teams_combined.csv')
 
 # Use the weights we just generated in correlations.py 
 # (which were calculated using data BEFORE the target year)

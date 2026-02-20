@@ -1,4 +1,4 @@
-# @AUTHOUR: Jasper McLennan
+
 
 # It calculates a weighted average of a team's past 
 # performance—valuing recent years much more than old ones—to 
@@ -28,7 +28,7 @@ LEAGUE_HISTORY = {
 }
 
 # 3. LOAD DATA & CLEANING
-df = pd.read_csv('data/analysis/team_strengths.csv')
+df = pd.read_csv('data/analysis/strength/team_power_rankings.csv')
 
 df.columns = df.columns.str.strip()
 if 'Team' in df.columns:

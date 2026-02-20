@@ -10,13 +10,13 @@ import sys
 # ----------------------------
 # 1. Pipeline Integration
 # ----------------------------
-# Check if the pipeline passed a TARGET_YEAR, otherwise default to 2026
+# Check if passed a TARGET_YEAR, otherwise default to 2026
 target_year = int(sys.argv[1]) if len(sys.argv) > 1 else 2026
 
 # ----------------------------
 # Paths
 # ----------------------------
-input_csv = 'data/raw/team/teams_combined.csv'
+input_csv = 'data/raw/team/combined/teams_combined.csv'
 output_csv = f'data/analysis/correlations/correlations_{target_year}.csv'
 # ----------------------------
 # Load Data

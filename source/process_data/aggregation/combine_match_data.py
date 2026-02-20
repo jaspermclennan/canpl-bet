@@ -15,5 +15,5 @@ if match_files:
     # Optional: Clean match columns as well if needed
     df_matches_all.columns = df_matches_all.columns.str.strip().str.title()
     
-    df_matches_all.to_csv('data/raw/match/matches_combined.csv', index=False)
+    df_matches_all.to_csv('data/raw/match/combined/matches_combined.csv', index=False)
     print(f"Successfully combined {len(match_files)} match files.")

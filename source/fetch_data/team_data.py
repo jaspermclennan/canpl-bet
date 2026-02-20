@@ -1,5 +1,8 @@
 # @AUTHOUR: Jasper McLennan
 
+#gets all CPL team table data for every year of league existance specified in "seasons"
+
+
 import requests
 import pandas as pd
 import os
@@ -28,7 +31,6 @@ seasons = {
     "2025": "cpl::Football_Season::fd43e1d61dfe4396a7356bc432de0007"
 }
 
-os.makedirs("data/teams", exist_ok=True)
 
 
 for year, season_id in seasons.items():
