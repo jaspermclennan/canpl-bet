@@ -7,8 +7,8 @@ The script `power_rankings_pipeline.py` automates the intake and processing of d
 1. **Fetch (source/fetch_data):** Pulls raw match and team data from Canadian Premier League API into csv files by year.
 2. **Aggregate (source/process_data/aggregation):** Combines csv files of yearly team and match data into cleaned csv files.
 3. **Correlate (source/process_data/pre_model):** Identifies which stats (e.g., Goals from Open Play, Clean Sheets) most accurately predict Total Points using .corr() method in Pandas.
-4. **Standardize (source/process_data/pre_model):** Calculates standardized strength scores for every team in every season by applying correlation-weighted z-scores to significant performance metrics, creating a historical baseline for match prediction.
-5. **Rank (source/process_data/pre_model):** Generates a final Strength_Score for every team to serve as the "Historical Prior" for the upcoming season.
+4. **Standardize (source/process_data/pre_model):** Calculates standardized strength scores for every team in every season by applying correlation-weighted z-scores to significant performance metrics (from correlations above), creating a historical baseline for match prediction by ranking each team across all seasons.
+5. **Rank (source/process_data/pre_model):** Generates and saves to csv a final strength score for every team to serve as the "Historical Prior" for the upcoming season we wish to predict.
 
 ## Match Prediction Logic
 Predictions are generated using a **Poisson Distribution** via `predict_via_power_rankings.py`. 
