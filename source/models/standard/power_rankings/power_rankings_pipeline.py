@@ -3,7 +3,7 @@ import os
 
 def main():
     # Central control for the entire project
-    target_year = "2025"
+    target_year = "2026"
     
     print(f"--- CPL PIPELINE: {target_year} PRODUCTION RUN ---")
 

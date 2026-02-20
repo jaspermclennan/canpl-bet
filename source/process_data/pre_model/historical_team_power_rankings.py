@@ -74,7 +74,7 @@ df_strength = pd.concat(zscore_frames, ignore_index=True)
 df_strength = df_strength.sort_values(by=['Year', 'Strength_Score'], ascending=[False, False])
 
 # Save to the original master path so your next script finds it
-output_path = 'data/analysis/strength/team_power_rankings.csv'
+output_path = 'data/analysis/strength/all_historic_team_power_rankings.csv'
 df_strength.to_csv(output_path, index=False)
 
 print("\n--- FINAL TEAM STRENGTH RANKINGS (ALL YEARS) ---")

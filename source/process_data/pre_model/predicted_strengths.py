@@ -28,7 +28,7 @@ LEAGUE_HISTORY = {
 }
 
 # 3. LOAD DATA & CLEANING
-df = pd.read_csv('data/analysis/strength/team_power_rankings.csv')
+df = pd.read_csv('data/analysis/strength/all_historic_team_power_rankings.csv')
 
 df.columns = df.columns.str.strip()
 if 'Team' in df.columns:
@@ -94,7 +94,7 @@ if new_teams:
         
 # 7. OUTPUT
 priors = priors.sort_values(by=prior_col_name, ascending=False)
-output_path = f'data/analysis/predict_{TARGET_YEAR}_from_historic.csv'
+output_path = f'data/analysis/prediction_sets/team_power_rankings/predict_{TARGET_YEAR}_from_historic.csv'
 priors.to_csv(output_path, index=False)
 
 print(f"\n--- EXPECTED {TARGET_YEAR} TEAM STRENGTH BASED ON PREVIOUS SEASONS ONLY---")
