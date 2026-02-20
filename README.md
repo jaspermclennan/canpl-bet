@@ -1,15 +1,15 @@
 # CPL Predictor: Power Rankings and Historical Priors
 
-This branch contains the core **Predictive Engine** for the 2026 CPL Season. The model utilizes a historical **Z-Score normalization** process to establish a baseline for every team before the season begins.
+This branch contains the core Predictive Engine for the 2026 CPL Season. The model utilizes a historical Z-Score normalization process to establish a baseline power ranking for every team before the season begins.
 
 ## The Pipeline
-The script `power_rankings_pipeline.py` automates the ingestion and processing of data from 2021-2025.
-1. **Fetch:** Pulls raw match and team data.
-2. **Correlate:** Identifies which stats (e.g., Goals from Open Play, Clean Sheets) most accurately predict Total Points.
+The script `power_rankings_pipeline.py` automates the intake and processing of data from 2021-2025.
+1. **Fetch:** Pulls raw match and team data from Canadian Premier League API into csv files by year.
+2. **Correlate:** Identifies which stats (e.g., Goals from Open Play, Clean Sheets) most accurately predict Total Points using .corr() method in Pandas.
 3. **Weight:** Applies a decay rate to give more importance to recent seasons (2024/2025).
 4. **Rank:** Generates a `Strength_Score` for every team.
 
-## Match Prediction Logic (The Magic 50)
+## Match Prediction Logic
 Predictions are generated using a **Poisson Distribution** via `predict_via_power_rankings.py`. 
 
 ### Scaling and Calibration
@@ -19,13 +19,16 @@ Predictions are generated using a **Poisson Distribution** via `predict_via_powe
 * **Neutral Bias:** Currently, the model is **Home Blind**, meaning it calculates pure team strength without accounting for stadium advantage (HFA).
 
 ## Next Steps: Ensemble Integration
-The project is moving toward an **Ensemble Model (80/20 Split)**:
-* **80% Weight:** Historical Power Rankings (this model).
-* **20% Weight:** Supplemental model (Teammate integration).
+The project is moving toward an **Ensemble Model (X/Y/Z Split)**:
+* **X% Weight:** Historical Power Rankings (this model).
+* **Y% Weight:** Supplemental model based on players involved in a given match (Teammate integration).
+* **Z% Weight:** External factors such as team fatigue, weather, home advantage, injuries, importance of game.
 
 ## Usage
 To predict a 2026 matchup using team IDs:
 
-`python source/models/standard/power_rankings/predict_via_power_rankings.py [HomeID] [AwayID] 2026`
+1) Run power_rankings_pipeline.py with a specified target year to fetch and manipulate all relevant data. 
 
-(IDs: 1: Ottawa, 2: Forge, 3: Cavalry, 4: HFX, 5: York/Toronto, 6: Pacific, 7: Vancouver, 8: Quebec)
+2) Run`python source/models/standard/power_rankings/predict_via_power_rankings.py [HomeID] [AwayID] 2026`
+
+       (IDs: 1: Ottawa, 2: Forge, 3: Cavalry, 4: HFX, 5: York/Toronto, 6: Pacific, 7: Vancouver, 8: Quebec)
