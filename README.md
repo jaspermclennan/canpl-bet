@@ -1,4 +1,4 @@
-**CPL Predictor: **Power Rankings and Historical Priors
+CPL Predictor: Power Rankings and Historical Priors
 This branch contains the core Predictive Engine for the 2026 CPL Season. The model utilizes a historical Z-Score normalization process to establish a baseline for every team before the season begins.
 
 The Pipeline
