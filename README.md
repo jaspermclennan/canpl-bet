@@ -19,7 +19,8 @@ Once the above pipeline has been completed, predictions can be generated using a
 * **Neutral Bias:** Currently, the model is **Home Blind**, meaning it calculates pure team strength without accounting for stadium advantage (HFA).
 
 ### Testing and Validation
-* **Empirical Grounding:** This factor was chosen based on **2025 Backtesting**, where it achieved a **48.72% outcome accuracy** and a Log Loss of **1.0210**.
+* **Empirical Grounding:** This factor was chosen based on backtesting the 2025 season using our model, where it achieved a **48.72% outcome accuracy** and a Log Loss of **1.0210**.
+* * **Test File:** The above mentioned outcome accuracy and log loss are a result of using `evaluate_rankings_poisson.py`, a testing file that allows a given CPL season from the past to be predicted based on seasons prior. As the 2026 CPL season progresses, this testing file can be used to further validate our model, and indicate chances for improvement.
 
 ## Next Steps: Ensemble Integration and Machine Learning
 The first segment of this project is moving toward an **Ensemble Model (X/Y/Z Split)**:
