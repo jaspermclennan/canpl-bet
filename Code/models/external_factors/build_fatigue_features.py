@@ -1,17 +1,22 @@
 from __future__ import annotations
 
 import os
+import sys
 from math import radians, cos, sin, asin, sqrt
 from pathlib import Path
 
 import pandas as pd
+
+# Setup path for imports
+CURRENT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(CURRENT_DIR))
 
 from cpl_stadiums import STADIUMS, TEAM_MAP
 from fetch_weather import get_weather_estimate
 
 
 cwd = Path(os.getcwd())
-REPO_ROOT = cwd if cwd.name == "canpl-bet-3" else Path(__file__).resolve().parent.parent.parent.parent
+REPO_ROOT = cwd if cwd.name == "canpl-bet" else Path(__file__).resolve().parent.parent.parent.parent
 
 MATCH_FILE = REPO_ROOT / "data" / "matches" / "processed" / "all_matches_with_baseline.csv"
 OUT_FILE = REPO_ROOT / "data" / "matches" / "derived" / "external_factors.csv"

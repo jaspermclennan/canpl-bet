@@ -2,8 +2,13 @@ from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 import numpy as np
+import sys
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+
+# Add Code directory to path for config import
+sys.path.insert(0, str(REPO_ROOT / "Code"))
+from config import TEAM_NAME_MAP
 
 PLAYER_BASE = REPO_ROOT / "data" / "players" / "cleaned" / "cpl_players_all_seasons_cleaned.csv"
 MATCHES_RAW_DIR = REPO_ROOT / "data" / "matches" / "raw"
@@ -17,26 +22,6 @@ CUM_MIN_FRACTION = 0.75
 TEAM_TOTAL_MINUTES = 990
 CAP_MINUTES = 90.0
 EPS = 1e-9
-
-TEAM_NAME_MAP = {
-    "HFX Wanderers": "Wanderers",
-    "Halifax Wanderers": "Wanderers",
-    "HFX Wanderers FC": "Wanderers",
-    "York United": "York",
-    "York United FC": "York",
-    "Atlético Ottawa": "Atlético",
-    "Atletico Ottawa": "Atlético",
-    "Pacific": "Pacific",
-    "Pacific FC": "Pacific",
-    "Valour": "Valour",
-    "Valour FC": "Valour",
-    "Forge": "Forge",
-    "Forge FC": "Forge",
-    "Cavalry": "Cavalry",
-    "Cavalry FC": "Cavalry",
-    "Edmonton": "Edmonton",
-    "FC Edmonton": "Edmonton"
-}
 
 def make_match_id(row: pd.Series) -> str:
     season = str(row.get("Season", "")).strip()

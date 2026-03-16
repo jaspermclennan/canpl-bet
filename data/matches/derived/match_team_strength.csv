@@ -12,37 +12,37 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2022_2022-04-16_Atlético_Ottawa_vs_HFX_Wanderers,2022,2022-04-16T17:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-04-16_Atlético_Ottawa_vs_HFX_Wanderers,2022,2022-04-16T17:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-04-16_Forge_vs_Cavalry,2022,2022-04-16T20:00:00Z,Cavalry,away,Forge,16500.0,16500.0,16500.0,1.0,True
-2022_2022-04-16_Forge_vs_Cavalry,2022,2022-04-16T20:00:00Z,Forge,home,Cavalry,16405.7219,16405.7219,16405.7219,1.0,True
-2022_2022-04-17_Pacific_vs_Valour,2022,2022-04-17T20:00:00Z,Pacific,home,Valour,16594.2781,16594.2781,16594.2781,1.0,True
+2022_2022-04-16_Forge_vs_Cavalry,2022,2022-04-16T20:00:00Z,Forge,home,Cavalry,16396.2941,16396.2941,16396.2941,1.0,True
+2022_2022-04-17_Pacific_vs_Valour,2022,2022-04-17T20:00:00Z,Pacific,home,Valour,16603.7059,16603.7059,16603.7059,1.0,True
 2022_2022-04-17_Pacific_vs_Valour,2022,2022-04-17T20:00:00Z,Valour,away,Pacific,16515.7219,16515.7219,16515.7219,1.0,True
 2022_2022-04-22_York_United_vs_Cavalry,2022,2022-04-22T23:30:00Z,Cavalry,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-04-22_York_United_vs_Cavalry,2022,2022-04-22T23:30:00Z,York,home,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-04-23_Forge_vs_Edmonton,2022,2022-04-23T20:00:00Z,Edmonton,away,Forge,99763.9299,99763.9299,99763.9299,1.0,True
-2022_2022-04-23_Forge_vs_Edmonton,2022,2022-04-23T20:00:00Z,Forge,home,Edmonton,16392.667,16392.667,16392.667,1.0,True
+2022_2022-04-23_Forge_vs_Edmonton,2022,2022-04-23T20:00:00Z,Forge,home,Edmonton,16383.5068,16383.5068,16383.5068,1.0,True
 2022_2022-04-23_Pacific_vs_HFX_Wanderers,2022,2022-04-23T23:00:00Z,Pacific,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-04-23_Pacific_vs_HFX_Wanderers,2022,2022-04-23T23:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-04-24_Atlético_Ottawa_vs_Valour,2022,2022-04-24T19:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-04-24_Atlético_Ottawa_vs_Valour,2022,2022-04-24T19:00:00Z,Valour,away,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-04-28_Edmonton_vs_Pacific,2022,2022-04-28T01:00:00Z,Edmonton,home,Pacific,95334.7177,95334.7177,95334.7177,1.0,True
-2022_2022-04-28_Edmonton_vs_Pacific,2022,2022-04-28T01:00:00Z,Pacific,away,Edmonton,16686.3482,16686.3482,16686.3482,1.0,True
+2022_2022-04-28_Edmonton_vs_Pacific,2022,2022-04-28T01:00:00Z,Edmonton,home,Pacific,93990.2163,93990.2163,93990.2163,1.0,True
+2022_2022-04-28_Edmonton_vs_Pacific,2022,2022-04-28T01:00:00Z,Pacific,away,Edmonton,16704.6926,16704.6926,16704.6926,1.0,True
 2022_2022-04-29_York_United_vs_Atlético_Ottawa,2022,2022-04-29T23:30:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-04-29_York_United_vs_Atlético_Ottawa,2022,2022-04-29T23:30:00Z,York,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-04-30_HFX_Wanderers_vs_Edmonton,2022,2022-04-30T18:00:00Z,Edmonton,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-04-30_HFX_Wanderers_vs_Edmonton,2022,2022-04-30T18:00:00Z,Wanderers,home,Edmonton,55.0,55.0,55.0,1.0,True
-2022_2022-05-01_Cavalry_vs_Pacific,2022,2022-05-01T21:30:00Z,Cavalry,home,Pacific,16513.0549,16513.0549,16513.0549,1.0,True
-2022_2022-05-01_Cavalry_vs_Pacific,2022,2022-05-01T21:30:00Z,Pacific,away,Cavalry,16677.4928,16677.4928,16677.4928,1.0,True
+2022_2022-05-01_Cavalry_vs_Pacific,2022,2022-05-01T21:30:00Z,Cavalry,home,Pacific,16512.7873,16512.7873,16512.7873,1.0,True
+2022_2022-05-01_Cavalry_vs_Pacific,2022,2022-05-01T21:30:00Z,Pacific,away,Cavalry,16690.3378,16690.3378,16690.3378,1.0,True
 2022_2022-05-06_York_United_vs_Forge,2022,2022-05-06T23:00:00Z,Forge,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-05-06_York_United_vs_Forge,2022,2022-05-06T23:00:00Z,York,home,Forge,55.0,55.0,55.0,1.0,True
-2022_2022-05-07_Edmonton_vs_Cavalry,2022,2022-05-07T02:00:00Z,Cavalry,away,Edmonton,16611.995,16611.995,16611.995,1.0,True
-2022_2022-05-07_Edmonton_vs_Cavalry,2022,2022-05-07T02:00:00Z,Edmonton,home,Cavalry,95749.3128,95749.3128,95749.3128,1.0,True
+2022_2022-05-07_Edmonton_vs_Cavalry,2022,2022-05-07T02:00:00Z,Cavalry,away,Edmonton,16631.9639,16631.9639,16631.9639,1.0,True
+2022_2022-05-07_Edmonton_vs_Cavalry,2022,2022-05-07T02:00:00Z,Edmonton,home,Cavalry,94662.2809,94662.2809,94662.2809,1.0,True
 2022_2022-05-07_Valour_vs_HFX_Wanderers,2022,2022-05-07T19:00:00Z,Valour,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-05-07_Valour_vs_HFX_Wanderers,2022,2022-05-07T19:00:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-05-07_Atlético_Ottawa_vs_Pacific,2022,2022-05-07T22:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-05-07_Atlético_Ottawa_vs_Pacific,2022,2022-05-07T22:00:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-05-14_Forge_vs_Atlético_Ottawa,2022,2022-05-14T20:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-05-14_Forge_vs_Atlético_Ottawa,2022,2022-05-14T20:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-05-14_Pacific_vs_Edmonton,2022,2022-05-14T23:00:00Z,Edmonton,away,Pacific,90841.7513,90841.7513,90841.7513,1.0,True
-2022_2022-05-14_Pacific_vs_Edmonton,2022,2022-05-14T23:00:00Z,Pacific,home,Edmonton,16578.5526,16578.5526,16578.5526,1.0,True
+2022_2022-05-14_Pacific_vs_Edmonton,2022,2022-05-14T23:00:00Z,Edmonton,away,Pacific,88563.8178,88563.8178,88563.8178,1.0,True
+2022_2022-05-14_Pacific_vs_Edmonton,2022,2022-05-14T23:00:00Z,Pacific,home,Edmonton,16571.1612,16571.1612,16571.1612,1.0,True
 2022_2022-05-15_HFX_Wanderers_vs_Cavalry,2022,2022-05-15T18:00:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-05-15_HFX_Wanderers_vs_Cavalry,2022,2022-05-15T18:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-05-15_Valour_vs_York_United,2022,2022-05-15T21:00:00Z,Valour,home,York,55.0,55.0,55.0,1.0,True
@@ -51,34 +51,34 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2022_2022-05-20_HFX_Wanderers_vs_Forge,2022,2022-05-20T22:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-05-21_Pacific_vs_York_United,2022,2022-05-21T02:00:00Z,Pacific,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-05-21_Pacific_vs_York_United,2022,2022-05-21T02:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
-2022_2022-05-21_Cavalry_vs_Valour,2022,2022-05-21T19:30:00Z,Cavalry,home,Valour,16716.8167,16716.8167,16716.8167,1.0,True
-2022_2022-05-21_Cavalry_vs_Valour,2022,2022-05-21T19:30:00Z,Valour,away,Cavalry,16423.6518,16423.6518,16423.6518,1.0,True
+2022_2022-05-21_Cavalry_vs_Valour,2022,2022-05-21T19:30:00Z,Cavalry,home,Valour,16762.2224,16762.2224,16762.2224,1.0,True
+2022_2022-05-21_Cavalry_vs_Valour,2022,2022-05-21T19:30:00Z,Valour,away,Cavalry,16414.7353,16414.7353,16414.7353,1.0,True
 2022_2022-05-22_Edmonton_vs_Atlético_Ottawa,2022,2022-05-22T20:00:00Z,Atlético,away,Edmonton,55.0,55.0,55.0,1.0,True
 2022_2022-05-22_Edmonton_vs_Atlético_Ottawa,2022,2022-05-22T20:00:00Z,Edmonton,home,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-05-28_Pacific_vs_Valour,2022,2022-05-28T23:00:00Z,Pacific,home,Valour,16638.3063,16638.3063,16638.3063,1.0,True
-2022_2022-05-28_Pacific_vs_Valour,2022,2022-05-28T23:00:00Z,Valour,away,Pacific,16337.5338,16337.5338,16337.5338,1.0,True
+2022_2022-05-28_Pacific_vs_Valour,2022,2022-05-28T23:00:00Z,Pacific,home,Valour,16629.905,16629.905,16629.905,1.0,True
+2022_2022-05-28_Pacific_vs_Valour,2022,2022-05-28T23:00:00Z,Valour,away,Pacific,16321.6391,16321.6391,16321.6391,1.0,True
 2022_2022-05-29_York_United_vs_Cavalry,2022,2022-05-29T18:00:00Z,Cavalry,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-05-29_York_United_vs_Cavalry,2022,2022-05-29T18:00:00Z,York,home,Cavalry,55.0,55.0,55.0,1.0,True
-2022_2022-06-01_Edmonton_vs_Forge,2022,2022-06-01T01:00:00Z,Edmonton,home,Forge,88044.1923,88044.1923,88044.1923,1.0,True
-2022_2022-06-01_Edmonton_vs_Forge,2022,2022-06-01T01:00:00Z,Forge,away,Edmonton,16487.2715,16487.2715,16487.2715,1.0,True
+2022_2022-06-01_Edmonton_vs_Forge,2022,2022-06-01T01:00:00Z,Edmonton,home,Forge,85813.5382,85813.5382,85813.5382,1.0,True
+2022_2022-06-01_Edmonton_vs_Forge,2022,2022-06-01T01:00:00Z,Forge,away,Edmonton,16506.8288,16506.8288,16506.8288,1.0,True
 2022_2022-06-02_Valour_vs_Atlético_Ottawa,2022,2022-06-02T00:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-06-02_Valour_vs_Atlético_Ottawa,2022,2022-06-02T00:00:00Z,Valour,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-06-04_HFX_Wanderers_vs_York_United,2022,2022-06-04T18:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-06-04_HFX_Wanderers_vs_York_United,2022,2022-06-04T18:00:00Z,York,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-06-05_Atlético_Ottawa_vs_Pacific,2022,2022-06-05T17:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-06-05_Atlético_Ottawa_vs_Pacific,2022,2022-06-05T17:00:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-06-05_Valour_vs_Edmonton,2022,2022-06-05T20:00:00Z,Edmonton,away,Valour,84284.2176,84284.2176,84284.2176,1.0,True
-2022_2022-06-05_Valour_vs_Edmonton,2022,2022-06-05T20:00:00Z,Valour,home,Edmonton,16361.6244,16361.6244,16361.6244,1.0,True
+2022_2022-06-05_Valour_vs_Edmonton,2022,2022-06-05T20:00:00Z,Edmonton,away,Valour,82093.2652,82093.2652,82093.2652,1.0,True
+2022_2022-06-05_Valour_vs_Edmonton,2022,2022-06-05T20:00:00Z,Valour,home,Edmonton,16345.9349,16345.9349,16345.9349,1.0,True
 2022_2022-06-11_Cavalry_vs_HFX_Wanderers,2022,2022-06-11T19:30:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-06-11_Cavalry_vs_HFX_Wanderers,2022,2022-06-11T19:30:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
-2022_2022-06-12_Forge_vs_Pacific,2022,2022-06-12T20:00:00Z,Forge,home,Pacific,16567.5816,16567.5816,16567.5816,1.0,True
-2022_2022-06-12_Forge_vs_Pacific,2022,2022-06-12T20:00:00Z,Pacific,away,Forge,16614.2157,16614.2157,16614.2157,1.0,True
+2022_2022-06-12_Forge_vs_Pacific,2022,2022-06-12T20:00:00Z,Forge,home,Pacific,16586.291,16586.291,16586.291,1.0,True
+2022_2022-06-12_Forge_vs_Pacific,2022,2022-06-12T20:00:00Z,Pacific,away,Forge,16605.6092,16605.6092,16605.6092,1.0,True
 2022_2022-06-14_Atlético_Ottawa_vs_York_United,2022,2022-06-14T23:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-06-14_Atlético_Ottawa_vs_York_United,2022,2022-06-14T23:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-06-15_Edmonton_vs_HFX_Wanderers,2022,2022-06-15T02:00:00Z,Edmonton,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-06-15_Edmonton_vs_HFX_Wanderers,2022,2022-06-15T02:00:00Z,Wanderers,away,Edmonton,55.0,55.0,55.0,1.0,True
-2022_2022-06-16_Valour_vs_Cavalry,2022,2022-06-16T00:00:00Z,Cavalry,away,Valour,16802.9347,16802.9347,16802.9347,1.0,True
-2022_2022-06-16_Valour_vs_Cavalry,2022,2022-06-16T00:00:00Z,Valour,home,Cavalry,16298.0261,16298.0261,16298.0261,1.0,True
+2022_2022-06-16_Valour_vs_Cavalry,2022,2022-06-16T00:00:00Z,Cavalry,away,Valour,16855.3185,16855.3185,16855.3185,1.0,True
+2022_2022-06-16_Valour_vs_Cavalry,2022,2022-06-16T00:00:00Z,Valour,home,Cavalry,16277.3856,16277.3856,16277.3856,1.0,True
 2022_2022-06-18_York_United_vs_Pacific,2022,2022-06-18T20:00:00Z,Pacific,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-06-18_York_United_vs_Pacific,2022,2022-06-18T20:00:00Z,York,home,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-06-19_HFX_Wanderers_vs_Forge,2022,2022-06-19T18:00:00Z,Forge,away,Wanderers,55.0,55.0,55.0,1.0,True
@@ -89,22 +89,22 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2022_2022-06-25_Pacific_vs_HFX_Wanderers,2022,2022-06-25T21:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-06-26_York_United_vs_Valour,2022,2022-06-26T16:00:00Z,Valour,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-06-26_York_United_vs_Valour,2022,2022-06-26T16:00:00Z,York,home,Valour,55.0,55.0,55.0,1.0,True
-2022_2022-06-26_Cavalry_vs_Edmonton,2022,2022-06-26T23:00:00Z,Cavalry,home,Edmonton,16914.2325,16914.2325,16914.2325,1.0,True
-2022_2022-06-26_Cavalry_vs_Edmonton,2022,2022-06-26T23:00:00Z,Edmonton,away,Cavalry,87261.7739,87261.7739,87261.7739,1.0,True
-2022_2022-06-29_Forge_vs_Valour,2022,2022-06-29T23:00:00Z,Forge,home,Valour,16663.1768,16663.1768,16663.1768,1.0,True
-2022_2022-06-29_Forge_vs_Valour,2022,2022-06-29T23:00:00Z,Valour,away,Forge,16186.7283,16186.7283,16186.7283,1.0,True
+2022_2022-06-26_Cavalry_vs_Edmonton,2022,2022-06-26T23:00:00Z,Cavalry,home,Edmonton,16986.3537,16986.3537,16986.3537,1.0,True
+2022_2022-06-26_Cavalry_vs_Edmonton,2022,2022-06-26T23:00:00Z,Edmonton,away,Cavalry,85302.6203,85302.6203,85302.6203,1.0,True
+2022_2022-06-29_Forge_vs_Valour,2022,2022-06-29T23:00:00Z,Forge,home,Valour,16709.5611,16709.5611,16709.5611,1.0,True
+2022_2022-06-29_Forge_vs_Valour,2022,2022-06-29T23:00:00Z,Valour,away,Forge,16146.3503,16146.3503,16146.3503,1.0,True
 2022_2022-06-30_HFX_Wanderers_vs_Atlético_Ottawa,2022,2022-06-30T22:30:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-06-30_HFX_Wanderers_vs_Atlético_Ottawa,2022,2022-06-30T22:30:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-07-01_Pacific_vs_Cavalry,2022,2022-07-01T01:30:00Z,Cavalry,away,Pacific,16957.5472,16957.5472,16957.5472,1.0,True
-2022_2022-07-01_Pacific_vs_Cavalry,2022,2022-07-01T01:30:00Z,Pacific,home,Cavalry,16518.6206,16518.6206,16518.6206,1.0,True
+2022_2022-07-01_Pacific_vs_Cavalry,2022,2022-07-01T01:30:00Z,Cavalry,away,Pacific,17031.5559,17031.5559,17031.5559,1.0,True
+2022_2022-07-01_Pacific_vs_Cavalry,2022,2022-07-01T01:30:00Z,Pacific,home,Cavalry,16482.3391,16482.3391,16482.3391,1.0,True
 2022_2022-07-01_Edmonton_vs_York_United,2022,2022-07-01T22:00:00Z,Edmonton,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-07-01_Edmonton_vs_York_United,2022,2022-07-01T22:00:00Z,York,away,Edmonton,55.0,55.0,55.0,1.0,True
 2022_2022-07-03_Forge_vs_Atlético_Ottawa,2022,2022-07-03T20:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-07-03_Forge_vs_Atlético_Ottawa,2022,2022-07-03T20:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-07-08_York_United_vs_Forge,2022,2022-07-08T23:30:00Z,Forge,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-07-08_York_United_vs_Forge,2022,2022-07-08T23:30:00Z,York,home,Forge,55.0,55.0,55.0,1.0,True
-2022_2022-07-09_Edmonton_vs_Pacific,2022,2022-07-09T20:00:00Z,Edmonton,home,Pacific,85233.859,85233.859,85233.859,1.0,True
-2022_2022-07-09_Edmonton_vs_Pacific,2022,2022-07-09T20:00:00Z,Pacific,away,Edmonton,16515.4245,16515.4245,16515.4245,1.0,True
+2022_2022-07-09_Edmonton_vs_Pacific,2022,2022-07-09T20:00:00Z,Edmonton,home,Pacific,83186.337,83186.337,83186.337,1.0,True
+2022_2022-07-09_Edmonton_vs_Pacific,2022,2022-07-09T20:00:00Z,Pacific,away,Edmonton,16482.3165,16482.3165,16482.3165,1.0,True
 2022_2022-07-09_Atlético_Ottawa_vs_Cavalry,2022,2022-07-09T23:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-07-09_Atlético_Ottawa_vs_Cavalry,2022,2022-07-09T23:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-07-10_Valour_vs_HFX_Wanderers,2022,2022-07-10T19:00:00Z,Valour,home,Wanderers,55.0,55.0,55.0,1.0,True
@@ -113,40 +113,40 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2022_2022-07-15_Cavalry_vs_HFX_Wanderers,2022,2022-07-15T00:30:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-07-15_York_United_vs_Pacific,2022,2022-07-15T23:30:00Z,Pacific,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-07-15_York_United_vs_Pacific,2022,2022-07-15T23:30:00Z,York,home,Pacific,55.0,55.0,55.0,1.0,True
-2022_2022-07-19_Forge_vs_Edmonton,2022,2022-07-19T22:45:00Z,Edmonton,away,Forge,81950.8946,81950.8946,81950.8946,1.0,True
-2022_2022-07-19_Forge_vs_Edmonton,2022,2022-07-19T22:45:00Z,Forge,home,Edmonton,16524.3237,16524.3237,16524.3237,1.0,True
+2022_2022-07-19_Forge_vs_Edmonton,2022,2022-07-19T22:45:00Z,Edmonton,away,Forge,79868.5453,79868.5453,79868.5453,1.0,True
+2022_2022-07-19_Forge_vs_Edmonton,2022,2022-07-19T22:45:00Z,Forge,home,Edmonton,16554.2803,16554.2803,16554.2803,1.0,True
 2022_2022-07-20_Cavalry_vs_York_United,2022,2022-07-20T01:30:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-07-20_Cavalry_vs_York_United,2022,2022-07-20T01:30:00Z,York,away,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-07-20_Atlético_Ottawa_vs_Valour,2022,2022-07-20T23:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-07-20_Atlético_Ottawa_vs_Valour,2022,2022-07-20T23:00:00Z,Valour,away,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-07-23_Pacific_vs_Cavalry,2022,2022-07-23T02:00:00Z,Cavalry,away,Pacific,16960.7432,16960.7432,16960.7432,1.0,True
-2022_2022-07-23_Pacific_vs_Cavalry,2022,2022-07-23T02:00:00Z,Pacific,home,Cavalry,16585.5461,16585.5461,16585.5461,1.0,True
+2022_2022-07-23_Pacific_vs_Cavalry,2022,2022-07-23T02:00:00Z,Cavalry,away,Pacific,17031.5784,17031.5784,17031.5784,1.0,True
+2022_2022-07-23_Pacific_vs_Cavalry,2022,2022-07-23T02:00:00Z,Pacific,home,Cavalry,16553.182,16553.182,16553.182,1.0,True
 2022_2022-07-23_HFX_Wanderers_vs_Edmonton,2022,2022-07-23T17:30:00Z,Edmonton,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-07-23_HFX_Wanderers_vs_Edmonton,2022,2022-07-23T17:30:00Z,Wanderers,home,Edmonton,55.0,55.0,55.0,1.0,True
-2022_2022-07-23_Forge_vs_Valour,2022,2022-07-23T20:30:00Z,Forge,home,Valour,16562.4185,16562.4185,16562.4185,1.0,True
-2022_2022-07-23_Forge_vs_Valour,2022,2022-07-23T20:30:00Z,Valour,away,Forge,16325.5814,16325.5814,16325.5814,1.0,True
+2022_2022-07-23_Forge_vs_Valour,2022,2022-07-23T20:30:00Z,Forge,home,Valour,16597.684,16597.684,16597.684,1.0,True
+2022_2022-07-23_Forge_vs_Valour,2022,2022-07-23T20:30:00Z,Valour,away,Forge,16301.6311,16301.6311,16301.6311,1.0,True
 2022_2022-07-24_York_United_vs_Atlético_Ottawa,2022,2022-07-24T18:00:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-07-24_York_United_vs_Atlético_Ottawa,2022,2022-07-24T18:00:00Z,York,home,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-07-28_Cavalry_vs_Forge,2022,2022-07-28T01:00:00Z,Cavalry,home,Forge,16855.771,16855.771,16855.771,1.0,True
-2022_2022-07-28_Cavalry_vs_Forge,2022,2022-07-28T01:00:00Z,Forge,away,Cavalry,16650.0862,16650.0862,16650.0862,1.0,True
-2022_2022-07-30_Valour_vs_Pacific,2022,2022-07-30T19:00:00Z,Pacific,away,Valour,16690.5184,16690.5184,16690.5184,1.0,True
-2022_2022-07-30_Valour_vs_Pacific,2022,2022-07-30T19:00:00Z,Valour,home,Pacific,16237.9138,16237.9138,16237.9138,1.0,True
-2022_2022-07-30_Cavalry_vs_Edmonton,2022,2022-07-30T22:00:00Z,Cavalry,home,Edmonton,16724.2997,16724.2997,16724.2997,1.0,True
-2022_2022-07-30_Cavalry_vs_Edmonton,2022,2022-07-30T22:00:00Z,Edmonton,away,Cavalry,80167.3644,80167.3644,80167.3644,1.0,True
+2022_2022-07-28_Cavalry_vs_Forge,2022,2022-07-28T01:00:00Z,Cavalry,home,Forge,16891.2573,16891.2573,16891.2573,1.0,True
+2022_2022-07-28_Cavalry_vs_Forge,2022,2022-07-28T01:00:00Z,Forge,away,Cavalry,16700.9305,16700.9305,16700.9305,1.0,True
+2022_2022-07-30_Valour_vs_Pacific,2022,2022-07-30T19:00:00Z,Pacific,away,Valour,16693.5031,16693.5031,16693.5031,1.0,True
+2022_2022-07-30_Valour_vs_Pacific,2022,2022-07-30T19:00:00Z,Valour,home,Pacific,16198.3846,16198.3846,16198.3846,1.0,True
+2022_2022-07-30_Cavalry_vs_Edmonton,2022,2022-07-30T22:00:00Z,Cavalry,home,Edmonton,16747.107,16747.107,16747.107,1.0,True
+2022_2022-07-30_Cavalry_vs_Edmonton,2022,2022-07-30T22:00:00Z,Edmonton,away,Cavalry,77836.4628,77836.4628,77836.4628,1.0,True
 2022_2022-07-31_Atlético_Ottawa_vs_Forge,2022,2022-07-31T23:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-07-31_Atlético_Ottawa_vs_Forge,2022,2022-07-31T23:00:00Z,Forge,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-08-01_HFX_Wanderers_vs_York_United,2022,2022-08-01T18:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-08-01_HFX_Wanderers_vs_York_United,2022,2022-08-01T18:00:00Z,York,away,Wanderers,55.0,55.0,55.0,1.0,True
-2022_2022-08-04_Valour_vs_Cavalry,2022,2022-08-04T00:00:00Z,Cavalry,away,Valour,16755.7896,16755.7896,16755.7896,1.0,True
-2022_2022-08-04_Valour_vs_Cavalry,2022,2022-08-04T00:00:00Z,Valour,home,Cavalry,16125.1111,16125.1111,16125.1111,1.0,True
+2022_2022-08-04_Valour_vs_Cavalry,2022,2022-08-04T00:00:00Z,Cavalry,away,Valour,16779.6992,16779.6992,16779.6992,1.0,True
+2022_2022-08-04_Valour_vs_Cavalry,2022,2022-08-04T00:00:00Z,Valour,home,Cavalry,16075.6471,16075.6471,16075.6471,1.0,True
 2022_2022-08-06_Forge_vs_HFX_Wanderers,2022,2022-08-06T20:00:00Z,Forge,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-08-06_Forge_vs_HFX_Wanderers,2022,2022-08-06T20:00:00Z,Wanderers,away,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-08-07_Atlético_Ottawa_vs_Edmonton,2022,2022-08-07T18:37:00Z,Atlético,home,Edmonton,55.0,55.0,55.0,1.0,True
 2022_2022-08-07_Atlético_Ottawa_vs_Edmonton,2022,2022-08-07T18:37:00Z,Edmonton,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-08-07_Valour_vs_York_United,2022,2022-08-07T21:00:00Z,Valour,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-08-07_Valour_vs_York_United,2022,2022-08-07T21:00:00Z,York,away,Valour,55.0,55.0,55.0,1.0,True
-2022_2022-08-13_Cavalry_vs_Forge,2022,2022-08-13T01:00:00Z,Cavalry,home,Forge,16643.4679,16643.4679,16643.4679,1.0,True
-2022_2022-08-13_Cavalry_vs_Forge,2022,2022-08-13T01:00:00Z,Forge,away,Cavalry,16781.5574,16781.5574,16781.5574,1.0,True
+2022_2022-08-13_Cavalry_vs_Forge,2022,2022-08-13T01:00:00Z,Cavalry,home,Forge,16642.3813,16642.3813,16642.3813,1.0,True
+2022_2022-08-13_Cavalry_vs_Forge,2022,2022-08-13T01:00:00Z,Forge,away,Cavalry,16845.0808,16845.0808,16845.0808,1.0,True
 2022_2022-08-13_HFX_Wanderers_vs_Valour,2022,2022-08-13T18:00:00Z,Valour,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-08-13_HFX_Wanderers_vs_Valour,2022,2022-08-13T18:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-08-13_Pacific_vs_Atlético_Ottawa,2022,2022-08-13T21:00:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
@@ -159,126 +159,126 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2022_2022-08-20_HFX_Wanderers_vs_Pacific,2022,2022-08-20T17:30:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-08-20_Forge_vs_York_United,2022,2022-08-20T23:00:00Z,Forge,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-08-20_Forge_vs_York_United,2022,2022-08-20T23:00:00Z,York,away,Forge,55.0,55.0,55.0,1.0,True
-2022_2022-08-21_Valour_vs_Edmonton,2022,2022-08-21T18:30:00Z,Edmonton,away,Valour,78693.063,78693.063,78693.063,1.0,True
-2022_2022-08-21_Valour_vs_Edmonton,2022,2022-08-21T18:30:00Z,Valour,home,Edmonton,16237.4329,16237.4329,16237.4329,1.0,True
+2022_2022-08-21_Valour_vs_Edmonton,2022,2022-08-21T18:30:00Z,Edmonton,away,Valour,76310.5582,76310.5582,76310.5582,1.0,True
+2022_2022-08-21_Valour_vs_Edmonton,2022,2022-08-21T18:30:00Z,Valour,home,Edmonton,16212.965,16212.965,16212.965,1.0,True
 2022_2022-08-21_Cavalry_vs_Atlético_Ottawa,2022,2022-08-21T21:30:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-08-21_Cavalry_vs_Atlético_Ottawa,2022,2022-08-21T21:30:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-08-27_Cavalry_vs_York_United,2022,2022-08-27T19:30:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-08-27_Cavalry_vs_York_United,2022,2022-08-27T19:30:00Z,York,away,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-08-27_Atlético_Ottawa_vs_Forge,2022,2022-08-27T22:30:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-08-27_Atlético_Ottawa_vs_Forge,2022,2022-08-27T22:30:00Z,Forge,away,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-08-28_Valour_vs_Pacific,2022,2022-08-28T19:00:00Z,Pacific,away,Valour,16803.321,16803.321,16803.321,1.0,True
-2022_2022-08-28_Valour_vs_Pacific,2022,2022-08-28T19:00:00Z,Valour,home,Pacific,16163.323,16163.323,16163.323,1.0,True
+2022_2022-08-28_Valour_vs_Pacific,2022,2022-08-28T19:00:00Z,Pacific,away,Valour,16816.2406,16816.2406,16816.2406,1.0,True
+2022_2022-08-28_Valour_vs_Pacific,2022,2022-08-28T19:00:00Z,Valour,home,Pacific,16134.5904,16134.5904,16134.5904,1.0,True
 2022_2022-08-28_Edmonton_vs_HFX_Wanderers,2022,2022-08-28T22:00:00Z,Edmonton,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-08-28_Edmonton_vs_HFX_Wanderers,2022,2022-08-28T22:00:00Z,Wanderers,away,Edmonton,55.0,55.0,55.0,1.0,True
-2022_2022-09-01_Valour_vs_Forge,2022,2022-09-01T00:00:00Z,Forge,away,Valour,16683.3675,16683.3675,16683.3675,1.0,True
-2022_2022-09-01_Valour_vs_Forge,2022,2022-09-01T00:00:00Z,Valour,home,Forge,16275.9129,16275.9129,16275.9129,1.0,True
+2022_2022-09-01_Valour_vs_Forge,2022,2022-09-01T00:00:00Z,Forge,away,Valour,16735.0464,16735.0464,16735.0464,1.0,True
+2022_2022-09-01_Valour_vs_Forge,2022,2022-09-01T00:00:00Z,Valour,home,Forge,16259.7569,16259.7569,16259.7569,1.0,True
 2022_2022-09-02_Atlético_Ottawa_vs_Edmonton,2022,2022-09-02T23:00:00Z,Atlético,home,Edmonton,55.0,55.0,55.0,1.0,True
 2022_2022-09-02_Atlético_Ottawa_vs_Edmonton,2022,2022-09-02T23:00:00Z,Edmonton,away,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-09-03_Pacific_vs_York_United,2022,2022-09-03T21:00:00Z,Pacific,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-09-03_Pacific_vs_York_United,2022,2022-09-03T21:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
-2022_2022-09-04_Valour_vs_Forge,2022,2022-09-04T18:00:00Z,Forge,away,Valour,16577.4684,16577.4684,16577.4684,1.0,True
-2022_2022-09-04_Valour_vs_Forge,2022,2022-09-04T18:00:00Z,Valour,home,Forge,16381.812,16381.812,16381.812,1.0,True
+2022_2022-09-04_Valour_vs_Forge,2022,2022-09-04T18:00:00Z,Forge,away,Valour,16616.4115,16616.4115,16616.4115,1.0,True
+2022_2022-09-04_Valour_vs_Forge,2022,2022-09-04T18:00:00Z,Valour,home,Forge,16378.3918,16378.3918,16378.3918,1.0,True
 2022_2022-09-05_HFX_Wanderers_vs_Cavalry,2022,2022-09-05T18:00:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-09-05_HFX_Wanderers_vs_Cavalry,2022,2022-09-05T18:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-09-09_York_United_vs_Edmonton,2022,2022-09-09T23:30:00Z,Edmonton,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-09-09_York_United_vs_Edmonton,2022,2022-09-09T23:30:00Z,York,home,Edmonton,55.0,55.0,55.0,1.0,True
 2022_2022-09-10_HFX_Wanderers_vs_Valour,2022,2022-09-10T18:00:00Z,Valour,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-09-10_HFX_Wanderers_vs_Valour,2022,2022-09-10T18:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
-2022_2022-09-10_Forge_vs_Cavalry,2022,2022-09-10T21:00:00Z,Cavalry,away,Forge,16741.6578,16741.6578,16741.6578,1.0,True
-2022_2022-09-10_Forge_vs_Cavalry,2022,2022-09-10T21:00:00Z,Forge,home,Cavalry,16477.6381,16477.6381,16477.6381,1.0,True
+2022_2022-09-10_Forge_vs_Cavalry,2022,2022-09-10T21:00:00Z,Cavalry,away,Forge,16752.4157,16752.4157,16752.4157,1.0,True
+2022_2022-09-10_Forge_vs_Cavalry,2022,2022-09-10T21:00:00Z,Forge,home,Cavalry,16505.2671,16505.2671,16505.2671,1.0,True
 2022_2022-09-11_Pacific_vs_Atlético_Ottawa,2022,2022-09-11T20:00:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-09-11_Pacific_vs_Atlético_Ottawa,2022,2022-09-11T20:00:00Z,Pacific,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-09-16_York_United_vs_HFX_Wanderers,2022,2022-09-16T23:30:00Z,Wanderers,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-09-16_York_United_vs_HFX_Wanderers,2022,2022-09-16T23:30:00Z,York,home,Wanderers,55.0,55.0,55.0,1.0,True
-2022_2022-09-17_Edmonton_vs_Cavalry,2022,2022-09-17T20:00:00Z,Cavalry,away,Edmonton,16639.8737,16639.8737,16639.8737,1.0,True
-2022_2022-09-17_Edmonton_vs_Cavalry,2022,2022-09-17T20:00:00Z,Edmonton,home,Cavalry,82162.7545,82162.7545,82162.7545,1.0,True
+2022_2022-09-17_Edmonton_vs_Cavalry,2022,2022-09-17T20:00:00Z,Cavalry,away,Edmonton,16640.9841,16640.9841,16640.9841,1.0,True
+2022_2022-09-17_Edmonton_vs_Cavalry,2022,2022-09-17T20:00:00Z,Edmonton,home,Cavalry,79979.9152,79979.9152,79979.9152,1.0,True
 2022_2022-09-18_Valour_vs_Atlético_Ottawa,2022,2022-09-18T20:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-09-18_Valour_vs_Atlético_Ottawa,2022,2022-09-18T20:00:00Z,Valour,home,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-09-19_Pacific_vs_Forge,2022,2022-09-19T00:00:00Z,Forge,away,Pacific,16579.4222,16579.4222,16579.4222,1.0,True
-2022_2022-09-19_Pacific_vs_Forge,2022,2022-09-19T00:00:00Z,Pacific,home,Forge,16690.7312,16690.7312,16690.7312,1.0,True
+2022_2022-09-19_Pacific_vs_Forge,2022,2022-09-19T00:00:00Z,Forge,away,Pacific,16616.6986,16616.6986,16616.6986,1.0,True
+2022_2022-09-19_Pacific_vs_Forge,2022,2022-09-19T00:00:00Z,Pacific,home,Forge,16691.0741,16691.0741,16691.0741,1.0,True
 2022_2022-09-23_York_United_vs_Valour,2022,2022-09-23T23:30:00Z,Valour,away,York,55.0,55.0,55.0,1.0,True
 2022_2022-09-23_York_United_vs_Valour,2022,2022-09-23T23:30:00Z,York,home,Valour,55.0,55.0,55.0,1.0,True
 2022_2022-09-24_Cavalry_vs_Atlético_Ottawa,2022,2022-09-24T21:30:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2022_2022-09-24_Cavalry_vs_Atlético_Ottawa,2022,2022-09-24T21:30:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-09-25_Edmonton_vs_Forge,2022,2022-09-25T21:00:00Z,Edmonton,home,Forge,79460.5819,79460.5819,79460.5819,1.0,True
-2022_2022-09-25_Edmonton_vs_Forge,2022,2022-09-25T21:00:00Z,Forge,away,Edmonton,16598.2685,16598.2685,16598.2685,1.0,True
+2022_2022-09-25_Edmonton_vs_Forge,2022,2022-09-25T21:00:00Z,Edmonton,home,Forge,77322.8781,77322.8781,77322.8781,1.0,True
+2022_2022-09-25_Edmonton_vs_Forge,2022,2022-09-25T21:00:00Z,Forge,away,Edmonton,16634.5114,16634.5114,16634.5114,1.0,True
 2022_2022-09-27_HFX_Wanderers_vs_Pacific,2022,2022-09-27T22:00:00Z,Pacific,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-09-27_HFX_Wanderers_vs_Pacific,2022,2022-09-27T22:00:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
-2022_2022-10-01_Pacific_vs_Edmonton,2022,2022-10-01T02:00:00Z,Edmonton,away,Pacific,82219.0542,82219.0542,82219.0542,1.0,True
-2022_2022-10-01_Pacific_vs_Edmonton,2022,2022-10-01T02:00:00Z,Pacific,home,Edmonton,16671.8849,16671.8849,16671.8849,1.0,True
+2022_2022-10-01_Pacific_vs_Edmonton,2022,2022-10-01T02:00:00Z,Edmonton,away,Pacific,80370.052,80370.052,80370.052,1.0,True
+2022_2022-10-01_Pacific_vs_Edmonton,2022,2022-10-01T02:00:00Z,Pacific,home,Edmonton,16673.2613,16673.2613,16673.2613,1.0,True
 2022_2022-10-01_HFX_Wanderers_vs_Atlético_Ottawa,2022,2022-10-01T18:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-10-01_HFX_Wanderers_vs_Atlético_Ottawa,2022,2022-10-01T18:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-10-01_Forge_vs_York_United,2022,2022-10-01T21:00:00Z,Forge,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-10-01_Forge_vs_York_United,2022,2022-10-01T21:00:00Z,York,away,Forge,55.0,55.0,55.0,1.0,True
-2022_2022-10-02_Cavalry_vs_Valour,2022,2022-10-02T19:30:00Z,Cavalry,home,Valour,16697.59,16697.59,16697.59,1.0,True
-2022_2022-10-02_Cavalry_vs_Valour,2022,2022-10-02T19:30:00Z,Valour,away,Cavalry,16481.6423,16481.6423,16481.6423,1.0,True
-2022_2022-10-05_Forge_vs_Pacific,2022,2022-10-05T23:00:00Z,Forge,home,Pacific,16539.3497,16539.3497,16539.3497,1.0,True
-2022_2022-10-05_Forge_vs_Pacific,2022,2022-10-05T23:00:00Z,Pacific,away,Forge,16708.1581,16708.1581,16708.1581,1.0,True
-2022_2022-10-08_Edmonton_vs_Valour,2022,2022-10-08T19:00:00Z,Edmonton,home,Valour,80520.81,80520.81,80520.81,1.0,True
-2022_2022-10-08_Edmonton_vs_Valour,2022,2022-10-08T19:00:00Z,Valour,away,Edmonton,16393.3975,16393.3975,16393.3975,1.0,True
-2022_2022-10-08_Cavalry_vs_Pacific,2022,2022-10-08T22:00:00Z,Cavalry,home,Pacific,16785.8347,16785.8347,16785.8347,1.0,True
-2022_2022-10-08_Cavalry_vs_Pacific,2022,2022-10-08T22:00:00Z,Pacific,away,Cavalry,16829.0934,16829.0934,16829.0934,1.0,True
+2022_2022-10-02_Cavalry_vs_Valour,2022,2022-10-02T19:30:00Z,Cavalry,home,Valour,16697.7364,16697.7364,16697.7364,1.0,True
+2022_2022-10-02_Cavalry_vs_Valour,2022,2022-10-02T19:30:00Z,Valour,away,Cavalry,16489.5362,16489.5362,16489.5362,1.0,True
+2022_2022-10-05_Forge_vs_Pacific,2022,2022-10-05T23:00:00Z,Forge,home,Pacific,16569.4261,16569.4261,16569.4261,1.0,True
+2022_2022-10-05_Forge_vs_Pacific,2022,2022-10-05T23:00:00Z,Pacific,away,Forge,16709.12,16709.12,16709.12,1.0,True
+2022_2022-10-08_Edmonton_vs_Valour,2022,2022-10-08T19:00:00Z,Edmonton,home,Valour,78691.212,78691.212,78691.212,1.0,True
+2022_2022-10-08_Edmonton_vs_Valour,2022,2022-10-08T19:00:00Z,Valour,away,Edmonton,16392.2312,16392.2312,16392.2312,1.0,True
+2022_2022-10-08_Cavalry_vs_Pacific,2022,2022-10-08T22:00:00Z,Cavalry,home,Pacific,16795.0414,16795.0414,16795.0414,1.0,True
+2022_2022-10-08_Cavalry_vs_Pacific,2022,2022-10-08T22:00:00Z,Pacific,away,Cavalry,16843.0609,16843.0609,16843.0609,1.0,True
 2022_2022-10-09_Forge_vs_HFX_Wanderers,2022,2022-10-09T17:00:00Z,Forge,home,Wanderers,55.0,55.0,55.0,1.0,True
 2022_2022-10-09_Forge_vs_HFX_Wanderers,2022,2022-10-09T17:00:00Z,Wanderers,away,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-10-09_Atlético_Ottawa_vs_York_United,2022,2022-10-09T22:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2022_2022-10-09_Atlético_Ottawa_vs_York_United,2022,2022-10-09T22:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-10-15_Cavalry_vs_Forge,2022,2022-10-15T20:00:00Z,Cavalry,home,Forge,16881.3344,16881.3344,16881.3344,1.0,True
-2022_2022-10-15_Cavalry_vs_Forge,2022,2022-10-15T20:00:00Z,Forge,away,Cavalry,16418.4143,16418.4143,16418.4143,1.0,True
+2022_2022-10-15_Cavalry_vs_Forge,2022,2022-10-15T20:00:00Z,Cavalry,home,Forge,16900.2392,16900.2392,16900.2392,1.0,True
+2022_2022-10-15_Cavalry_vs_Forge,2022,2022-10-15T20:00:00Z,Forge,away,Cavalry,16435.4853,16435.4853,16435.4853,1.0,True
 2022_2022-10-15_Pacific_vs_Atlético_Ottawa,2022,2022-10-15T23:00:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-10-15_Pacific_vs_Atlético_Ottawa,2022,2022-10-15T23:00:00Z,Pacific,home,Atlético,55.0,55.0,55.0,1.0,True
 2022_2022-10-23_Atlético_Ottawa_vs_Pacific,2022,2022-10-23T18:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2022_2022-10-23_Atlético_Ottawa_vs_Pacific,2022,2022-10-23T18:00:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
-2022_2022-10-23_Forge_vs_Cavalry,2022,2022-10-23T21:00:00Z,Cavalry,away,Forge,16852.8442,16852.8442,16852.8442,1.0,True
-2022_2022-10-23_Forge_vs_Cavalry,2022,2022-10-23T21:00:00Z,Forge,home,Cavalry,16446.9045,16446.9045,16446.9045,1.0,True
+2022_2022-10-23_Forge_vs_Cavalry,2022,2022-10-23T21:00:00Z,Cavalry,away,Forge,16871.6998,16871.6998,16871.6998,1.0,True
+2022_2022-10-23_Forge_vs_Cavalry,2022,2022-10-23T21:00:00Z,Forge,home,Cavalry,16464.0247,16464.0247,16464.0247,1.0,True
 2022_2022-10-30_Atlético_Ottawa_vs_Forge,2022,2022-10-30T22:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2022_2022-10-30_Atlético_Ottawa_vs_Forge,2022,2022-10-30T22:00:00Z,Forge,away,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-04-15_Atlético_Ottawa_vs_HFX_Wanderers,2023,2023-04-15T17:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-04-15_Atlético_Ottawa_vs_HFX_Wanderers,2023,2023-04-15T17:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-04-15_Forge_vs_Cavalry,2023,2023-04-15T20:00:00Z,Cavalry,away,Forge,16612.2676,16612.2676,16612.2676,1.0,True
-2023_2023-04-15_Forge_vs_Cavalry,2023,2023-04-15T20:00:00Z,Forge,home,Cavalry,16534.406,16534.406,16534.406,1.0,True
-2023_2023-04-15_Pacific_vs_Vancouver_FC,2023,2023-04-15T23:00:00Z,Pacific,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-04-15_Pacific_vs_Vancouver_FC,2023,2023-04-15T23:00:00Z,Vancouver FC,away,Pacific,54.9994,54.9994,54.9994,1.0,True
+2023_2023-04-15_Forge_vs_Cavalry,2023,2023-04-15T20:00:00Z,Cavalry,away,Forge,16616.0017,16616.0017,16616.0017,1.0,True
+2023_2023-04-15_Forge_vs_Cavalry,2023,2023-04-15T20:00:00Z,Forge,home,Cavalry,16552.5093,16552.5093,16552.5093,1.0,True
+2023_2023-04-15_Pacific_vs_Vancouver_FC,2023,2023-04-15T23:00:00Z,Pacific,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-04-15_Pacific_vs_Vancouver_FC,2023,2023-04-15T23:00:00Z,Vancouver,away,Pacific,54.9994,54.9994,54.9994,1.0,True
 2023_2023-04-16_York_United_vs_Valour,2023,2023-04-16T18:00:00Z,Valour,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-04-16_York_United_vs_Valour,2023,2023-04-16T18:00:00Z,York,home,Valour,55.0,55.0,55.0,1.0,True
-2023_2023-04-22_York_United_vs_Vancouver_FC,2023,2023-04-22T17:00:00Z,Vancouver FC,away,York,54.9994,54.9994,54.9994,1.0,True
-2023_2023-04-22_York_United_vs_Vancouver_FC,2023,2023-04-22T17:00:00Z,York,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2023_2023-04-22_York_United_vs_Vancouver_FC,2023,2023-04-22T17:00:00Z,Vancouver,away,York,54.9994,54.9994,54.9994,1.0,True
+2023_2023-04-22_York_United_vs_Vancouver_FC,2023,2023-04-22T17:00:00Z,York,home,Vancouver,55.0,55.0,55.0,1.0,True
 2023_2023-04-22_Forge_vs_HFX_Wanderers,2023,2023-04-22T20:00:00Z,Forge,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-04-22_Forge_vs_HFX_Wanderers,2023,2023-04-22T20:00:00Z,Wanderers,away,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-04-22_Valour_vs_Atlético_Ottawa,2023,2023-04-22T23:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-04-22_Valour_vs_Atlético_Ottawa,2023,2023-04-22T23:00:00Z,Valour,home,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-04-23_Pacific_vs_Cavalry,2023,2023-04-23T20:00:00Z,Cavalry,away,Pacific,16625.8098,16625.8098,16625.8098,1.0,True
-2023_2023-04-23_Pacific_vs_Cavalry,2023,2023-04-23T20:00:00Z,Pacific,home,Cavalry,16669.8863,16669.8863,16669.8863,1.0,True
-2023_2023-04-29_HFX_Wanderers_vs_Vancouver_FC,2023,2023-04-29T18:00:00Z,Vancouver FC,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
-2023_2023-04-29_HFX_Wanderers_vs_Vancouver_FC,2023,2023-04-29T18:00:00Z,Wanderers,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2023_2023-04-23_Pacific_vs_Cavalry,2023,2023-04-23T20:00:00Z,Cavalry,away,Pacific,16629.9625,16629.9625,16629.9625,1.0,True
+2023_2023-04-23_Pacific_vs_Cavalry,2023,2023-04-23T20:00:00Z,Pacific,home,Cavalry,16672.9913,16672.9913,16672.9913,1.0,True
+2023_2023-04-29_HFX_Wanderers_vs_Vancouver_FC,2023,2023-04-29T18:00:00Z,Vancouver,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
+2023_2023-04-29_HFX_Wanderers_vs_Vancouver_FC,2023,2023-04-29T18:00:00Z,Wanderers,home,Vancouver,55.0,55.0,55.0,1.0,True
 2023_2023-04-29_Atlético_Ottawa_vs_York_United,2023,2023-04-29T21:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-04-29_Atlético_Ottawa_vs_York_United,2023,2023-04-29T21:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-04-30_Cavalry_vs_Valour,2023,2023-04-30T21:00:00Z,Cavalry,home,Valour,16642.7723,16642.7723,16642.7723,1.0,True
-2023_2023-04-30_Cavalry_vs_Valour,2023,2023-04-30T21:00:00Z,Valour,away,Cavalry,16353.7358,16353.7358,16353.7358,1.0,True
-2023_2023-05-01_Pacific_vs_Forge,2023,2023-05-01T00:00:00Z,Forge,away,Pacific,16520.8637,16520.8637,16520.8637,1.0,True
-2023_2023-05-01_Pacific_vs_Forge,2023,2023-05-01T00:00:00Z,Pacific,home,Forge,16652.9238,16652.9238,16652.9238,1.0,True
+2023_2023-04-30_Cavalry_vs_Valour,2023,2023-04-30T21:00:00Z,Cavalry,home,Valour,16646.8956,16646.8956,16646.8956,1.0,True
+2023_2023-04-30_Cavalry_vs_Valour,2023,2023-04-30T21:00:00Z,Valour,away,Cavalry,16332.0963,16332.0963,16332.0963,1.0,True
+2023_2023-05-01_Pacific_vs_Forge,2023,2023-05-01T00:00:00Z,Forge,away,Pacific,16538.5484,16538.5484,16538.5484,1.0,True
+2023_2023-05-01_Pacific_vs_Forge,2023,2023-05-01T00:00:00Z,Pacific,home,Forge,16656.0583,16656.0583,16656.0583,1.0,True
 2023_2023-05-05_York_United_vs_Forge,2023,2023-05-05T23:30:00Z,Forge,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-05-05_York_United_vs_Forge,2023,2023-05-05T23:30:00Z,York,home,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-05-06_Valour_vs_HFX_Wanderers,2023,2023-05-06T20:00:00Z,Valour,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-05-06_Valour_vs_HFX_Wanderers,2023,2023-05-06T20:00:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-05-06_Atlético_Ottawa_vs_Pacific,2023,2023-05-06T23:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-05-06_Atlético_Ottawa_vs_Pacific,2023,2023-05-06T23:00:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-05-07_Vancouver_FC_vs_Cavalry,2023,2023-05-07T23:00:00Z,Cavalry,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-05-07_Vancouver_FC_vs_Cavalry,2023,2023-05-07T23:00:00Z,Vancouver FC,home,Cavalry,54.9994,54.9994,54.9994,1.0,True
-2023_2023-05-13_Forge_vs_Valour,2023,2023-05-13T20:00:00Z,Forge,home,Valour,16650.2678,16650.2678,16650.2678,1.0,True
-2023_2023-05-13_Forge_vs_Valour,2023,2023-05-13T20:00:00Z,Valour,away,Forge,16377.5046,16377.5046,16377.5046,1.0,True
+2023_2023-05-07_Vancouver_FC_vs_Cavalry,2023,2023-05-07T23:00:00Z,Cavalry,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-05-07_Vancouver_FC_vs_Cavalry,2023,2023-05-07T23:00:00Z,Vancouver,home,Cavalry,54.9994,54.9994,54.9994,1.0,True
+2023_2023-05-13_Forge_vs_Valour,2023,2023-05-13T20:00:00Z,Forge,home,Valour,16680.4339,16680.4339,16680.4339,1.0,True
+2023_2023-05-13_Forge_vs_Valour,2023,2023-05-13T20:00:00Z,Valour,away,Forge,16356.571,16356.571,16356.571,1.0,True
 2023_2023-05-13_Cavalry_vs_HFX_Wanderers,2023,2023-05-13T23:00:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-05-13_Cavalry_vs_HFX_Wanderers,2023,2023-05-13T23:00:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
-2023_2023-05-14_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-05-14T01:30:00Z,Atlético,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-05-14_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-05-14T01:30:00Z,Vancouver FC,home,Atlético,54.9994,54.9994,54.9994,1.0,True
+2023_2023-05-14_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-05-14T01:30:00Z,Atlético,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-05-14_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-05-14T01:30:00Z,Vancouver,home,Atlético,54.9994,54.9994,54.9994,1.0,True
 2023_2023-05-14_Pacific_vs_York_United,2023,2023-05-14T22:00:00Z,Pacific,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-05-14_Pacific_vs_York_United,2023,2023-05-14T22:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
-2023_2023-05-19_Forge_vs_Vancouver_FC,2023,2023-05-19T23:00:00Z,Forge,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-05-19_Forge_vs_Vancouver_FC,2023,2023-05-19T23:00:00Z,Vancouver FC,away,Forge,54.9994,54.9994,54.9994,1.0,True
+2023_2023-05-19_Forge_vs_Vancouver_FC,2023,2023-05-19T23:00:00Z,Forge,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-05-19_Forge_vs_Vancouver_FC,2023,2023-05-19T23:00:00Z,Vancouver,away,Forge,54.9994,54.9994,54.9994,1.0,True
 2023_2023-05-20_HFX_Wanderers_vs_York_United,2023,2023-05-20T18:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-05-20_HFX_Wanderers_vs_York_United,2023,2023-05-20T18:00:00Z,York,away,Wanderers,55.0,55.0,55.0,1.0,True
-2023_2023-05-20_Valour_vs_Pacific,2023,2023-05-20T21:00:00Z,Pacific,away,Valour,16523.5198,16523.5198,16523.5198,1.0,True
-2023_2023-05-20_Valour_vs_Pacific,2023,2023-05-20T21:00:00Z,Valour,home,Pacific,16290.8475,16290.8475,16290.8475,1.0,True
+2023_2023-05-20_Valour_vs_Pacific,2023,2023-05-20T21:00:00Z,Pacific,away,Valour,16514.1728,16514.1728,16514.1728,1.0,True
+2023_2023-05-20_Valour_vs_Pacific,2023,2023-05-20T21:00:00Z,Valour,home,Pacific,16262.8009,16262.8009,16262.8009,1.0,True
 2023_2023-05-21_Cavalry_vs_Atlético_Ottawa,2023,2023-05-21T23:00:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2023_2023-05-21_Cavalry_vs_Atlético_Ottawa,2023,2023-05-21T23:00:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-05-27_Atlético_Ottawa_vs_Forge,2023,2023-05-27T18:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
@@ -287,14 +287,14 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2023_2023-05-28_Pacific_vs_HFX_Wanderers,2023,2023-05-28T02:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-05-28_York_United_vs_Cavalry,2023,2023-05-28T21:00:00Z,Cavalry,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-05-28_York_United_vs_Cavalry,2023,2023-05-28T21:00:00Z,York,home,Cavalry,55.0,55.0,55.0,1.0,True
-2023_2023-05-29_Vancouver_FC_vs_Valour,2023,2023-05-29T00:00:00Z,Valour,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-05-29_Vancouver_FC_vs_Valour,2023,2023-05-29T00:00:00Z,Vancouver FC,home,Valour,54.9994,54.9994,54.9994,1.0,True
+2023_2023-05-29_Vancouver_FC_vs_Valour,2023,2023-05-29T00:00:00Z,Valour,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-05-29_Vancouver_FC_vs_Valour,2023,2023-05-29T00:00:00Z,Vancouver,home,Valour,54.9994,54.9994,54.9994,1.0,True
 2023_2023-05-31_Forge_vs_York_United,2023,2023-05-31T23:00:00Z,Forge,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-05-31_Forge_vs_York_United,2023,2023-05-31T23:00:00Z,York,away,Forge,55.0,55.0,55.0,1.0,True
-2023_2023-06-03_Vancouver_FC_vs_Pacific,2023,2023-06-03T02:00:00Z,Pacific,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-06-03_Vancouver_FC_vs_Pacific,2023,2023-06-03T02:00:00Z,Vancouver FC,home,Pacific,54.9994,54.9994,54.9994,1.0,True
-2023_2023-06-03_Cavalry_vs_Forge,2023,2023-06-03T20:00:00Z,Cavalry,home,Forge,16619.0036,16619.0036,16619.0036,1.0,True
-2023_2023-06-03_Cavalry_vs_Forge,2023,2023-06-03T20:00:00Z,Forge,away,Cavalry,16736.9248,16736.9248,16736.9248,1.0,True
+2023_2023-06-03_Vancouver_FC_vs_Pacific,2023,2023-06-03T02:00:00Z,Pacific,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-06-03_Vancouver_FC_vs_Pacific,2023,2023-06-03T02:00:00Z,Vancouver,home,Pacific,54.9994,54.9994,54.9994,1.0,True
+2023_2023-06-03_Cavalry_vs_Forge,2023,2023-06-03T20:00:00Z,Cavalry,home,Forge,16622.421,16622.421,16622.421,1.0,True
+2023_2023-06-03_Cavalry_vs_Forge,2023,2023-06-03T20:00:00Z,Forge,away,Cavalry,16774.204,16774.204,16774.204,1.0,True
 2023_2023-06-03_Atlético_Ottawa_vs_HFX_Wanderers,2023,2023-06-03T23:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-06-03_Atlético_Ottawa_vs_HFX_Wanderers,2023,2023-06-03T23:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-06-04_Valour_vs_York_United,2023,2023-06-04T19:00:00Z,Valour,home,York,55.0,55.0,55.0,1.0,True
@@ -303,42 +303,42 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2023_2023-06-09_York_United_vs_Atlético_Ottawa,2023,2023-06-09T23:30:00Z,York,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-06-10_HFX_Wanderers_vs_Valour,2023,2023-06-10T17:00:00Z,Valour,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-06-10_HFX_Wanderers_vs_Valour,2023,2023-06-10T17:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
-2023_2023-06-10_Forge_vs_Pacific,2023,2023-06-10T23:00:00Z,Forge,home,Pacific,16749.2865,16749.2865,16749.2865,1.0,True
-2023_2023-06-10_Forge_vs_Pacific,2023,2023-06-10T23:00:00Z,Pacific,away,Forge,16532.6323,16532.6323,16532.6323,1.0,True
-2023_2023-06-11_Cavalry_vs_Vancouver_FC,2023,2023-06-11T21:00:00Z,Cavalry,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-06-11_Cavalry_vs_Vancouver_FC,2023,2023-06-11T21:00:00Z,Vancouver FC,away,Cavalry,54.9994,54.9994,54.9994,1.0,True
-2023_2023-06-17_Valour_vs_Forge,2023,2023-06-17T00:00:00Z,Forge,away,Valour,16617.4905,16617.4905,16617.4905,1.0,True
-2023_2023-06-17_Valour_vs_Forge,2023,2023-06-17T00:00:00Z,Valour,home,Forge,16281.735,16281.735,16281.735,1.0,True
-2023_2023-06-17_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-06-17T18:00:00Z,Atlético,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-06-17_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-06-17T18:00:00Z,Vancouver FC,away,Atlético,54.9994,54.9994,54.9994,1.0,True
+2023_2023-06-10_Forge_vs_Pacific,2023,2023-06-10T23:00:00Z,Forge,home,Pacific,16785.5909,16785.5909,16785.5909,1.0,True
+2023_2023-06-10_Forge_vs_Pacific,2023,2023-06-10T23:00:00Z,Pacific,away,Forge,16522.7506,16522.7506,16522.7506,1.0,True
+2023_2023-06-11_Cavalry_vs_Vancouver_FC,2023,2023-06-11T21:00:00Z,Cavalry,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-06-11_Cavalry_vs_Vancouver_FC,2023,2023-06-11T21:00:00Z,Vancouver,away,Cavalry,54.9994,54.9994,54.9994,1.0,True
+2023_2023-06-17_Valour_vs_Forge,2023,2023-06-17T00:00:00Z,Forge,away,Valour,16639.2017,16639.2017,16639.2017,1.0,True
+2023_2023-06-17_Valour_vs_Forge,2023,2023-06-17T00:00:00Z,Valour,home,Forge,16254.2231,16254.2231,16254.2231,1.0,True
+2023_2023-06-17_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-06-17T18:00:00Z,Atlético,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-06-17_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-06-17T18:00:00Z,Vancouver,away,Atlético,54.9994,54.9994,54.9994,1.0,True
 2023_2023-06-17_HFX_Wanderers_vs_Cavalry,2023,2023-06-17T18:00:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-06-17_HFX_Wanderers_vs_Cavalry,2023,2023-06-17T18:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
 2023_2023-06-18_Pacific_vs_York_United,2023,2023-06-18T20:00:00Z,Pacific,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-06-18_Pacific_vs_York_United,2023,2023-06-18T20:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
-2023_2023-06-21_Vancouver_FC_vs_Forge,2023,2023-06-21T02:00:00Z,Forge,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-06-21_Vancouver_FC_vs_Forge,2023,2023-06-21T02:00:00Z,Vancouver FC,home,Forge,54.9994,54.9994,54.9994,1.0,True
+2023_2023-06-21_Vancouver_FC_vs_Forge,2023,2023-06-21T02:00:00Z,Forge,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-06-21_Vancouver_FC_vs_Forge,2023,2023-06-21T02:00:00Z,Vancouver,home,Forge,54.9994,54.9994,54.9994,1.0,True
 2023_2023-06-21_York_United_vs_HFX_Wanderers,2023,2023-06-21T23:00:00Z,Wanderers,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-06-21_York_United_vs_HFX_Wanderers,2023,2023-06-21T23:00:00Z,York,home,Wanderers,55.0,55.0,55.0,1.0,True
-2023_2023-06-22_Pacific_vs_Valour,2023,2023-06-22T02:00:00Z,Pacific,home,Valour,16664.4283,16664.4283,16664.4283,1.0,True
-2023_2023-06-22_Pacific_vs_Valour,2023,2023-06-22T02:00:00Z,Valour,away,Pacific,16385.5971,16385.5971,16385.5971,1.0,True
+2023_2023-06-22_Pacific_vs_Valour,2023,2023-06-22T02:00:00Z,Pacific,home,Valour,16669.1399,16669.1399,16669.1399,1.0,True
+2023_2023-06-22_Pacific_vs_Valour,2023,2023-06-22T02:00:00Z,Valour,away,Pacific,16380.5674,16380.5674,16380.5674,1.0,True
 2023_2023-06-24_Cavalry_vs_York_United,2023,2023-06-24T21:00:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-06-24_Cavalry_vs_York_United,2023,2023-06-24T21:00:00Z,York,away,Cavalry,55.0,55.0,55.0,1.0,True
-2023_2023-06-25_Valour_vs_Vancouver_FC,2023,2023-06-25T19:00:00Z,Valour,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-06-25_Valour_vs_Vancouver_FC,2023,2023-06-25T19:00:00Z,Vancouver FC,away,Valour,54.9994,54.9994,54.9994,1.0,True
+2023_2023-06-25_Valour_vs_Vancouver_FC,2023,2023-06-25T19:00:00Z,Valour,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-06-25_Valour_vs_Vancouver_FC,2023,2023-06-25T19:00:00Z,Vancouver,away,Valour,54.9994,54.9994,54.9994,1.0,True
 2023_2023-06-25_Forge_vs_Atlético_Ottawa,2023,2023-06-25T22:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-06-25_Forge_vs_Atlético_Ottawa,2023,2023-06-25T22:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-06-30_HFX_Wanderers_vs_Forge,2023,2023-06-30T22:00:00Z,Forge,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-06-30_HFX_Wanderers_vs_Forge,2023,2023-06-30T22:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-07-01_Pacific_vs_Atlético_Ottawa,2023,2023-07-01T01:30:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-07-01_Pacific_vs_Atlético_Ottawa,2023,2023-07-01T01:30:00Z,Pacific,home,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-07-01_Valour_vs_Cavalry,2023,2023-07-01T19:00:00Z,Cavalry,away,Valour,16606.6419,16606.6419,16606.6419,1.0,True
-2023_2023-07-01_Valour_vs_Cavalry,2023,2023-07-01T19:00:00Z,Valour,home,Cavalry,16299.0856,16299.0856,16299.0856,1.0,True
-2023_2023-07-02_Vancouver_FC_vs_York_United,2023,2023-07-02T20:30:00Z,Vancouver FC,home,York,54.9994,54.9994,54.9994,1.0,True
-2023_2023-07-02_Vancouver_FC_vs_York_United,2023,2023-07-02T20:30:00Z,York,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-07-08_Vancouver_FC_vs_HFX_Wanderers,2023,2023-07-08T02:00:00Z,Vancouver FC,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
-2023_2023-07-08_Vancouver_FC_vs_HFX_Wanderers,2023,2023-07-08T02:00:00Z,Wanderers,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-07-09_Pacific_vs_Cavalry,2023,2023-07-09T01:00:00Z,Cavalry,away,Pacific,16723.6106,16723.6106,16723.6106,1.0,True
-2023_2023-07-09_Pacific_vs_Cavalry,2023,2023-07-09T01:00:00Z,Pacific,home,Cavalry,16750.9397,16750.9397,16750.9397,1.0,True
+2023_2023-07-01_Valour_vs_Cavalry,2023,2023-07-01T19:00:00Z,Cavalry,away,Valour,16611.034,16611.034,16611.034,1.0,True
+2023_2023-07-01_Valour_vs_Cavalry,2023,2023-07-01T19:00:00Z,Valour,home,Cavalry,16285.699,16285.699,16285.699,1.0,True
+2023_2023-07-02_Vancouver_FC_vs_York_United,2023,2023-07-02T20:30:00Z,Vancouver,home,York,54.9994,54.9994,54.9994,1.0,True
+2023_2023-07-02_Vancouver_FC_vs_York_United,2023,2023-07-02T20:30:00Z,York,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-07-08_Vancouver_FC_vs_HFX_Wanderers,2023,2023-07-08T02:00:00Z,Vancouver,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
+2023_2023-07-08_Vancouver_FC_vs_HFX_Wanderers,2023,2023-07-08T02:00:00Z,Wanderers,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-07-09_Pacific_vs_Cavalry,2023,2023-07-09T01:00:00Z,Cavalry,away,Pacific,16750.7848,16750.7848,16750.7848,1.0,True
+2023_2023-07-09_Pacific_vs_Cavalry,2023,2023-07-09T01:00:00Z,Pacific,home,Cavalry,16764.0082,16764.0082,16764.0082,1.0,True
 2023_2023-07-09_Atlético_Ottawa_vs_Valour,2023,2023-07-09T19:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-07-09_Atlético_Ottawa_vs_Valour,2023,2023-07-09T19:00:00Z,Valour,away,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-07-09_York_United_vs_Forge,2023,2023-07-09T23:30:00Z,Forge,away,York,55.0,55.0,55.0,1.0,True
@@ -351,148 +351,148 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2023_2023-07-14_York_United_vs_Pacific,2023,2023-07-14T23:30:00Z,York,home,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-07-15_Cavalry_vs_HFX_Wanderers,2023,2023-07-15T20:00:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-07-15_Cavalry_vs_HFX_Wanderers,2023,2023-07-15T20:00:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
-2023_2023-07-15_Forge_vs_Valour,2023,2023-07-15T23:00:00Z,Forge,home,Valour,16513.6285,16513.6285,16513.6285,1.0,True
-2023_2023-07-15_Forge_vs_Valour,2023,2023-07-15T23:00:00Z,Valour,away,Forge,16182.1169,16182.1169,16182.1169,1.0,True
-2023_2023-07-16_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-07-16T18:00:00Z,Atlético,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-07-16_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-07-16T18:00:00Z,Vancouver FC,away,Atlético,54.9994,54.9994,54.9994,1.0,True
-2023_2023-07-22_Pacific_vs_Forge,2023,2023-07-22T02:00:00Z,Forge,away,Pacific,16488.6762,16488.6762,16488.6762,1.0,True
-2023_2023-07-22_Pacific_vs_Forge,2023,2023-07-22T02:00:00Z,Pacific,home,Forge,16624.4481,16624.4481,16624.4481,1.0,True
-2023_2023-07-22_Vancouver_FC_vs_Cavalry,2023,2023-07-22T23:00:00Z,Cavalry,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-07-22_Vancouver_FC_vs_Cavalry,2023,2023-07-22T23:00:00Z,Vancouver FC,home,Cavalry,54.9994,54.9994,54.9994,1.0,True
+2023_2023-07-15_Forge_vs_Valour,2023,2023-07-15T23:00:00Z,Forge,home,Valour,16512.8574,16512.8574,16512.8574,1.0,True
+2023_2023-07-15_Forge_vs_Valour,2023,2023-07-15T23:00:00Z,Valour,away,Forge,16145.9483,16145.9483,16145.9483,1.0,True
+2023_2023-07-16_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-07-16T18:00:00Z,Atlético,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-07-16_Atlético_Ottawa_vs_Vancouver_FC,2023,2023-07-16T18:00:00Z,Vancouver,away,Atlético,54.9994,54.9994,54.9994,1.0,True
+2023_2023-07-22_Pacific_vs_Forge,2023,2023-07-22T02:00:00Z,Forge,away,Pacific,16486.9297,16486.9297,16486.9297,1.0,True
+2023_2023-07-22_Pacific_vs_Forge,2023,2023-07-22T02:00:00Z,Pacific,home,Forge,16625.3042,16625.3042,16625.3042,1.0,True
+2023_2023-07-22_Vancouver_FC_vs_Cavalry,2023,2023-07-22T23:00:00Z,Cavalry,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-07-22_Vancouver_FC_vs_Cavalry,2023,2023-07-22T23:00:00Z,Vancouver,home,Cavalry,54.9994,54.9994,54.9994,1.0,True
 2023_2023-07-23_HFX_Wanderers_vs_Atlético_Ottawa,2023,2023-07-23T20:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-07-23_HFX_Wanderers_vs_Atlético_Ottawa,2023,2023-07-23T20:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-07-23_Valour_vs_York_United,2023,2023-07-23T23:00:00Z,Valour,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-07-23_Valour_vs_York_United,2023,2023-07-23T23:00:00Z,York,away,Valour,55.0,55.0,55.0,1.0,True
-2023_2023-07-28_Forge_vs_Vancouver_FC,2023,2023-07-28T23:00:00Z,Forge,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-07-28_Forge_vs_Vancouver_FC,2023,2023-07-28T23:00:00Z,Vancouver FC,away,Forge,54.9994,54.9994,54.9994,1.0,True
-2023_2023-07-29_Valour_vs_Pacific,2023,2023-07-29T20:00:00Z,Pacific,away,Valour,16494.9405,16494.9405,16494.9405,1.0,True
-2023_2023-07-29_Valour_vs_Pacific,2023,2023-07-29T20:00:00Z,Valour,home,Pacific,16207.0692,16207.0692,16207.0692,1.0,True
+2023_2023-07-28_Forge_vs_Vancouver_FC,2023,2023-07-28T23:00:00Z,Forge,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-07-28_Forge_vs_Vancouver_FC,2023,2023-07-28T23:00:00Z,Vancouver,away,Forge,54.9994,54.9994,54.9994,1.0,True
+2023_2023-07-29_Valour_vs_Pacific,2023,2023-07-29T20:00:00Z,Pacific,away,Valour,16469.8216,16469.8216,16469.8216,1.0,True
+2023_2023-07-29_Valour_vs_Pacific,2023,2023-07-29T20:00:00Z,Valour,home,Pacific,16171.8759,16171.8759,16171.8759,1.0,True
 2023_2023-07-29_Atlético_Ottawa_vs_Cavalry,2023,2023-07-29T23:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2023_2023-07-29_Atlético_Ottawa_vs_Cavalry,2023,2023-07-29T23:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-07-30_York_United_vs_HFX_Wanderers,2023,2023-07-30T18:00:00Z,Wanderers,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-07-30_York_United_vs_HFX_Wanderers,2023,2023-07-30T18:00:00Z,York,home,Wanderers,55.0,55.0,55.0,1.0,True
-2023_2023-08-05_Cavalry_vs_Forge,2023,2023-08-05T01:00:00Z,Cavalry,home,Forge,16850.1022,16850.1022,16850.1022,1.0,True
-2023_2023-08-05_Cavalry_vs_Forge,2023,2023-08-05T01:00:00Z,Forge,away,Cavalry,16618.1837,16618.1837,16618.1837,1.0,True
+2023_2023-08-05_Cavalry_vs_Forge,2023,2023-08-05T01:00:00Z,Cavalry,home,Forge,16889.4887,16889.4887,16889.4887,1.0,True
+2023_2023-08-05_Cavalry_vs_Forge,2023,2023-08-05T01:00:00Z,Forge,away,Cavalry,16642.4124,16642.4124,16642.4124,1.0,True
 2023_2023-08-05_Atlético_Ottawa_vs_York_United,2023,2023-08-05T23:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-08-05_Atlético_Ottawa_vs_York_United,2023,2023-08-05T23:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-08-06_Vancouver_FC_vs_Valour,2023,2023-08-06T21:00:00Z,Valour,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-08-06_Vancouver_FC_vs_Valour,2023,2023-08-06T21:00:00Z,Vancouver FC,home,Valour,54.9994,54.9994,54.9994,1.0,True
+2023_2023-08-06_Vancouver_FC_vs_Valour,2023,2023-08-06T21:00:00Z,Valour,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-08-06_Vancouver_FC_vs_Valour,2023,2023-08-06T21:00:00Z,Vancouver,home,Valour,54.9994,54.9994,54.9994,1.0,True
 2023_2023-08-07_HFX_Wanderers_vs_Pacific,2023,2023-08-07T18:00:00Z,Pacific,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-08-07_HFX_Wanderers_vs_Pacific,2023,2023-08-07T18:00:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
-2023_2023-08-12_Valour_vs_Cavalry,2023,2023-08-12T00:00:00Z,Cavalry,away,Valour,16937.9268,16937.9268,16937.9268,1.0,True
-2023_2023-08-12_Valour_vs_Cavalry,2023,2023-08-12T00:00:00Z,Valour,home,Cavalry,16089.5364,16089.5364,16089.5364,1.0,True
-2023_2023-08-12_HFX_Wanderers_vs_Vancouver_FC,2023,2023-08-12T19:00:00Z,Vancouver FC,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
-2023_2023-08-12_HFX_Wanderers_vs_Vancouver_FC,2023,2023-08-12T19:00:00Z,Wanderers,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2023_2023-08-12_Valour_vs_Cavalry,2023,2023-08-12T00:00:00Z,Cavalry,away,Valour,17003.1315,17003.1315,17003.1315,1.0,True
+2023_2023-08-12_Valour_vs_Cavalry,2023,2023-08-12T00:00:00Z,Valour,home,Cavalry,16019.4585,16019.4585,16019.4585,1.0,True
+2023_2023-08-12_HFX_Wanderers_vs_Vancouver_FC,2023,2023-08-12T19:00:00Z,Vancouver,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
+2023_2023-08-12_HFX_Wanderers_vs_Vancouver_FC,2023,2023-08-12T19:00:00Z,Wanderers,home,Vancouver,55.0,55.0,55.0,1.0,True
 2023_2023-08-12_Forge_vs_York_United,2023,2023-08-12T23:00:00Z,Forge,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-08-12_Forge_vs_York_United,2023,2023-08-12T23:00:00Z,York,away,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-08-13_Pacific_vs_Atlético_Ottawa,2023,2023-08-13T20:30:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-08-13_Pacific_vs_Atlético_Ottawa,2023,2023-08-13T20:30:00Z,Pacific,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-08-19_Valour_vs_Atlético_Ottawa,2023,2023-08-19T00:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-08-19_Valour_vs_Atlético_Ottawa,2023,2023-08-19T00:00:00Z,Valour,home,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-08-19_Vancouver_FC_vs_Pacific,2023,2023-08-19T20:00:00Z,Pacific,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-08-19_Vancouver_FC_vs_Pacific,2023,2023-08-19T20:00:00Z,Vancouver FC,home,Pacific,54.9994,54.9994,54.9994,1.0,True
+2023_2023-08-19_Vancouver_FC_vs_Pacific,2023,2023-08-19T20:00:00Z,Pacific,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-08-19_Vancouver_FC_vs_Pacific,2023,2023-08-19T20:00:00Z,Vancouver,home,Pacific,54.9994,54.9994,54.9994,1.0,True
 2023_2023-08-19_Forge_vs_HFX_Wanderers,2023,2023-08-19T23:00:00Z,Forge,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-08-19_Forge_vs_HFX_Wanderers,2023,2023-08-19T23:00:00Z,Wanderers,away,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-08-20_Cavalry_vs_York_United,2023,2023-08-20T21:00:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-08-20_Cavalry_vs_York_United,2023,2023-08-20T21:00:00Z,York,away,Cavalry,55.0,55.0,55.0,1.0,True
-2023_2023-08-25_York_United_vs_Vancouver_FC,2023,2023-08-25T23:30:00Z,Vancouver FC,away,York,54.9994,54.9994,54.9994,1.0,True
-2023_2023-08-25_York_United_vs_Vancouver_FC,2023,2023-08-25T23:30:00Z,York,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2023_2023-08-25_York_United_vs_Vancouver_FC,2023,2023-08-25T23:30:00Z,Vancouver,away,York,54.9994,54.9994,54.9994,1.0,True
+2023_2023-08-25_York_United_vs_Vancouver_FC,2023,2023-08-25T23:30:00Z,York,home,Vancouver,55.0,55.0,55.0,1.0,True
 2023_2023-08-26_HFX_Wanderers_vs_Valour,2023,2023-08-26T19:00:00Z,Valour,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-08-26_HFX_Wanderers_vs_Valour,2023,2023-08-26T19:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-08-26_Atlético_Ottawa_vs_Forge,2023,2023-08-26T23:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-08-26_Atlético_Ottawa_vs_Forge,2023,2023-08-26T23:00:00Z,Forge,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-08-27_Cavalry_vs_Pacific,2023,2023-08-27T21:00:00Z,Cavalry,home,Pacific,16819.3559,16819.3559,16819.3559,1.0,True
-2023_2023-08-27_Cavalry_vs_Pacific,2023,2023-08-27T21:00:00Z,Pacific,away,Cavalry,16612.4734,16612.4734,16612.4734,1.0,True
-2023_2023-09-02_Pacific_vs_Valour,2023,2023-09-02T20:00:00Z,Pacific,home,Valour,16523.9778,16523.9778,16523.9778,1.0,True
-2023_2023-09-02_Pacific_vs_Valour,2023,2023-09-02T20:00:00Z,Valour,away,Pacific,16208.1073,16208.1073,16208.1073,1.0,True
+2023_2023-08-27_Cavalry_vs_Pacific,2023,2023-08-27T21:00:00Z,Cavalry,home,Pacific,16868.4598,16868.4598,16868.4598,1.0,True
+2023_2023-08-27_Cavalry_vs_Pacific,2023,2023-08-27T21:00:00Z,Pacific,away,Cavalry,16622.2391,16622.2391,16622.2391,1.0,True
+2023_2023-09-02_Pacific_vs_Valour,2023,2023-09-02T20:00:00Z,Pacific,home,Valour,16526.0894,16526.0894,16526.0894,1.0,True
+2023_2023-09-02_Pacific_vs_Valour,2023,2023-09-02T20:00:00Z,Valour,away,Pacific,16154.1302,16154.1302,16154.1302,1.0,True
 2023_2023-09-02_Atlético_Ottawa_vs_Cavalry,2023,2023-09-02T23:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2023_2023-09-02_Atlético_Ottawa_vs_Cavalry,2023,2023-09-02T23:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-09-03_Vancouver_FC_vs_Forge,2023,2023-09-03T21:00:00Z,Forge,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-09-03_Vancouver_FC_vs_Forge,2023,2023-09-03T21:00:00Z,Vancouver FC,home,Forge,54.9994,54.9994,54.9994,1.0,True
+2023_2023-09-03_Vancouver_FC_vs_Forge,2023,2023-09-03T21:00:00Z,Forge,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-09-03_Vancouver_FC_vs_Forge,2023,2023-09-03T21:00:00Z,Vancouver,home,Forge,54.9994,54.9994,54.9994,1.0,True
 2023_2023-09-04_HFX_Wanderers_vs_York_United,2023,2023-09-04T18:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-09-04_HFX_Wanderers_vs_York_United,2023,2023-09-04T18:00:00Z,York,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-09-08_York_United_vs_Valour,2023,2023-09-08T23:00:00Z,Valour,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-09-08_York_United_vs_Valour,2023,2023-09-08T23:00:00Z,York,home,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-09-09_Pacific_vs_HFX_Wanderers,2023,2023-09-09T02:00:00Z,Pacific,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-09-09_Pacific_vs_HFX_Wanderers,2023,2023-09-09T02:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
-2023_2023-09-09_Forge_vs_Cavalry,2023,2023-09-09T23:00:00Z,Cavalry,away,Forge,16907.8515,16907.8515,16907.8515,1.0,True
-2023_2023-09-09_Forge_vs_Cavalry,2023,2023-09-09T23:00:00Z,Forge,home,Cavalry,16530.3591,16530.3591,16530.3591,1.0,True
-2023_2023-09-10_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-09-10T02:00:00Z,Atlético,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-09-10_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-09-10T02:00:00Z,Vancouver FC,home,Atlético,54.9994,54.9994,54.9994,1.0,True
+2023_2023-09-09_Forge_vs_Cavalry,2023,2023-09-09T23:00:00Z,Cavalry,away,Forge,16964.6096,16964.6096,16964.6096,1.0,True
+2023_2023-09-09_Forge_vs_Cavalry,2023,2023-09-09T23:00:00Z,Forge,home,Cavalry,16528.7696,16528.7696,16528.7696,1.0,True
+2023_2023-09-10_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-09-10T02:00:00Z,Atlético,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-09-10_Vancouver_FC_vs_Atlético_Ottawa,2023,2023-09-10T02:00:00Z,Vancouver,home,Atlético,54.9994,54.9994,54.9994,1.0,True
 2023_2023-09-12_HFX_Wanderers_vs_Cavalry,2023,2023-09-12T22:00:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-09-12_HFX_Wanderers_vs_Cavalry,2023,2023-09-12T22:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
 2023_2023-09-13_Atlético_Ottawa_vs_Pacific,2023,2023-09-13T21:30:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-09-13_Atlético_Ottawa_vs_Pacific,2023,2023-09-13T21:30:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-09-16_Cavalry_vs_Vancouver_FC,2023,2023-09-16T21:00:00Z,Cavalry,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-09-16_Cavalry_vs_Vancouver_FC,2023,2023-09-16T21:00:00Z,Vancouver FC,away,Cavalry,54.9994,54.9994,54.9994,1.0,True
-2023_2023-09-17_Valour_vs_Forge,2023,2023-09-17T18:00:00Z,Forge,away,Valour,16525.3753,16525.3753,16525.3753,1.0,True
-2023_2023-09-17_Valour_vs_Forge,2023,2023-09-17T18:00:00Z,Valour,home,Forge,16122.6112,16122.6112,16122.6112,1.0,True
+2023_2023-09-16_Cavalry_vs_Vancouver_FC,2023,2023-09-16T21:00:00Z,Cavalry,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-09-16_Cavalry_vs_Vancouver_FC,2023,2023-09-16T21:00:00Z,Vancouver,away,Cavalry,54.9994,54.9994,54.9994,1.0,True
+2023_2023-09-17_Valour_vs_Forge,2023,2023-09-17T18:00:00Z,Forge,away,Valour,16525.4511,16525.4511,16525.4511,1.0,True
+2023_2023-09-17_Valour_vs_Forge,2023,2023-09-17T18:00:00Z,Valour,home,Forge,16061.7665,16061.7665,16061.7665,1.0,True
 2023_2023-09-17_York_United_vs_Pacific,2023,2023-09-17T21:00:00Z,Pacific,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-09-17_York_United_vs_Pacific,2023,2023-09-17T21:00:00Z,York,home,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-09-18_HFX_Wanderers_vs_Atlético_Ottawa,2023,2023-09-18T22:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-09-18_HFX_Wanderers_vs_Atlético_Ottawa,2023,2023-09-18T22:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-09-21_Valour_vs_Vancouver_FC,2023,2023-09-21T00:00:00Z,Valour,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-09-21_Valour_vs_Vancouver_FC,2023,2023-09-21T00:00:00Z,Vancouver FC,away,Valour,54.9994,54.9994,54.9994,1.0,True
+2023_2023-09-21_Valour_vs_Vancouver_FC,2023,2023-09-21T00:00:00Z,Valour,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-09-21_Valour_vs_Vancouver_FC,2023,2023-09-21T00:00:00Z,Vancouver,away,Valour,54.9994,54.9994,54.9994,1.0,True
 2023_2023-09-23_York_United_vs_Cavalry,2023,2023-09-23T17:00:00Z,Cavalry,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-09-23_York_United_vs_Cavalry,2023,2023-09-23T17:00:00Z,York,home,Cavalry,55.0,55.0,55.0,1.0,True
-2023_2023-09-23_Vancouver_FC_vs_HFX_Wanderers,2023,2023-09-23T20:00:00Z,Vancouver FC,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
-2023_2023-09-23_Vancouver_FC_vs_HFX_Wanderers,2023,2023-09-23T20:00:00Z,Wanderers,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-09-23_Forge_vs_Pacific,2023,2023-09-23T23:00:00Z,Forge,home,Pacific,16639.5889,16639.5889,16639.5889,1.0,True
-2023_2023-09-23_Forge_vs_Pacific,2023,2023-09-23T23:00:00Z,Pacific,away,Forge,16609.4739,16609.4739,16609.4739,1.0,True
+2023_2023-09-23_Vancouver_FC_vs_HFX_Wanderers,2023,2023-09-23T20:00:00Z,Vancouver,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
+2023_2023-09-23_Vancouver_FC_vs_HFX_Wanderers,2023,2023-09-23T20:00:00Z,Wanderers,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-09-23_Forge_vs_Pacific,2023,2023-09-23T23:00:00Z,Forge,home,Pacific,16649.1463,16649.1463,16649.1463,1.0,True
+2023_2023-09-23_Forge_vs_Pacific,2023,2023-09-23T23:00:00Z,Pacific,away,Forge,16618.453,16618.453,16618.453,1.0,True
 2023_2023-09-24_Atlético_Ottawa_vs_Valour,2023,2023-09-24T18:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2023_2023-09-24_Atlético_Ottawa_vs_Valour,2023,2023-09-24T18:00:00Z,Valour,away,Atlético,55.0,55.0,55.0,1.0,True
-2023_2023-09-30_Cavalry_vs_Valour,2023,2023-09-30T01:00:00Z,Cavalry,home,Valour,16912.8353,16912.8353,16912.8353,1.0,True
-2023_2023-09-30_Cavalry_vs_Valour,2023,2023-09-30T01:00:00Z,Valour,away,Cavalry,16008.3976,16008.3976,16008.3976,1.0,True
+2023_2023-09-30_Cavalry_vs_Valour,2023,2023-09-30T01:00:00Z,Cavalry,home,Valour,16967.928,16967.928,16967.928,1.0,True
+2023_2023-09-30_Cavalry_vs_Valour,2023,2023-09-30T01:00:00Z,Valour,away,Cavalry,15938.0713,15938.0713,15938.0713,1.0,True
 2023_2023-09-30_HFX_Wanderers_vs_Forge,2023,2023-09-30T18:00:00Z,Forge,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-09-30_HFX_Wanderers_vs_Forge,2023,2023-09-30T18:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
-2023_2023-09-30_Pacific_vs_Vancouver_FC,2023,2023-09-30T21:00:00Z,Pacific,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-09-30_Pacific_vs_Vancouver_FC,2023,2023-09-30T21:00:00Z,Vancouver FC,away,Pacific,54.9994,54.9994,54.9994,1.0,True
+2023_2023-09-30_Pacific_vs_Vancouver_FC,2023,2023-09-30T21:00:00Z,Pacific,home,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-09-30_Pacific_vs_Vancouver_FC,2023,2023-09-30T21:00:00Z,Vancouver,away,Pacific,54.9994,54.9994,54.9994,1.0,True
 2023_2023-10-01_York_United_vs_Atlético_Ottawa,2023,2023-10-01T17:00:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2023_2023-10-01_York_United_vs_Atlético_Ottawa,2023,2023-10-01T17:00:00Z,York,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-10-06_Valour_vs_HFX_Wanderers,2023,2023-10-06T23:30:00Z,Valour,home,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-10-06_Valour_vs_HFX_Wanderers,2023,2023-10-06T23:30:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
-2023_2023-10-07_Vancouver_FC_vs_York_United,2023,2023-10-07T02:30:00Z,Vancouver FC,home,York,54.9994,54.9994,54.9994,1.0,True
-2023_2023-10-07_Vancouver_FC_vs_York_United,2023,2023-10-07T02:30:00Z,York,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2023_2023-10-07_Cavalry_vs_Pacific,2023,2023-10-07T21:00:00Z,Cavalry,home,Pacific,16982.8836,16982.8836,16982.8836,1.0,True
-2023_2023-10-07_Cavalry_vs_Pacific,2023,2023-10-07T21:00:00Z,Pacific,away,Cavalry,16516.0654,16516.0654,16516.0654,1.0,True
+2023_2023-10-07_Vancouver_FC_vs_York_United,2023,2023-10-07T02:30:00Z,Vancouver,home,York,54.9994,54.9994,54.9994,1.0,True
+2023_2023-10-07_Vancouver_FC_vs_York_United,2023,2023-10-07T02:30:00Z,York,away,Vancouver,55.0,55.0,55.0,1.0,True
+2023_2023-10-07_Cavalry_vs_Pacific,2023,2023-10-07T21:00:00Z,Cavalry,home,Pacific,17041.5759,17041.5759,17041.5759,1.0,True
+2023_2023-10-07_Cavalry_vs_Pacific,2023,2023-10-07T21:00:00Z,Pacific,away,Cavalry,16506.396,16506.396,16506.396,1.0,True
 2023_2023-10-07_Forge_vs_Atlético_Ottawa,2023,2023-10-07T21:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2023_2023-10-07_Forge_vs_Atlético_Ottawa,2023,2023-10-07T21:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
 2023_2023-10-12_Pacific_vs_York_United,2023,2023-10-12T02:00:00Z,Pacific,home,York,55.0,55.0,55.0,1.0,True
 2023_2023-10-12_Pacific_vs_York_United,2023,2023-10-12T02:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
 2023_2023-10-14_HFX_Wanderers_vs_Pacific,2023,2023-10-14T18:00:00Z,Pacific,away,Wanderers,55.0,55.0,55.0,1.0,True
 2023_2023-10-14_HFX_Wanderers_vs_Pacific,2023,2023-10-14T18:00:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
-2023_2023-10-14_Cavalry_vs_Forge,2023,2023-10-14T21:00:00Z,Cavalry,home,Forge,17064.2888,17064.2888,17064.2888,1.0,True
-2023_2023-10-14_Cavalry_vs_Forge,2023,2023-10-14T21:00:00Z,Forge,away,Cavalry,16732.9974,16732.9974,16732.9974,1.0,True
-2023_2023-10-21_Cavalry_vs_Pacific,2023,2023-10-21T20:00:00Z,Cavalry,home,Pacific,16929.3843,16929.3843,16929.3843,1.0,True
-2023_2023-10-21_Cavalry_vs_Pacific,2023,2023-10-21T20:00:00Z,Pacific,away,Cavalry,16434.6603,16434.6603,16434.6603,1.0,True
-2023_2023-10-28_Forge_vs_Cavalry,2023,2023-10-28T22:00:00Z,Cavalry,away,Forge,17010.042,17010.042,17010.042,1.0,True
-2023_2023-10-28_Forge_vs_Cavalry,2023,2023-10-28T22:00:00Z,Forge,home,Cavalry,16867.9018,16867.9018,16867.9018,1.0,True
+2023_2023-10-14_Cavalry_vs_Forge,2023,2023-10-14T21:00:00Z,Cavalry,home,Forge,17145.0289,17145.0289,17145.0289,1.0,True
+2023_2023-10-14_Cavalry_vs_Forge,2023,2023-10-14T21:00:00Z,Forge,away,Cavalry,16761.2033,16761.2033,16761.2033,1.0,True
+2023_2023-10-21_Cavalry_vs_Pacific,2023,2023-10-21T20:00:00Z,Cavalry,home,Pacific,16995.0731,16995.0731,16995.0731,1.0,True
+2023_2023-10-21_Cavalry_vs_Pacific,2023,2023-10-21T20:00:00Z,Pacific,away,Cavalry,16402.9431,16402.9431,16402.9431,1.0,True
+2023_2023-10-28_Forge_vs_Cavalry,2023,2023-10-28T22:00:00Z,Cavalry,away,Forge,17080.952,17080.952,17080.952,1.0,True
+2023_2023-10-28_Forge_vs_Cavalry,2023,2023-10-28T22:00:00Z,Forge,home,Cavalry,16911.1591,16911.1591,16911.1591,1.0,True
 2024_2024-04-13_Atlético_Ottawa_vs_York_United,2024,2024-04-13T17:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-04-13_Atlético_Ottawa_vs_York_United,2024,2024-04-13T17:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-04-13_Forge_vs_Cavalry,2024,2024-04-13T20:00:00Z,Cavalry,away,Forge,16825.3063,16825.3063,16825.3063,1.0,True
-2024_2024-04-13_Forge_vs_Cavalry,2024,2024-04-13T20:00:00Z,Forge,home,Cavalry,16785.6374,16785.6374,16785.6374,1.0,True
+2024_2024-04-13_Forge_vs_Cavalry,2024,2024-04-13T20:00:00Z,Cavalry,away,Forge,16865.738,16865.738,16865.738,1.0,True
+2024_2024-04-13_Forge_vs_Cavalry,2024,2024-04-13T20:00:00Z,Forge,home,Cavalry,16823.1809,16823.1809,16823.1809,1.0,True
 2024_2024-04-13_Pacific_vs_HFX_Wanderers,2024,2024-04-13T23:00:00Z,Pacific,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2024_2024-04-13_Pacific_vs_HFX_Wanderers,2024,2024-04-13T23:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
-2024_2024-04-14_Vancouver_FC_vs_Valour,2024,2024-04-14T23:00:00Z,Valour,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-04-14_Vancouver_FC_vs_Valour,2024,2024-04-14T23:00:00Z,Vancouver FC,home,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-04-19_Vancouver_FC_vs_HFX_Wanderers,2024,2024-04-19T02:00:00Z,Vancouver FC,home,Wanderers,55.0,55.0,55.0,1.0,True
-2024_2024-04-19_Vancouver_FC_vs_HFX_Wanderers,2024,2024-04-19T02:00:00Z,Wanderers,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-04-20_Pacific_vs_Valour,2024,2024-04-20T02:00:00Z,Pacific,home,Valour,16460.2065,16460.2065,16460.2065,1.0,True
-2024_2024-04-20_Pacific_vs_Valour,2024,2024-04-20T02:00:00Z,Valour,away,Pacific,16213.6785,16213.6785,16213.6785,1.0,True
+2024_2024-04-14_Vancouver_FC_vs_Valour,2024,2024-04-14T23:00:00Z,Valour,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-04-14_Vancouver_FC_vs_Valour,2024,2024-04-14T23:00:00Z,Vancouver,home,Valour,55.0,55.0,55.0,1.0,True
+2024_2024-04-19_Vancouver_FC_vs_HFX_Wanderers,2024,2024-04-19T02:00:00Z,Vancouver,home,Wanderers,55.0,55.0,55.0,1.0,True
+2024_2024-04-19_Vancouver_FC_vs_HFX_Wanderers,2024,2024-04-19T02:00:00Z,Wanderers,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-04-20_Pacific_vs_Valour,2024,2024-04-20T02:00:00Z,Pacific,home,Valour,16444.2678,16444.2678,16444.2678,1.0,True
+2024_2024-04-20_Pacific_vs_Valour,2024,2024-04-20T02:00:00Z,Valour,away,Pacific,16175.4856,16175.4856,16175.4856,1.0,True
 2024_2024-04-20_Atlético_Ottawa_vs_Cavalry,2024,2024-04-20T18:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-04-20_Atlético_Ottawa_vs_Cavalry,2024,2024-04-20T18:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-04-21_York_United_vs_Forge,2024,2024-04-21T20:00:00Z,Forge,away,York,55.0006,55.0006,55.0006,1.0,True
 2024_2024-04-21_York_United_vs_Forge,2024,2024-04-21T20:00:00Z,York,home,Forge,55.0,55.0,55.0,1.0,True
-2024_2024-04-26_York_United_vs_Vancouver_FC,2024,2024-04-26T23:00:00Z,Vancouver FC,away,York,55.0,55.0,55.0,1.0,True
-2024_2024-04-26_York_United_vs_Vancouver_FC,2024,2024-04-26T23:00:00Z,York,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2024_2024-04-26_York_United_vs_Vancouver_FC,2024,2024-04-26T23:00:00Z,Vancouver,away,York,55.0,55.0,55.0,1.0,True
+2024_2024-04-26_York_United_vs_Vancouver_FC,2024,2024-04-26T23:00:00Z,York,home,Vancouver,55.0,55.0,55.0,1.0,True
 2024_2024-04-27_HFX_Wanderers_vs_Atlético_Ottawa,2024,2024-04-27T17:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-04-27_HFX_Wanderers_vs_Atlético_Ottawa,2024,2024-04-27T17:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-04-27_Forge_vs_Valour,2024,2024-04-27T20:00:00Z,Forge,home,Valour,16881.1211,16881.1211,16881.1211,1.0,True
-2024_2024-04-27_Forge_vs_Valour,2024,2024-04-27T20:00:00Z,Valour,away,Forge,16126.4299,16126.4299,16126.4299,1.0,True
-2024_2024-04-28_Cavalry_vs_Pacific,2024,2024-04-28T21:00:00Z,Cavalry,home,Pacific,16729.8236,16729.8236,16729.8236,1.0,True
-2024_2024-04-28_Cavalry_vs_Pacific,2024,2024-04-28T21:00:00Z,Pacific,away,Cavalry,16547.4543,16547.4543,16547.4543,1.0,True
-2024_2024-05-04_Cavalry_vs_Vancouver_FC,2024,2024-05-04T01:00:00Z,Cavalry,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-05-04_Cavalry_vs_Vancouver_FC,2024,2024-05-04T01:00:00Z,Vancouver FC,away,Cavalry,55.0,55.0,55.0,1.0,True
+2024_2024-04-27_Forge_vs_Valour,2024,2024-04-27T20:00:00Z,Forge,home,Valour,16928.3166,16928.3166,16928.3166,1.0,True
+2024_2024-04-27_Forge_vs_Valour,2024,2024-04-27T20:00:00Z,Valour,away,Forge,16071.5562,16071.5562,16071.5562,1.0,True
+2024_2024-04-28_Cavalry_vs_Pacific,2024,2024-04-28T21:00:00Z,Cavalry,home,Pacific,16760.6033,16760.6033,16760.6033,1.0,True
+2024_2024-04-28_Cavalry_vs_Pacific,2024,2024-04-28T21:00:00Z,Pacific,away,Cavalry,16548.1961,16548.1961,16548.1961,1.0,True
+2024_2024-05-04_Cavalry_vs_Vancouver_FC,2024,2024-05-04T01:00:00Z,Cavalry,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-05-04_Cavalry_vs_Vancouver_FC,2024,2024-05-04T01:00:00Z,Vancouver,away,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-05-04_Pacific_vs_York_United,2024,2024-05-04T23:00:00Z,Pacific,home,York,54.9994,54.9994,54.9994,1.0,True
 2024_2024-05-04_Pacific_vs_York_United,2024,2024-05-04T23:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-05-05_Atlético_Ottawa_vs_Valour,2024,2024-05-05T18:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
@@ -501,14 +501,14 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2024_2024-05-10_York_United_vs_Valour,2024,2024-05-10T23:00:00Z,York,home,Valour,55.0,55.0,55.0,1.0,True
 2024_2024-05-11_HFX_Wanderers_vs_Cavalry,2024,2024-05-11T18:00:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-05-11_HFX_Wanderers_vs_Cavalry,2024,2024-05-11T18:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
-2024_2024-05-11_Pacific_vs_Forge,2024,2024-05-11T21:00:00Z,Forge,away,Pacific,16955.0405,16955.0405,16955.0405,1.0,True
-2024_2024-05-11_Pacific_vs_Forge,2024,2024-05-11T21:00:00Z,Pacific,home,Forge,16568.1262,16568.1262,16568.1262,1.0,True
-2024_2024-05-12_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-05-12T23:00:00Z,Atlético,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-05-12_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-05-12T23:00:00Z,Vancouver FC,home,Atlético,55.0,55.0,55.0,1.0,True
+2024_2024-05-11_Pacific_vs_Forge,2024,2024-05-11T21:00:00Z,Forge,away,Pacific,17006.7821,17006.7821,17006.7821,1.0,True
+2024_2024-05-11_Pacific_vs_Forge,2024,2024-05-11T21:00:00Z,Pacific,home,Forge,16569.6722,16569.6722,16569.6722,1.0,True
+2024_2024-05-12_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-05-12T23:00:00Z,Atlético,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-05-12_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-05-12T23:00:00Z,Vancouver,home,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-05-18_Pacific_vs_Atlético_Ottawa,2024,2024-05-18T02:00:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-05-18_Pacific_vs_Atlético_Ottawa,2024,2024-05-18T02:00:00Z,Pacific,home,Atlético,54.9994,54.9994,54.9994,1.0,True
-2024_2024-05-18_Forge_vs_Vancouver_FC,2024,2024-05-18T20:00:00Z,Forge,home,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2024_2024-05-18_Forge_vs_Vancouver_FC,2024,2024-05-18T20:00:00Z,Vancouver FC,away,Forge,55.0,55.0,55.0,1.0,True
+2024_2024-05-18_Forge_vs_Vancouver_FC,2024,2024-05-18T20:00:00Z,Forge,home,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2024_2024-05-18_Forge_vs_Vancouver_FC,2024,2024-05-18T20:00:00Z,Vancouver,away,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-05-18_Cavalry_vs_York_United,2024,2024-05-18T23:00:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-05-18_Cavalry_vs_York_United,2024,2024-05-18T23:00:00Z,York,away,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-05-20_HFX_Wanderers_vs_Valour,2024,2024-05-20T19:00:00Z,Valour,away,Wanderers,55.0,55.0,55.0,1.0,True
@@ -517,94 +517,94 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2024_2024-05-24_York_United_vs_HFX_Wanderers,2024,2024-05-24T23:00:00Z,York,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-05-25_Atlético_Ottawa_vs_Forge,2024,2024-05-25T19:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-05-25_Atlético_Ottawa_vs_Forge,2024,2024-05-25T19:00:00Z,Forge,away,Atlético,55.0006,55.0006,55.0006,1.0,True
-2024_2024-05-25_Vancouver_FC_vs_Pacific,2024,2024-05-25T22:00:00Z,Pacific,away,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2024_2024-05-25_Vancouver_FC_vs_Pacific,2024,2024-05-25T22:00:00Z,Vancouver FC,home,Pacific,55.0,55.0,55.0,1.0,True
-2024_2024-05-26_Cavalry_vs_Valour,2024,2024-05-26T21:00:00Z,Cavalry,home,Valour,16709.1515,16709.1515,16709.1515,1.0,True
-2024_2024-05-26_Cavalry_vs_Valour,2024,2024-05-26T21:00:00Z,Valour,away,Cavalry,16052.5113,16052.5113,16052.5113,1.0,True
+2024_2024-05-25_Vancouver_FC_vs_Pacific,2024,2024-05-25T22:00:00Z,Pacific,away,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2024_2024-05-25_Vancouver_FC_vs_Pacific,2024,2024-05-25T22:00:00Z,Vancouver,home,Pacific,55.0,55.0,55.0,1.0,True
+2024_2024-05-26_Cavalry_vs_Valour,2024,2024-05-26T21:00:00Z,Cavalry,home,Valour,16739.127,16739.127,16739.127,1.0,True
+2024_2024-05-26_Cavalry_vs_Valour,2024,2024-05-26T21:00:00Z,Valour,away,Cavalry,15993.0915,15993.0915,15993.0915,1.0,True
 2024_2024-06-01_Forge_vs_York_United,2024,2024-06-01T20:00:00Z,Forge,home,York,55.0006,55.0006,55.0006,1.0,True
 2024_2024-06-01_Forge_vs_York_United,2024,2024-06-01T20:00:00Z,York,away,Forge,55.0,55.0,55.0,1.0,True
-2024_2024-06-01_Pacific_vs_Cavalry,2024,2024-06-01T23:00:00Z,Cavalry,away,Pacific,16675.5313,16675.5313,16675.5313,1.0,True
-2024_2024-06-01_Pacific_vs_Cavalry,2024,2024-06-01T23:00:00Z,Pacific,home,Cavalry,16563.191,16563.191,16563.191,1.0,True
+2024_2024-06-01_Pacific_vs_Cavalry,2024,2024-06-01T23:00:00Z,Cavalry,away,Pacific,16703.1912,16703.1912,16703.1912,1.0,True
+2024_2024-06-01_Pacific_vs_Cavalry,2024,2024-06-01T23:00:00Z,Pacific,home,Cavalry,16566.1371,16566.1371,16566.1371,1.0,True
 2024_2024-06-02_Atlético_Ottawa_vs_HFX_Wanderers,2024,2024-06-02T18:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-06-02_Atlético_Ottawa_vs_HFX_Wanderers,2024,2024-06-02T18:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-06-02_Valour_vs_Vancouver_FC,2024,2024-06-02T22:55:00Z,Valour,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-06-02_Valour_vs_Vancouver_FC,2024,2024-06-02T22:55:00Z,Vancouver FC,away,Valour,55.0,55.0,55.0,1.0,True
+2024_2024-06-02_Valour_vs_Vancouver_FC,2024,2024-06-02T22:55:00Z,Valour,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-06-02_Valour_vs_Vancouver_FC,2024,2024-06-02T22:55:00Z,Vancouver,away,Valour,55.0,55.0,55.0,1.0,True
 2024_2024-06-08_HFX_Wanderers_vs_Pacific,2024,2024-06-08T18:00:00Z,Pacific,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2024_2024-06-08_HFX_Wanderers_vs_Pacific,2024,2024-06-08T18:00:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
-2024_2024-06-08_Cavalry_vs_Forge,2024,2024-06-08T21:00:00Z,Cavalry,home,Forge,16688.2298,16688.2298,16688.2298,1.0,True
-2024_2024-06-08_Cavalry_vs_Forge,2024,2024-06-08T21:00:00Z,Forge,away,Cavalry,16959.9758,16959.9758,16959.9758,1.0,True
+2024_2024-06-08_Cavalry_vs_Forge,2024,2024-06-08T21:00:00Z,Cavalry,home,Forge,16715.2167,16715.2167,16715.2167,1.0,True
+2024_2024-06-08_Cavalry_vs_Forge,2024,2024-06-08T21:00:00Z,Forge,away,Cavalry,17010.3173,17010.3173,17010.3173,1.0,True
 2024_2024-06-09_Valour_vs_Atlético_Ottawa,2024,2024-06-09T17:30:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2024_2024-06-09_Valour_vs_Atlético_Ottawa,2024,2024-06-09T17:30:00Z,Valour,home,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-06-09_York_United_vs_Vancouver_FC,2024,2024-06-09T22:00:00Z,Vancouver FC,away,York,55.0,55.0,55.0,1.0,True
-2024_2024-06-09_York_United_vs_Vancouver_FC,2024,2024-06-09T22:00:00Z,York,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-06-15_Valour_vs_Pacific,2024,2024-06-15T00:00:00Z,Pacific,away,Valour,16550.4926,16550.4926,16550.4926,1.0,True
-2024_2024-06-15_Valour_vs_Pacific,2024,2024-06-15T00:00:00Z,Valour,home,Pacific,16086.1314,16086.1314,16086.1314,1.0,True
+2024_2024-06-09_York_United_vs_Vancouver_FC,2024,2024-06-09T22:00:00Z,Vancouver,away,York,55.0,55.0,55.0,1.0,True
+2024_2024-06-09_York_United_vs_Vancouver_FC,2024,2024-06-09T22:00:00Z,York,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-06-15_Valour_vs_Pacific,2024,2024-06-15T00:00:00Z,Pacific,away,Valour,16554.1117,16554.1117,16554.1117,1.0,True
+2024_2024-06-15_Valour_vs_Pacific,2024,2024-06-15T00:00:00Z,Valour,home,Pacific,16029.0273,16029.0273,16029.0273,1.0,True
 2024_2024-06-15_Atlético_Ottawa_vs_York_United,2024,2024-06-15T17:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-06-15_Atlético_Ottawa_vs_York_United,2024,2024-06-15T17:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-06-15_HFX_Wanderers_vs_Forge,2024,2024-06-15T20:00:00Z,Forge,away,Wanderers,55.0006,55.0006,55.0006,1.0,True
 2024_2024-06-15_HFX_Wanderers_vs_Forge,2024,2024-06-15T20:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
-2024_2024-06-16_Vancouver_FC_vs_Cavalry,2024,2024-06-16T21:00:00Z,Cavalry,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-06-16_Vancouver_FC_vs_Cavalry,2024,2024-06-16T21:00:00Z,Vancouver FC,home,Cavalry,55.0,55.0,55.0,1.0,True
+2024_2024-06-16_Vancouver_FC_vs_Cavalry,2024,2024-06-16T21:00:00Z,Cavalry,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-06-16_Vancouver_FC_vs_Cavalry,2024,2024-06-16T21:00:00Z,Vancouver,home,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-06-19_York_United_vs_Pacific,2024,2024-06-19T23:00:00Z,Pacific,away,York,54.9994,54.9994,54.9994,1.0,True
 2024_2024-06-19_York_United_vs_Pacific,2024,2024-06-19T23:00:00Z,York,home,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-06-22_Cavalry_vs_Atlético_Ottawa,2024,2024-06-22T01:00:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-06-22_Cavalry_vs_Atlético_Ottawa,2024,2024-06-22T01:00:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-06-23_Forge_vs_Valour,2024,2024-06-23T20:00:00Z,Forge,home,Valour,16858.0551,16858.0551,16858.0551,1.0,True
-2024_2024-06-23_Forge_vs_Valour,2024,2024-06-23T20:00:00Z,Valour,away,Forge,15973.8254,15973.8254,15973.8254,1.0,True
-2024_2024-06-23_Vancouver_FC_vs_HFX_Wanderers,2024,2024-06-23T23:00:00Z,Vancouver FC,home,Wanderers,55.0,55.0,55.0,1.0,True
-2024_2024-06-23_Vancouver_FC_vs_HFX_Wanderers,2024,2024-06-23T23:00:00Z,Wanderers,away,Vancouver FC,55.0,55.0,55.0,1.0,True
+2024_2024-06-23_Forge_vs_Valour,2024,2024-06-23T20:00:00Z,Forge,home,Valour,16897.4828,16897.4828,16897.4828,1.0,True
+2024_2024-06-23_Forge_vs_Valour,2024,2024-06-23T20:00:00Z,Valour,away,Forge,15907.4455,15907.4455,15907.4455,1.0,True
+2024_2024-06-23_Vancouver_FC_vs_HFX_Wanderers,2024,2024-06-23T23:00:00Z,Vancouver,home,Wanderers,55.0,55.0,55.0,1.0,True
+2024_2024-06-23_Vancouver_FC_vs_HFX_Wanderers,2024,2024-06-23T23:00:00Z,Wanderers,away,Vancouver,55.0,55.0,55.0,1.0,True
 2024_2024-06-27_Valour_vs_York_United,2024,2024-06-27T23:30:00Z,Valour,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-06-27_Valour_vs_York_United,2024,2024-06-27T23:30:00Z,York,away,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-06-28_Pacific_vs_Vancouver_FC,2024,2024-06-28T02:30:00Z,Pacific,home,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2024_2024-06-28_Pacific_vs_Vancouver_FC,2024,2024-06-28T02:30:00Z,Vancouver FC,away,Pacific,55.0,55.0,55.0,1.0,True
+2024_2024-06-28_Pacific_vs_Vancouver_FC,2024,2024-06-28T02:30:00Z,Pacific,home,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2024_2024-06-28_Pacific_vs_Vancouver_FC,2024,2024-06-28T02:30:00Z,Vancouver,away,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-06-28_Atlético_Ottawa_vs_Forge,2024,2024-06-28T23:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-06-28_Atlético_Ottawa_vs_Forge,2024,2024-06-28T23:00:00Z,Forge,away,Atlético,55.0006,55.0006,55.0006,1.0,True
 2024_2024-07-01_HFX_Wanderers_vs_Cavalry,2024,2024-07-01T20:00:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-07-01_HFX_Wanderers_vs_Cavalry,2024,2024-07-01T20:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
-2024_2024-07-05_Forge_vs_Vancouver_FC,2024,2024-07-05T23:00:00Z,Forge,home,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2024_2024-07-05_Forge_vs_Vancouver_FC,2024,2024-07-05T23:00:00Z,Vancouver FC,away,Forge,55.0,55.0,55.0,1.0,True
+2024_2024-07-05_Forge_vs_Vancouver_FC,2024,2024-07-05T23:00:00Z,Forge,home,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2024_2024-07-05_Forge_vs_Vancouver_FC,2024,2024-07-05T23:00:00Z,Vancouver,away,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-07-06_York_United_vs_HFX_Wanderers,2024,2024-07-06T20:00:00Z,Wanderers,away,York,55.0,55.0,55.0,1.0,True
 2024_2024-07-06_York_United_vs_HFX_Wanderers,2024,2024-07-06T20:00:00Z,York,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-07-07_Atlético_Ottawa_vs_Pacific,2024,2024-07-07T17:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-07-07_Atlético_Ottawa_vs_Pacific,2024,2024-07-07T17:00:00Z,Pacific,away,Atlético,54.9994,54.9994,54.9994,1.0,True
-2024_2024-07-07_Valour_vs_Cavalry,2024,2024-07-07T21:00:00Z,Cavalry,away,Valour,16790.1495,16790.1495,16790.1495,1.0,True
-2024_2024-07-07_Valour_vs_Cavalry,2024,2024-07-07T21:00:00Z,Valour,home,Cavalry,15903.1962,15903.1962,15903.1962,1.0,True
-2024_2024-07-13_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-07-13T02:00:00Z,Atlético,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-07-13_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-07-13T02:00:00Z,Vancouver FC,home,Atlético,55.0,55.0,55.0,1.0,True
+2024_2024-07-07_Valour_vs_Cavalry,2024,2024-07-07T21:00:00Z,Cavalry,away,Valour,16828.0501,16828.0501,16828.0501,1.0,True
+2024_2024-07-07_Valour_vs_Cavalry,2024,2024-07-07T21:00:00Z,Valour,home,Cavalry,15832.6328,15832.6328,15832.6328,1.0,True
+2024_2024-07-13_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-07-13T02:00:00Z,Atlético,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-07-13_Vancouver_FC_vs_Atlético_Ottawa,2024,2024-07-13T02:00:00Z,Vancouver,home,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-07-13_Cavalry_vs_York_United,2024,2024-07-13T20:00:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-07-13_Cavalry_vs_York_United,2024,2024-07-13T20:00:00Z,York,away,Cavalry,55.0,55.0,55.0,1.0,True
-2024_2024-07-14_Forge_vs_Pacific,2024,2024-07-14T23:00:00Z,Forge,home,Pacific,16928.685,16928.685,16928.685,1.0,True
-2024_2024-07-14_Forge_vs_Pacific,2024,2024-07-14T23:00:00Z,Pacific,away,Forge,16662.7975,16662.7975,16662.7975,1.0,True
+2024_2024-07-14_Forge_vs_Pacific,2024,2024-07-14T23:00:00Z,Forge,home,Pacific,16972.2963,16972.2963,16972.2963,1.0,True
+2024_2024-07-14_Forge_vs_Pacific,2024,2024-07-14T23:00:00Z,Pacific,away,Forge,16675.6922,16675.6922,16675.6922,1.0,True
 2024_2024-07-18_HFX_Wanderers_vs_Valour,2024,2024-07-18T22:00:00Z,Valour,away,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-07-18_HFX_Wanderers_vs_Valour,2024,2024-07-18T22:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-07-20_Vancouver_FC_vs_York_United,2024,2024-07-20T22:00:00Z,Vancouver FC,home,York,55.0,55.0,55.0,1.0,True
-2024_2024-07-20_Vancouver_FC_vs_York_United,2024,2024-07-20T22:00:00Z,York,away,Vancouver FC,55.0,55.0,55.0,1.0,True
+2024_2024-07-20_Vancouver_FC_vs_York_United,2024,2024-07-20T22:00:00Z,Vancouver,home,York,55.0,55.0,55.0,1.0,True
+2024_2024-07-20_Vancouver_FC_vs_York_United,2024,2024-07-20T22:00:00Z,York,away,Vancouver,55.0,55.0,55.0,1.0,True
 2024_2024-07-21_Atlético_Ottawa_vs_Valour,2024,2024-07-21T18:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2024_2024-07-21_Atlético_Ottawa_vs_Valour,2024,2024-07-21T18:00:00Z,Valour,away,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-07-21_Cavalry_vs_Forge,2024,2024-07-21T21:00:00Z,Cavalry,home,Forge,16890.4763,16890.4763,16890.4763,1.0,True
-2024_2024-07-21_Cavalry_vs_Forge,2024,2024-07-21T21:00:00Z,Forge,away,Cavalry,17015.787,17015.787,17015.787,1.0,True
+2024_2024-07-21_Cavalry_vs_Forge,2024,2024-07-21T21:00:00Z,Cavalry,home,Forge,16935.0114,16935.0114,16935.0114,1.0,True
+2024_2024-07-21_Cavalry_vs_Forge,2024,2024-07-21T21:00:00Z,Forge,away,Cavalry,17067.2244,17067.2244,17067.2244,1.0,True
 2024_2024-07-26_York_United_vs_Atlético_Ottawa,2024,2024-07-26T23:00:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2024_2024-07-26_York_United_vs_Atlético_Ottawa,2024,2024-07-26T23:00:00Z,York,home,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-07-27_Vancouver_FC_vs_Cavalry,2024,2024-07-27T02:00:00Z,Cavalry,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-07-27_Vancouver_FC_vs_Cavalry,2024,2024-07-27T02:00:00Z,Vancouver FC,home,Cavalry,55.0,55.0,55.0,1.0,True
+2024_2024-07-27_Vancouver_FC_vs_Cavalry,2024,2024-07-27T02:00:00Z,Cavalry,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-07-27_Vancouver_FC_vs_Cavalry,2024,2024-07-27T02:00:00Z,Vancouver,home,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-07-27_Forge_vs_HFX_Wanderers,2024,2024-07-27T23:00:00Z,Forge,home,Wanderers,55.0006,55.0006,55.0006,1.0,True
 2024_2024-07-27_Forge_vs_HFX_Wanderers,2024,2024-07-27T23:00:00Z,Wanderers,away,Forge,55.0,55.0,55.0,1.0,True
-2024_2024-07-28_Pacific_vs_Valour,2024,2024-07-28T21:00:00Z,Pacific,home,Valour,16575.6973,16575.6973,16575.6973,1.0,True
-2024_2024-07-28_Pacific_vs_Valour,2024,2024-07-28T21:00:00Z,Valour,away,Pacific,15802.8694,15802.8694,15802.8694,1.0,True
+2024_2024-07-28_Pacific_vs_Valour,2024,2024-07-28T21:00:00Z,Pacific,home,Valour,16580.7661,16580.7661,16580.7661,1.0,True
+2024_2024-07-28_Pacific_vs_Valour,2024,2024-07-28T21:00:00Z,Valour,away,Pacific,15725.6714,15725.6714,15725.6714,1.0,True
 2024_2024-08-03_Pacific_vs_York_United,2024,2024-08-03T02:00:00Z,Pacific,home,York,54.9994,54.9994,54.9994,1.0,True
 2024_2024-08-03_Pacific_vs_York_United,2024,2024-08-03T02:00:00Z,York,away,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-08-03_Atlético_Ottawa_vs_Cavalry,2024,2024-08-03T23:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-08-03_Atlético_Ottawa_vs_Cavalry,2024,2024-08-03T23:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-08-04_Valour_vs_Forge,2024,2024-08-04T19:00:00Z,Forge,away,Valour,17028.0456,17028.0456,17028.0456,1.0,True
-2024_2024-08-04_Valour_vs_Forge,2024,2024-08-04T19:00:00Z,Valour,home,Forge,15949.6334,15949.6334,15949.6334,1.0,True
-2024_2024-08-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-08-05T19:00:00Z,Vancouver FC,away,Wanderers,55.0,55.0,55.0,1.0,True
-2024_2024-08-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-08-05T19:00:00Z,Wanderers,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2024_2024-08-04_Valour_vs_Forge,2024,2024-08-04T19:00:00Z,Forge,away,Valour,17079.2995,17079.2995,17079.2995,1.0,True
+2024_2024-08-04_Valour_vs_Forge,2024,2024-08-04T19:00:00Z,Valour,home,Forge,15919.2128,15919.2128,15919.2128,1.0,True
+2024_2024-08-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-08-05T19:00:00Z,Vancouver,away,Wanderers,55.0,55.0,55.0,1.0,True
+2024_2024-08-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-08-05T19:00:00Z,Wanderers,home,Vancouver,55.0,55.0,55.0,1.0,True
 2024_2024-08-10_Cavalry_vs_HFX_Wanderers,2024,2024-08-10T20:00:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-08-10_Cavalry_vs_HFX_Wanderers,2024,2024-08-10T20:00:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-08-10_Forge_vs_Atlético_Ottawa,2024,2024-08-10T23:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-08-10_Forge_vs_Atlético_Ottawa,2024,2024-08-10T23:00:00Z,Forge,home,Atlético,55.0006,55.0006,55.0006,1.0,True
-2024_2024-08-11_Vancouver_FC_vs_Pacific,2024,2024-08-11T21:15:00Z,Pacific,away,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2024_2024-08-11_Vancouver_FC_vs_Pacific,2024,2024-08-11T21:15:00Z,Vancouver FC,home,Pacific,55.0,55.0,55.0,1.0,True
+2024_2024-08-11_Vancouver_FC_vs_Pacific,2024,2024-08-11T21:15:00Z,Pacific,away,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2024_2024-08-11_Vancouver_FC_vs_Pacific,2024,2024-08-11T21:15:00Z,Vancouver,home,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-08-12_Valour_vs_York_United,2024,2024-08-12T00:00:00Z,Valour,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-08-12_Valour_vs_York_United,2024,2024-08-12T00:00:00Z,York,away,Valour,55.0,55.0,55.0,1.0,True
 2024_2024-08-14_Forge_vs_HFX_Wanderers,2024,2024-08-14T23:00:00Z,Forge,home,Wanderers,55.0006,55.0006,55.0006,1.0,True
@@ -615,28 +615,28 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2024_2024-08-17_Pacific_vs_Atlético_Ottawa,2024,2024-08-17T22:00:00Z,Pacific,home,Atlético,54.9994,54.9994,54.9994,1.0,True
 2024_2024-08-18_Valour_vs_HFX_Wanderers,2024,2024-08-18T00:30:00Z,Valour,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-08-18_Valour_vs_HFX_Wanderers,2024,2024-08-18T00:30:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-08-18_Vancouver_FC_vs_Forge,2024,2024-08-18T23:00:00Z,Forge,away,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2024_2024-08-18_Vancouver_FC_vs_Forge,2024,2024-08-18T23:00:00Z,Vancouver FC,home,Forge,55.0,55.0,55.0,1.0,True
+2024_2024-08-18_Vancouver_FC_vs_Forge,2024,2024-08-18T23:00:00Z,Forge,away,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2024_2024-08-18_Vancouver_FC_vs_Forge,2024,2024-08-18T23:00:00Z,Vancouver,home,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-08-24_York_United_vs_Forge,2024,2024-08-24T00:00:00Z,Forge,away,York,55.0006,55.0006,55.0006,1.0,True
 2024_2024-08-24_York_United_vs_Forge,2024,2024-08-24T00:00:00Z,York,home,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-08-24_HFX_Wanderers_vs_Atlético_Ottawa,2024,2024-08-24T18:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-08-24_HFX_Wanderers_vs_Atlético_Ottawa,2024,2024-08-24T18:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-08-24_Cavalry_vs_Pacific,2024,2024-08-24T21:00:00Z,Cavalry,home,Pacific,16878.2178,16878.2178,16878.2178,1.0,True
-2024_2024-08-24_Cavalry_vs_Pacific,2024,2024-08-24T21:00:00Z,Pacific,away,Cavalry,16428.9348,16428.9348,16428.9348,1.0,True
-2024_2024-08-25_Valour_vs_Vancouver_FC,2024,2024-08-25T19:00:00Z,Valour,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-08-25_Valour_vs_Vancouver_FC,2024,2024-08-25T19:00:00Z,Vancouver FC,away,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-08-30_Forge_vs_Pacific,2024,2024-08-30T23:00:00Z,Forge,home,Pacific,16903.0161,16903.0161,16903.0161,1.0,True
-2024_2024-08-30_Forge_vs_Pacific,2024,2024-08-30T23:00:00Z,Pacific,away,Forge,16346.9112,16346.9112,16346.9112,1.0,True
-2024_2024-08-31_Cavalry_vs_Valour,2024,2024-08-31T01:30:00Z,Cavalry,home,Valour,16960.2422,16960.2422,16960.2422,1.0,True
-2024_2024-08-31_Cavalry_vs_Valour,2024,2024-08-31T01:30:00Z,Valour,away,Cavalry,16074.6616,16074.6616,16074.6616,1.0,True
-2024_2024-08-31_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-08-31T23:00:00Z,Atlético,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-08-31_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-08-31T23:00:00Z,Vancouver FC,away,Atlético,55.0,55.0,55.0,1.0,True
+2024_2024-08-24_Cavalry_vs_Pacific,2024,2024-08-24T21:00:00Z,Cavalry,home,Pacific,16922.9364,16922.9364,16922.9364,1.0,True
+2024_2024-08-24_Cavalry_vs_Pacific,2024,2024-08-24T21:00:00Z,Pacific,away,Cavalry,16387.2267,16387.2267,16387.2267,1.0,True
+2024_2024-08-25_Valour_vs_Vancouver_FC,2024,2024-08-25T19:00:00Z,Valour,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-08-25_Valour_vs_Vancouver_FC,2024,2024-08-25T19:00:00Z,Vancouver,away,Valour,55.0,55.0,55.0,1.0,True
+2024_2024-08-30_Forge_vs_Pacific,2024,2024-08-30T23:00:00Z,Forge,home,Pacific,16939.2509,16939.2509,16939.2509,1.0,True
+2024_2024-08-30_Forge_vs_Pacific,2024,2024-08-30T23:00:00Z,Pacific,away,Forge,16299.5147,16299.5147,16299.5147,1.0,True
+2024_2024-08-31_Cavalry_vs_Valour,2024,2024-08-31T01:30:00Z,Cavalry,home,Valour,17010.6493,17010.6493,17010.6493,1.0,True
+2024_2024-08-31_Cavalry_vs_Valour,2024,2024-08-31T01:30:00Z,Valour,away,Cavalry,16059.2599,16059.2599,16059.2599,1.0,True
+2024_2024-08-31_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-08-31T23:00:00Z,Atlético,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-08-31_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-08-31T23:00:00Z,Vancouver,away,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-09-02_HFX_Wanderers_vs_York_United,2024,2024-09-02T19:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-09-02_HFX_Wanderers_vs_York_United,2024,2024-09-02T19:00:00Z,York,away,Wanderers,55.0,55.0,55.0,1.0,True
-2024_2024-09-07_Vancouver_FC_vs_York_United,2024,2024-09-07T02:00:00Z,Vancouver FC,home,York,55.0,55.0,55.0,1.0,True
-2024_2024-09-07_Vancouver_FC_vs_York_United,2024,2024-09-07T02:00:00Z,York,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-09-07_Forge_vs_Cavalry,2024,2024-09-07T23:00:00Z,Cavalry,away,Forge,16920.7625,16920.7625,16920.7625,1.0,True
-2024_2024-09-07_Forge_vs_Cavalry,2024,2024-09-07T23:00:00Z,Forge,home,Cavalry,16982.266,16982.266,16982.266,1.0,True
+2024_2024-09-07_Vancouver_FC_vs_York_United,2024,2024-09-07T02:00:00Z,Vancouver,home,York,55.0,55.0,55.0,1.0,True
+2024_2024-09-07_Vancouver_FC_vs_York_United,2024,2024-09-07T02:00:00Z,York,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-09-07_Forge_vs_Cavalry,2024,2024-09-07T23:00:00Z,Cavalry,away,Forge,16969.5298,16969.5298,16969.5298,1.0,True
+2024_2024-09-07_Forge_vs_Cavalry,2024,2024-09-07T23:00:00Z,Forge,home,Cavalry,17031.7511,17031.7511,17031.7511,1.0,True
 2024_2024-09-08_Pacific_vs_HFX_Wanderers,2024,2024-09-08T02:00:00Z,Pacific,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2024_2024-09-08_Pacific_vs_HFX_Wanderers,2024,2024-09-08T02:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-09-10_Valour_vs_Atlético_Ottawa,2024,2024-09-10T00:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
@@ -645,8 +645,8 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2024_2024-09-14_York_United_vs_Valour,2024,2024-09-14T00:00:00Z,York,home,Valour,55.0,55.0,55.0,1.0,True
 2024_2024-09-14_HFX_Wanderers_vs_Forge,2024,2024-09-14T18:00:00Z,Forge,away,Wanderers,55.0006,55.0006,55.0006,1.0,True
 2024_2024-09-14_HFX_Wanderers_vs_Forge,2024,2024-09-14T18:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
-2024_2024-09-14_Pacific_vs_Vancouver_FC,2024,2024-09-14T21:00:00Z,Pacific,home,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2024_2024-09-14_Pacific_vs_Vancouver_FC,2024,2024-09-14T21:00:00Z,Vancouver FC,away,Pacific,55.0,55.0,55.0,1.0,True
+2024_2024-09-14_Pacific_vs_Vancouver_FC,2024,2024-09-14T21:00:00Z,Pacific,home,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2024_2024-09-14_Pacific_vs_Vancouver_FC,2024,2024-09-14T21:00:00Z,Vancouver,away,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-09-15_Cavalry_vs_Atlético_Ottawa,2024,2024-09-15T21:00:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-09-15_Cavalry_vs_Atlético_Ottawa,2024,2024-09-15T21:00:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-09-18_HFX_Wanderers_vs_Pacific,2024,2024-09-18T22:00:00Z,Pacific,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
@@ -655,24 +655,24 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2024_2024-09-21_York_United_vs_Cavalry,2024,2024-09-21T00:00:00Z,York,home,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-09-21_Valour_vs_HFX_Wanderers,2024,2024-09-21T19:00:00Z,Valour,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-09-21_Valour_vs_HFX_Wanderers,2024,2024-09-21T19:00:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-09-21_Vancouver_FC_vs_Forge,2024,2024-09-21T22:00:00Z,Forge,away,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2024_2024-09-21_Vancouver_FC_vs_Forge,2024,2024-09-21T22:00:00Z,Vancouver FC,home,Forge,55.0,55.0,55.0,1.0,True
+2024_2024-09-21_Vancouver_FC_vs_Forge,2024,2024-09-21T22:00:00Z,Forge,away,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2024_2024-09-21_Vancouver_FC_vs_Forge,2024,2024-09-21T22:00:00Z,Vancouver,home,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-09-22_Atlético_Ottawa_vs_Pacific,2024,2024-09-22T18:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-09-22_Atlético_Ottawa_vs_Pacific,2024,2024-09-22T18:00:00Z,Pacific,away,Atlético,54.9994,54.9994,54.9994,1.0,True
 2024_2024-09-28_Forge_vs_York_United,2024,2024-09-28T20:00:00Z,Forge,home,York,55.0006,55.0006,55.0006,1.0,True
 2024_2024-09-28_Forge_vs_York_United,2024,2024-09-28T20:00:00Z,York,away,Forge,55.0,55.0,55.0,1.0,True
-2024_2024-09-28_Cavalry_vs_Vancouver_FC,2024,2024-09-28T23:00:00Z,Cavalry,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-09-28_Cavalry_vs_Vancouver_FC,2024,2024-09-28T23:00:00Z,Vancouver FC,away,Cavalry,55.0,55.0,55.0,1.0,True
+2024_2024-09-28_Cavalry_vs_Vancouver_FC,2024,2024-09-28T23:00:00Z,Cavalry,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-09-28_Cavalry_vs_Vancouver_FC,2024,2024-09-28T23:00:00Z,Vancouver,away,Cavalry,55.0,55.0,55.0,1.0,True
 2024_2024-09-29_Atlético_Ottawa_vs_HFX_Wanderers,2024,2024-09-29T18:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-09-29_Atlético_Ottawa_vs_HFX_Wanderers,2024,2024-09-29T18:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-10-01_Valour_vs_Pacific,2024,2024-10-01T00:00:00Z,Pacific,away,Valour,16267.6628,16267.6628,16267.6628,1.0,True
-2024_2024-10-01_Valour_vs_Pacific,2024,2024-10-01T00:00:00Z,Valour,home,Pacific,16114.1413,16114.1413,16114.1413,1.0,True
-2024_2024-10-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-10-05T18:00:00Z,Vancouver FC,away,Wanderers,55.0,55.0,55.0,1.0,True
-2024_2024-10-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-10-05T18:00:00Z,Wanderers,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-10-05_Pacific_vs_Cavalry,2024,2024-10-05T21:00:00Z,Cavalry,away,Pacific,16828.1304,16828.1304,16828.1304,1.0,True
-2024_2024-10-05_Pacific_vs_Cavalry,2024,2024-10-05T21:00:00Z,Pacific,home,Cavalry,16168.8779,16168.8779,16168.8779,1.0,True
-2024_2024-10-06_Valour_vs_Forge,2024,2024-10-06T18:00:00Z,Forge,away,Valour,17074.8991,17074.8991,17074.8991,1.0,True
-2024_2024-10-06_Valour_vs_Forge,2024,2024-10-06T18:00:00Z,Valour,home,Forge,16212.9273,16212.9273,16212.9273,1.0,True
+2024_2024-10-01_Valour_vs_Pacific,2024,2024-10-01T00:00:00Z,Pacific,away,Valour,16207.0164,16207.0164,16207.0164,1.0,True
+2024_2024-10-01_Valour_vs_Pacific,2024,2024-10-01T00:00:00Z,Valour,home,Pacific,16100.3795,16100.3795,16100.3795,1.0,True
+2024_2024-10-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-10-05T18:00:00Z,Vancouver,away,Wanderers,55.0,55.0,55.0,1.0,True
+2024_2024-10-05_HFX_Wanderers_vs_Vancouver_FC,2024,2024-10-05T18:00:00Z,Wanderers,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-10-05_Pacific_vs_Cavalry,2024,2024-10-05T21:00:00Z,Cavalry,away,Pacific,16867.6428,16867.6428,16867.6428,1.0,True
+2024_2024-10-05_Pacific_vs_Cavalry,2024,2024-10-05T21:00:00Z,Pacific,home,Cavalry,16099.7877,16099.7877,16099.7877,1.0,True
+2024_2024-10-06_Valour_vs_Forge,2024,2024-10-06T18:00:00Z,Forge,away,Valour,17133.6391,17133.6391,17133.6391,1.0,True
+2024_2024-10-06_Valour_vs_Forge,2024,2024-10-06T18:00:00Z,Valour,home,Forge,16207.6092,16207.6092,16207.6092,1.0,True
 2024_2024-10-06_York_United_vs_Atlético_Ottawa,2024,2024-10-06T21:00:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2024_2024-10-06_York_United_vs_Atlético_Ottawa,2024,2024-10-06T21:00:00Z,York,home,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-10-11_York_United_vs_Pacific,2024,2024-10-11T00:00:00Z,Pacific,away,York,54.9994,54.9994,54.9994,1.0,True
@@ -681,54 +681,54 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2024_2024-10-12_Forge_vs_Atlético_Ottawa,2024,2024-10-12T20:00:00Z,Forge,home,Atlético,55.0006,55.0006,55.0006,1.0,True
 2024_2024-10-12_Cavalry_vs_HFX_Wanderers,2024,2024-10-12T23:00:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2024_2024-10-12_Cavalry_vs_HFX_Wanderers,2024,2024-10-12T23:00:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
-2024_2024-10-13_Vancouver_FC_vs_Valour,2024,2024-10-13T21:00:00Z,Valour,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-10-13_Vancouver_FC_vs_Valour,2024,2024-10-13T21:00:00Z,Vancouver FC,home,Valour,55.0,55.0,55.0,1.0,True
-2024_2024-10-19_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-10-19T20:00:00Z,Atlético,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2024_2024-10-19_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-10-19T20:00:00Z,Vancouver FC,away,Atlético,55.0,55.0,55.0,1.0,True
+2024_2024-10-13_Vancouver_FC_vs_Valour,2024,2024-10-13T21:00:00Z,Valour,away,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-10-13_Vancouver_FC_vs_Valour,2024,2024-10-13T21:00:00Z,Vancouver,home,Valour,55.0,55.0,55.0,1.0,True
+2024_2024-10-19_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-10-19T20:00:00Z,Atlético,home,Vancouver,55.0,55.0,55.0,1.0,True
+2024_2024-10-19_Atlético_Ottawa_vs_Vancouver_FC,2024,2024-10-19T20:00:00Z,Vancouver,away,Atlético,55.0,55.0,55.0,1.0,True
 2024_2024-10-19_HFX_Wanderers_vs_York_United,2024,2024-10-19T20:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-10-19_HFX_Wanderers_vs_York_United,2024,2024-10-19T20:00:00Z,York,away,Wanderers,55.0,55.0,55.0,1.0,True
-2024_2024-10-19_Pacific_vs_Forge,2024,2024-10-19T20:00:00Z,Forge,away,Pacific,17176.0263,17176.0263,17176.0263,1.0,True
-2024_2024-10-19_Pacific_vs_Forge,2024,2024-10-19T20:00:00Z,Pacific,home,Forge,16061.8644,16061.8644,16061.8644,1.0,True
-2024_2024-10-19_Valour_vs_Cavalry,2024,2024-10-19T20:00:00Z,Cavalry,away,Valour,16935.145,16935.145,16935.145,1.0,True
-2024_2024-10-19_Valour_vs_Cavalry,2024,2024-10-19T20:00:00Z,Valour,home,Cavalry,16111.8011,16111.8011,16111.8011,1.0,True
+2024_2024-10-19_Pacific_vs_Forge,2024,2024-10-19T20:00:00Z,Forge,away,Pacific,17242.881,17242.881,17242.881,1.0,True
+2024_2024-10-19_Pacific_vs_Forge,2024,2024-10-19T20:00:00Z,Pacific,home,Forge,15964.688,15964.688,15964.688,1.0,True
+2024_2024-10-19_Valour_vs_Cavalry,2024,2024-10-19T20:00:00Z,Cavalry,away,Valour,17002.7439,17002.7439,17002.7439,1.0,True
+2024_2024-10-19_Valour_vs_Cavalry,2024,2024-10-19T20:00:00Z,Valour,home,Cavalry,16098.3685,16098.3685,16098.3685,1.0,True
 2024_2024-10-23_York_United_vs_Pacific,2024,2024-10-23T23:30:00Z,Pacific,away,York,54.9994,54.9994,54.9994,1.0,True
 2024_2024-10-23_York_United_vs_Pacific,2024,2024-10-23T23:30:00Z,York,home,Pacific,55.0,55.0,55.0,1.0,True
 2024_2024-10-27_Atlético_Ottawa_vs_York_United,2024,2024-10-27T17:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2024_2024-10-27_Atlético_Ottawa_vs_York_United,2024,2024-10-27T17:00:00Z,York,away,Atlético,55.0,55.0,55.0,1.0,True
-2024_2024-10-27_Forge_vs_Cavalry,2024,2024-10-27T20:15:00Z,Cavalry,away,Forge,17037.2909,17037.2909,17037.2909,1.0,True
-2024_2024-10-27_Forge_vs_Cavalry,2024,2024-10-27T20:15:00Z,Forge,home,Cavalry,17050.1434,17050.1434,17050.1434,1.0,True
+2024_2024-10-27_Forge_vs_Cavalry,2024,2024-10-27T20:15:00Z,Cavalry,away,Forge,17112.5562,17112.5562,17112.5562,1.0,True
+2024_2024-10-27_Forge_vs_Cavalry,2024,2024-10-27T20:15:00Z,Forge,home,Cavalry,17099.4042,17099.4042,17099.4042,1.0,True
 2024_2024-11-02_Forge_vs_Atlético_Ottawa,2024,2024-11-02T20:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2024_2024-11-02_Forge_vs_Atlético_Ottawa,2024,2024-11-02T20:00:00Z,Forge,home,Atlético,55.0006,55.0006,55.0006,1.0,True
-2024_2024-11-09_Cavalry_vs_Forge,2024,2024-11-09T20:00:00Z,Cavalry,home,Forge,17163.2907,17163.2907,17163.2907,1.0,True
-2024_2024-11-09_Cavalry_vs_Forge,2024,2024-11-09T20:00:00Z,Forge,away,Cavalry,16924.1424,16924.1424,16924.1424,1.0,True
+2024_2024-11-09_Cavalry_vs_Forge,2024,2024-11-09T20:00:00Z,Cavalry,home,Forge,17250.3355,17250.3355,17250.3355,1.0,True
+2024_2024-11-09_Cavalry_vs_Forge,2024,2024-11-09T20:00:00Z,Forge,away,Cavalry,16961.6236,16961.6236,16961.6236,1.0,True
 2025_2025-04-05_Atlético_Ottawa_vs_HFX_Wanderers,2025,2025-04-05T18:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-04-05_Atlético_Ottawa_vs_HFX_Wanderers,2025,2025-04-05T18:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-04-05_Forge_vs_Cavalry,2025,2025-04-05T21:30:00Z,Cavalry,away,Forge,16969.4963,16969.4963,16969.4963,1.0,True
-2025_2025-04-05_Forge_vs_Cavalry,2025,2025-04-05T21:30:00Z,Forge,home,Cavalry,16826.5589,16826.5589,16826.5589,1.0,True
-2025_2025-04-06_Pacific_vs_Valour,2025,2025-04-06T00:00:00Z,Pacific,home,Valour,16349.6346,16349.6346,16349.6346,1.0,True
-2025_2025-04-06_Pacific_vs_Valour,2025,2025-04-06T00:00:00Z,Valour,away,Pacific,16287.856,16287.856,16287.856,1.0,True
-2025_2025-04-06_Vancouver_FC_vs_York_United,2025,2025-04-06T23:00:00Z,Vancouver FC,home,York,55.0,55.0,55.0,1.0,True
-2025_2025-04-06_Vancouver_FC_vs_York_United,2025,2025-04-06T23:00:00Z,York,away,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2025_2025-04-12_Pacific_vs_Forge,2025,2025-04-12T21:00:00Z,Forge,away,Pacific,16924.8868,16924.8868,16924.8868,1.0,True
-2025_2025-04-12_Pacific_vs_Forge,2025,2025-04-12T21:00:00Z,Pacific,home,Forge,16441.4623,16441.4623,16441.4623,1.0,True
+2025_2025-04-05_Forge_vs_Cavalry,2025,2025-04-05T21:30:00Z,Cavalry,away,Forge,17027.2964,17027.2964,17027.2964,1.0,True
+2025_2025-04-05_Forge_vs_Cavalry,2025,2025-04-05T21:30:00Z,Forge,home,Cavalry,16857.9995,16857.9995,16857.9995,1.0,True
+2025_2025-04-06_Pacific_vs_Valour,2025,2025-04-06T00:00:00Z,Pacific,home,Valour,16309.1016,16309.1016,16309.1016,1.0,True
+2025_2025-04-06_Pacific_vs_Valour,2025,2025-04-06T00:00:00Z,Valour,away,Pacific,16280.383,16280.383,16280.383,1.0,True
+2025_2025-04-06_Vancouver_FC_vs_York_United,2025,2025-04-06T23:00:00Z,Vancouver,home,York,55.0,55.0,55.0,1.0,True
+2025_2025-04-06_Vancouver_FC_vs_York_United,2025,2025-04-06T23:00:00Z,York,away,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2025_2025-04-12_Pacific_vs_Forge,2025,2025-04-12T21:00:00Z,Forge,away,Pacific,16966.986,16966.986,16966.986,1.0,True
+2025_2025-04-12_Pacific_vs_Forge,2025,2025-04-12T21:00:00Z,Pacific,home,Forge,16420.3141,16420.3141,16420.3141,1.0,True
 2025_2025-04-13_York_United_vs_HFX_Wanderers,2025,2025-04-13T19:00:00Z,Wanderers,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-04-13_York_United_vs_HFX_Wanderers,2025,2025-04-13T19:00:00Z,York,home,Wanderers,55.0006,55.0006,55.0006,1.0,True
-2025_2025-04-13_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-04-13T22:00:00Z,Atlético,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-04-13_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-04-13T22:00:00Z,Vancouver FC,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-04-18_Cavalry_vs_Vancouver_FC,2025,2025-04-18T23:00:00Z,Cavalry,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-04-18_Cavalry_vs_Vancouver_FC,2025,2025-04-18T23:00:00Z,Vancouver FC,away,Cavalry,55.0,55.0,55.0,1.0,True
+2025_2025-04-13_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-04-13T22:00:00Z,Atlético,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-04-13_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-04-13T22:00:00Z,Vancouver,home,Atlético,55.0,55.0,55.0,1.0,True
+2025_2025-04-18_Cavalry_vs_Vancouver_FC,2025,2025-04-18T23:00:00Z,Cavalry,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-04-18_Cavalry_vs_Vancouver_FC,2025,2025-04-18T23:00:00Z,Vancouver,away,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-04-19_Atlético_Ottawa_vs_York_United,2025,2025-04-19T17:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-04-19_Atlético_Ottawa_vs_York_United,2025,2025-04-19T17:00:00Z,York,away,Atlético,55.0006,55.0006,55.0006,1.0,True
 2025_2025-04-19_HFX_Wanderers_vs_Pacific,2025,2025-04-19T19:30:00Z,Pacific,away,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-04-19_HFX_Wanderers_vs_Pacific,2025,2025-04-19T19:30:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
-2025_2025-04-19_Forge_vs_Valour,2025,2025-04-19T22:00:00Z,Forge,home,Valour,17036.7824,17036.7824,17036.7824,1.0,True
-2025_2025-04-19_Forge_vs_Valour,2025,2025-04-19T22:00:00Z,Valour,away,Forge,16196.0292,16196.0292,16196.0292,1.0,True
+2025_2025-04-19_Forge_vs_Valour,2025,2025-04-19T22:00:00Z,Forge,home,Valour,17099.0817,17099.0817,17099.0817,1.0,True
+2025_2025-04-19_Forge_vs_Valour,2025,2025-04-19T22:00:00Z,Valour,away,Forge,16169.1716,16169.1716,16169.1716,1.0,True
 2025_2025-04-26_Valour_vs_HFX_Wanderers,2025,2025-04-26T00:00:00Z,Valour,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2025_2025-04-26_Valour_vs_HFX_Wanderers,2025,2025-04-26T00:00:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-04-26_Cavalry_vs_Atlético_Ottawa,2025,2025-04-26T21:00:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-04-26_Cavalry_vs_Atlético_Ottawa,2025,2025-04-26T21:00:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-04-27_Vancouver_FC_vs_Pacific,2025,2025-04-27T00:00:00Z,Pacific,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-04-27_Vancouver_FC_vs_Pacific,2025,2025-04-27T00:00:00Z,Vancouver FC,home,Pacific,55.0,55.0,55.0,1.0,True
+2025_2025-04-27_Vancouver_FC_vs_Pacific,2025,2025-04-27T00:00:00Z,Pacific,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-04-27_Vancouver_FC_vs_Pacific,2025,2025-04-27T00:00:00Z,Vancouver,home,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-04-27_York_United_vs_Forge,2025,2025-04-27T18:00:00Z,Forge,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-04-27_York_United_vs_Forge,2025,2025-04-27T18:00:00Z,York,home,Forge,55.0006,55.0006,55.0006,1.0,True
 2025_2025-05-03_York_United_vs_Cavalry,2025,2025-05-03T00:00:00Z,Cavalry,away,York,55.0,55.0,55.0,1.0,True
@@ -737,8 +737,8 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2025_2025-05-03_Atlético_Ottawa_vs_Pacific,2025,2025-05-03T17:00:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-05-03_HFX_Wanderers_vs_Forge,2025,2025-05-03T20:00:00Z,Forge,away,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-05-03_HFX_Wanderers_vs_Forge,2025,2025-05-03T20:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
-2025_2025-05-03_Valour_vs_Vancouver_FC,2025,2025-05-03T23:00:00Z,Valour,home,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2025_2025-05-03_Valour_vs_Vancouver_FC,2025,2025-05-03T23:00:00Z,Vancouver FC,away,Valour,55.0,55.0,55.0,1.0,True
+2025_2025-05-03_Valour_vs_Vancouver_FC,2025,2025-05-03T23:00:00Z,Valour,home,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2025_2025-05-03_Valour_vs_Vancouver_FC,2025,2025-05-03T23:00:00Z,Vancouver,away,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-05-10_Atlético_Ottawa_vs_Valour,2025,2025-05-10T18:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-05-10_Atlético_Ottawa_vs_Valour,2025,2025-05-10T18:00:00Z,Valour,away,Atlético,54.9994,54.9994,54.9994,1.0,True
 2025_2025-05-10_HFX_Wanderers_vs_Cavalry,2025,2025-05-10T21:30:00Z,Cavalry,away,Wanderers,55.0,55.0,55.0,1.0,True
@@ -749,28 +749,28 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2025_2025-05-13_Forge_vs_Atlético_Ottawa,2025,2025-05-13T15:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-05-17_Valour_vs_York_United,2025,2025-05-17T00:00:00Z,Valour,home,York,54.9994,54.9994,54.9994,1.0,True
 2025_2025-05-17_Valour_vs_York_United,2025,2025-05-17T00:00:00Z,York,away,Valour,55.0006,55.0006,55.0006,1.0,True
-2025_2025-05-17_Cavalry_vs_Pacific,2025,2025-05-17T21:30:00Z,Cavalry,home,Pacific,16871.1684,16871.1684,16871.1684,1.0,True
-2025_2025-05-17_Cavalry_vs_Pacific,2025,2025-05-17T21:30:00Z,Pacific,away,Cavalry,16329.5667,16329.5667,16329.5667,1.0,True
-2025_2025-05-18_Vancouver_FC_vs_HFX_Wanderers,2025,2025-05-18T00:00:00Z,Vancouver FC,home,Wanderers,55.0,55.0,55.0,1.0,True
-2025_2025-05-18_Vancouver_FC_vs_HFX_Wanderers,2025,2025-05-18T00:00:00Z,Wanderers,away,Vancouver FC,55.0,55.0,55.0,1.0,True
+2025_2025-05-17_Cavalry_vs_Pacific,2025,2025-05-17T21:30:00Z,Cavalry,home,Pacific,16918.31,16918.31,16918.31,1.0,True
+2025_2025-05-17_Cavalry_vs_Pacific,2025,2025-05-17T21:30:00Z,Pacific,away,Cavalry,16288.2184,16288.2184,16288.2184,1.0,True
+2025_2025-05-18_Vancouver_FC_vs_HFX_Wanderers,2025,2025-05-18T00:00:00Z,Vancouver,home,Wanderers,55.0,55.0,55.0,1.0,True
+2025_2025-05-18_Vancouver_FC_vs_HFX_Wanderers,2025,2025-05-18T00:00:00Z,Wanderers,away,Vancouver,55.0,55.0,55.0,1.0,True
 2025_2025-05-24_HFX_Wanderers_vs_Atlético_Ottawa,2025,2025-05-24T18:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-05-24_HFX_Wanderers_vs_Atlético_Ottawa,2025,2025-05-24T18:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-05-24_Pacific_vs_Forge,2025,2025-05-24T21:00:00Z,Forge,away,Pacific,16997.7722,16997.7722,16997.7722,1.0,True
-2025_2025-05-24_Pacific_vs_Forge,2025,2025-05-24T21:00:00Z,Pacific,home,Forge,16250.1769,16250.1769,16250.1769,1.0,True
-2025_2025-05-25_York_United_vs_Vancouver_FC,2025,2025-05-25T18:00:00Z,Vancouver FC,away,York,55.0,55.0,55.0,1.0,True
-2025_2025-05-25_York_United_vs_Vancouver_FC,2025,2025-05-25T18:00:00Z,York,home,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2025_2025-05-25_Cavalry_vs_Valour,2025,2025-05-25T21:00:00Z,Cavalry,home,Valour,16950.5582,16950.5582,16950.5582,1.0,True
-2025_2025-05-25_Cavalry_vs_Valour,2025,2025-05-25T21:00:00Z,Valour,away,Cavalry,16235.039,16235.039,16235.039,1.0,True
-2025_2025-05-31_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-05-31T02:00:00Z,Atlético,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-05-31_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-05-31T02:00:00Z,Vancouver FC,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-05-31_Forge_vs_Cavalry,2025,2025-05-31T21:00:00Z,Cavalry,away,Forge,17024.735,17024.735,17024.735,1.0,True
-2025_2025-05-31_Forge_vs_Cavalry,2025,2025-05-31T21:00:00Z,Forge,home,Cavalry,17102.0697,17102.0697,17102.0697,1.0,True
+2025_2025-05-24_Pacific_vs_Forge,2025,2025-05-24T21:00:00Z,Forge,away,Pacific,17057.7822,17057.7822,17057.7822,1.0,True
+2025_2025-05-24_Pacific_vs_Forge,2025,2025-05-24T21:00:00Z,Pacific,home,Forge,16188.041,16188.041,16188.041,1.0,True
+2025_2025-05-25_York_United_vs_Vancouver_FC,2025,2025-05-25T18:00:00Z,Vancouver,away,York,55.0,55.0,55.0,1.0,True
+2025_2025-05-25_York_United_vs_Vancouver_FC,2025,2025-05-25T18:00:00Z,York,home,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2025_2025-05-25_Cavalry_vs_Valour,2025,2025-05-25T21:00:00Z,Cavalry,home,Valour,17018.4874,17018.4874,17018.4874,1.0,True
+2025_2025-05-25_Cavalry_vs_Valour,2025,2025-05-25T21:00:00Z,Valour,away,Cavalry,16210.4707,16210.4707,16210.4707,1.0,True
+2025_2025-05-31_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-05-31T02:00:00Z,Atlético,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-05-31_Vancouver_FC_vs_Atlético_Ottawa,2025,2025-05-31T02:00:00Z,Vancouver,home,Atlético,55.0,55.0,55.0,1.0,True
+2025_2025-05-31_Forge_vs_Cavalry,2025,2025-05-31T21:00:00Z,Cavalry,away,Forge,17111.7622,17111.7622,17111.7622,1.0,True
+2025_2025-05-31_Forge_vs_Cavalry,2025,2025-05-31T21:00:00Z,Forge,home,Cavalry,17168.6651,17168.6651,17168.6651,1.0,True
 2025_2025-05-31_York_United_vs_HFX_Wanderers,2025,2025-05-31T23:00:00Z,Wanderers,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-05-31_York_United_vs_HFX_Wanderers,2025,2025-05-31T23:00:00Z,York,home,Wanderers,55.0006,55.0006,55.0006,1.0,True
-2025_2025-06-01_Valour_vs_Pacific,2025,2025-06-01T22:00:00Z,Pacific,away,Valour,16145.8794,16145.8794,16145.8794,1.0,True
-2025_2025-06-01_Valour_vs_Pacific,2025,2025-06-01T22:00:00Z,Valour,home,Pacific,16160.863,16160.863,16160.863,1.0,True
-2025_2025-06-04_Valour_vs_Vancouver_FC,2025,2025-06-04T16:25:00Z,Valour,home,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2025_2025-06-04_Valour_vs_Vancouver_FC,2025,2025-06-04T16:25:00Z,Vancouver FC,away,Valour,55.0,55.0,55.0,1.0,True
+2025_2025-06-01_Valour_vs_Pacific,2025,2025-06-01T22:00:00Z,Pacific,away,Valour,16077.1582,16077.1582,16077.1582,1.0,True
+2025_2025-06-01_Valour_vs_Pacific,2025,2025-06-01T22:00:00Z,Valour,home,Pacific,16117.1968,16117.1968,16117.1968,1.0,True
+2025_2025-06-04_Valour_vs_Vancouver_FC,2025,2025-06-04T16:25:00Z,Valour,home,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2025_2025-06-04_Valour_vs_Vancouver_FC,2025,2025-06-04T16:25:00Z,Vancouver,away,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-06-07_Pacific_vs_Atlético_Ottawa,2025,2025-06-07T22:00:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-06-07_Pacific_vs_Atlético_Ottawa,2025,2025-06-07T22:00:00Z,Pacific,home,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-06-08_Forge_vs_HFX_Wanderers,2025,2025-06-08T19:30:00Z,Forge,home,Wanderers,55.0,55.0,55.0,1.0,True
@@ -781,157 +781,157 @@ match_id,season,date,team,side,opponent,team_attack,team_defense,team_total,cove
 2025_2025-06-14_HFX_Wanderers_vs_Cavalry,2025,2025-06-14T19:00:00Z,Wanderers,home,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-06-14_Pacific_vs_York_United,2025,2025-06-14T22:00:00Z,Pacific,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-06-14_Pacific_vs_York_United,2025,2025-06-14T22:00:00Z,York,away,Pacific,55.0006,55.0006,55.0006,1.0,True
-2025_2025-06-15_Vancouver_FC_vs_Forge,2025,2025-06-15T20:00:00Z,Forge,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-06-15_Vancouver_FC_vs_Forge,2025,2025-06-15T20:00:00Z,Vancouver FC,home,Forge,55.0,55.0,55.0,1.0,True
+2025_2025-06-15_Vancouver_FC_vs_Forge,2025,2025-06-15T20:00:00Z,Forge,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-06-15_Vancouver_FC_vs_Forge,2025,2025-06-15T20:00:00Z,Vancouver,home,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-06-15_Atlético_Ottawa_vs_Valour,2025,2025-06-15T23:00:00Z,Atlético,home,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-06-15_Atlético_Ottawa_vs_Valour,2025,2025-06-15T23:00:00Z,Valour,away,Atlético,54.9994,54.9994,54.9994,1.0,True
-2025_2025-06-21_HFX_Wanderers_vs_Vancouver_FC,2025,2025-06-21T18:00:00Z,Vancouver FC,away,Wanderers,55.0,55.0,55.0,1.0,True
-2025_2025-06-21_HFX_Wanderers_vs_Vancouver_FC,2025,2025-06-21T18:00:00Z,Wanderers,home,Vancouver FC,55.0,55.0,55.0,1.0,True
+2025_2025-06-21_HFX_Wanderers_vs_Vancouver_FC,2025,2025-06-21T18:00:00Z,Vancouver,away,Wanderers,55.0,55.0,55.0,1.0,True
+2025_2025-06-21_HFX_Wanderers_vs_Vancouver_FC,2025,2025-06-21T18:00:00Z,Wanderers,home,Vancouver,55.0,55.0,55.0,1.0,True
 2025_2025-06-22_York_United_vs_Atlético_Ottawa,2025,2025-06-22T17:00:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-06-22_York_United_vs_Atlético_Ottawa,2025,2025-06-22T17:00:00Z,York,home,Atlético,55.0006,55.0006,55.0006,1.0,True
-2025_2025-06-22_Valour_vs_Forge,2025,2025-06-22T21:13:00Z,Forge,away,Valour,17084.174,17084.174,17084.174,1.0,True
-2025_2025-06-22_Valour_vs_Forge,2025,2025-06-22T21:13:00Z,Valour,home,Forge,16145.4359,16145.4359,16145.4359,1.0,True
-2025_2025-06-22_Cavalry_vs_Pacific,2025,2025-06-22T23:00:00Z,Cavalry,home,Pacific,17042.6307,17042.6307,17042.6307,1.0,True
-2025_2025-06-22_Cavalry_vs_Pacific,2025,2025-06-22T23:00:00Z,Pacific,away,Cavalry,16161.3066,16161.3066,16161.3066,1.0,True
-2025_2025-06-28_Pacific_vs_Vancouver_FC,2025,2025-06-28T02:00:00Z,Pacific,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-06-28_Pacific_vs_Vancouver_FC,2025,2025-06-28T02:00:00Z,Vancouver FC,away,Pacific,55.0,55.0,55.0,1.0,True
+2025_2025-06-22_Valour_vs_Forge,2025,2025-06-22T21:13:00Z,Forge,away,Valour,17151.3424,17151.3424,17151.3424,1.0,True
+2025_2025-06-22_Valour_vs_Forge,2025,2025-06-22T21:13:00Z,Valour,home,Forge,16101.1413,16101.1413,16101.1413,1.0,True
+2025_2025-06-22_Cavalry_vs_Pacific,2025,2025-06-22T23:00:00Z,Cavalry,home,Pacific,17129.0849,17129.0849,17129.0849,1.0,True
+2025_2025-06-22_Cavalry_vs_Pacific,2025,2025-06-22T23:00:00Z,Pacific,away,Cavalry,16093.2138,16093.2138,16093.2138,1.0,True
+2025_2025-06-28_Pacific_vs_Vancouver_FC,2025,2025-06-28T02:00:00Z,Pacific,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-06-28_Pacific_vs_Vancouver_FC,2025,2025-06-28T02:00:00Z,Vancouver,away,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-06-28_Cavalry_vs_Atlético_Ottawa,2025,2025-06-28T22:00:00Z,Atlético,away,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-06-28_Cavalry_vs_Atlético_Ottawa,2025,2025-06-28T22:00:00Z,Cavalry,home,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-06-29_Forge_vs_York_United,2025,2025-06-29T20:00:00Z,Forge,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-06-29_Forge_vs_York_United,2025,2025-06-29T20:00:00Z,York,away,Forge,55.0006,55.0006,55.0006,1.0,True
 2025_2025-07-01_HFX_Wanderers_vs_Valour,2025,2025-07-01T19:00:00Z,Valour,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2025_2025-07-01_HFX_Wanderers_vs_Valour,2025,2025-07-01T19:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
-2025_2025-07-05_Forge_vs_Vancouver_FC,2025,2025-07-05T21:00:00Z,Forge,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-07-05_Forge_vs_Vancouver_FC,2025,2025-07-05T21:00:00Z,Vancouver FC,away,Forge,55.0,55.0,55.0,1.0,True
+2025_2025-07-05_Forge_vs_Vancouver_FC,2025,2025-07-05T21:00:00Z,Forge,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-07-05_Forge_vs_Vancouver_FC,2025,2025-07-05T21:00:00Z,Vancouver,away,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-07-12_Atlético_Ottawa_vs_Forge,2025,2025-07-12T19:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-07-12_Atlético_Ottawa_vs_Forge,2025,2025-07-12T19:00:00Z,Forge,away,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-07-12_Pacific_vs_HFX_Wanderers,2025,2025-07-12T22:00:00Z,Pacific,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-07-12_Pacific_vs_HFX_Wanderers,2025,2025-07-12T22:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-07-13_York_United_vs_Valour,2025,2025-07-13T22:00:00Z,Valour,away,York,54.9994,54.9994,54.9994,1.0,True
 2025_2025-07-13_York_United_vs_Valour,2025,2025-07-13T22:00:00Z,York,home,Valour,55.0006,55.0006,55.0006,1.0,True
-2025_2025-07-14_Vancouver_FC_vs_Cavalry,2025,2025-07-14T01:00:00Z,Cavalry,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-07-14_Vancouver_FC_vs_Cavalry,2025,2025-07-14T01:00:00Z,Vancouver FC,home,Cavalry,55.0,55.0,55.0,1.0,True
+2025_2025-07-14_Vancouver_FC_vs_Cavalry,2025,2025-07-14T01:00:00Z,Cavalry,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-07-14_Vancouver_FC_vs_Cavalry,2025,2025-07-14T01:00:00Z,Vancouver,home,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-07-18_Atlético_Ottawa_vs_HFX_Wanderers,2025,2025-07-18T23:00:00Z,Atlético,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-07-18_Atlético_Ottawa_vs_HFX_Wanderers,2025,2025-07-18T23:00:00Z,Wanderers,away,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-07-18_Forge_vs_Pacific,2025,2025-07-18T23:00:00Z,Forge,home,Pacific,17182.2796,17182.2796,17182.2796,1.0,True
-2025_2025-07-18_Forge_vs_Pacific,2025,2025-07-18T23:00:00Z,Pacific,away,Forge,16090.6973,16090.6973,16090.6973,1.0,True
-2025_2025-07-19_York_United_vs_Vancouver_FC,2025,2025-07-19T20:00:00Z,Vancouver FC,away,York,55.0,55.0,55.0,1.0,True
-2025_2025-07-19_York_United_vs_Vancouver_FC,2025,2025-07-19T20:00:00Z,York,home,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
-2025_2025-07-20_Valour_vs_Cavalry,2025,2025-07-20T19:00:00Z,Cavalry,away,Valour,17113.24,17113.24,17113.24,1.0,True
-2025_2025-07-20_Valour_vs_Cavalry,2025,2025-07-20T19:00:00Z,Valour,home,Cavalry,16047.3313,16047.3313,16047.3313,1.0,True
+2025_2025-07-18_Forge_vs_Pacific,2025,2025-07-18T23:00:00Z,Forge,home,Pacific,17274.676,17274.676,17274.676,1.0,True
+2025_2025-07-18_Forge_vs_Pacific,2025,2025-07-18T23:00:00Z,Pacific,away,Forge,16019.742,16019.742,16019.742,1.0,True
+2025_2025-07-19_York_United_vs_Vancouver_FC,2025,2025-07-19T20:00:00Z,Vancouver,away,York,55.0,55.0,55.0,1.0,True
+2025_2025-07-19_York_United_vs_Vancouver_FC,2025,2025-07-19T20:00:00Z,York,home,Vancouver,55.0006,55.0006,55.0006,1.0,True
+2025_2025-07-20_Valour_vs_Cavalry,2025,2025-07-20T19:00:00Z,Cavalry,away,Valour,17202.5567,17202.5567,17202.5567,1.0,True
+2025_2025-07-20_Valour_vs_Cavalry,2025,2025-07-20T19:00:00Z,Valour,home,Cavalry,15977.8089,15977.8089,15977.8089,1.0,True
 2025_2025-07-25_HFX_Wanderers_vs_Forge,2025,2025-07-25T22:00:00Z,Forge,away,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-07-25_HFX_Wanderers_vs_Forge,2025,2025-07-25T22:00:00Z,Wanderers,home,Forge,55.0,55.0,55.0,1.0,True
-2025_2025-07-26_Vancouver_FC_vs_Valour,2025,2025-07-26T02:00:00Z,Valour,away,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2025_2025-07-26_Vancouver_FC_vs_Valour,2025,2025-07-26T02:00:00Z,Vancouver FC,home,Valour,55.0,55.0,55.0,1.0,True
+2025_2025-07-26_Vancouver_FC_vs_Valour,2025,2025-07-26T02:00:00Z,Valour,away,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2025_2025-07-26_Vancouver_FC_vs_Valour,2025,2025-07-26T02:00:00Z,Vancouver,home,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-07-26_Cavalry_vs_York_United,2025,2025-07-26T21:00:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-07-26_Cavalry_vs_York_United,2025,2025-07-26T21:00:00Z,York,away,Cavalry,55.0006,55.0006,55.0006,1.0,True
 2025_2025-07-27_Pacific_vs_Atlético_Ottawa,2025,2025-07-27T00:00:00Z,Atlético,away,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-07-27_Pacific_vs_Atlético_Ottawa,2025,2025-07-27T00:00:00Z,Pacific,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-07-30_Valour_vs_Cavalry,2025,2025-07-30T00:00:00Z,Cavalry,away,Valour,17207.7424,17207.7424,17207.7424,1.0,True
-2025_2025-07-30_Valour_vs_Cavalry,2025,2025-07-30T00:00:00Z,Valour,home,Cavalry,15952.8298,15952.8298,15952.8298,1.0,True
-2025_2025-08-02_Forge_vs_Valour,2025,2025-08-02T23:00:00Z,Forge,home,Valour,17247.7202,17247.7202,17247.7202,1.0,True
-2025_2025-08-02_Forge_vs_Valour,2025,2025-08-02T23:00:00Z,Valour,away,Forge,16083.617,16083.617,16083.617,1.0,True
+2025_2025-07-30_Valour_vs_Cavalry,2025,2025-07-30T00:00:00Z,Cavalry,away,Valour,17301.5317,17301.5317,17301.5317,1.0,True
+2025_2025-07-30_Valour_vs_Cavalry,2025,2025-07-30T00:00:00Z,Valour,home,Cavalry,15878.8349,15878.8349,15878.8349,1.0,True
+2025_2025-08-02_Forge_vs_Valour,2025,2025-08-02T23:00:00Z,Forge,home,Valour,17348.5759,17348.5759,17348.5759,1.0,True
+2025_2025-08-02_Forge_vs_Valour,2025,2025-08-02T23:00:00Z,Valour,away,Forge,16027.856,16027.856,16027.856,1.0,True
 2025_2025-08-03_Atlético_Ottawa_vs_York_United,2025,2025-08-03T20:00:00Z,Atlético,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-08-03_Atlético_Ottawa_vs_York_United,2025,2025-08-03T20:00:00Z,York,away,Atlético,55.0006,55.0006,55.0006,1.0,True
-2025_2025-08-04_HFX_Wanderers_vs_Vancouver_FC,2025,2025-08-04T19:00:00Z,Vancouver FC,away,Wanderers,55.0,55.0,55.0,1.0,True
-2025_2025-08-04_HFX_Wanderers_vs_Vancouver_FC,2025,2025-08-04T19:00:00Z,Wanderers,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-08-04_Pacific_vs_Cavalry,2025,2025-08-04T22:00:00Z,Cavalry,away,Pacific,17076.954,17076.954,17076.954,1.0,True
-2025_2025-08-04_Pacific_vs_Cavalry,2025,2025-08-04T22:00:00Z,Pacific,home,Cavalry,16025.2566,16025.2566,16025.2566,1.0,True
+2025_2025-08-04_HFX_Wanderers_vs_Vancouver_FC,2025,2025-08-04T19:00:00Z,Vancouver,away,Wanderers,55.0,55.0,55.0,1.0,True
+2025_2025-08-04_HFX_Wanderers_vs_Vancouver_FC,2025,2025-08-04T19:00:00Z,Wanderers,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-08-04_Pacific_vs_Cavalry,2025,2025-08-04T22:00:00Z,Cavalry,away,Pacific,17152.5091,17152.5091,17152.5091,1.0,True
+2025_2025-08-04_Pacific_vs_Cavalry,2025,2025-08-04T22:00:00Z,Pacific,home,Cavalry,15945.8421,15945.8421,15945.8421,1.0,True
 2025_2025-08-09_York_United_vs_Forge,2025,2025-08-09T17:00:00Z,Forge,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-08-09_York_United_vs_Forge,2025,2025-08-09T17:00:00Z,York,home,Forge,55.0006,55.0006,55.0006,1.0,True
 2025_2025-08-09_Cavalry_vs_HFX_Wanderers,2025,2025-08-09T21:00:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-08-09_Cavalry_vs_HFX_Wanderers,2025,2025-08-09T21:00:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-08-10_Valour_vs_Atlético_Ottawa,2025,2025-08-10T19:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-08-10_Valour_vs_Atlético_Ottawa,2025,2025-08-10T19:00:00Z,Valour,home,Atlético,54.9994,54.9994,54.9994,1.0,True
-2025_2025-08-10_Vancouver_FC_vs_Pacific,2025,2025-08-10T22:00:00Z,Pacific,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-08-10_Vancouver_FC_vs_Pacific,2025,2025-08-10T22:00:00Z,Vancouver FC,home,Pacific,55.0,55.0,55.0,1.0,True
+2025_2025-08-10_Vancouver_FC_vs_Pacific,2025,2025-08-10T22:00:00Z,Pacific,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-08-10_Vancouver_FC_vs_Pacific,2025,2025-08-10T22:00:00Z,Vancouver,home,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-08-16_Pacific_vs_HFX_Wanderers,2025,2025-08-16T22:00:00Z,Pacific,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-08-16_Pacific_vs_HFX_Wanderers,2025,2025-08-16T22:00:00Z,Wanderers,away,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-08-17_Valour_vs_York_United,2025,2025-08-17T17:30:00Z,Valour,home,York,54.9994,54.9994,54.9994,1.0,True
 2025_2025-08-17_Valour_vs_York_United,2025,2025-08-17T17:30:00Z,York,away,Valour,55.0006,55.0006,55.0006,1.0,True
 2025_2025-08-17_Forge_vs_Atlético_Ottawa,2025,2025-08-17T20:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-08-17_Forge_vs_Atlético_Ottawa,2025,2025-08-17T20:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-08-17_Cavalry_vs_Vancouver_FC,2025,2025-08-17T23:00:00Z,Cavalry,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-08-17_Cavalry_vs_Vancouver_FC,2025,2025-08-17T23:00:00Z,Vancouver FC,away,Cavalry,55.0,55.0,55.0,1.0,True
+2025_2025-08-17_Cavalry_vs_Vancouver_FC,2025,2025-08-17T23:00:00Z,Cavalry,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-08-17_Cavalry_vs_Vancouver_FC,2025,2025-08-17T23:00:00Z,Vancouver,away,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-08-22_HFX_Wanderers_vs_Valour,2025,2025-08-22T22:00:00Z,Valour,away,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2025_2025-08-22_HFX_Wanderers_vs_Valour,2025,2025-08-22T22:00:00Z,Wanderers,home,Valour,55.0,55.0,55.0,1.0,True
-2025_2025-08-23_Vancouver_FC_vs_Forge,2025,2025-08-23T02:00:00Z,Forge,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-08-23_Vancouver_FC_vs_Forge,2025,2025-08-23T02:00:00Z,Vancouver FC,home,Forge,55.0,55.0,55.0,1.0,True
+2025_2025-08-23_Vancouver_FC_vs_Forge,2025,2025-08-23T02:00:00Z,Forge,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-08-23_Vancouver_FC_vs_Forge,2025,2025-08-23T02:00:00Z,Vancouver,home,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-08-23_Atlético_Ottawa_vs_Cavalry,2025,2025-08-23T23:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-08-23_Atlético_Ottawa_vs_Cavalry,2025,2025-08-23T23:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-08-24_York_United_vs_Pacific,2025,2025-08-24T20:00:00Z,Pacific,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-08-24_York_United_vs_Pacific,2025,2025-08-24T20:00:00Z,York,home,Pacific,55.0006,55.0006,55.0006,1.0,True
-2025_2025-08-30_Cavalry_vs_Forge,2025,2025-08-30T20:00:00Z,Cavalry,home,Forge,16952.5763,16952.5763,16952.5763,1.0,True
-2025_2025-08-30_Cavalry_vs_Forge,2025,2025-08-30T20:00:00Z,Forge,away,Cavalry,17310.8289,17310.8289,17310.8289,1.0,True
-2025_2025-08-30_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-08-30T23:00:00Z,Atlético,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-08-30_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-08-30T23:00:00Z,Vancouver FC,away,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-08-31_Valour_vs_Pacific,2025,2025-08-31T19:00:00Z,Pacific,away,Valour,16149.6343,16149.6343,16149.6343,1.0,True
-2025_2025-08-31_Valour_vs_Pacific,2025,2025-08-31T19:00:00Z,Valour,home,Pacific,16020.5089,16020.5089,16020.5089,1.0,True
+2025_2025-08-30_Cavalry_vs_Forge,2025,2025-08-30T20:00:00Z,Cavalry,home,Forge,17010.9037,17010.9037,17010.9037,1.0,True
+2025_2025-08-30_Cavalry_vs_Forge,2025,2025-08-30T20:00:00Z,Forge,away,Cavalry,17425.8298,17425.8298,17425.8298,1.0,True
+2025_2025-08-30_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-08-30T23:00:00Z,Atlético,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-08-30_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-08-30T23:00:00Z,Vancouver,away,Atlético,55.0,55.0,55.0,1.0,True
+2025_2025-08-31_Valour_vs_Pacific,2025,2025-08-31T19:00:00Z,Pacific,away,Valour,16087.4475,16087.4475,16087.4475,1.0,True
+2025_2025-08-31_Valour_vs_Pacific,2025,2025-08-31T19:00:00Z,Valour,home,Pacific,15950.6029,15950.6029,15950.6029,1.0,True
 2025_2025-09-01_HFX_Wanderers_vs_York_United,2025,2025-09-01T19:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-09-01_HFX_Wanderers_vs_York_United,2025,2025-09-01T19:00:00Z,York,away,Wanderers,55.0006,55.0006,55.0006,1.0,True
 2025_2025-09-05_York_United_vs_Cavalry,2025,2025-09-05T23:30:00Z,Cavalry,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-09-05_York_United_vs_Cavalry,2025,2025-09-05T23:30:00Z,York,home,Cavalry,55.0006,55.0006,55.0006,1.0,True
-2025_2025-09-06_Vancouver_FC_vs_Valour,2025,2025-09-06T02:30:00Z,Valour,away,Vancouver FC,54.9994,54.9994,54.9994,1.0,True
-2025_2025-09-06_Vancouver_FC_vs_Valour,2025,2025-09-06T02:30:00Z,Vancouver FC,home,Valour,55.0,55.0,55.0,1.0,True
+2025_2025-09-06_Vancouver_FC_vs_Valour,2025,2025-09-06T02:30:00Z,Valour,away,Vancouver,54.9994,54.9994,54.9994,1.0,True
+2025_2025-09-06_Vancouver_FC_vs_Valour,2025,2025-09-06T02:30:00Z,Vancouver,home,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-09-06_Forge_vs_HFX_Wanderers,2025,2025-09-06T20:00:00Z,Forge,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-09-06_Forge_vs_HFX_Wanderers,2025,2025-09-06T20:00:00Z,Wanderers,away,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-09-06_Atlético_Ottawa_vs_Pacific,2025,2025-09-06T23:00:00Z,Atlético,home,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-09-06_Atlético_Ottawa_vs_Pacific,2025,2025-09-06T23:00:00Z,Pacific,away,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-09-12_Valour_vs_Forge,2025,2025-09-12T00:00:00Z,Forge,away,Valour,17206.3432,17206.3432,17206.3432,1.0,True
-2025_2025-09-12_Valour_vs_Forge,2025,2025-09-12T00:00:00Z,Valour,home,Forge,16009.1677,16009.1677,16009.1677,1.0,True
+2025_2025-09-12_Valour_vs_Forge,2025,2025-09-12T00:00:00Z,Forge,away,Valour,17287.8817,17287.8817,17287.8817,1.0,True
+2025_2025-09-12_Valour_vs_Forge,2025,2025-09-12T00:00:00Z,Valour,home,Forge,15939.5603,15939.5603,15939.5603,1.0,True
 2025_2025-09-13_Cavalry_vs_HFX_Wanderers,2025,2025-09-13T20:00:00Z,Cavalry,home,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-09-13_Cavalry_vs_HFX_Wanderers,2025,2025-09-13T20:00:00Z,Wanderers,away,Cavalry,55.0,55.0,55.0,1.0,True
-2025_2025-09-13_Pacific_vs_Vancouver_FC,2025,2025-09-13T23:00:00Z,Pacific,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-09-13_Pacific_vs_Vancouver_FC,2025,2025-09-13T23:00:00Z,Vancouver FC,away,Pacific,55.0,55.0,55.0,1.0,True
+2025_2025-09-13_Pacific_vs_Vancouver_FC,2025,2025-09-13T23:00:00Z,Pacific,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-09-13_Pacific_vs_Vancouver_FC,2025,2025-09-13T23:00:00Z,Vancouver,away,Pacific,55.0,55.0,55.0,1.0,True
 2025_2025-09-14_York_United_vs_Atlético_Ottawa,2025,2025-09-14T18:00:00Z,Atlético,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-09-14_York_United_vs_Atlético_Ottawa,2025,2025-09-14T18:00:00Z,York,home,Atlético,55.0006,55.0006,55.0006,1.0,True
 2025_2025-09-20_HFX_Wanderers_vs_Pacific,2025,2025-09-20T19:00:00Z,Pacific,away,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-09-20_HFX_Wanderers_vs_Pacific,2025,2025-09-20T19:00:00Z,Wanderers,home,Pacific,55.0,55.0,55.0,1.0,True
-2025_2025-09-20_Cavalry_vs_Valour,2025,2025-09-20T22:00:00Z,Cavalry,home,Valour,17057.062,17057.062,17057.062,1.0,True
-2025_2025-09-20_Cavalry_vs_Valour,2025,2025-09-20T22:00:00Z,Valour,away,Cavalry,16138.3479,16138.3479,16138.3479,1.0,True
+2025_2025-09-20_Cavalry_vs_Valour,2025,2025-09-20T22:00:00Z,Cavalry,home,Valour,17148.8518,17148.8518,17148.8518,1.0,True
+2025_2025-09-20_Cavalry_vs_Valour,2025,2025-09-20T22:00:00Z,Valour,away,Cavalry,16086.3432,16086.3432,16086.3432,1.0,True
 2025_2025-09-21_Atlético_Ottawa_vs_Forge,2025,2025-09-21T19:00:00Z,Atlético,home,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-09-21_Atlético_Ottawa_vs_Forge,2025,2025-09-21T19:00:00Z,Forge,away,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-09-21_Vancouver_FC_vs_York_United,2025,2025-09-21T22:00:00Z,Vancouver FC,home,York,55.0,55.0,55.0,1.0,True
-2025_2025-09-21_Vancouver_FC_vs_York_United,2025,2025-09-21T22:00:00Z,York,away,Vancouver FC,55.0006,55.0006,55.0006,1.0,True
+2025_2025-09-21_Vancouver_FC_vs_York_United,2025,2025-09-21T22:00:00Z,Vancouver,home,York,55.0,55.0,55.0,1.0,True
+2025_2025-09-21_Vancouver_FC_vs_York_United,2025,2025-09-21T22:00:00Z,York,away,Vancouver,55.0006,55.0006,55.0006,1.0,True
 2025_2025-09-27_Atlético_Ottawa_vs_Cavalry,2025,2025-09-27T17:00:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-09-27_Atlético_Ottawa_vs_Cavalry,2025,2025-09-27T17:00:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-09-27_Forge_vs_Pacific,2025,2025-09-27T20:00:00Z,Forge,home,Pacific,17077.1617,17077.1617,17077.1617,1.0,True
-2025_2025-09-27_Forge_vs_Pacific,2025,2025-09-27T20:00:00Z,Pacific,away,Forge,16160.9756,16160.9756,16160.9756,1.0,True
+2025_2025-09-27_Forge_vs_Pacific,2025,2025-09-27T20:00:00Z,Forge,home,Pacific,17141.0974,17141.0974,17141.0974,1.0,True
+2025_2025-09-27_Forge_vs_Pacific,2025,2025-09-27T20:00:00Z,Pacific,away,Forge,16098.4902,16098.4902,16098.4902,1.0,True
 2025_2025-09-28_York_United_vs_Valour,2025,2025-09-28T19:00:00Z,Valour,away,York,54.9994,54.9994,54.9994,1.0,True
 2025_2025-09-28_York_United_vs_Valour,2025,2025-09-28T19:00:00Z,York,home,Valour,55.0006,55.0006,55.0006,1.0,True
-2025_2025-09-28_Vancouver_FC_vs_HFX_Wanderers,2025,2025-09-28T22:00:00Z,Vancouver FC,home,Wanderers,55.0,55.0,55.0,1.0,True
-2025_2025-09-28_Vancouver_FC_vs_HFX_Wanderers,2025,2025-09-28T22:00:00Z,Wanderers,away,Vancouver FC,55.0,55.0,55.0,1.0,True
+2025_2025-09-28_Vancouver_FC_vs_HFX_Wanderers,2025,2025-09-28T22:00:00Z,Vancouver,home,Wanderers,55.0,55.0,55.0,1.0,True
+2025_2025-09-28_Vancouver_FC_vs_HFX_Wanderers,2025,2025-09-28T22:00:00Z,Wanderers,away,Vancouver,55.0,55.0,55.0,1.0,True
 2025_2025-10-04_HFX_Wanderers_vs_York_United,2025,2025-10-04T18:00:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-10-04_HFX_Wanderers_vs_York_United,2025,2025-10-04T18:00:00Z,York,away,Wanderers,55.0006,55.0006,55.0006,1.0,True
-2025_2025-10-04_Forge_vs_Vancouver_FC,2025,2025-10-04T20:30:00Z,Forge,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-10-04_Forge_vs_Vancouver_FC,2025,2025-10-04T20:30:00Z,Vancouver FC,away,Forge,55.0,55.0,55.0,1.0,True
+2025_2025-10-04_Forge_vs_Vancouver_FC,2025,2025-10-04T20:30:00Z,Forge,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-10-04_Forge_vs_Vancouver_FC,2025,2025-10-04T20:30:00Z,Vancouver,away,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-10-05_Valour_vs_Atlético_Ottawa,2025,2025-10-05T19:00:00Z,Atlético,away,Valour,55.0,55.0,55.0,1.0,True
 2025_2025-10-05_Valour_vs_Atlético_Ottawa,2025,2025-10-05T19:00:00Z,Valour,home,Atlético,54.9994,54.9994,54.9994,1.0,True
-2025_2025-10-05_Pacific_vs_Cavalry,2025,2025-10-05T22:00:00Z,Cavalry,away,Pacific,17126.1044,17126.1044,17126.1044,1.0,True
-2025_2025-10-05_Pacific_vs_Cavalry,2025,2025-10-05T22:00:00Z,Pacific,home,Cavalry,16091.2382,16091.2382,16091.2382,1.0,True
+2025_2025-10-05_Pacific_vs_Cavalry,2025,2025-10-05T22:00:00Z,Cavalry,away,Pacific,17233.9568,17233.9568,17233.9568,1.0,True
+2025_2025-10-05_Pacific_vs_Cavalry,2025,2025-10-05T22:00:00Z,Pacific,home,Cavalry,16011.8729,16011.8729,16011.8729,1.0,True
 2025_2025-10-09_York_United_vs_Pacific,2025,2025-10-09T23:30:00Z,Pacific,away,York,55.0,55.0,55.0,1.0,True
 2025_2025-10-09_York_United_vs_Pacific,2025,2025-10-09T23:30:00Z,York,home,Pacific,55.0006,55.0006,55.0006,1.0,True
-2025_2025-10-11_Cavalry_vs_Forge,2025,2025-10-11T01:30:00Z,Cavalry,home,Forge,17112.2032,17112.2032,17112.2032,1.0,True
-2025_2025-10-11_Cavalry_vs_Forge,2025,2025-10-11T01:30:00Z,Forge,away,Cavalry,17146.8991,17146.8991,17146.8991,1.0,True
+2025_2025-10-11_Cavalry_vs_Forge,2025,2025-10-11T01:30:00Z,Cavalry,home,Forge,17214.7942,17214.7942,17214.7942,1.0,True
+2025_2025-10-11_Cavalry_vs_Forge,2025,2025-10-11T01:30:00Z,Forge,away,Cavalry,17227.7147,17227.7147,17227.7147,1.0,True
 2025_2025-10-11_Valour_vs_HFX_Wanderers,2025,2025-10-11T19:00:00Z,Valour,home,Wanderers,54.9994,54.9994,54.9994,1.0,True
 2025_2025-10-11_Valour_vs_HFX_Wanderers,2025,2025-10-11T19:00:00Z,Wanderers,away,Valour,55.0,55.0,55.0,1.0,True
-2025_2025-10-12_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-10-12T19:00:00Z,Atlético,home,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-10-12_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-10-12T19:00:00Z,Vancouver FC,away,Atlético,55.0,55.0,55.0,1.0,True
+2025_2025-10-12_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-10-12T19:00:00Z,Atlético,home,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-10-12_Atlético_Ottawa_vs_Vancouver_FC,2025,2025-10-12T19:00:00Z,Vancouver,away,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-10-18_Forge_vs_York_United,2025,2025-10-18T20:00:00Z,Forge,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-10-18_Forge_vs_York_United,2025,2025-10-18T20:00:00Z,York,away,Forge,55.0006,55.0006,55.0006,1.0,True
 2025_2025-10-18_HFX_Wanderers_vs_Atlético_Ottawa,2025,2025-10-18T20:00:00Z,Atlético,away,Wanderers,55.0,55.0,55.0,1.0,True
 2025_2025-10-18_HFX_Wanderers_vs_Atlético_Ottawa,2025,2025-10-18T20:00:00Z,Wanderers,home,Atlético,55.0,55.0,55.0,1.0,True
-2025_2025-10-18_Pacific_vs_Valour,2025,2025-10-18T20:00:00Z,Pacific,home,Valour,16105.1394,16105.1394,16105.1394,1.0,True
-2025_2025-10-18_Pacific_vs_Valour,2025,2025-10-18T20:00:00Z,Valour,away,Pacific,16069.3062,16069.3062,16069.3062,1.0,True
-2025_2025-10-18_Vancouver_FC_vs_Cavalry,2025,2025-10-18T20:00:00Z,Cavalry,away,Vancouver FC,55.0,55.0,55.0,1.0,True
-2025_2025-10-18_Vancouver_FC_vs_Cavalry,2025,2025-10-18T20:00:00Z,Vancouver FC,home,Cavalry,55.0,55.0,55.0,1.0,True
+2025_2025-10-18_Pacific_vs_Valour,2025,2025-10-18T20:00:00Z,Pacific,home,Valour,16031.0355,16031.0355,16031.0355,1.0,True
+2025_2025-10-18_Pacific_vs_Valour,2025,2025-10-18T20:00:00Z,Valour,away,Pacific,16001.239,16001.239,16001.239,1.0,True
+2025_2025-10-18_Vancouver_FC_vs_Cavalry,2025,2025-10-18T20:00:00Z,Cavalry,away,Vancouver,55.0,55.0,55.0,1.0,True
+2025_2025-10-18_Vancouver_FC_vs_Cavalry,2025,2025-10-18T20:00:00Z,Vancouver,home,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-10-22_HFX_Wanderers_vs_York_United,2025,2025-10-22T22:30:00Z,Wanderers,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-10-22_HFX_Wanderers_vs_York_United,2025,2025-10-22T22:30:00Z,York,away,Wanderers,55.0006,55.0006,55.0006,1.0,True
 2025_2025-10-26_Forge_vs_Atlético_Ottawa,2025,2025-10-26T18:00:00Z,Atlético,away,Forge,55.0,55.0,55.0,1.0,True
 2025_2025-10-26_Forge_vs_Atlético_Ottawa,2025,2025-10-26T18:00:00Z,Forge,home,Atlético,55.0,55.0,55.0,1.0,True
 2025_2025-10-26_Cavalry_vs_York_United,2025,2025-10-26T22:00:00Z,Cavalry,home,York,55.0,55.0,55.0,1.0,True
 2025_2025-10-26_Cavalry_vs_York_United,2025,2025-10-26T22:00:00Z,York,away,Cavalry,55.0006,55.0006,55.0006,1.0,True
-2025_2025-11-02_Forge_vs_Cavalry,2025,2025-11-02T21:00:00Z,Cavalry,away,Forge,17097.4608,17097.4608,17097.4608,1.0,True
-2025_2025-11-02_Forge_vs_Cavalry,2025,2025-11-02T21:00:00Z,Forge,home,Cavalry,17161.6416,17161.6416,17161.6416,1.0,True
+2025_2025-11-02_Forge_vs_Cavalry,2025,2025-11-02T21:00:00Z,Cavalry,away,Forge,17199.4367,17199.4367,17199.4367,1.0,True
+2025_2025-11-02_Forge_vs_Cavalry,2025,2025-11-02T21:00:00Z,Forge,home,Cavalry,17243.0721,17243.0721,17243.0721,1.0,True
 2025_2025-11-09_Atlético_Ottawa_vs_Cavalry,2025,2025-11-09T22:20:00Z,Atlético,home,Cavalry,55.0,55.0,55.0,1.0,True
 2025_2025-11-09_Atlético_Ottawa_vs_Cavalry,2025,2025-11-09T22:20:00Z,Cavalry,away,Atlético,55.0,55.0,55.0,1.0,True

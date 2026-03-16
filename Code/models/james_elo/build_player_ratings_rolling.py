@@ -2,42 +2,27 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import re
+import sys
 
 # --- PATH SETUP ---
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
+
+# Add Code directory to path for config import
+sys.path.insert(0, str(REPO_ROOT / "Code"))
+from config import TEAM_NAME_MAP, ELO_K_FACTOR, ELO_HOME_ADVANTAGE
 
 MATCHES_FILE = REPO_ROOT / "data" / "matches" / "processed" / "all_matches_with_baseline.csv"
 LINEUPS_FILE = REPO_ROOT / "data" / "lineups" / "assumed_lineup.csv"
 OUT_FILE = REPO_ROOT / "data" / "players" / "derived" / "player_ratings_rolling.csv"
 
 # SETTINGS
-K_FACTOR = 20.0
-HOME_ADVANTAGE = 50.0
+K_FACTOR = ELO_K_FACTOR
+HOME_ADVANTAGE = ELO_HOME_ADVANTAGE
 
 # If True, scale Elo updates by goal margin
 USE_MARGIN_SCALING = True
 MARGIN_CAP = 3
 MARGIN_SCALE = 0.10  # +10% per goal up to cap
-
-TEAM_NAME_MAP = {
-    "HFX Wanderers": "Wanderers",
-    "Halifax Wanderers": "Wanderers",
-    "HFX Wanderers FC": "Wanderers",
-    "York United": "York",
-    "York United FC": "York",
-    "Atlético Ottawa": "Atlético",
-    "Atletico Ottawa": "Atlético",
-    "Pacific": "Pacific",
-    "Pacific FC": "Pacific",
-    "Valour": "Valour",
-    "Valour FC": "Valour",
-    "Forge": "Forge",
-    "Forge FC": "Forge",
-    "Cavalry": "Cavalry",
-    "Cavalry FC": "Cavalry",
-    "Edmonton": "Edmonton",
-    "FC Edmonton": "Edmonton",
-}
 
 def clean_team_name(name) -> str:
     name = str(name).strip()

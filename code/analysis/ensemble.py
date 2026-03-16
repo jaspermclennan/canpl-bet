@@ -2,17 +2,23 @@ import pandas as pd
 import numpy as np
 import sys
 import os
+from pathlib import Path
 from sklearn.metrics import log_loss
+
+# Setup path for imports from sibling modules
+CURRENT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(CURRENT_DIR))
 
 # 1. IMPORT YOUR "EXPERT" FUNCTIONS
 from pre_match_odds_poisson import calculate_poisson_probs
 from pre_match_odds_ml import calculate_ml_probs
 
 # 2. CONFIGURATION
-team_ids = {
-    1: 'Cavalry', 2: 'Forge', 3: 'Atlético Ottawa', 4: 'HFX Wanderers',
-    5: 'Inter Toronto', 6: 'Pacific', 7: 'Vancouver FC', 8: 'FC Supra du Québec'
-}
+# Import team IDs from centralized config
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT / "Code"))
+from config import TEAM_ID_MAP
+team_ids = TEAM_ID_MAP
 
 def find_optimal_weights(validation_year, matches_df, avg_goals):
     """

@@ -1,3 +1,11 @@
+import sys
+from pathlib import Path
+
+# Add Code directory to path for config import
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(REPO_ROOT / "Code"))
+from config import TEAM_NAME_MAP
+
 STADIUMS = {
     "Pacific":   {"name": "Starlight Stadium",        "lat": 48.4429, "lon": -123.5042, "tz": "Pacific"},
     "Vancouver": {"name": "Willoughby Park",          "lat": 49.1440, "lon": -122.6656, "tz": "Pacific"},
@@ -10,17 +18,5 @@ STADIUMS = {
     "Edmonton":  {"name": "Clarke Stadium",           "lat": 53.5574, "lon": -113.4764, "tz": "Mountain"},
 }
 
-TEAM_MAP = {
-    "Pacific FC": "Pacific",
-    "Vancouver FC": "Vancouver",
-    "Cavalry FC": "Cavalry",
-    "Valour FC": "Valour",
-    "Forge FC": "Forge",
-    "York United": "York",
-    "York United FC": "York",
-    "Atlético Ottawa": "Atlético",
-    "Atletico Ottawa": "Atlético",
-    "HFX Wanderers": "Wanderers",
-    "HFX Wanderers FC": "Wanderers",
-    "FC Edmonton": "Edmonton",
-}
+# Use the centralized team name map from config
+TEAM_MAP = TEAM_NAME_MAP

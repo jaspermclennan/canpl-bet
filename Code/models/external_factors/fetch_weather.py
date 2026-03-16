@@ -1,4 +1,11 @@
 from __future__ import annotations
+import sys
+from pathlib import Path
+
+# Setup path for imports
+CURRENT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(CURRENT_DIR))
+
 from cpl_stadiums import STADIUMS
 
 # (avg_temp_celsius, rain_probability)

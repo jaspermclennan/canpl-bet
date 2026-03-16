@@ -1,34 +1,18 @@
 import pandas as pd
 import numpy as np
 from pathlib import Path
-
+import sys
 
 # --- PATH SETUP ---
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
 
+# Add Code directory to path for config import
+sys.path.insert(0, str(REPO_ROOT / "Code"))
+from config import TEAM_NAME_MAP
+
 FEATURES_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_features.csv"
 BASELINE_FILE = REPO_ROOT / "data" / "matches" / "processed" / "all_matches_with_baseline.csv"
 OUT_FILE = REPO_ROOT / "data" / "matches" / "derived" / "match_model_with_form.csv"
-
-TEAM_NAME_MAP = {
-    "HFX Wanderers": "Wanderers",
-    "Halifax Wanderers": "Wanderers",
-    "HFX Wanderers FC": "Wanderers",
-    "York United": "York",
-    "York United FC": "York",
-    "Atlético Ottawa": "Atlético",
-    "Atletico Ottawa": "Atlético",
-    "Pacific": "Pacific",
-    "Pacific FC": "Pacific",
-    "Valour": "Valour",
-    "Valour FC": "Valour",
-    "Forge": "Forge",
-    "Forge FC": "Forge",
-    "Cavalry": "Cavalry",
-    "Cavalry FC": "Cavalry",
-    "Edmonton": "Edmonton",
-    "FC Edmonton": "Edmonton",
-}
 
 WINDOW = 5
 USE_EMA = False
